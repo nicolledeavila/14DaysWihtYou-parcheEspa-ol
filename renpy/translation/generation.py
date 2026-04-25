@@ -28,6 +28,12 @@ import os
 import time
 import collections
 import shutil
+import io
+
+import io
+
+import io
+
 
 import renpy
 from renpy.translation import quote_unicode

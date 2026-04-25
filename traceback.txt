@@ -1,0 +1,99 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/scripts/common/screens.rpy", line 423, in execute
+    screen main_menu():
+  File "game/scripts/common/screens.rpy", line 423, in execute
+    screen main_menu():
+  File "game/scripts/common/screens.rpy", line 426, in execute
+    if persistent.menumissing == True:
+  File "game/scripts/common/screens.rpy", line 443, in execute
+    fixed:
+  File "game/scripts/common/screens.rpy", line 450, in execute
+    imagebutton auto "gui/ui/more_%s.png" action [Play("sound", "audio/ui/blip.ogg"), SetVariable("renchatter", renpy.random.choice(renchatterlist)), ToggleVariable("welcome_chatter")] align (0.98,0.98) hovered Play("sound", "audio/ui/click2.ogg") at choice_fade, slideright
+  File "game/scripts/common/screens.rpy", line 450, in keywords
+    imagebutton auto "gui/ui/more_%s.png" action [Play("sound", "audio/ui/blip.ogg"), SetVariable("renchatter", renpy.random.choice(renchatterlist)), ToggleVariable("welcome_chatter")] align (0.98,0.98) hovered Play("sound", "audio/ui/click2.ogg") at choice_fade, slideright
+  File "game/scripts/common/screens.rpy", line 450, in <module>
+    imagebutton auto "gui/ui/more_%s.png" action [Play("sound", "audio/ui/blip.ogg"), SetVariable("renchatter", renpy.random.choice(renchatterlist)), ToggleVariable("welcome_chatter")] align (0.98,0.98) hovered Play("sound", "audio/ui/click2.ogg") at choice_fade, slideright
+TypeError: 'RevertableSet' object is not subscriptable
+
+-- Full Traceback ------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "renpy/common/_layout/screen_main_menu.rpym", line 28, in script
+    python hide:
+  File "renpy/ast.py", line 1187, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1273, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/common/_layout/screen_main_menu.rpym", line 28, in <module>
+    python hide:
+  File "renpy/common/_layout/screen_main_menu.rpym", line 35, in _execute_python_hide
+    ui.interact()
+    ~~~~~~~~~~~^^
+  File "renpy/ui.py", line 306, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/display/core.py", line 2154, in interact
+    repeat, rv = self.interact_core(
+                 ~~~~~~~~~~~~~~~~~~^
+        preloads=preloads,
+        ^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "renpy/display/core.py", line 2700, in interact_core
+    root_widget.visit_all(lambda d: d.per_interact())
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/display/displayable.py", line 457, in visit_all
+    d.visit_all(callback, seen)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "renpy/display/displayable.py", line 457, in visit_all
+    d.visit_all(callback, seen)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "renpy/display/displayable.py", line 457, in visit_all
+    d.visit_all(callback, seen)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "renpy/display/screen.py", line 503, in visit_all
+    callback(self)
+    ~~~~~~~~^^^^^^
+  File "renpy/display/core.py", line 2700, in <lambda>
+    root_widget.visit_all(lambda d: d.per_interact())
+                                    ~~~~~~~~~~~~~~^^ 
+  File "renpy/display/screen.py", line 514, in per_interact
+    self.update()
+    ~~~~~~~~~~~^^
+  File "renpy/display/screen.py", line 715, in update
+    self.screen.function(**self.scope)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "game/scripts/common/screens.rpy", line 423, in execute
+    screen main_menu():
+  File "game/scripts/common/screens.rpy", line 423, in execute
+    screen main_menu():
+  File "game/scripts/common/screens.rpy", line 426, in execute
+    if persistent.menumissing == True:
+  File "game/scripts/common/screens.rpy", line 443, in execute
+    fixed:
+  File "game/scripts/common/screens.rpy", line 450, in execute
+    imagebutton auto "gui/ui/more_%s.png" action [Play("sound", "audio/ui/blip.ogg"), SetVariable("renchatter", renpy.random.choice(renchatterlist)), ToggleVariable("welcome_chatter")] align (0.98,0.98) hovered Play("sound", "audio/ui/click2.ogg") at choice_fade, slideright
+  File "game/scripts/common/screens.rpy", line 450, in keywords
+    imagebutton auto "gui/ui/more_%s.png" action [Play("sound", "audio/ui/blip.ogg"), SetVariable("renchatter", renpy.random.choice(renchatterlist)), ToggleVariable("welcome_chatter")] align (0.98,0.98) hovered Play("sound", "audio/ui/click2.ogg") at choice_fade, slideright
+  File "renpy/python.py", line 1305, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1298, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/scripts/common/screens.rpy", line 450, in <module>
+    imagebutton auto "gui/ui/more_%s.png" action [Play("sound", "audio/ui/blip.ogg"), SetVariable("renchatter", renpy.random.choice(renchatterlist)), ToggleVariable("welcome_chatter")] align (0.98,0.98) hovered Play("sound", "audio/ui/click2.ogg") at choice_fade, slideright
+  File "lib/python3.12/random.py", line 348, in choice
+TypeError: 'RevertableSet' object is not subscriptable
+
+Windows-11-10.0.22631-SP0 AMD64
+Ren'Py 8.5.2.26010301
+14 Days With You 5.5
+Sat Apr 25 01:56:00 2026

@@ -1,0 +1,60 @@
+2026-04-25 07:12:06 UTC
+Windows-11-10.0.22631-SP0
+Ren'Py 8.5.2.26010301
+
+14 Days With You
+5.5
+Built at 2026-04-05 02:03:39 UTC
+
+Early init took 63 ms
+Loading error handling took 30 ms
+Loading script took 1114 ms
+Loading save slot metadata took 31 ms
+Loading persistent took 0 ms
+Set script version to: (8, 5, 2)
+Running init code took 109 ms
+Loading analysis data took 16 ms
+Analyze and compile ATL took 31 ms
+Reloading save slot metadata took 16 ms
+Dump and make backups took 0 ms
+Cleaning cache took 0 ms
+Making clean stores took 0 ms
+Initial gc took 65 ms
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0 ms
+Init translation took 0 ms
+Cleaning stores took 0 ms
+Load screen analysis took 0 ms
+Analyze screens took 14 ms
+Save screen analysis took 16 ms
+Save pyanalysis took 0 ms
+Save bytecode took 47 ms
+Running _start took 0 ms
+Interface start took 1105 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'ATI Technologies Inc.'
+Renderer: 'AMD Radeon(TM) Graphics'
+Version: '4.6.14756 Compatibility Profile Context 20.40.16 27.20.14016.13'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1920, 'current_h': 1080, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(958, 539) drawable=(958, 539)
+Maximum texture size: 4096x4096
+Cleaning stores took 0 ms
+Load screen analysis took 38 ms
+Analyze screens took 0 ms
+Running _start took 1 ms
+1777101141.5264375
+Screen sizes: virtual=(1920, 1080) physical=(958, 747) drawable=(958, 747)
+Maximum texture size: 4096x4096
+Resize event: <Event(65533-VIDEORESIZE h=747, mod=0, size=(958, 747), w=958)>
+Screen sizes: virtual=(1920, 1080) physical=(1194, 747) drawable=(1194, 747)
+Maximum texture size: 4096x4096
+Resize event: <Event(65533-VIDEORESIZE h=747, mod=0, size=(1194, 747), w=1194)>
+Screen sizes: virtual=(1920, 1080) physical=(1245, 747) drawable=(1245, 747)
+Maximum texture size: 4096x4096
+Resize event: <Event(65533-VIDEORESIZE h=747, mod=0, size=(1245, 747), w=1245)>
