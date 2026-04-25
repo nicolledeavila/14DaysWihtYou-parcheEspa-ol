@@ -1122,7 +1122,7 @@ screen preferences():
                 vbox:
                     text "AUTOPLAY SPEED":
                         font "fonts/Orbitron-Black.ttf"
-                        size 25
+                        size 15
                         color "f8f8f8"
                         text_align 1.0
                     bar value Preference("auto-forward time")

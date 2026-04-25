@@ -146,3 +146,343 @@ translate Paloslios strings:
 
     old "PASSWORD"
     new "CONTRASEÑA"
+
+    old "INSTALLED DLCS"
+    new "DLCS INSTALADOS"
+
+    old "Adds additional 18+/NSFW content to the game. Please view the Itch page for more information. {a=https://cutiesai.itch.io/14nightswithyou}Click here to download{/a}."
+    new "Agrega contenido adicional 18+/NSFW al juego. Por favor, consulte la página de Itch para más información. {a=https://cutiesai.itch.io/14nightswithyou}Haga clic aquí para descargar{/a}."
+
+    old "Make sure to only install {u}one{/u} pack! The FREE and PAID versions cannot be installed at the same time."
+    new "¡Asegúrate de instalar solo {u}un{/u} paquete! Las versiones GRATUITA y DE PAGO no se pueden instalar al mismo tiempo."
+
+
+    #Día 01:
+
+    
+    old "- {s}Obtain a Dead End{s}"
+    new "- Obtener un Final Mortal"
+
+    old "- Obtain a Dead End"
+    new "- Obtener un Final Mortal"
+
+    old "- {s}Invite a stranger to your place{/s}"
+    new "- Invitar a un extraño a tu lugar"
+
+    old "- Invite a stranger to your place"
+    new "- Invitar a un extraño a tu lugar"
+
+    old "- {s}Make Ren sleep on your couch{/s}"
+    new "- Hacer que Ren duerma en tu sofá"
+
+    old "- Make Ren sleep on your couch"
+    new "- Hacer que Ren duerma en tu sofá"
+
+    old "- {s}Block Ren's number{/s}"
+    new "- Bloquear el número de Ren"
+
+    old "- Block Ren's number"
+    new "- Bloquear el número de Ren"
+
+    #Día 02:
+
+    old "- {s}Visit Ren's apartment{/s}"
+    new "- Visitar el apartamento de Ren"
+
+    old "- Visit Ren's apartment"
+    new "- Visitar el apartamento de Ren"
+
+    old "- {s}Go back to your apartment with your date{/s}"
+    new "- Regresar a tu apartamento con tu cita"
+
+    old "- Go back to your apartment with your date"
+    new "- Regresar a tu apartamento con tu cita"
+
+    old "- {s}Learn about someone's death{/s}"
+    new "- Enterarte de la muerte de alguien"
+
+    old "- Learn about someone's death"
+    new "- Enterarte de la muerte de alguien"
+
+    #Día 03:
+ 
+    old "- {s}Decline someone's proposition{/s}"
+    new "- Rechazar la proposición de alguien"
+
+    old "- Decline someone's proposition"
+    new "- Rechazar la proposición de alguien"
+
+    old "- {s}Talk to your online bestie{/s}"
+    new "- Hablar con tu mejor amigo en línea"
+
+    old "- Talk to your online bestie"
+    new "- Hablar con tu mejor amigo en línea"
+
+    old "- {s}Invite someone to your apartment{/s}"
+    new "- Invitar a alguien a tu apartamento"
+
+    old "- Invite someone to your apartment"
+    new "- Invitar a alguien a tu apartamento"
+
+    old "- {s}Try and scare Ren{/s}"
+    new "- Intentar asustar a Ren"
+
+    old "- Try and scare Ren"
+    new "- Intentar asustar a Ren"
+
+    #Día 04:
+    old "- {s}Go home before the storm hits{/s}"
+    new "- Ir a casa antes de que llegue la tormenta"
+
+    old "- Go home before the storm hits"
+    new "- Ir a casa antes de que llegue la tormenta"
+
+    old "- {s}Snoop around Ren's apartment{/s}"
+    new "- Husmear en el apartamento de Ren"
+
+    old "- Snoop around Ren's apartment"
+    new "- Husmear en el apartamento de Ren"
+
+    old "- {s}Get some ice-cream with your childhood friend{/s}"
+    new "- Tomar un helado con tu amigo de la infancia"
+
+    old "- Get some ice-cream with your childhood friend"
+    new "- Tomar un helado con tu amigo de la infancia"
+
+    #Día 05:
+
+    old "- Make it to the next Day"
+    new "- Llegar al siguiente día"
+
+    old "- {s}Ask your neighbour for some help{/s}"
+    new "- Pedir ayuda a tu vecino"
+
+    old "- Ask your neighbour for some help"
+    new "- Pedir ayuda a tu vecino"
+
+    old "- {s}Ask Ren to leave you alone{/s}"
+    new "- Pedirle a Ren que te deje solo"
+
+    old "- Ask Ren to leave you alone"
+    new "- Pedirle a Ren que te deje solo"
+
+    old "- {s}Kick someone in the leg{/s}"
+    new "- Patear a alguien en la pierna"
+
+    old "- Kick someone in the leg"
+    new "- Patear a alguien en la pierna"
+
+
+    old "still a wip hehe"
+    new "todavía es un trabajo en progreso hehe"
+
+    old "SCREEN DISPLAY"
+    new "PANTALLA DE VISUALIZACIÓN"
+
+    old "MUSIC VOLUME"
+    new "VOLUMEN DE MÚSICA"
+
+    old "SOUND VOLUME"
+    new "VOLUMEN DE SONIDO"
+
+    old "AMBIENCE VOLUME"
+    new "VOLUMEN DE AMBIENTE"
+
+    old "DIALOGUE SPEED"
+    new "VELOCIDAD DE DIÁLOGO"
+
+    old "AUTOPLAY SPEED"
+    new "VELOCIDAD DE REPRODUCCIÓN AUTOMÁTICA"
+
+    old "HELLO THERE!"
+    new "¡HOLA!"
+
+    old "- change my icon somehow\n- Passw0rd_777 {size=-10}(with a zero!!!){/size}\n- 01101100 01101111 01101100\n- underneath the stickynote"
+    new "- cambia mi ícono de alguna manera\n- Passw0rd_777 {size=-10}(¡con un cero!!!){/size}\n- 01101100 01101111 01101100\n- debajo del stickynote"
+
+    old "{color=#ff66cb}{size=+5}@[username_ren]{/size}{/color}\n{glitch=3}{font=fonts/VT323-Regular.ttf}{size=20}{color=#f8f8f8}FUTURE, HUSBAND{/glitch} | HE/THEY"
+    new "{color=#ff66cb}{size=+5}@[username_ren]{/size}{/color}\n{glitch=3}{font=fonts/VT323-Regular.ttf}{size=20}{color=#f8f8f8}FUTURO, ESPOSO{/glitch} | ÉL/ELLXS"
+
+    old "{color=#ff66cb}{size=+5}@[username_moth]{/size}{/color}\nMOTH, ATLAS | THEY/ANY"
+    new "{color=#ff66cb}{size=+5}@[username_moth]{/size}{/color}\nPOLILLA, ATLAS | ELLXS/CUALQUIERA"
+
+    old "{color=#ff66cb}{size=+5}@[username_violet]{/size}{/color}\nVIOLET, GARCIA | SHE/HER"
+    new "{color=#ff66cb}{size=+5}@[username_violet]{/size}{/color}\nVIOLETA, GARCÍA | ELLA/SU"
+
+    old "{color=#ff66cb}{size=+5}@[username_elanor]{/size}{/color}\nELANOR, CRESTON | SHE/THEY"
+    new "{color=#ff66cb}{size=+5}@[username_elanor]{/size}{/color}\nELANOR, CRESTON | ELLA/ELLXS"
+
+    old "{color=#ff66cb}{size=+5}@[username_conan]{/size}{/color}\nCONAN, O'ROURKE | HE/THEY"
+    new "{color=#ff66cb}{size=+5}@[username_conan]{/size}{/color}\nCONAN, O'ROURKE | ÉL/ELLXS"
+
+    old "{color=#ff66cb}{size=+5}@[username_jae]{/size}{/color}\nJAE-HYUN, KIM | HE/HIM"
+    new "{color=#ff66cb}{size=+5}@[username_jae]{/size}{/color}\nJAE-HYUN, KIM | ÉL/LO"
+
+    old "{color=#ff66cb}{size=+5}@[username_leon]{/size}{/color}\nLEON, DAVIS | HE/HIM"
+    new "{color=#ff66cb}{size=+5}@[username_leon]{/size}{/color}\nLEÓN, DAVIS | ÉL/LO"
+
+    old "{color=#ff66cb}{size=+5}@[username_teo]{/size}{/color}\nTEODORE, ALVARADO | HE/HIM"
+    new "{color=#ff66cb}{size=+5}@[username_teo]{/size}{/color}\nTEODORE, ALVARADO | ÉL/LO"
+
+    old "{color=#ff66cb}{size=+5}@[username_olivia]{/size}{/color}\nOLIVIA, DAWHAN | SHE/HER"
+    new "{color=#ff66cb}{size=+5}@[username_olivia]{/size}{/color}\nOLIVIA, DAWHAN | ELLA/SU"
+
+    old "{color=#ff66cb}{size=+5}@[username_kiara]{/size}{/color}\nKIARA, CRESTON | SHE/ANY"
+    new "{color=#ff66cb}{size=+5}@[username_kiara]{/size}{/color}\nKIARA, CRESTON | ELLA/CUALQUIERA"
+
+    old "You're in Haruko's DMs? I'm in sane\nWe are not the same <3 ([they]/[them])"
+    new "¿Estás en los DMs de Haruko? Estoy en sano\nNo somos lo mismo <3 ([they]/[them])"
+
+    old "they"
+    new "ellxs"
+
+    old "them"
+    new "ellxs"
+
+    old "he"
+    new "él"
+
+    old "she"
+    new "ella"
+
+    old "him"
+    new "lo"
+
+    old "her"
+    new "su"
+
+    old "You don't own any DLCs! Visit\n{a=https://cutiesai.itch.io/}{b}cutiesai.itch.io{/b}{/a} to enable this feature"
+    new "¡No tienes ningún DLC! Visita\n{a=https://cutiesai.itch.io/}{b}cutiesai.itch.io{/b}{/a} para habilitar esta función"
+
+    old "Please update the base game and its DLC\nto unlock this section."
+    new "Por favor, actualiza el juego base y su DLC\npara desbloquear esta sección."
+
+    old "Customise the main character?"
+    new "¿Personalizar al personaje principal?"
+
+    old "{font=Orbitron-Black.ttf}{size=+10}Bust Type{/size}{/font}\nHow would you describe your bust?" 
+    new "{font=Orbitron-Black.ttf}{size=+10}Tipo de Busto{/size}{/font}\n¿Cómo describirías tu busto?" 
+
+    old "\n{font=Orbitron-Black.ttf}{size=+10}BODY PREFERENCE{/size}{/font}\nHow would you describe your body?" 
+    new "\n{font=Orbitron-Black.ttf}{size=+10}PREFERENCIA DE CUERPO{/size}{/font}\n¿Cómo describirías tu cuerpo?" 
+
+    old "\n{font=Orbitron-Black.ttf}{size=+10}TOP SURGERY SCARS{/size}{/font}\nThis does nothing (for now)" 
+    new "\n{font=Orbitron-Black.ttf}{size=+10}CICATRICES DE CIRUGÍA DE PECHO{/size}{/font}\nEsto no hace nada (por ahora)" 
+
+    old "\n{font=Orbitron-Black.ttf}{size=+10}Genitalia Type{/size}{/font}\nHow would you describe your genitalia?" 
+    new "\n{font=Orbitron-Black.ttf}{size=+10}Tipo de Genitales{/size}{/font}\n¿Cómo describirías tus genitales?" 
+
+    old "DLC Symbols" 
+    new "Símbolos de DLC"
+
+    old "14NWY symbol"
+    new "Símbolo de 14NWY"
+
+    old "Pink means it's a unique choice from the \"14 Nights With You\" DLC" 
+    new "El rosa significa que es una opción única del DLC \"14 Nights With You\"" 
+
+    old "14NWY symbol alt"
+    new "Símbolo alternativo de 14NWY"
+
+    old "Red means the choice will involve explicit language and/or content" 
+    new "El rojo significa que la elección involucrará lenguaje y/o contenido explícito" 
+
+    old "What position suits you best?"
+    new "¿Qué posición te conviene más?"
+
+    old "Miscellaneous Features"
+    new "Características Misceláneas"
+
+    old "This option is still a massive WIP lol"
+    new "Esta opción todavía es un gran trabajo en progreso lol"
+
+    old "{i}14 Days With You{/i} is intended for adults (18 and over)."
+    new "{i}14 Days With You{/i} está destinado para adultos (18 años o más)."
+
+    old "what else?"
+    new "¿qué más?"
+
+    old "Are you a content creator or live streamer?"
+    new "¿Eres un creador de contenido o transmisor en vivo?"
+
+
+    old "{color=#FF66CB}{size=+5}NAME:{/size}{/color} REN ({font=FlowBlock-Regular.ttf}LMAO YOU_THOUGHT{/font})"
+    new "{color=#FF66CB}{size=+5}NOMBRE:{/size}{/color} REN ({font=FlowBlock-Regular.ttf}LMAO TE_LO_CREÍSTE{/font})"
+
+    old "{color=#FF66CB}{size=+5}NAME:{/size}{/color}{font=FlowBlock-Regular.ttf} REN (LMAO YOU_THOUGHT){/font}"
+    new "{color=#FF66CB}{size=+5}NOMBRE:{/size}{/color}{font=FlowBlock-Regular.ttf} REN (LMAO TE_LO_CREÍSTE){/font}"
+
+    old "{color=#FF66CB}{size=+5}DOB:{/size}{/color} ???"
+    new "{color=#FF66CB}{size=+5}FECHA DE NAC.:{/size}{/color} ???"
+
+    old "{color=#FF66CB}{size=+5}DOB:{/size}{/color}{font=FlowBlock-Regular.ttf} 00/00/XXXX{/font}"
+    new "{color=#FF66CB}{size=+5}FECHA DE NAC.:{/size}{/color}{font=FlowBlock-Regular.ttf} 00/00/XXXX{/font}"
+
+    old "{color=#FF66CB}{size=+5}OCCUPATION:{/size}{/color} FREELANCE PROGRAMMER"
+    new "{color=#FF66CB}{size=+5}OCUPACIÓN:{/size}{/color} PROGRAMADOR FREELANCE"
+
+    old "{color=#FF66CB}{size=+5}OCCUPATION:{/size}{/color}{font=FlowBlock-Regular.ttf} FREELANCE PROGRAMMER{/font}"
+    new "{color=#FF66CB}{size=+5}OCUPACIÓN:{/size}{/color}{font=FlowBlock-Regular.ttf} PROGRAMADOR FREELANCE{/font}"
+
+    old "{color=#FF66CB}{size=+5}\nKNOWN FACTS:{/size}{/color}"
+    new "{color=#FF66CB}{size=+5}\nHECHOS CONOCIDOS:{/size}{/color}"
+
+    old "- TIMID AND AWKWARD, LIKE HARUKO FROM \"ATTACK ON GIANTS\""
+    new "- TÍMIDO Y TORPE, COMO HARUKO DE \"ATAQUE DE GIGANTES\""
+
+    old "- {font=FlowBlock-Regular.ttf}TIMID AND AWKWARD, LIKE HARUKO FROM \"ATTACK ON GIANTS\"{/font}"
+    new "- {font=FlowBlock-Regular.ttf}TÍMIDO Y TORPE, COMO HARUKO DE \"ATAQUE DE GIGANTES\"{/font}"
+
+    old "- SCRATCHES AT JAW WHEN UNSURE OR UNCOMFORTABLE"
+    new "- SE RASCA LA MANDÍBULA CUANDO ESTÁ INSEGURO O INCÓMODO"
+
+    old "- {font=FlowBlock-Regular.ttf}SCRATCHES AT JAW WHEN UNSURE OR UNCOMFORTABLE{/font}"
+    new "- {font=FlowBlock-Regular.ttf}SE RASCA LA MANDÍBULA CUANDO ESTÁ INSEGURO O INCÓMODO{/font}"
+
+    old "- PICKS AT SLEEVES WHEN ANXIOUS"
+    new "- JUEGA CON LAS MANGAS CUANDO ESTÁ ANSIOSO"
+
+    old "- {font=FlowBlock-Regular.ttf}PICKS AT SLEEVES WHEN ANXIOUS{/font}"
+    new "- {font=FlowBlock-Regular.ttf}JUEGA CON LAS MANGAS CUANDO ESTÁ ANSIOSO{/font}"
+
+    old "- FAVOURITE FOOD IS STRAWBERRY SWEETROLL"
+    new "- SU COMIDA FAVORITA ES EL PAN DULCE DE FRESA"
+
+    old "- {font=FlowBlock-Regular.ttf}FAVOURITE FOOD IS STRAWBERRY SWEETROLL{/font}"
+    new "- {font=FlowBlock-Regular.ttf}SU COMIDA FAVORITA ES EL PAN DULCE DE FRESA{/font}"
+
+    old "- FAVOURITE DRINK IS BLACK COFFEE"
+    new "- SU BEBIDA FAVORITA ES EL CAFÉ NEGRO"
+
+    old "- {font=FlowBlock-Regular.ttf}FAVOURITE DRINK IS BLACK COFFEE{/font}"
+    new "- {font=FlowBlock-Regular.ttf}SU BEBIDA FAVORITA ES EL CAFÉ NEGRO{/font}"
+
+    old "- USES CONCEALER AND HAIR DYE"
+    new "- USA CORRECTOR Y TINTE PARA EL CABELLO"
+
+    old "- {font=FlowBlock-Regular.ttf}USES CONCEALER AND HAIR DYE{/font}"
+    new "- {font=FlowBlock-Regular.ttf}USA CORRECTOR Y TINTE PARA EL CABELLO{/font}"
+
+    old "- LIVES IN THE BETTER PARTS OF CORLAND BAY"
+    new "- VIVE EN LAS MEJORES ZONAS DE CORLAND BAY"
+
+    old "- HAS A RESIDENCY AT SUNSHINE HILLS APARTMENTS"
+    new "- TIENE RESIDENCIA EN LOS APARTAMENTOS SUNSHINE HILLS"
+
+    old "- {font=FlowBlock-Regular.ttf}LIVES IN THE BETTER PARTS OF CORLAND BAY{/font}"
+    new "- {font=FlowBlock-Regular.ttf}VIVE EN LAS MEJORES ZONAS DE CORLAND BAY{/font}"
+
+    old "- {font=FlowBlock-Regular.ttf}HAS A RESIDENCY AT SUNSHINE HILLS APARTMENTS{/font}"
+    new "- {font=FlowBlock-Regular.ttf}TIENE RESIDENCIA EN LOS APARTAMENTOS SUNSHINE HILLS{/font}"
+
+    old "- HAS AN INTEREST IN \"ALWAYS WITH YOU\""
+    new "- TIENE INTERÉS EN \"SIEMPRE CONTIGO\""
+
+    old "- {font=FlowBlock-Regular.ttf}HAS AN INTEREST IN \"ALWAYS WITH YOU\"{/font}"
+    new "- {font=FlowBlock-Regular.ttf}TIENE INTERÉS EN \"SIEMPRE CONTIGO\"{/font}"
+
+    old "{size=+10}LOG OUT{/size}"
+    new "{size=+10}CERRAR SESIÓN{/size}"
+
+    old "Do you want to enable the 18+ DLC?"
+    new "¿Quieres habilitar el DLC de 18+?"

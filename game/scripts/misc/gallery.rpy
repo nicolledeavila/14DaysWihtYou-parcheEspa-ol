@@ -84,7 +84,7 @@ screen album():
             align (0.5,0.5)
             text "REN'S HAIR IS...":
                 font "fonts/Orbitron-Black.ttf"
-                size 36
+                size 20
                 color "#141414"
         hbox:
             align (0.5,0.5)

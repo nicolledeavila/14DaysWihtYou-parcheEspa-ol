@@ -396,7 +396,7 @@ style cutietext:
     idle_color "#898989"
     insensitive_color "#c5c5c5"
     bold True
-    size 30
+    size 25
     font "fonts/Assistant-Regular.ttf"
 
 style buttontext:
@@ -537,7 +537,7 @@ screen charamenu():
         spacing -5
         xminimum 408
         vbox:
-            align (0.5,0.5)
+            align (0.10,0.5)
             text "Customise the main character?":
                 size 22
                 font "fonts/Assistant-Regular.ttf"
@@ -611,7 +611,7 @@ screen charamenu():
             text "You're in Haruko's DMs? I'm in sane\nWe are not the same <3 ([they]/[them])":
                 font "fonts/Assistant-Regular.ttf"
                 color "#898989"
-                size 25
+                size 23
         else:
             frame:
                 background None
