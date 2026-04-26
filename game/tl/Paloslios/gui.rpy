@@ -331,25 +331,7 @@ translate Paloslios strings:
     new "{color=#ff66cb}{size=+5}@[username_kiara]{/size}{/color}\nKIARA, CRESTON | ELLA/CUALQUIERA"
 
     old "You're in Haruko's DMs? I'm in sane\nWe are not the same <3 ([they]/[them])"
-    new "¿Estás en los DMs de Haruko? Estoy en sano\nNo somos lo mismo <3 ([they]/[them])"
-
-    old "they"
-    new "ellxs"
-
-    old "them"
-    new "ellxs"
-
-    old "he"
-    new "él"
-
-    old "she"
-    new "ella"
-
-    old "him"
-    new "lo"
-
-    old "her"
-    new "su"
+    new "¿Estás en los DMs de Haruko? Estoy en sano\nNo somos lo mismo <3 ([they!t]/[them!t])"
 
     old "You don't own any DLCs! Visit\n{a=https://cutiesai.itch.io/}{b}cutiesai.itch.io{/b}{/a} to enable this feature"
     new "¡No tienes ningún DLC! Visita\n{a=https://cutiesai.itch.io/}{b}cutiesai.itch.io{/b}{/a} para habilitar esta función"
@@ -394,7 +376,7 @@ translate Paloslios strings:
     new "Características Misceláneas"
 
     old "This option is still a massive WIP lol"
-    new "Esta opción todavía es un gran trabajo en progreso lol"
+    new "todavía esta en progreso lol"
 
     old "{i}14 Days With You{/i} is intended for adults (18 and over)."
     new "{i}14 Days With You{/i} está destinado para adultos (18 años o más)."
@@ -486,3 +468,311 @@ translate Paloslios strings:
 
     old "Do you want to enable the 18+ DLC?"
     new "¿Quieres habilitar el DLC de 18+?"
+
+    old "What would you like to be called?"
+    new "¿Cómo te gustaría que te llamaran?"
+
+    old "What pronouns do you use?"
+    new "¿Qué pronombres usas?"
+
+    old "CUSTOM HAIR LENGTH"
+    new "LONGITUD DE CABELLO PERSONALIZADA"
+
+    old "{color=#ff66cb}FULL NAME:{/color} [player] [surname]"
+    new "{color=#ff66cb}NOMBRE COMPLETO:{/color} [player] [surname]"
+
+    old "{color=#ff66cb}PRONOUNS:{/color} [they]/[them]"
+    new "{color=#ff66cb}PRONOMBRES:{/color} [they!t]/[them!t]"
+
+    old "{color=#ff66cb}AGE:{/color} adult\n"
+    new "{color=#ff66cb}EDAD:{/color} adulto\n"
+
+
+    old "{color=#ff66cb}HAIR COLOUR:{/color} hidden"
+    new "{color=#ff66cb}COLOR DE CABELLO:{/color} oculto"
+
+    old "{color=#ff66cb}HAIRSTYLE:{/color} [hair_texture], [hair_length]"
+    new "{color=#ff66cb}PEINADO:{/color} [hair_texture!t], [hair_length!t]"
+
+    old "{color=#ff66cb}HAIR COLOUR:{/color} [hair_colour]"
+    new "{color=#ff66cb}COLOR DE CABELLO:{/color} [hair_colour!t]"
+
+    old "{color=#ff66cb}HAIRSTYLE:{/color} formerly [hair_texture], now [hair_length]"
+    new "{color=#ff66cb}PEINADO:{/color} anteriormente [hair_texture!t], ahora [hair_length!t]"
+
+    old "{color=#ff66cb}HAIR COLOUR:{/color} formerly [hair_colour]"
+    new "{color=#ff66cb}COLOR DE CABELLO:{/color} anteriormente [hair_colour!t]"
+
+    old "{color=#ff66cb}EYE COLOUR:{/color} [eye_colour]\n"
+    new "{color=#ff66cb}COLOR DE OJOS:{/color} [eye_colour]\n"
+
+    old "{color=#ff66cb}OCCUPATION:{/color} librarian\n"
+    new "{color=#ff66cb}OCUPACIÓN:{/color} bibliotecario/a\n"
+
+    old "{color=#ff66cb}HOME ADDRESS:{/color} {font=fonts/FlowBlock-Regular.ttf}lol like I'd spoil this information so early on{/font}, Corland Bay\n"
+    new "{color=#ff66cb}DIRECCIÓN:{/color} {font=fonts/FlowBlock-Regular.ttf}lol como si fuera a spoilear esta información tan pronto{/font}, Corland Bay\n"
+
+    old "{color=#ff66cb}KNOWN AFFILIATES:{/color} Leon Davis (friend), \"Moth\" (friend), {font=fonts/FlowBlock-Regular.ttf}Ren (future boyfriend){/font}, Violet Garcia (neighbour), Elanor Creston (coworker), Conan O'Rourke (employer), {font=fonts/FlowBlock-Regular.ttf}spoilers, spoiler spoil hehe{/font}\n"
+    new "{color=#ff66cb}AFILIADOS CONOCIDOS:{/color} Leon Davis (amigo), \"Moth\" (amigo), {font=fonts/FlowBlock-Regular.ttf}Ren (futuro novio){/font}, Violet Garcia (vecina), Elanor Creston (compañera de trabajo), Conan O'Rourke (empleador), {font=fonts/FlowBlock-Regular.ttf}spoilers, spoiler spoiler jeje{/font}\n"
+
+    old "{color=#ff66cb}KNOWN FAMILY:{/color} unknown"
+    new "{color=#ff66cb}FAMILIA CONOCIDA:{/color} desconocida"
+
+    old "bald"
+    new "calvo"
+
+    old "mid-length"
+    new "longitud media"
+
+    old "long"
+    new "largo"
+
+    old "straight"
+    new "lacio"
+
+    old "wavy"
+    new "ondulado"
+
+    old "curly"
+    new "rizado"
+
+    old "coily"
+    new "afro"
+
+    old "braided"
+    new "trenzado"
+
+    old "locs"
+    new "rastas"
+
+    old "hazel"
+    new "avellana"
+
+    old "brown"
+    new "marrón"
+
+    old "black"
+    new "negro"
+
+    old "red"
+    new "rojo"
+
+    old "yellow"
+    new "amarillo"
+
+    old "pink"
+    new "rosa"
+
+    old "purple"
+    new "morado"
+
+    old "blue"
+    new "azul"
+
+    old "white"
+    new "blanco"
+
+    old "grey"
+    new "gris"
+
+    old "green"
+    new "verde"
+
+    old "brunette"
+    new "castaño"
+
+    old "blonde"
+    new "rubio"
+
+    old "question"
+    new "pregunta"
+
+    old "answer"
+    new "respuesta"
+
+    old "casual"
+    new "casual"
+
+    old "cute"
+    new "lindo"
+
+    old "comfy"
+    new "cómodo"
+
+    old "edgy"
+    new "atrevido"
+
+    old "professional"
+    new "profesional"
+
+    old "trendy"
+    new "moderno"
+
+    old "scone"
+    new "sconea"
+
+    old "croissant"
+    new "croissant"
+
+    old "cake"
+    new "pastel"
+
+    old "cookie"
+    new "galleta"
+
+    old "coffee"
+    new "café"
+
+    old "latte"
+    new "latte"
+
+    old "soda"
+    new "gaseosa"
+
+    old "smoothie"
+    new "batido"
+
+    old "vanilla"
+    new "vainilla"
+
+    old "hidden"
+    new "oculto"
+
+    old "short"
+    new "corto"
+
+    old "Ren"
+    new "Ren"
+
+    old "they"
+    new "elle"
+
+    old "she"
+    new "ella"
+
+    old "he"
+    new "él"
+
+    old "them"
+    new "lo/le"
+
+    old "him"
+    new "lo"
+
+    old "their"
+    new "su"
+
+    old "her"
+    new "su"
+
+    old "his"
+    new "su"
+
+    old "theirs"
+    new "suyo"
+
+    old "hers"
+    new "suyo"
+
+    old "themself"
+    new "sí mismo"
+
+    old "herself"
+    new "sí misma"
+
+    old "himself"
+    new "sí mismo"
+
+    old "baby"
+    new "bebé"
+
+    old "boy"
+    new "chico"
+
+    old "girl"
+    new "chica"
+
+    old "person"
+    new "persona"
+
+    old "man"
+    new "hombre"
+
+    old "woman"
+    new "mujer"
+
+    old "partner"
+    new "pareja"
+
+    old "girlfriend"
+    new "novia"
+
+    old "boyfriend"
+    new "novio"
+
+    old "spouse"
+    new "cónyuge"
+
+    old "wife"
+    new "esposa"
+
+    old "husband"
+    new "esposo"
+
+    old "gorgeous"
+    new "hermoso"
+
+    old "pretty"
+    new "bonito"
+
+    old "handsome"
+    new "guapo"
+
+    old "library"
+    new "biblioteca"
+
+    old "pier"
+    new "muelle"
+
+    old "bluemoss"
+    new "bluemoss"
+
+    old "home"
+    new "casa"
+
+    old "oh"
+    new "oh"
+
+    old "random"
+    new "aleatorio"
+
+    old "aquarium"
+    new "acuario"
+
+    old "work"
+    new "trabajo"
+
+    old "apartment"
+    new "apartamento"
+
+    old "street"
+    new "calle"
+
+    old "city"
+    new "ciudad"
+
+    old "graveyard"
+    new "cementerio"
+
+    old "unobtained"
+    new "no obtenido"
+
+    old "open the profile app to get started!"
+    new "¡Abre la aplicación de perfil para comenzar!"
+
+    old "Change your username?"
+    new "¿Cambiar tu nombre de usuario?"
+
+    old "Want to update your status?"
+    new "¿Quieres actualizar tu estado?"
+

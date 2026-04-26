@@ -9554,13 +9554,13 @@ translate Paloslios eastereggalternative_11ac5587:
 translate Paloslios day1_4d8c3539:
 
     # n "\"And in other news; the remains of {b}yet another{/b} body has been found inside one of the tunnels in Mount Corland, making it a total of {b}four{/b} unidentifiable victims this past year. Authorities believe that—\""
-    n "\"And in other news; the remains of {b}yet another{/b} body has been found inside one of the tunnels in Mount Corland, making it a total of {b}four{/b} unidentifiable victims this past year. Authorities believe that—\""
+    n "\"Y en otras noticias; los restos de {b}otro{/b} cuerpo más han sido encontrados dentro de uno de los túneles del Monte Corland, haciendo un total de {b}cuatro{/b} víctimas no identificadas en el último año. Las autoridades creen que—\""
 
 # game/scripts/days/day 1.rpy:48
 translate Paloslios day1_519e7e4a:
 
     # n "\"And in other news; the remains of {b}yet another{/b} body has been pulled out from Lake Bluemoss, making it a total of {b}four{/b} unidentifiable victims this past year. Authorities believe that—\""
-    n "\"And in other news; the remains of {b}yet another{/b} body has been pulled out from Lake Bluemoss, making it a total of {b}four{/b} unidentifiable victims this past year. Authorities believe that—\""
+    n "\"Y en otras noticias; los restos de {b}otro{/b} cuerpo más han sido sacados del Lago Bluemoss, haciendo un total de {b}cuatro{/b} víctimas no identificadas en el último año. Las autoridades creen que—\""
 
 # game/scripts/days/day 1.rpy:50
 translate Paloslios day1_223e3f5c:
