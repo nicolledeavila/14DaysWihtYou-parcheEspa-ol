@@ -1266,21 +1266,22 @@ translate Paloslios strings:
 
 translate Paloslios strings:
 
+    
     # game/14 Nights With You/14nightswithyou.rpy:249
     old "\"This is my first time as well.\""
-    new "\"This is my first time as well.\""
+    new "\"Esta es también mi primera vez.\""
 
     # game/14 Nights With You/14nightswithyou.rpy:256
     old "\"I've already done this before.\""
-    new "\"I've already done this before.\""
+    new "\"Ya he hecho esto antes.\""
 
     # game/14 Nights With You/14nightswithyou.rpy:262
     old "\"I'm happy I get to be your first.\""
-    new "\"I'm happy I get to be your first.\""
+    new "\"Estoy feliz de poder ser tu primero.\""
 
     # game/14 Nights With You/14nightswithyou.rpy:269
     old "\"Does it matter? I just want to feel you.\""
-    new "\"Does it matter? I just want to feel you.\""
+    new "\"¿Acaso importa? Solo quiero sentirte.\""
 
     # game/14 Nights With You/14nightswithyou.rpy:371
     old "I want to penetrate Ren"
@@ -1406,19 +1407,19 @@ translate Paloslios strings:
 
     # game/14 Nights With You/bonus.rpy:552
     old "{image=14NWY symbol alt} \"Fine. But only if you help me out.\""
-    new "{image=14NWY symbol alt} \"Fine. But only if you help me out.\""
+    new "{image=14NWY symbol alt} \"Está bien. Pero solo si me ayudas.\""
 
     # game/14 Nights With You/bonus.rpy:574
     old "{image=14NWY symbol} \"Fuck off, Teo.\""
-    new "{image=14NWY symbol} \"Fuck off, Teo.\""
+    new "{image=14NWY symbol} \"Vete a la mierda, Teo.\""
 
     # game/14 Nights With You/bonus.rpy:640
     old "{image=14NWY symbol} \"Is there something on my face?\""
-    new "{image=14NWY symbol} \"Is there something on my face?\""
+    new "{image=14NWY symbol} \"¿Tengo algo en la cara?\""
 
     # game/14 Nights With You/bonus.rpy:664
     old "{image=14NWY symbol} \"Want to tinker with… something else?\""
-    new "{image=14NWY symbol} \"Want to tinker with… something else?\""
+    new "{image=14NWY symbol} \"¿Quieres juguetear con… algo más?\""
 
     # game/14 Nights With You/bonus.rpy:689
     old "{image=14NWY symbol} Crawl into his lap"
@@ -1426,19 +1427,19 @@ translate Paloslios strings:
 
     # game/14 Nights With You/bonus.rpy:732
     old "{image=14NWY symbol} \"Maybe you should…\""
-    new "{image=14NWY symbol} \"Maybe you should…\""
+    new "{image=14NWY symbol} \"Quizás deberías…\""
 
     # game/14 Nights With You/bonus.rpy:753
     old "{image=14NWY symbol} \"Can I watch you get changed instead?\""
-    new "{image=14NWY symbol} \"Can I watch you get changed instead?\""
+    new "{image=14NWY symbol} \"¿Puedo verte cambiarte en su lugar?\""
 
     # game/14 Nights With You/bonus.rpy:772
     old "{image=14NWY symbol} \"Are you blushing again?\""
-    new "{image=14NWY symbol} \"Are you blushing again?\""
+    new "{image=14NWY symbol} \"¿Estás sonrojándote otra vez?\""
 
     # game/14 Nights With You/bonus.rpy:790
     old "{image=14NWY symbol} \"Alright then. Thank you, [ch_ren].\""
-    new "{image=14NWY symbol} \"Alright then. Thank you, [ch_ren].\""
+    new "{image=14NWY symbol} \"Muy bien entonces. Gracias, [ch_ren].\""
 
 translate Paloslios strings:
 
@@ -1692,7 +1693,7 @@ translate Paloslios strings:
 
     # game/scripts/days/day 0.rpy:513
     old "\"Maybe you're right.\""
-    new "\"Maybe you're right.\""
+    new "\"Tal vez tengas razón.\""
 
     # game/scripts/days/day 0.rpy:516
     old "\"…\""
@@ -1702,7 +1703,7 @@ translate Paloslios strings:
 
     # game/scripts/days/day 1.rpy:74
     old "Say \"Thank you!\""
-    new "Say \"Thank you!\""
+    new "Di \"Gracias!\""
 
     # game/scripts/days/day 1.rpy:81
     old "Send back another sticker"
@@ -1718,19 +1719,19 @@ translate Paloslios strings:
 
     # game/scripts/days/day 1.rpy:113
     old "\"Haruko's hair is short now.\""
-    new "\"Haruko's hair is short now.\""
+    new "\"El cabello de Haruko ahora es corto.\""
 
     # game/scripts/days/day 1.rpy:117
     old "\"Haruko's hair is mid-length now.\""
-    new "\"Haruko's hair is mid-length now.\""
+    new "\"El cabello de Haruko ahora es de longitud media.\""
 
     # game/scripts/days/day 1.rpy:121
     old "\"Haruko's hair is long now.\""
-    new "\"Haruko's hair is long now.\""
+    new "\"El cabello de Haruko ahora es largo.\""
 
     # game/scripts/days/day 1.rpy:126
     old "\"His hair is still the same.\""
-    new "\"His hair is still the same.\""
+    new "\"Su cabello sigue igual.\""
 
     # game/scripts/days/day 1.rpy:143
     old "Something cutesy"
@@ -1758,15 +1759,15 @@ translate Paloslios strings:
 
     # game/scripts/days/day 1.rpy:234
     old "\"What exactly are you holding?\""
-    new "\"What exactly are you holding?\""
+    new "\"¿Qué es exactamente lo que tienes?\""
 
     # game/scripts/days/day 1.rpy:240
     old "\"Is that {i}another{/i} plant?\""
-    new "\"Is that {i}another{/i} plant?\""
+    new "\"¿Esa es {i}otra{/i} planta?\""
 
     # game/scripts/days/day 1.rpy:248
     old "\"It's nice to see you again!\""
-    new "\"It's nice to see you again!\""
+    new "\"¡Es bueno verte de nuevo!\""
 
     # game/scripts/days/day 1.rpy:257
     old "[rh_o]\"Sorry, Vi, I'm in a rush.\"[rh_c]"
@@ -1818,15 +1819,15 @@ translate Paloslios strings:
 
     # game/scripts/days/day 1.rpy:1332
     old "\"You could sleep on my couch.\""
-    new "\"You could sleep on my couch.\""
+    new "\"Podrías dormir en mi sofá.\""
 
     # game/scripts/days/day 1.rpy:1347
     old "\"My hallway has carpet.\""
-    new "\"My hallway has carpet.\""
+    new "\"Mi pasillo tiene alfombra.\""
 
     # game/scripts/days/day 1.rpy:1355
     old "\"Maybe if I stack some blankets on the floor…\""
-    new "\"Maybe if I stack some blankets on the floor…\""
+    new "\"Tal vez si apilo algunas mantas en el suelo…\""
 
     # game/scripts/days/day 1.rpy:1426
     old "Call out to him"
@@ -1858,7 +1859,7 @@ translate Paloslios strings:
 
     # game/scripts/days/day 1.rpy:1566
     old "{image=14NWY symbol alt} \"I want you too.\""
-    new "{image=14NWY symbol alt} \"I want you too.\""
+    new "{image=14NWY symbol alt} \"Yo también quiero que me quieras.\""
 
     # game/scripts/days/day 1.rpy:1575
     old "[rh_o]\"Sorry, what was that?\"[rh_c]"
@@ -1866,7 +1867,7 @@ translate Paloslios strings:
 
     # game/scripts/days/day 1.rpy:1590
     old "\"Maybe we should go to bed now.\""
-    new "\"Maybe we should go to bed now.\""
+    new "\"Tal vez deberíamos irnos a dormir ahora.\""
 
     # game/scripts/days/day 1.rpy:1699
     old "Send him a text"
@@ -1886,27 +1887,27 @@ translate Paloslios strings:
 
     # game/scripts/days/day 1.rpy:1763
     old "\"That is kinda weird, ngl\""
-    new "\"That is kinda weird, ngl\""
+    new "\"Eso es un poco raro, ngl\""
 
     # game/scripts/days/day 1.rpy:1769
     old "\"Yeah np! Thanks for leaving your number!\""
-    new "\"Yeah np! Thanks for leaving your number!\""
+    new "\"¡Sí np! ¡Gracias por dejar tu número!\""
 
     # game/scripts/days/day 1.rpy:1779
     old "\"Wait! Look at this meme I found real quick\""
-    new "\"Wait! Look at this meme I found real quick\""
+    new "\"¡Espera! Mira este meme que encontré rápido\""
 
     # game/scripts/days/day 1.rpy:1800
     old "{image=14NWY symbol} \"what are you wearing rn? ;)\""
-    new "{image=14NWY symbol} \"what are you wearing rn? ;)\""
+    new "{image=14NWY symbol} \"¿qué tienes puesto ahora? ;)\""
 
     # game/scripts/days/day 1.rpy:1806
     old "\"What do you mean?\""
-    new "\"What do you mean?\""
+    new "\"¿A qué te refieres?\""
 
     # game/scripts/days/day 1.rpy:1814
     old "\"Like a date?\""
-    new "\"Like a date?\""
+    new "\"¿Como una cita?\""
 
     # game/scripts/days/day 1.rpy:1819
     old "Send him an obscure meme"
@@ -1918,31 +1919,31 @@ translate Paloslios strings:
 
     # game/scripts/days/day 1.rpy:1866
     old "\"It is! Thanks for leaving your number\""
-    new "\"It is! Thanks for leaving your number\""
+    new "\"¡Lo es! Gracias por dejar tu número\""
 
     # game/scripts/days/day 1.rpy:1875
     old "\"It is, but… How did you know?\""
-    new "\"It is, but… How did you know?\""
+    new "\"Lo es, pero… ¿Cómo lo supiste?\""
 
     # game/scripts/days/day 1.rpy:1881
     old "\"Sorry, I know it's late.\""
-    new "\"Sorry, I know it's late.\""
+    new "\"Lo siento, sé que es tarde.\""
 
     # game/scripts/days/day 1.rpy:1901
     old "{image=14NWY symbol} \"…What are you wearing?\""
-    new "{image=14NWY symbol} \"…What are you wearing?\""
+    new "{image=14NWY symbol} \"…¿Qué tienes puesto?\""
 
     # game/scripts/days/day 1.rpy:1927
     old "\"But I wanted to talk with you more…\""
-    new "\"But I wanted to talk with you more…\""
+    new "\"Pero quería hablar contigo más…\""
 
     # game/scripts/days/day 1.rpy:1937
     old "\"Can we talk again tomorrow?\""
-    new "\"Can we talk again tomorrow?\""
+    new "\"¿Podemos hablar otra vez mañana?\""
 
     # game/scripts/days/day 1.rpy:1948
     old "\"Okay then, goodnight.\""
-    new "\"Okay then, goodnight.\""
+    new "\"Está bien entonces, buenas noches.\""
 
     # game/scripts/days/day 1.rpy:1958
     old "[de_o]Blatantly ignore him[de_c]"
@@ -1952,15 +1953,15 @@ translate Paloslios strings:
 
     # game/scripts/days/day 2.rpy:577
     old "\"He's a friend from the city.\""
-    new "\"He's a friend from the city.\""
+    new "\"Es un amigo de la ciudad.\""
 
     # game/scripts/days/day 2.rpy:602
     old "\"He's my ex-boyfriend.\""
-    new "\"He's my ex-boyfriend.\""
+    new "\"Es mi exnovio.\""
 
     # game/scripts/days/day 2.rpy:632
     old "\"He's just a fling.\""
-    new "\"He's just a fling.\""
+    new "\"Es solo un aventura.\""
 
     # game/scripts/days/day 2.rpy:652
     old "[rh_o]\"I've never seen this man in my life.\"[rh_c]"
@@ -1972,15 +1973,15 @@ translate Paloslios strings:
 
     # game/scripts/days/day 2.rpy:773
     old "\"That goth style is pretty cool.\""
-    new "\"That goth style is pretty cool.\""
+    new "\"Ese estilo gótico es bastante genial.\""
 
     # game/scripts/days/day 2.rpy:787
     old "\"You've got something in your hair.\""
-    new "\"You've got something in your hair.\""
+    new "\"Tienes algo en el cabello.\""
 
     # game/scripts/days/day 2.rpy:798
     old "\"Sorry, what were you saying?\""
-    new "\"Sorry, what were you saying?\""
+    new "\"Perdón, ¿qué estabas diciendo?\""
 
     # game/scripts/days/day 2.rpy:824
     old "A delicious looking scone"
@@ -1996,7 +1997,7 @@ translate Paloslios strings:
 
     # game/scripts/days/day 2.rpy:846
     old "A sugary cookie"
-    new "una galleta azucarada"
+    new "Una galleta azucarada"
 
     # game/scripts/days/day 2.rpy:872
     old "A double venti organic chocolate brownie caramel frappuccino extra hot with one inch foam, non fat"
@@ -2012,7 +2013,7 @@ translate Paloslios strings:
 
     # game/scripts/days/day 2.rpy:898
     old "A can of soda"
-    new "una lata de refresco"
+    new "Una lata de refresco"
 
     # game/scripts/days/day 2.rpy:907
     old "A fruity smoothie"
@@ -2020,15 +2021,15 @@ translate Paloslios strings:
 
     # game/scripts/days/day 2.rpy:1312
     old "[rh_o]Wait for [ch_ren][rh_c]"
-    new "[rh_o]Espera [ch_ren][rh_c]"
+    new "[rh_o]Espera a [ch_ren][rh_c]"
 
     # game/scripts/days/day 2.rpy:1327
     old "Walk home alone"
-    new "caminar solo a casa"
+    new "Caminar solo a casa"
 
     # game/scripts/days/day 2.rpy:1361
     old "\"We can go to my apartment.\""
-    new "\"We can go to my apartment.\""
+    new "\"Podemos ir a mi apartamento.\""
 
     # game/scripts/days/day 2.rpy:1372
     old "[rh_o]\"We can go to your apartment.\"[rh_c]"
@@ -2036,7 +2037,7 @@ translate Paloslios strings:
 
     # game/scripts/days/day 2.rpy:1384
     old "\"Where do you want to go?\""
-    new "\"Where do you want to go?\""
+    new "\"¿A dónde quieres ir?\""
 
     # game/scripts/days/day 2.rpy:1396
     old "[de_o]\"Forget it, I'm going home alone.\"[de_c]"
@@ -2048,19 +2049,19 @@ translate Paloslios strings:
 
     # game/scripts/days/day 2.rpy:1606
     old "\"Is it Egyptian cotton?\""
-    new "\"Is it Egyptian cotton?\""
+    new "\"¿Es algodón egipcio?\""
 
     # game/scripts/days/day 2.rpy:1619
     old "\"Don't you have any friends?\""
-    new "\"Don't you have any friends?\""
+    new "\"¿No tienes amigos?\""
 
     # game/scripts/days/day 2.rpy:1640
     old "\"Am I your first house guest?\""
-    new "\"Am I your first house guest?\""
+    new "\"¿Soy tu primer invitado en casa?\""
 
     # game/scripts/days/day 2.rpy:1794
     old "Spend the night"
-    new "pasar la noche"
+    new "Pasar la noche"
 
     # game/scripts/days/day 2.rpy:1798
     old "{glitch=10.0}{b}Spend the night{/b}{/glitch}"
@@ -2072,19 +2073,19 @@ translate Paloslios strings:
 
     # game/scripts/days/day 2.rpy:1863
     old "{image=14NWY symbol alt} \"Can you sleep in my bed tonight?\""
-    new "{image=14NWY symbol alt} \"Can you sleep in my bed tonight?\""
+    new "{image=14NWY symbol alt} \"¿Puedes dormir en mi cama esta noche?\""
 
     # game/scripts/days/day 2.rpy:1883
     old "\"Can I sleep in your bed instead?\""
-    new "\"Can I sleep in your bed instead?\""
+    new "\"¿Puedo dormir en tu cama en su lugar?\""
 
     # game/scripts/days/day 2.rpy:1909
     old "\"What's behind that locked door?\""
-    new "\"What's behind that locked door?\""
+    new "\"¿Qué hay detrás de esa puerta cerrada?\""
 
     # game/scripts/days/day 2.rpy:1944
     old "\"No, I'm good. Thank you.\""
-    new "\"No, I'm good. Thank you.\""
+    new "\"No, estoy bien. Gracias.\""
 
     # game/scripts/days/day 2.rpy:2017
     old "Lean in and kiss him"
@@ -2138,15 +2139,15 @@ translate Paloslios strings:
 
     # game/scripts/days/day 3.rpy:503
     old "\"She really, {i}really{/i} admires you.\""
-    new "\"She really, {i}really{/i} admires you.\""
+    new "\"Ella realmente, {i}realmente{/i} te admira.\""
 
     # game/scripts/days/day 3.rpy:514
     old "\"She loves your taste in fashion.\""
-    new "\"She loves your taste in fashion.\""
+    new "\"Ella ama tu gusto en la moda.\""
 
     # game/scripts/days/day 3.rpy:523
     old "\"She wants her jacket back.\""
-    new "\"She wants her jacket back.\""
+    new "\"Ella quiere que le devuelvan su chaqueta.\""
 
     # game/scripts/days/day 3.rpy:532
     old "[rh_o]\"She finds you annoying.\"[rh_c]"
@@ -2158,11 +2159,11 @@ translate Paloslios strings:
 
     # game/scripts/days/day 3.rpy:728
     old "\"Fine. But I'm doing this for [ch_elanor].\""
-    new "\"Fine. But I'm doing this for [ch_elanor].\""
+    new "\"Está bien. Pero hago esto por [ch_elanor].\""
 
     # game/scripts/days/day 3.rpy:736
     old "\"Fine. But only if [ch_leon] will be there.\""
-    new "\"Fine. But only if [ch_leon] will be there.\""
+    new "\"Está bien. Pero solo si [ch_leon] estará allí.\""
 
     # game/scripts/days/day 3.rpy:742
     old "[de_o]\"No thanks.\"[de_c]"
@@ -2174,19 +2175,19 @@ translate Paloslios strings:
 
     # game/scripts/days/day 3.rpy:1202
     old "\"He's just a guy I'm interested in.\""
-    new "\"He's just a guy I'm interested in.\""
+    new "\"Es solo un chico que me interesa.\""
 
     # game/scripts/days/day 3.rpy:1212
     old "\"He's just a friend.\""
-    new "\"He's just a friend.\""
+    new "\"Es solo un amigo.\""
 
     # game/scripts/days/day 3.rpy:1226
     old "\"I've never seen that man in my life.\""
-    new "\"I've never seen that man in my life.\""
+    new "\"Nunca he visto a ese hombre en mi vida.\""
 
     # game/scripts/days/day 3.rpy:1237
     old "{image=14NWY symbol} \"He's just a friend… With a few benefits.\""
-    new "{image=14NWY symbol} \"He's just a friend… With a few benefits.\""
+    new "{image=14NWY symbol} \"Es solo un amigo… Con algunos beneficios.\""
 
     # game/scripts/days/day 3.rpy:1333
     old "[rh_o]Invite someone over[rh_c]"
@@ -2262,7 +2263,7 @@ translate Paloslios strings:
 
     # game/scripts/days/day 3.rpy:1717
     old "\"Enjoying the food?\""
-    new "\"Enjoying the food?\""
+    new "\"¿Disfrutando la comida?\""
 
     # game/scripts/days/day 3.rpy:1730
     old "[rh_o]\"Can you pass the sauce?\"[rh_c]"
@@ -2270,15 +2271,15 @@ translate Paloslios strings:
 
     # game/scripts/days/day 3.rpy:1740
     old "\"You've got some crumbs on your face.\""
-    new "\"You've got some crumbs on your face.\""
+    new "\"Tienes un poco de migajas en la cara.\""
 
     # game/scripts/days/day 3.rpy:1751
     old "\"You look like a hamster.\""
-    new "\"You look like a hamster.\""
+    new "\"Pareces un hámster.\""
 
     # game/scripts/days/day 3.rpy:1766
     old "{image=14NWY symbol} \"Your fly's unzipped.\""
-    new "{image=14NWY symbol} \"Your fly's unzipped.\""
+    new "{image=14NWY symbol} \"Tu botón está desabrochado.\""
 
     # game/scripts/days/day 3.rpy:1794
     old "{image=14NWY symbol alt} Sit in his lap"
@@ -2348,15 +2349,15 @@ translate Paloslios strings:
 
     # game/scripts/days/day 4.rpy:412
     old "\"[ch_ren] isn't my boyfriend.\""
-    new "\"[ch_ren] isn't my boyfriend.\""
+    new "\"[ch_ren] no es mi novio.\""
 
     # game/scripts/days/day 4.rpy:676
     old "\"I was busy looking at the sunfish.\""
-    new "\"I was busy looking at the sunfish.\""
+    new "\"Estaba ocupado mirando al pez luna.\""
 
     # game/scripts/days/day 4.rpy:700
     old "\"…The what? Clownfish?\""
-    new "\"…The what? Clownfish?\""
+    new "\"…¿El qué? ¿Pez payaso?\""
 
     # game/scripts/days/day 4.rpy:729
     old "[rh_o]\"I did. It was so captivating.\"[rh_c]"
@@ -2364,7 +2365,7 @@ translate Paloslios strings:
 
     # game/scripts/days/day 4.rpy:759
     old "\"I was staring at the sharks.\""
-    new "\"I was staring at the sharks.\""
+    new "\"Estaba mirando los tiburones.\""
 
     # game/scripts/days/day 4.rpy:836
     old "Move your hand away"
@@ -2392,23 +2393,23 @@ translate Paloslios strings:
 
     # game/scripts/days/day 4.rpy:1298
     old "\"Actually, I {i}do{/i} like [ch_teo].\""
-    new "\"Actually, I {i}do{/i} like [ch_teo].\""
+    new "\"actualmente, {i}me gusta{/i} [ch_teo].\""
 
     # game/scripts/days/day 4.rpy:1310
     old "\"I think I like [ch_elanor] more.\""
-    new "\"I think I like [ch_elanor] more.\""
+    new "\"Creo que me gusta más [ch_elanor].\""
 
     # game/scripts/days/day 4.rpy:1321
     old "[rh_o]\"I like you the most, [ch_ren].\"[rh_c]"
-    new "[rh_o]\"Me gustas más, [ch_ren].\"[rh_c]"
+    new "[rh_o]\"Tú me gustas más, [ch_ren].\"[rh_c]"
 
     # game/scripts/days/day 4.rpy:1332
     old "\"I couldn't care less about [ch_teo].\""
-    new "\"I couldn't care less about [ch_teo].\""
+    new "\"[ch_teo] me importa un comino.\""
 
     # game/scripts/days/day 4.rpy:1343
     old "{image=14NWY symbol} \"You're all I think about, [ch_ren].\""
-    new "{image=14NWY symbol} \"You're all I think about, [ch_ren].\""
+    new "{image=14NWY symbol} \"Eres en lo único que pienso, [ch_ren].\""
 
     # game/scripts/days/day 4.rpy:1372
     old "Encourage his dark behaviour"
@@ -2436,15 +2437,15 @@ translate Paloslios strings:
 
     # game/scripts/days/day 4.rpy:1760
     old "\"No, they're not good for each other.\""
-    new "\"No, they're not good for each other.\""
+    new "\"No, no son buenos para el uno al otro.\""
 
     # game/scripts/days/day 4.rpy:1770
     old "\"I'm not really sure, to be honest.\""
-    new "\"I'm not really sure, to be honest.\""
+    new "\"No estoy realmente seguro, para ser honesto.\""
 
     # game/scripts/days/day 4.rpy:1781
     old "\"It's not my place to decide.\""
-    new "\"It's not my place to decide.\""
+    new "\"No es mi lugar decidir.\""
 
     # game/scripts/days/day 4.rpy:1952
     old "Investigate the drawings"
@@ -2512,11 +2513,11 @@ translate Paloslios strings:
 
     # game/scripts/days/day 4.rpy:3219
     old "\"…Neapolitan?\""
-    new "\"…Neapolitan?\""
+    new "\"…Neapolitano?\""
 
     # game/scripts/days/day 4.rpy:3240
     old "\"I don't remember.\""
-    new "\"I don't remember.\""
+    new "\"No recuerdo.\""
 
 translate Paloslios strings:
 
@@ -2530,23 +2531,23 @@ translate Paloslios strings:
 
     # game/scripts/days/day 5.rpy:376
     old "\"[ch_moth]… Haruko is finally real.\""
-    new "\"[ch_moth]… Haruko is finally real.\""
+    new "\"[ch_moth]… Haruko finalmente es real.\""
 
     # game/scripts/days/day 5.rpy:393
     old "\"This is [ch_ren]. The guy I was telling you about.\""
-    new "\"This is [ch_ren]. The guy I was telling you about.\""
+    new "\"Él es [ch_ren]. El chico del que te estaba hablando.\""
 
     # game/scripts/days/day 5.rpy:407
     old "\"Are you talking about my body pillow?\""
-    new "\"Are you talking about my body pillow?\""
+    new "\"¿Estás hablando de mi almohada de cuerpo?\""
 
     # game/scripts/days/day 5.rpy:416
     old "\"It's none of your business.\""
-    new "\"It's none of your business.\""
+    new "\"No es asunto tuyo.\""
 
     # game/scripts/days/day 5.rpy:425
     old "{image=14NWY symbol} \"It's Mr Submissive and Breedable himself.\""
-    new "{image=14NWY symbol} \"It's Mr Submissive and Breedable himself.\""
+    new "{image=14NWY symbol} \"Es el mismísimo Sr. Sumiso y Reproductible.\""
 
     # game/scripts/days/day 5.rpy:895
     old "It shows parts of my skin"
@@ -2574,11 +2575,11 @@ translate Paloslios strings:
 
     # game/scripts/days/day 5.rpy:1390
     old "\"We should go to my place.\""
-    new "\"We should go to my place.\""
+    new "\"Deberíamos ir a mi lugar.\""
 
     # game/scripts/days/day 5.rpy:1402
     old "\"We should go to [ch_ren]'s place.\""
-    new "\"We should go to [ch_ren]'s place.\""
+    new "\"Deberíamos ir al lugar de [ch_ren].\""
 
     # game/scripts/days/day 5.rpy:1457
     old "Try to kick their legs"
