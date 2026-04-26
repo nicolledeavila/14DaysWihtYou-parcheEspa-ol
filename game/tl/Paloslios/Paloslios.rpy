@@ -11234,7 +11234,7 @@ translate Paloslios day1_meetren_19707b54:
 translate Paloslios day1_meetren_4c6dde14:
 
     # rpc "Do what?"
-    rpc "¿Hacer lo?"
+    rpc "¿Hacer que?"
 
 # game/scripts/days/day 1.rpy:648
 translate Paloslios day1_meetren_21f57426:
@@ -11432,7 +11432,7 @@ translate Paloslios reninterrupt_7b4c71e9:
 translate Paloslios reninterrupt_794e3ac8:
 
     # r "That's fine. I could tell you {i}aaaaaall{/i} about myself on the walk there."
-    r "Está bien. Podría contarte {i}aaaaaall{/i} sobre mí en el camino hasta allí."
+    r "Está bien. Podría contarte {i}todoooo{/i} sobre mí en el camino hasta allí."
 
 # game/scripts/days/day 1.rpy:705
 translate Paloslios reninterrupt_3b7a5560:
@@ -11546,7 +11546,7 @@ translate Paloslios reninterrupt_4f972975:
 translate Paloslios reninterrupt_ad5ff27d:
 
     # e "{size=-6}…Where [are] [they]? [ch_angel]?{/size} {i}Ah-!{/i}"
-    e "{size=-6}…¿Dónde [are][they]? [ch_angel]?{/size}{i}¡Ah-!{/i}"
+    e "{size=-6}…¿Dónde esta [they!t]? [ch_angel]?{/size}{i}¡Ah-!{/i}"
 
 # game/scripts/days/day 1.rpy:754
 translate Paloslios reninterrupt_e9373fad:
@@ -11564,7 +11564,7 @@ translate Paloslios reninterrupt_78779c5b:
 translate Paloslios reninterrupt_4ae060c3:
 
     # n "…Impeccable timing as always, [ch_elanor]."
-    n "… Momento impecable como siempre, [ch_elanor]."
+    n "… en el Momento justo como siempre, [ch_elanor]."
 
 # game/scripts/days/day 1.rpy:759
 translate Paloslios reninterrupt_321b90d4:

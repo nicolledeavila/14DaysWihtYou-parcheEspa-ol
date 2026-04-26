@@ -2480,7 +2480,7 @@ screen chat_main():
                         ymaximum 107
                         pos (130,35)
                         if status_moth == True:
-                            text "[update_moth]":
+                            text "[update_moth!t]":
                                 font "fonts/VT323-Regular.ttf"
                                 color "#141414"
                                 size 32
@@ -2559,7 +2559,7 @@ screen chat_main():
                         ymaximum 107
                         pos (130,35)
                         if status_violet == True:
-                            text "[update_violet]":
+                            text "[update_violet!t]":
                                 font "fonts/VT323-Regular.ttf"
                                 color "#141414"
                                 size 32
@@ -2638,7 +2638,7 @@ screen chat_main():
                         ymaximum 107
                         pos (130,35)
                         if status_elanor == True:
-                            text "[update_elanor]":
+                            text "[update_elanor!t]":
                                 font "fonts/VT323-Regular.ttf"
                                 color "#141414"
                                 size 32
@@ -2717,7 +2717,7 @@ screen chat_main():
                         ymaximum 107
                         pos (130,35)
                         if status_ren == True:
-                            text "[update_ren]":
+                            text "[update_ren!t]":
                                 font "fonts/VT323-Regular.ttf"
                                 color "#141414"
                                 size 32
@@ -2796,7 +2796,7 @@ screen chat_main():
                         ymaximum 107
                         pos (130,35)
                         if status_conan == True:
-                            text "[update_conan]":
+                            text "[update_conan!t]":
                                 font "fonts/VT323-Regular.ttf"
                                 color "#141414"
                                 size 32
@@ -2875,7 +2875,7 @@ screen chat_main():
                         ymaximum 107
                         pos (130,35)
                         if status_jae == True:
-                            text "[update_jae]":
+                            text "[update_jae!t]":
                                 font "fonts/VT323-Regular.ttf"
                                 color "#141414"
                                 size 32
@@ -2954,7 +2954,7 @@ screen chat_main():
                         ymaximum 107
                         pos (130,35)
                         if status_leon == True:
-                            text "[update_leon]":
+                            text "[update_leon!t]":
                                 font "fonts/VT323-Regular.ttf"
                                 color "#141414"
                                 size 32
@@ -3033,7 +3033,7 @@ screen chat_main():
                         ymaximum 107
                         pos (130,35)
                         if status_teo == True:
-                            text "[update_teo]":
+                            text "[update_teo!t]":
                                 font "fonts/VT323-Regular.ttf"
                                 color "#141414"
                                 size 32
@@ -3112,7 +3112,7 @@ screen chat_main():
                         ymaximum 107
                         pos (130,35)
                         if status_olivia == True:
-                            text "[update_olivia]":
+                            text "[update_olivia!t]":
                                 font "fonts/VT323-Regular.ttf"
                                 color "#141414"
                                 size 32
@@ -3190,7 +3190,7 @@ screen chat_main():
                         ymaximum 107
                         pos (130,35)
                         if status_kiara == True:
-                            text "[update_kiara]":
+                            text "[update_kiara!t]":
                                 font "fonts/VT323-Regular.ttf"
                                 color "#141414"
                                 size 32

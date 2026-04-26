@@ -776,3 +776,164 @@ translate Paloslios strings:
     old "Want to update your status?"
     new "¿Quieres actualizar tu estado?"
 
+    old "OH GOD OG GOD OHHHHH BOY OHH MY GOD OH BOY OHHH MY GO"
+    new "OH DIOS OH DIOS OHHHHH CHICO OHH MI DIOS OH CHICO OHHH MI DIOS"
+
+    old "in my housespouse era don't @ me"
+    new "en mi época de esposo de casa no me etiqueten"
+
+    old "STOP INTERFERING WITH MY WALKS TEO!!! I SWEAR I'LL MACE YOU AGAIN!!!"
+    new "¡¡¡DEJA DE INTERFERIR EN MIS CAMINATAS TEO!!! ¡¡¡JURO QUE TE VOY A ROCIAR MACE OTRA VEZ!!!"
+
+    old "Good morning Corland Bay! :)"
+    new "Buenos días Bahía Corland :)"
+
+    old "Treat your books with kindness."
+    new "Trata tus libros con amabilidad."
+
+    old "imagine paying to get into a club LOOOOOOLLLLLLLLL"
+    new "imagina pagar para entrar a un club LOOOOOOLLLLLLLLL"
+
+    old "…My wallet is crying orz /lh"
+    new "…Mi cartera está llorando orz /lh"
+
+    old "#BTB spotted at the pier lol"
+    new "#BTB visto en el muelle lol"
+
+    old "THE TITS ON THAT MAN??? HOLY MOLY"
+    new "¿¿¿LAS TETAS DE ESE HOMBRE??? SANTO CIELO"
+
+    old "Use the code \"creston20\" for 20% off your next item at my store!"
+    new "¡Usa el código \"creston20\" para obtener un 20% de descuento en tu próximo artículo en mi tienda!"
+
+    old "i'm so excited for today hehe >w<"
+    new "estoy tan emocionado por hoy jeje >w<"
+
+    old "arghhh… so much to do todav ;;"
+    new "arghhh… tanto que hacer hoy ;;"
+
+    old "Maple found her bag of dog treats again orz"
+    new "Maple encontró su bolsa de golosinas para perros otra vez orz"
+
+    old "wow, why is the hospital so busy today?"
+    new "wow, ¿por qué está tan ocupado el hospital hoy?"
+
+    old "ahhh you make me so happy!!! >_<"
+    new "ahhh me haces tan feliz!!! >_<"
+
+    old "NO BC WHY ARE PLANES SO SCARY???? we should cancel all airlines immediately"
+    new "NO POR QUÉ LOS AVIONES DAN TANTO MIEDO???? deberíamos cancelar todas las aerolíneas inmediatamente"
+
+    old "I feel like it's going to rain soon..."
+    new "Siento que va a llover pronto..."
+
+    old "Good morning everyone! Let's make today another wonderful day!"
+    new "¡Buenos días a todos! ¡Hagamos de hoy otro día maravilloso!"
+
+    old "I think, therefore I am."
+    new "Pienso, luego existo."
+
+    old "looking for a man to send me money"
+    new "buscando un hombre que me envíe dinero"
+
+    old "@{username_angel} dont sleep in :P"
+    new "@{username_angel} no te duermas :P"
+
+    old "anyone wanna keep me company later?"
+    new "¿alguien quiere hacerme compañía más tarde?"
+
+    old "ME ME?ME, ME @{username_teo} ME,..ME ME MEMEM ME,ME HELLO ME @{username_teo}"
+    new "YO ¿YO?YO, YO @{username_teo} YO,..YO YO YOYO YO,YO HOLA YO @{username_teo}"
+
+    old "Loving the scenery in #CorlandBay! I'm feeling super inspired right now! x"
+    new "¡Amando el paisaje en #CorlandBay! ¡Me siento súper inspirada ahora mismo! x"
+
+    old "baby u are my ANGELLLLLLLLLLLLLL"
+    new "bebé eres mi ANGEEEEEEEEEEEEEL"
+
+    old "After a long day, I think it's time for some wine. ;)"
+    new "Después de un largo día, creo que es hora de un poco de vino. ;)"
+
+    old "*blows a kiss to the sky* for maple"
+    new "*lanza un beso al cielo* para Maple"
+
+    old "found something even better to do tonight"
+    new "encontré algo incluso mejor que hacer esta noche"
+
+    old "all men do is lie"
+    new "todo lo que hacen los hombres es mentir"
+
+    old "if lost, please return me to @{username_angel} >///<"
+    new "si me pierdo, por favor devuélveme con @{username_angel} >///<"
+
+    old "I'M EXPLODING THE OCEAN WITH MY MIND!!!!!"
+    new "¡¡¡ESTOY EXPLOTANDO EL OCÉANO CON MI MENTE!!!!!"
+
+    old "Hmm… looking for more MMOs to play. @{username_jae} any reccs?"
+    new "Hmm… buscando más MMOs para jugar. @{username_jae} ¿alguna recomendación?"
+
+    old "I hope everyone has a lovely day today! Mocha says \"meow\", hehe!"
+    new "¡Espero que todos tengan un día encantador hoy! Mocha dice \"miau\", ¡jeje!"
+
+    old "Remember to return your books on time."
+    new "Recuerda devolver tus libros a tiempo."
+
+    old "MAPLEEEE I WOULD GO TO WAR FOR YOU"
+    new "MAPLEEEE IRÍA A LA GUERRA POR TI"
+
+    old "Aaaaand… There's another crab in my bag lol"
+    new "Yaaaa… Hay otro cangrejo en mi bolsa lol"
+
+    old "planning on going to the city today. who's coming?"
+    new "planeando ir a la ciudad hoy. ¿quién viene?"
+
+    old "I DON'T WANT TO WORK TODAYYYYYYY"
+    new "NO QUIERO TRABAJAR HOYYYYYYYY"
+
+    old "BATTING MY PRETTY AND DEMURE EYELASHES AT YOU @{username_teo}"
+    new "MIS PESTAÑAS LINDAS Y RECATADAS PARA TI @{username_teo}"
+
+    old "I wish I could bottle this sea breeze! It's just lovely :D"
+    new "Desearía poder embotellar esta brisa marina! Es simplemente encantadora :D"
+
+    old "WE'RE OFFICIALLY DATING!!!! I HAVE THE BEST {partner} EVER!!!!!!"
+    new "¡¡¡¡¡ESTAMOS OFICIALMENTE SALIENDO!!!! ¡¡¡¡¡TENGO LA MEJOR {pareja} DE TODAS!!!!!!"
+
+    old "Haha, I'm not me without my coffee! :P"
+    new "Jaja, ¡no soy yo sin mi café! :P"
+
+    old "Is anyone missing a wallet? Come find me @ CBL reception."
+    new "¿A alguien le falta una cartera? Ven a buscarme a la recepción de CBL."
+
+    old "No, violets are NOT blue :o"
+    new "No, las violetas NO son azules :o"
+
+    old "NEW AOG EPISODE JUST DROPPED!!!!!! DON'T TALK TO ME RN"
+    new "¡¡¡¡¡¡ACABA DE SALIR UN NUEVO EPISODIO DE AOG!!!!!! NO ME HABLEN AHORA"
+
+    old "HARUKO??? HELLOOO?????? PLEASE PLEASE PLEASE PLE"
+    new "HARUKO??? HOLAAA???? PORFAVOR PORFAVOR PORFAVOR PORFAVO"
+
+    old "What has been happening lately? This is not okay! :("
+    new "Que esta ah estado pasando ultimamente? esto no esta bien! :("
+
+    old "Make sure to stay safe everyone."
+    new "Asegúrense de estar a salvo, todos."
+
+    old "i'm too cute to reject! (delulu)"
+    new "¡Soy demasiado linda para rechazar! (Delulu)"
+
+    old "WIP! I'm still doing something with this"
+    new "¡En progreso! Todavía estoy haciendo algo con esto"
+
+    old "BREAKING NEWS: REN IS BEST BOY AND THIS IS STILL A WIP."
+    new "ÚLTIMAS NOTICIAS: REN ES EL MEJOR CHICO Y ESTO TODAVÍA ESTÁ EN PROGRESO."
+
+    old "HOW WOULD YOU LIKE TO BE\nPERCEIVED BY OTHERS?"
+    new "¿CÓMO TE GUSTARÍA SER\nPERCIBIDO POR LOS DEMÁS?"
+
+    old "WHICH IS MORE FITTING?"
+    new "¿CUÁL ES MÁS ADECUADO?"
+
+    old "HELLO, [player!u]!"
+    new "¡HOLA, [player!u]!"

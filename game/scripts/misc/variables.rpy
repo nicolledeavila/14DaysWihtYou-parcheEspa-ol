@@ -328,7 +328,7 @@ default update_olivia = ""
 default update_kiara = ""
 
 ## OTHER STUFF IDK
-default unlockable = "what else?"
+default unlockable = "que mas?"
 default angel_icon = "def"
 default froggy_switch = False
 default demo_bubble = False
