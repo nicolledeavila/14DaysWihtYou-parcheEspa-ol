@@ -937,3 +937,38 @@ translate Paloslios strings:
 
     old "HELLO, [player!u]!"
     new "¡HOLA, [player!u]!"
+
+    old "fuck"
+    new "joder"
+
+    old "fucked"
+    new "jodido"
+
+    old "damn"
+    new "maldición"
+
+
+    old "dammit"
+    new "maldita sea"
+
+    old "shit"
+    new "mierda"
+
+
+    old "pissing"
+    new "meando"
+
+    old "asshole"
+    new "imbécil"
+
+    old "{color=#FF66CB}{font=fonts/Orbitron-Regular.ttf}END OF DAY [calendar_day]!{/font}{/color}"
+    new "{color=#FF66CB}{font=fonts/Orbitron-Regular.ttf}FIN DEL DÍA [calendar_day]!{/font}{/color}"
+
+    old "The next day will soon begin! Would you like to save your progress?"
+    new "¡El próximo día comenzará pronto! ¿Te gustaría guardar tu progreso?"
+
+    old "{color=#8f8f8f}({b}WARNING:{/b} Quicksaving will overwrite any previous saves!)\n{/color}"
+    new "{color=#8f8f8f}({b}ADVERTENCIA:{/b} ¡Guardar rápidamente sobrescribirá cualquier guardado anterior!)\n{/color}"
+
+    old 'PROGRESS HAS BEEN SAVED!'
+    new '¡PROGRESO GUARDADO!'
