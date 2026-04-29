@@ -972,3 +972,33 @@ translate Paloslios strings:
 
     old 'PROGRESS HAS BEEN SAVED!'
     new '¡PROGRESO GUARDADO!'
+
+    old "pussy"
+    new "vagina"
+
+    old "clit"
+    new "clítoris"
+
+    old "cunt"
+    new "coño"
+
+    old "strap-on"
+    new "arnés"
+
+    old "dick"
+    new "pene"
+
+    old "balls"
+    new "bolas"
+
+    old "ass"
+    new "culo"
+
+    old "cock"
+    new "polla"
+
+
+
+
+
+   

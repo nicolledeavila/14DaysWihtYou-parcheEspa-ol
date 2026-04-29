@@ -66,8 +66,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:188
 #DLC_firsttime_penetrating_3c9f34fa:
 
-    old "[ch_ren] beams down at me with such a tender and loving expression as his hand shyly starts to travel towards my [length]." 
-    new "[ch_ren] me sonríe con una expresión tan tierna y amorosa mientras su mano tímidamente comienza a viajar hacia mi [length]." 
+    old "[ch_ren] beams down at me with such a tender and loving expression as his hand shyly starts to travel towards my [length!t]." 
+    new "[ch_ren] me sonríe con una expresión tan tierna y amorosa mientras su mano tímidamente comienza a viajar hacia mi [length!t]." 
 
 # game/14 Nights With You/bonus.rpy:192
 #DLC_firsttime_penetrating_9866b8c1:
@@ -102,8 +102,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:197
 #DLC_firsttime_penetrating_5debf1fa:
 
-    old "With a determined look on [ch_ren]'s face, he slowly reaches for my [length] and gives it an experimental squeeze." 
-    new "Con una mirada decidida en el rostro de [ch_ren], lentamente alcanza mi [length] y le da un apretón experimental." 
+    old "With a determined look on [ch_ren]'s face, he slowly reaches for my [length!t] and gives it an experimental squeeze." 
+    new "Con una mirada decidida en el rostro de [ch_ren], lentamente alcanza mi [length!t] y le da un apretón experimental." 
 
 # game/14 Nights With You/bonus.rpy:201
 #DLC_firsttime_penetrating_33a14c08:
@@ -120,8 +120,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:203
 #DLC_firsttime_penetrating_c0714203:
 
-    old "With a bright smile on [ch_ren]'s features, he shyly reaches for my [length] and gives it a few experimental strokes." 
-    new "Con una sonrisa brillante en las facciones de [ch_ren], tímidamente alcanza mi [length] y le da algunas caricias experimentales." 
+    old "With a bright smile on [ch_ren]'s features, he shyly reaches for my [length!t] and gives it a few experimental strokes." 
+    new "Con una sonrisa brillante en las facciones de [ch_ren], tímidamente alcanza mi [length!t] y le da algunas caricias experimentales." 
 
 # game/14 Nights With You/bonus.rpy:207
 #DLC_firsttime_penetrating_0c96f901:
@@ -144,7 +144,7 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:210
 #DLC_firsttime_penetrating_c592e168:
 
-    old "[ch_ren] looks down at me with an embarrassed expression as his hand shyly starts to travel towards my [length]." 
+    old "[ch_ren] looks down at me with an embarrassed expression as his hand shyly starts to travel towards my [length!t]." 
     new "[ch_ren] me mira con una expresión avergonzada mientras su mano tímidamente comienza a viajar hacia mi [length!t]." 
 
 # game/14 Nights With You/bonus.rpy:216
@@ -2268,8 +2268,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:813
 #dlc_14nwy_d1_t1_bb6daefb:
 
-    old "And as if [ch_ren] could sense my neediness, I feel him reach below to experimentally play with my [parts]." 
-    new "Y como si [ch_ren] pudiera sentir mi necesidad, siento que se acerca hacia abajo para jugar experimentalmente con mi [parts]." 
+    old "And as if [ch_ren] could sense my neediness, I feel him reach below to experimentally play with my [parts!t]." 
+    new "Y como si [ch_ren] pudiera sentir mi necesidad, siento que se acerca hacia abajo para jugar experimentalmente con mi [parts!t]." 
 
 # game/14 Nights With You/bonus.rpy:814
 #dlc_14nwy_d1_t1_d2cb1769:
@@ -2298,8 +2298,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:824
 #dlc_14nwy_d1_t4_cad9dedc:
 
-    old "He quickens his pace, and suddenly, my vision goes white. My toes curl as [ch_ren] continues to tease my [parts] and [sex], and I come with his name on my tongue." 
-    new "Acelera el paso y, de repente, mi visión se vuelve blanca. Los dedos de mis pies se curvan mientras [ch_ren] continúa provocando a mi [parts] y a [sex], y me corro con su nombre en mi lengua." 
+    old "He quickens his pace, and suddenly, my vision goes white. My toes curl as [ch_ren] continues to tease my [parts!t] and [sex], and I come with his name on my tongue." 
+    new "Acelera el paso y, de repente, mi visión se vuelve blanca. Los dedos de mis pies se curvan mientras [ch_ren] continúa provocando a mi [parts!t] y a [sex], y me corro con su nombre en mi lengua." 
 
 # game/14 Nights With You/bonus.rpy:827
 #dlc_14nwy_d1_t5_380c8ebb:
@@ -2310,8 +2310,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:830
 #dlc_14nwy_d1_t6_b14f9966:
 
-    old "Apparently, that was all it took to have him back on me once more, with his hungry mouth on mine as his hand moves to line up my [length] with his lubed hole." 
-    new "Aparentemente, eso fue todo lo que hizo falta para tenerlo de vuelta sobre mí una vez más, con su boca hambrienta sobre la mía mientras su mano se mueve para alinear mi [length] con su agujero lubricado." 
+    old "Apparently, that was all it took to have him back on me once more, with his hungry mouth on mine as his hand moves to line up my [length!t] with his lubed hole." 
+    new "Aparentemente, eso fue todo lo que hizo falta para tenerlo de vuelta sobre mí una vez más, con su boca hambrienta sobre la mía mientras su mano se mueve para alinear mi [length!t] con su agujero lubricado." 
 
 # game/14 Nights With You/bonus.rpy:833
 #dlc_14nwy_d1_t7_a381c9fb:
@@ -2340,8 +2340,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:839
 #dlc_14nwy_d1_t7_2c9f8434:
 
-    old "I almost forget to breathe as I feel his walls clench around my [length], and I unconsciously latch onto his thighs to anchor myself." 
-    new "Casi me olvido de respirar cuando siento sus paredes apretarse alrededor de mi [length], e inconscientemente me aferro a sus muslos para anclarme." 
+    old "I almost forget to breathe as I feel his walls clench around my [length!t], and I unconsciously latch onto his thighs to anchor myself." 
+    new "Casi me olvido de respirar cuando siento sus paredes apretarse alrededor de mi [length!t], e inconscientemente me aferro a sus muslos para anclarme." 
 
 # game/14 Nights With You/bonus.rpy:840
 #dlc_14nwy_d1_t7_bbcc2051:
@@ -2352,8 +2352,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:841
 #dlc_14nwy_d1_t7_b612a5c1:
 
-    old "What felt like hours seemed to pass before [ch_ren] {b}finally{/b} bottoms out on my [length], and he almost seems to double over once more from the sheer pleasure of it all." 
-    new "Lo que parecieron horas parecieron pasar antes de que [ch_ren]{b}finalmente{/b} toque fondo a mi [length], y casi parece doblarse una vez más por el puro placer de todo." 
+    old "What felt like hours seemed to pass before [ch_ren] {b}finally{/b} bottoms out on my [length!t], and he almost seems to double over once more from the sheer pleasure of it all." 
+    new "Lo que parecieron horas parecieron pasar antes de que [ch_ren]{b}finalmente{/b} toque fondo a mi [length!t], y casi parece doblarse una vez más por el puro placer de todo." 
 
 # game/14 Nights With You/bonus.rpy:842
 #dlc_14nwy_d1_t7_6700758a:
@@ -2382,8 +2382,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:850
 #dlc_14nwy_d1_t9_637e6ae2:
 
-    old "But my pleasure isn't far from his thoughts, it seems, as he's quick to reach down and play with my [parts], which sends a wave of excitement throughout my entire body." 
-    new "Pero mi placer no está lejos de sus pensamientos, al parecer, ya que rápidamente se agacha y juega con mi [parts], lo que envía una ola de excitación por todo mi cuerpo." 
+    old "But my pleasure isn't far from his thoughts, it seems, as he's quick to reach down and play with my [parts!t], which sends a wave of excitement throughout my entire body." 
+    new "Pero mi placer no está lejos de sus pensamientos, al parecer, ya que rápidamente se agacha y juega con mi [parts!t], lo que envía una ola de excitación por todo mi cuerpo." 
 
 # game/14 Nights With You/bonus.rpy:851
 #dlc_14nwy_d1_t9_1acead58:
@@ -2424,14 +2424,14 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:859
 #dlc_14nwy_d1_t10_a9ba063a:
 
-    old "But my pleasure isn't far from his thoughts, it seems, as he's quick to reach down and play with my [parts] — which sends a wave of excitement throughout my entire body." 
-    new "Pero mi placer no está lejos de sus pensamientos, al parecer, ya que rápidamente se agacha y juega con mi [parts], lo que envía una ola de excitación por todo mi cuerpo." 
+    old "But my pleasure isn't far from his thoughts, it seems, as he's quick to reach down and play with my [parts!t] — which sends a wave of excitement throughout my entire body." 
+    new "Pero mi placer no está lejos de sus pensamientos, al parecer, ya que rápidamente se agacha y juega con mi [parts!t], lo que envía una ola de excitación por todo mi cuerpo." 
 
 # game/14 Nights With You/bonus.rpy:860
 #dlc_14nwy_d1_t10_62b7479d:
 
-    old "His tentative pace soon changes as he experimentally grinds himself on my [length], and the hand that brushed against my skin soon comes to interlock with one of my own." 
-    new "Su ritmo vacilante pronto cambia mientras se muele experimentalmente en mi [length], y la mano que rozó mi piel pronto se entrelaza con una de las mías." 
+    old "His tentative pace soon changes as he experimentally grinds himself on my [length!t], and the hand that brushed against my skin soon comes to interlock with one of my own." 
+    new "Su ritmo vacilante pronto cambia mientras se muele experimentalmente en mi [length!t], y la mano que rozó mi piel pronto se entrelaza con una de las mías." 
 
 # game/14 Nights With You/bonus.rpy:863
 #dlc_14nwy_d1_t11_18ceb725:
@@ -2442,8 +2442,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:866
 #dlc_14nwy_d1_t12_a8787472:
 
-    old "His expression does little to stifle the sensation slowly building between my legs, and I unconsciously thrust my hips upwards. [ch_ren] lets out another shaky moan before he effortlessly reaches for my [parts] to stimulate me further." 
-    new "Su expresión hace poco para sofocar la sensación que se acumula lentamente entre mis piernas, e inconscientemente empujé mis caderas hacia arriba. [ch_ren] deja escapar otro gemido tembloroso antes de alcanzar sin esfuerzo mi [parts] para estimularme más." 
+    old "His expression does little to stifle the sensation slowly building between my legs, and I unconsciously thrust my hips upwards. [ch_ren] lets out another shaky moan before he effortlessly reaches for my [parts!t] to stimulate me further." 
+    new "Su expresión hace poco para sofocar la sensación que se acumula lentamente entre mis piernas, e inconscientemente empujé mis caderas hacia arriba. [ch_ren] deja escapar otro gemido tembloroso antes de alcanzar sin esfuerzo mi [parts!t] para estimularme más." 
 
 # game/14 Nights With You/bonus.rpy:867
 #dlc_14nwy_d1_t12_dac011d5:
@@ -2472,8 +2472,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:877
 #dlc_14nwy_d1_t14_7a3b7d42:
 
-    old "[ch_ren] isn't far off, it seems, as it only takes him a few more seconds of shamelessly riding my [length] before he reaches his peak." 
-    new "[ch_ren] no está muy lejos, al parecer, ya que solo le toma unos segundos más montar descaradamente mi [length] antes de alcanzar su punto máximo." 
+    old "[ch_ren] isn't far off, it seems, as it only takes him a few more seconds of shamelessly riding my [length!t] before he reaches his peak." 
+    new "[ch_ren] no está muy lejos, al parecer, ya que solo le toma unos segundos más montar descaradamente mi [length!t] antes de alcanzar su punto máximo." 
 
 # game/14 Nights With You/bonus.rpy:878
 #dlc_14nwy_d1_t14_6d56e8df:
@@ -2502,8 +2502,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:884
 #dlc_14nwy_d3_t1_61815823:
 
-    old "[ch_ren] can't seem to concentrate with the way his words come out slurred and needy, so I decide to put him out of his misery by reaching for my [length] instead and lining it up with his hole." 
-    new "[ch_ren] parece no poder concentrarse por la forma en que sus palabras salen confusas y necesitadas, así que decido sacarlo de su miseria alcanzando mi [length] y alineándolo con su agujero." 
+    old "[ch_ren] can't seem to concentrate with the way his words come out slurred and needy, so I decide to put him out of his misery by reaching for my [length!t] instead and lining it up with his hole." 
+    new "[ch_ren] parece no poder concentrarse por la forma en que sus palabras salen confusas y necesitadas, así que decido sacarlo de su miseria alcanzando mi [length!t] y alineándolo con su agujero." 
 
 # game/14 Nights With You/bonus.rpy:885
 #dlc_14nwy_d3_t1_8b199319:
@@ -2514,14 +2514,14 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:887
 #dlc_14nwy_d3_t1_737d5ecb:
 
-    old "With slow, deliberate movements, [ch_ren] gently lowers himself, and I can barely hold back the sounds of my voice as the base of my [length] rubs against my sex." 
-    new "Con movimientos lentos y deliberados, [ch_ren] baja suavemente y apenas puedo contener los sonidos de mi voz mientras la base de mi [length] se frota contra mi sexo." 
+    old "With slow, deliberate movements, [ch_ren] gently lowers himself, and I can barely hold back the sounds of my voice as the base of my [length!t] rubs against my sex." 
+    new "Con movimientos lentos y deliberados, [ch_ren] baja suavemente y apenas puedo contener los sonidos de mi voz mientras la base de mi [length!t] se frota contra mi sexo." 
 
 # game/14 Nights With You/bonus.rpy:889
 #dlc_14nwy_d3_t1_48956824:
 
-    old "With slow, deliberate movements, [ch_ren] gently lowers himself, and I can barely hold back the sounds of my voice as his walls squeeze around [length]." 
-    new "Con movimientos lentos y deliberados, [ch_ren] desciende suavemente y apenas puedo contener el sonido de mi voz mientras sus paredes se aprietan alrededor de [length]." 
+    old "With slow, deliberate movements, [ch_ren] gently lowers himself, and I can barely hold back the sounds of my voice as his walls squeeze around [length!t]." 
+    new "Con movimientos lentos y deliberados, [ch_ren] desciende suavemente y apenas puedo contener el sonido de mi voz mientras sus paredes se aprietan alrededor de [length!t]." 
 
 # game/14 Nights With You/bonus.rpy:893
 #dlc_14nwy_d3_t2_863586f0:
@@ -2538,14 +2538,14 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:899
 #dlc_14nwy_d3_t3_347ab16c:
 
-    old "The pleasurable feeling coming from the inner side of my [length] practically steals the air from my lungs, and I can't help but lift my hips off of the couch and buck into [ch_ren] for even {b}more{/b} friction." 
-    new "La sensación de placer que viene del lado interno de mi [length] prácticamente me roba el aire de los pulmones, y no puedo evitar levantar mis caderas del sofá y moverme hacia [ch_ren] para obtener aún {b}más{/b} fricción." 
+    old "The pleasurable feeling coming from the inner side of my [length!t] practically steals the air from my lungs, and I can't help but lift my hips off of the couch and buck into [ch_ren] for even {b}more{/b} friction." 
+    new "La sensación de placer que viene del lado interno de mi [length!t] prácticamente me roba el aire de los pulmones, y no puedo evitar levantar mis caderas del sofá y moverme hacia [ch_ren] para obtener aún {b}más{/b} fricción." 
 
 # game/14 Nights With You/bonus.rpy:901
 #dlc_14nwy_d3_t3_8d6c4577:
 
-    old "The pleasurable feeling of his walls squeezing around my [length] practically steals the air from my lungs, and I can't help but lift my hips off of the couch and buck into [ch_ren]." 
-    new "La placentera sensación de sus paredes apretando alrededor de mi [length] prácticamente me roba el aire de los pulmones, y no puedo evitar levantar mis caderas del sofá y meterme en [ch_ren]." 
+    old "The pleasurable feeling of his walls squeezing around my [length!t] practically steals the air from my lungs, and I can't help but lift my hips off of the couch and buck into [ch_ren]." 
+    new "La placentera sensación de sus paredes apretando alrededor de mi [length!t] prácticamente me roba el aire de los pulmones, y no puedo evitar levantar mis caderas del sofá y meterme en [ch_ren]." 
 
 # game/14 Nights With You/bonus.rpy:904
 #dlc_14nwy_d3_t4_f34cb8c0:
@@ -2567,8 +2567,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:911
 #dlc_14nwy_d3_t6_0ec83cb8:
 
-    old "The next thing I know, [ch_ren]'s hungry mouth and body are on mine once more as he reaches down to play with my [parts]." 
-    new "Lo siguiente que sé es que la boca y el cuerpo hambrientos de [ch_ren] están sobre el mío una vez más mientras se agacha para jugar con mi [parts]." 
+    old "The next thing I know, [ch_ren]'s hungry mouth and body are on mine once more as he reaches down to play with my [parts!t]." 
+    new "Lo siguiente que sé es que la boca y el cuerpo hambrientos de [ch_ren] están sobre el mío una vez más mientras se agacha para jugar con mi [parts!t]." 
 
 # game/14 Nights With You/bonus.rpy:914
 #dlc_14nwy_d3_t7_2916d65e:
@@ -2579,8 +2579,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:917
 #dlc_14nwy_d3_t8_aff1dfae:
 
-    old "Before I can respond, [ch_ren] {b}fully{/b} sheaths my [length] inside of his tight hole and starts to grind his hips. But just as he lets out a moan from the friction, he starts to move once more." 
-    new "Antes de que pueda responder, [ch_ren]{b}completamente{/b} envuelve mi [length] dentro de su estrecho agujero y comienza a mover sus caderas. Pero justo cuando deja escapar un gemido por la fricción, comienza a moverse una vez más." 
+    old "Before I can respond, [ch_ren] {b}fully{/b} sheaths my [length!t] inside of his tight hole and starts to grind his hips. But just as he lets out a moan from the friction, he starts to move once more." 
+    new "Antes de que pueda responder, [ch_ren]{b}completamente{/b} envuelve mi [length!t] dentro de su estrecho agujero y comienza a mover sus caderas. Pero justo cuando deja escapar un gemido por la fricción, comienza a moverse una vez más." 
 
 # game/14 Nights With You/bonus.rpy:918
 #dlc_14nwy_d3_t8_7f2942b8:
@@ -2603,20 +2603,20 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:921
 #dlc_14nwy_d3_t8_06b58054:
 
-    old "[ch_ren] spreads his thighs even more before he returns his attention back towards my [bust], which has me seeing stars." 
-    new "[ch_ren] abre sus muslos aún más antes de devolver su atención a mi [bust], lo que me hace ver estrellas." 
+    old "[ch_ren] spreads his thighs even more before he returns his attention back towards my [bust!t], which has me seeing stars." 
+    new "[ch_ren] abre sus muslos aún más antes de devolver su atención a mi [bust!t], lo que me hace ver estrellas." 
 
 # game/14 Nights With You/bonus.rpy:922
 #dlc_14nwy_d3_t8_f47e1d18:
 
-    old "I can feel his hole squeeze around my [length], and once my tip hits that particular spot inside of him, [ch_ren] can't help but cry out and reach for my [parts] once more." 
-    new "Puedo sentir su agujero apretarse alrededor de mi [length], y una vez que mi punta golpea ese punto particular dentro de él, [ch_ren] no puede evitar gritar y alcanzar mi [parts] una vez más." 
+    old "I can feel his hole squeeze around my [length!t], and once my tip hits that particular spot inside of him, [ch_ren] can't help but cry out and reach for my [parts!t] once more." 
+    new "Puedo sentir su agujero apretarse alrededor de mi [length!t], y una vez que mi punta golpea ese punto particular dentro de él, [ch_ren] no puede evitar gritar y alcanzar mi [parts!t] una vez más." 
 
 # game/14 Nights With You/bonus.rpy:925
 #dlc_14nwy_d3_t9_1e8624db:
 
-    old "[ch_ren]'s voice does little to hide his desire and hunger for me, and he makes it known by bouncing on my [length] with reckless abandon." 
-    new "La voz de [ch_ren] hace poco para ocultar su deseo y hambre por mí, y lo hace saber saltando sobre mi [length] con imprudente abandono." 
+    old "[ch_ren]'s voice does little to hide his desire and hunger for me, and he makes it known by bouncing on my [length!t] with reckless abandon." 
+    new "La voz de [ch_ren] hace poco para ocultar su deseo y hambre por mí, y lo hace saber saltando sobre mi [length!t] con imprudente abandono." 
 
 # game/14 Nights With You/bonus.rpy:928
 #dlc_14nwy_d3_t10_c4279fbc:
@@ -2639,8 +2639,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:933
 #dlc_14nwy_d3_t10_95e26183:
 
-    old "Try as much as you want, but it's {i}my{/i} hole that your [length] will crave." 
-    new "Prueba todo lo que quieras, pero es {i}mi{/i} agujero lo que tu [length] anhelará." 
+    old "Try as much as you want, but it's {i}my{/i} hole that your [length!t] will crave." 
+    new "Prueba todo lo que quieras, pero es {i}mi{/i} agujero lo que tu [length!t] anhelará." 
 
 # game/14 Nights With You/bonus.rpy:934
 #dlc_14nwy_d3_t10_119b32c9:
@@ -2657,14 +2657,14 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:940
 #dlc_14nwy_d3_t11_c7ab278a:
 
-    old "His length is going deeper than ever now, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — moves one of his hands from my [bust] to stroke my weeping cock instead." 
-    new "Su longitud es cada vez más profunda que nunca, y echo la cabeza hacia atrás en éxtasis. Y [ch_ren], siempre atento a mis necesidades, mueve una de sus manos de mi [bust] para acariciar mi polla llorosa." 
+    old "His length is going deeper than ever now, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — moves one of his hands from my [bust!t] to stroke my weeping cock instead." 
+    new "Su longitud es cada vez más profunda que nunca, y echo la cabeza hacia atrás en éxtasis. Y [ch_ren], siempre atento a mis necesidades, mueve una de sus manos de mi [bust!t] para acariciar mi polla llorosa." 
 
 # game/14 Nights With You/bonus.rpy:942
 #dlc_14nwy_d3_t11_6e8896ce:
 
-    old "His length is going deeper than ever now, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — moves one of his hands from my [bust] to stimulate my sex instead." 
-    new "Su longitud es cada vez más profunda que nunca, y echo la cabeza hacia atrás en éxtasis. Y [ch_ren], siempre atento a mis necesidades, mueve una de sus manos de mi [bust] para estimular mi sexo." 
+    old "His length is going deeper than ever now, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — moves one of his hands from my [bust!t] to stimulate my sex instead." 
+    new "Su longitud es cada vez más profunda que nunca, y echo la cabeza hacia atrás en éxtasis. Y [ch_ren], siempre atento a mis necesidades, mueve una de sus manos de mi [bust!t] para estimular mi sexo." 
 
 # game/14 Nights With You/bonus.rpy:946
 #dlc_14nwy_d3_t12_613a20bf:
@@ -2699,8 +2699,8 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:957
 #dlc_14nwy_d3_t14_236de644:
 
-    old "He doesn't seem to remove himself from my [length] though — and much like last time — I remain balls deep inside him as we both melt into the couch." 
-    new "Sin embargo, no parece separarse de mi [length], y al igual que la última vez, sigo con las pelotas dentro de él mientras ambos nos derretimos en el sofá." 
+    old "He doesn't seem to remove himself from my [length!t] though — and much like last time — I remain balls deep inside him as we both melt into the couch." 
+    new "Sin embargo, no parece separarse de mi [length!t], y al igual que la última vez, sigo con las pelotas dentro de él mientras ambos nos derretimos en el sofá." 
 
 # game/14 Nights With You/bonus.rpy:959
 #dlc_14nwy_d3_t14_ec897aa8:
@@ -2711,14 +2711,14 @@ translate Paloslios strings:
 # game/14 Nights With You/bonus.rpy:963
 #dlc_14nwy_d3_t15_7a895522:
 
-    old "He doesn't seem to remove himself from my [length] though, and I remain balls deep inside him as we both melt into the couch." 
-    new "Sin embargo, él no parece separarse de mi [length], y sigo profundamente dentro de él mientras ambos nos derretimos en el sofá." 
+    old "He doesn't seem to remove himself from my [length!t] though, and I remain balls deep inside him as we both melt into the couch." 
+    new "Sin embargo, él no parece separarse de mi [length!t], y sigo profundamente dentro de él mientras ambos nos derretimos en el sofá." 
 
 # game/14 Nights With You/bonus.rpy:965
 #dlc_14nwy_d3_t15_295892a5:
 
-    old "He doesn't seem to remove himself from my [length] though, so we both remain as close as possible while [ch_ren] pulls me closer into the couch." 
-    new "Sin embargo, no parece separarse de mi [length], así que ambos permanecemos lo más cerca posible mientras [ch_ren] me acerca al sofá." 
+    old "He doesn't seem to remove himself from my [length!t] though, so we both remain as close as possible while [ch_ren] pulls me closer into the couch." 
+    new "Sin embargo, no parece separarse de mi [length!t], así que ambos permanecemos lo más cerca posible mientras [ch_ren] me acerca al sofá." 
 
     old "…I want you, [ch_ren]. {i}Please?{/i}"
     new "…Te quiero, [ch_ren]. {i}¿Por favor?{/i}" 
@@ -2795,8 +2795,7 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:135
 #translate Paloslios DLC_day2_s6_6dc446db:
 
-    old "Rolling onto my side, I reach for the discarded plushie so I can be surrounded by his comforting scent and slowly drift off to sleep." 
-    new "Rodándome de costado, alcanzo el peluche desechado para poder estar rodeada de su reconfortante aroma y quedarme dormido lentamente." 
+
 
 # game/14 Nights With You/14nightswithyou.rpy:138
 #translate Paloslios DLC_day2_s7_f33dc7c1:
@@ -2807,8 +2806,7 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:139
 #translate Paloslios DLC_day2_s7_bcede0ff:
 
-    old "But still… It was nice to fantasise about. {b}He{/b} was certainly nice to fantasise about." 
-    new "Pero aún así... Era agradable fantasear con eso. {b}Él{/b} ciertamente era agradable fantasear con él." 
+
 
 # game/14 Nights With You/14nightswithyou.rpy:140
 #translate Paloslios DLC_day2_s7_6f40f54b:
@@ -2825,8 +2823,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:142
 #translate Paloslios DLC_day2_s7_6dc446db:
 
-    old "Rolling onto my side, I reach for the discarded plushie so I can be surrounded by his comforting scent and slowly drift off to sleep." 
-    new "Rodándome de costado, alcanzo el peluche desechado para poder estar rodeada de su reconfortante aroma y quedarme dormido lentamente." 
+
+
 
 # game/14 Nights With You/14nightswithyou.rpy:145
 #translate Paloslios DLC_day2_s8_116df39b:
@@ -3071,20 +3069,17 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:228
 #translate Paloslios DLC_firsttime_menu_cdf209c6_1:
 
-    old "U-Um. Actually… Before we continue…" 
-    new "U-um. En realidad… Antes de continuar…" 
+ 
 
 # game/14 Nights With You/14nightswithyou.rpy:234
 #translate Paloslios DLC_firsttime_menu_cdf209c6_2:
 
-    old "U-Um. Actually… Before we continue…" 
-    new "U-um. En realidad… Antes de continuar…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:239
 #translate Paloslios DLC_firsttime_menu_cdf209c6_3:
 
-    old "U-Um. Actually… Before we continue…" 
-    new "U-um. En realidad… Antes de continuar…" 
+
+   
 
 # game/14 Nights With You/14nightswithyou.rpy:244
 #translate Paloslios DLC_firsttime_penetrated_ac7c7bf8:
@@ -3215,8 +3210,7 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:282
 #translate Paloslios day1_wahooscene_a0ece55a:
 
-    old "…I want you, [ch_ren]. {i}Please?{/i}" 
-    new "…Te quiero, [ch_ren]. {i}¿Por favor?{/i}" 
+
 
 # game/14 Nights With You/14nightswithyou.rpy:288
 #translate Paloslios day1_wahooscene_864bced0:
@@ -3257,8 +3251,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:294
 #translate Paloslios day1_wahooscene_9c51d327:
 
-    old "Almost eagerly, he pulls my shirt up to expose my [bust]." 
-    new "Casi con entusiasmo, me levanta la camisa para exponer mi [bust]." 
+    old "Almost eagerly, he pulls my shirt up to expose my [bust!t]." 
+    new "Casi con entusiasmo, me levanta la camisa para exponer mi [bust!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:295
 #translate Paloslios day1_wahooscene_e70f4e59:
@@ -3377,8 +3371,7 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:319
 #translate Paloslios day1_wahooscene_2b741177_1:
 
-    old "He starts thrusting his finger now, slowly easing it in and out of me before adding another. My breath hitches in my throat as I throw my head back, once again arching into his addictive touch." 
-    new "Comienza a empujar su dedo ahora, lentamente metiéndolo y sacándolo antes de agregar otro. Mi respiración se corta en mi garganta mientras echo la cabeza hacia atrás, arqueándome una vez más ante su adictivo toque." 
+
 
 # game/14 Nights With You/14nightswithyou.rpy:321
 #translate Paloslios day1_wahooscene_5e449565:
@@ -3395,8 +3388,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:323
 #translate Paloslios day1_wahooscene_2b741177_2:
 
-    old "He starts thrusting his finger now, slowly easing it in and out of me before adding another. My breath hitches in my throat as I throw my head back, once again arching into his addictive touch." 
-    new "Comienza a empujar su dedo ahora, lentamente metiéndolo y sacándolo antes de agregar otro. Mi respiración se corta en mi garganta mientras echo la cabeza hacia atrás, arqueándome una vez más ante su adictivo toque." 
+
+
 
 # game/14 Nights With You/14nightswithyou.rpy:324
 #translate Paloslios day1_wahooscene_e1451315:
@@ -3455,8 +3448,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:336
 #translate Paloslios day1_wahooscene_e4ede34b:
 
-    old "As if responding to my sounds, his mouth moves towards my [bust], and I can't help but arch my back into his searing touch." 
-    new "Como respondiendo a mis sonidos, su boca se mueve hacia mi [bust] y no puedo evitar arquear la espalda ante su toque abrasador." 
+    old "As if responding to my sounds, his mouth moves towards my [bust!t], and I can't help but arch my back into his searing touch." 
+    new "Como respondiendo a mis sonidos, su boca se mueve hacia mi [bust!t] y no puedo evitar arquear la espalda ante su toque abrasador." 
 
 # game/14 Nights With You/14nightswithyou.rpy:337
 #translate Paloslios day1_wahooscene_e819d502:
@@ -4049,8 +4042,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:537
 #translate Paloslios day2_wahooscene_362e2907_1:
 
-    old "His kisses, however, are all too familiar." 
-    new "Sus besos, sin embargo, le resultan demasiado familiares." 
+
+
 
 # game/14 Nights With You/14nightswithyou.rpy:538
 #translate Paloslios day2_wahooscene_6055b503:
@@ -4379,14 +4372,13 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:606
 #translate Paloslios day2_wahooscene_c2a618d3_1:
 
-    old "[ch_ren]—!" 
-    new "[ch_ren]—!" 
+
 
 # game/14 Nights With You/14nightswithyou.rpy:607
 #translate Paloslios day2_wahooscene_97dad74f:
 
-    old "He all but moans against my skin in response as his free hand ghosts along my (still-clothed) stomach to play with my [bust] instead of my thighs." 
-    new "Él casi gime contra mi piel en respuesta mientras su mano libre recorre mi estómago (aún vestido) para jugar con mi [bust] en lugar de mis muslos." 
+    old "He all but moans against my skin in response as his free hand ghosts along my (still-clothed) stomach to play with my [bust!t] instead of my thighs." 
+    new "Él casi gime contra mi piel en respuesta mientras su mano libre recorre mi estómago (aún vestido) para jugar con mi [bust!t] en lugar de mis muslos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:608
 #translate Paloslios day2_wahooscene_77b36333:
@@ -4541,8 +4533,7 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:641
 #translate Paloslios day2_wahooscene_12ea751d_1:
 
-    old "[ch_ren]'s name continues to fall from my lips like a mantra as I tumble over that blissful edge; tugging on the roots of his hair as I fall into the pit of pleasure below." 
-    new "El nombre de [ch_ren] continúa cayendo de mis labios como un mantra mientras caigo sobre ese borde dichoso; Tirando de las raíces de su cabello mientras caigo en el pozo de placer que hay debajo." 
+
 
 # game/14 Nights With You/14nightswithyou.rpy:642
 #translate Paloslios day2_wahooscene_f28decd1:
@@ -4559,14 +4550,14 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:645
 #translate Paloslios day2_wahooscene_a789fa77_1:
 
-    old "His free hand grips my thigh as he pulls me impossibly close to his mouth, and his ministrations speed up to help me reach my peak." 
-    new "Su mano libre agarra mi muslo mientras me acerca increíblemente a su boca, y sus cuidados se aceleran para ayudarme a alcanzar mi punto máximo." 
+
+
 
 # game/14 Nights With You/14nightswithyou.rpy:646
 #translate Paloslios day2_wahooscene_12ea751d_2:
 
-    old "[ch_ren]'s name continues to fall from my lips like a mantra as I tumble over that blissful edge; tugging on the roots of his hair as I fall into the pit of pleasure below." 
-    new "El nombre de [ch_ren] continúa cayendo de mis labios como un mantra mientras caigo sobre ese borde dichoso; Tirando de las raíces de su cabello mientras caigo en el pozo de placer que hay debajo." 
+
+
 
 # game/14 Nights With You/14nightswithyou.rpy:647
 #translate Paloslios day2_wahooscene_567ffb7c:
@@ -4850,8 +4841,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:708
 #translate Paloslios day3_wahooscene_56ec07c2:
 
-    old "His breath tickles my skin as he murmurs into the juncture near my neck, before he drops lower to playfully nip at my [bust]." 
-    new "Su aliento me hace cosquillas en la piel mientras murmura en la unión cerca de mi cuello, antes de caer más abajo para pellizcar juguetonamente mi [bust]." 
+    old "His breath tickles my skin as he murmurs into the juncture near my neck, before he drops lower to playfully nip at my [bust!t]." 
+    new "Su aliento me hace cosquillas en la piel mientras murmura en la unión cerca de mi cuello, antes de caer más abajo para pellizcar juguetonamente mi [bust!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:711
 #translate Paloslios day3_wahooscene_a7cb5876:
@@ -5078,8 +5069,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:773
 #translate Paloslios day3_wahooscene_7398832d:
 
-    old "I can feel him smile against my neck before his lips timidly move towards my [bust]." 
-    new "Puedo sentirlo sonreír contra mi cuello antes de que sus labios se muevan tímidamente hacia mi [bust]." 
+    old "I can feel him smile against my neck before his lips timidly move towards my [bust!t]." 
+    new "Puedo sentirlo sonreír contra mi cuello antes de que sus labios se muevan tímidamente hacia mi [bust!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:774
 #translate Paloslios day3_wahooscene_f0febe6b:
@@ -5102,8 +5093,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:778
 #translate Paloslios day3_wahooscene_0399e8c2:
 
-    old "I can feel him smile against my neck before his lips move towards my [bust]." 
-    new "Puedo sentirlo sonreír contra mi cuello antes de que sus labios se muevan hacia mi [bust]." 
+    old "I can feel him smile against my neck before his lips move towards my [bust!t]." 
+    new "Puedo sentirlo sonreír contra mi cuello antes de que sus labios se muevan hacia mi [bust!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:782
 #translate Paloslios day3_wahooscene_1b187b01:
@@ -5114,8 +5105,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:783
 #translate Paloslios day3_wahooscene_42e84a76:
 
-    old "Doesn't really matter anyway. 'M gonna make this [hole] remember my shape." 
-    new "Realmente no importa de todos modos. Voy a hacer que este [hole] recuerde mi forma." 
+    old "Doesn't really matter anyway. 'M gonna make this [hole!t] remember my shape." 
+    new "Realmente no importa de todos modos. Voy a hacer que este [hole!t] recuerde mi forma." 
 
 # game/14 Nights With You/14nightswithyou.rpy:785
 #translate Paloslios day3_wahooscene_b5ea79d4:
@@ -5126,8 +5117,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:786
 #translate Paloslios day3_wahooscene_0399e8c2_1:
 
-    old "I can feel him smile against my neck before his lips move towards my [bust]." 
-    new "Puedo sentirlo sonreír contra mi cuello antes de que sus labios se muevan hacia mi [bust]." 
+
+
 
 # game/14 Nights With You/14nightswithyou.rpy:787
 #translate Paloslios day3_wahooscene_d32980c5:
@@ -5138,8 +5129,6 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:791
 #translate Paloslios day3_wahooscene_42e84a76_1:
 
-    old "Doesn't really matter anyway. 'M gonna make this [hole] remember my shape." 
-    new "Realmente no importa de todos modos. Voy a hacer que este [hole] recuerde mi forma." 
 
 # game/14 Nights With You/14nightswithyou.rpy:792
 #translate Paloslios day3_wahooscene_de0f9c86:
@@ -5162,8 +5151,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:798
 #translate Paloslios day3_wahooscene_d3919dd4:
 
-    old "[ch_ren]'s free hand comes to play with my [bust] as his hips roughly buck against my own. The lewd sound of wet skin slapping skin fills the room, accompanied by his insistent ramblings." 
-    new "La mano libre de [ch_ren] viene a jugar con mi [bust] mientras sus caderas se mueven bruscamente contra las mías. El sonido lascivo de la piel húmeda golpeando la piel llena la habitación, acompañado por sus insistentes divagaciones." 
+    old "[ch_ren]'s free hand comes to play with my [bust!t] as his hips roughly buck against my own. The lewd sound of wet skin slapping skin fills the room, accompanied by his insistent ramblings." 
+    new "La mano libre de [ch_ren] viene a jugar con mi [bust!t] mientras sus caderas se mueven bruscamente contra las mías. El sonido lascivo de la piel húmeda golpeando la piel llena la habitación, acompañado por sus insistentes divagaciones." 
 
 # game/14 Nights With You/14nightswithyou.rpy:799
 #translate Paloslios day3_wahooscene_f89ef252:
@@ -5234,8 +5223,7 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:816
 #translate Paloslios day3_wahooscene_8a858920:
 
-    old "No one else could ever compare to you…" 
-    new "Nadie más podría compararse contigo..." 
+ 
 
 # game/14 Nights With You/14nightswithyou.rpy:817
 #translate Paloslios day3_wahooscene_09365d99:
@@ -5318,8 +5306,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:836
 #translate Paloslios day3_wahooscene_9621fce7:
 
-    old "Try as much as you want, but it's {i}my{/i} cock that your [hole] will crave." 
-    new "Prueba todo lo que quieras, pero es {i}mi{/i} polla la que tu [hole] anhelará." 
+    old "Try as much as you want, but it's {i}my{/i} cock that your [hole!t] will crave." 
+    new "Prueba todo lo que quieras, pero es {i}mi{/i} polla la que tu [hole!t] anhelará." 
 
 # game/14 Nights With You/14nightswithyou.rpy:837
 #translate Paloslios day3_wahooscene_e375e4d8:
@@ -5726,8 +5714,7 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:957
 #translate Paloslios day4_wahooscene_91b27701_1:
 
-    old "I say with a wink before tasking myself with unbuckling his belt." 
-    new "—digo con un guiño antes de desabrocharle el cinturón." 
+
 
 # game/14 Nights With You/14nightswithyou.rpy:959
 #translate Paloslios day4_wahooscene_d115ac38:
@@ -6581,8 +6568,6 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:1144
 #translate Paloslios day5_wahooscene_4f89b299_1:
 
-    old "Another wave of pleasure wracks through me, and I cling onto [ch_ren]'s upper arm to stop myself from toppling over." 
-    new "Otra ola de placer me atraviesa y me aferro a la parte superior del brazo de [ch_ren] para evitar caerme." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1146
 #translate Paloslios day5_wahooscene_e967ec2c:
@@ -6593,8 +6578,6 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:1147
 #translate Paloslios day5_wahooscene_4f89b299_2:
 
-    old "Another wave of pleasure wracks through me, and I cling onto [ch_ren]'s upper arm to stop myself from toppling over." 
-    new "Otra ola de placer me atraviesa y me aferro a la parte superior del brazo de [ch_ren] para evitar caerme." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1148
 #translate Paloslios day5_wahooscene_864805aa:
@@ -6671,8 +6654,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:1160
 #translate Paloslios day5_wahooscene_dfd36c83:
 
-    old "Not that I have much time to dwell on that thought, however, as I soon feel the tip of [ch_ren]'s cock prodding against my [hole]." 
-    new "Sin embargo, no tengo mucho tiempo para pensar en ese pensamiento, ya que pronto siento la punta de la polla de [ch_ren] presionando contra mi [hole]." 
+    old "Not that I have much time to dwell on that thought, however, as I soon feel the tip of [ch_ren]'s cock prodding against my [hole!t]." 
+    new "Sin embargo, no tengo mucho tiempo para pensar en ese pensamiento, ya que pronto siento la punta de la polla de [ch_ren] presionando contra mi [hole!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1161
 #translate Paloslios day5_wahooscene_0fa7003b:
@@ -6742,9 +6725,7 @@ translate Paloslios strings:
 
 # game/14 Nights With You/14nightswithyou.rpy:1172
 #translate Paloslios day5_wahooscene_9982eec3:
-
-    old "…You sure?" 
-    new "…¿Seguro?" 
+ 
 
 # game/14 Nights With You/14nightswithyou.rpy:1173
 #translate Paloslios day5_wahooscene_d9295e3f:
@@ -6887,8 +6868,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:1205
 #translate Paloslios day5_wahooscene_94a3911b:
 
-    old "His hand doesn't stay idle for long either, as it eventually travels down my stomach to play with my [parts] and make me see stars." 
-    new "Su mano tampoco permanece inactiva por mucho tiempo, ya que eventualmente baja por mi estómago para jugar con mi [parts] y hacerme ver estrellas." 
+    old "His hand doesn't stay idle for long either, as it eventually travels down my stomach to play with my [parts!t] and make me see stars." 
+    new "Su mano tampoco permanece inactiva por mucho tiempo, ya que eventualmente baja por mi estómago para jugar con mi [parts!t] y hacerme ver estrellas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1206
 #translate Paloslios day5_wahooscene_a9fa1d66:
@@ -6923,8 +6904,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:1212
 #translate Paloslios day5_wahooscene_85a226d2:
 
-    old "[ch_ren] wastes no time in turning his attention to the exposed shell of my ear once more, while his other hand goes back to pleasuring my [hole]." 
-    new "[ch_ren] no pierde el tiempo en volver a centrar su atención en la cáscara expuesta de mi oreja, mientras su otra mano vuelve a complacer a mi [hole]." 
+    old "[ch_ren] wastes no time in turning his attention to the exposed shell of my ear once more, while his other hand goes back to pleasuring my [hole!t]." 
+    new "[ch_ren] no pierde el tiempo en volver a centrar su atención en la cáscara expuesta de mi oreja, mientras su otra mano vuelve a complacer a mi [hole!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1213
 #translate Paloslios day5_wahooscene_3b27e8e7:
@@ -6947,14 +6928,12 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:1218
 #translate Paloslios day5_wahooscene_dfd02891:
 
-    old "[ch_ren] wastes no time in turning his attention to the exposed shell of my ear once more while his other hand goes back to pleasuring my [hole]." 
-    new "[ch_ren] no pierde el tiempo en volver a centrar su atención en la cáscara expuesta de mi oreja mientras su otra mano vuelve a complacer a mi [hole]." 
+    old "[ch_ren] wastes no time in turning his attention to the exposed shell of my ear once more while his other hand goes back to pleasuring my [hole!t]." 
+    new "[ch_ren] no pierde el tiempo en volver a centrar su atención en la cáscara expuesta de mi oreja mientras su otra mano vuelve a complacer a mi [hole!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1219
 #translate Paloslios day5_wahooscene_3b27e8e7_1:
 
-    old "His fingers feel so good, and I can't help but let out small moans every time he brushes against that sensitive spot inside me. At that, [ch_ren] {b}immediately{/b} perks up with a mischievous glint in his eyes." 
-    new "Sus dedos se sienten tan bien, y no puedo evitar dejar escapar pequeños gemidos cada vez que roza ese punto sensible dentro de mí. Ante eso, [ch_ren]{b}inmediatamente{/b} se anima con un brillo travieso en sus ojos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1220
 #translate Paloslios day5_wahooscene_a68744d1:
@@ -7042,8 +7021,8 @@ translate Paloslios strings:
 # game/14 Nights With You/14nightswithyou.rpy:1236
 #translate Paloslios day5_wahooscene_5a639348:
 
-    old "That alone seems to do the trick, as [ch_ren] moves one of his hands to my [bust] to play with a nipple." 
-    new "Eso por sí solo parece funcionar, ya que [ch_ren] mueve una de sus manos hacia mi [bust] para jugar con un pezón." 
+    old "That alone seems to do the trick, as [ch_ren] moves one of his hands to my [bust!t] to play with a nipple." 
+    new "Eso por sí solo parece funcionar, ya que [ch_ren] mueve una de sus manos hacia mi [bust!t] para jugar con un pezón." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1237
 #translate Paloslios day5_wahooscene_3b112065:
@@ -7209,6 +7188,3 @@ translate Paloslios strings:
 
 # game/14 Nights With You/bonus.rpy:172
 #translate Paloslios DLC_firsttime_penetrating_2dfe2987:
-
-    old "As I fumble around for the strap-on I kept hidden away (for moments such as these) and start to prep for what's about to happen, [ch_ren] makes a sound and pulls away from me with an awkward laugh."
-    new "Mientras busco a tientas el cinturón que mantuve escondido (para momentos como este) y empiezo a prepararme para lo que está por suceder, [ch_ren] hace un sonido y se aleja de mí con una risa incómoda."

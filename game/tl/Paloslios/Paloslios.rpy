@@ -13,7274 +13,7274 @@
 # game/14 Nights With You/14nightswithyou.rpy:111
 translate Paloslios DLC_day2_s1_35641d93:
 
-    # n "But then again, we {b}did{/b} sleep together last night, and I still haven't been able to broach the subject with him yet." nointeract
-    n "Pero claro, {b}nosotros{/b} dormimos juntos anoche y todavía no he podido abordar el tema con él." nointeract
+    # n "But then again, we {b}did{/b} sleep together last night, and I still haven't been able to broach the subject with him yet." 
+    n "Pero claro, {b}nosotros{/b} dormimos juntos anoche y todavía no he podido abordar el tema con él." 
 
 # game/14 Nights With You/14nightswithyou.rpy:115
 translate Paloslios DLC_day2_s2_dbc679cc:
 
-    # r "The fuck's your problem, [asshole]?" nointeract
-    r "¿Qué carajo es tu problema, [asshole]?" nointeract
+    # r "The fuck's your problem, [asshole!t]?" 
+    r "¿Qué carajo es tu problema, [asshole!t]?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:116
 translate Paloslios DLC_day2_s2_5a925a99:
 
-    # n "…That was the second time I'd ever heard [ch_ren] swear. Was he usually this accustomed to cussing?" nointeract
-    n "…Esa fue la segunda vez que escuché a [ch_ren] maldecir. ¿Estaba usualmente tan acostumbrado a decir malas palabras?" nointeract
+    # n "…That was the second time I'd ever heard [ch_ren] swear. Was he usually this accustomed to cussing?" 
+    n "…Esa fue la segunda vez que escuché a [ch_ren] maldecir. ¿Estaba usualmente tan acostumbrado a decir malas palabras?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:119
 translate Paloslios DLC_day2_s3_fdc8d2ef:
 
-    # n "Except friends don't spend the night together and get jealous whenever they flirt with someone else." nointeract
-    n "Excepto que los amigos no pasan la noche juntos y se ponen celosos cada vez que coquetean con otra persona." nointeract
+    # n "Except friends don't spend the night together and get jealous whenever they flirt with someone else." 
+    n "Excepto que los amigos no pasan la noche juntos y se ponen celosos cada vez que coquetean con otra persona." 
 
 # game/14 Nights With You/14nightswithyou.rpy:123
 translate Paloslios DLC_day2_s4_35242352:
 
-    # r "…Y-You've taken a lot more of my firsts than you've realised." nointeract
-    r "…T-Has tomado muchas más de mis primicias de las que te imaginas." nointeract
+    # r "…Y-You've taken a lot more of my firsts than you've realised." 
+    r "…T-Has tomado muchas más de mis primicias de las que te imaginas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:126
 translate Paloslios DLC_day2_s5_ebe4efe7:
 
-    # n "And there was also the fact that we'd gotten intimate {b}twice{/b} now. Surely that was saying something about my feelings for [ch_ren]." nointeract
-    n "Y también estaba el hecho de que ya habíamos tenido intimidad {b}dos veces{/b}. Seguramente eso decía algo sobre mis sentimientos por [ch_ren]." nointeract
+    # n "And there was also the fact that we'd gotten intimate {b}twice{/b} now. Surely that was saying something about my feelings for [ch_ren]." 
+    n "Y también estaba el hecho de que ya habíamos tenido intimidad {b}dos veces{/b}. Seguramente eso decía algo sobre mis sentimientos por [ch_ren]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:127
 translate Paloslios DLC_day2_s5_5c1417e9:
 
-    # n "He certainly had boyfriend potential, but I still needed to work up the nerve to make it lead towards that direction." nointeract
-    n "Ciertamente tenía potencial de novio, pero aún necesitaba reunir el valor para que me llevara en esa dirección." nointeract
+    # n "He certainly had boyfriend potential, but I still needed to work up the nerve to make it lead towards that direction." 
+    n "Ciertamente tenía potencial de novio, pero aún necesitaba reunir el valor para que me llevara en esa dirección." 
 
 # game/14 Nights With You/14nightswithyou.rpy:128
 translate Paloslios DLC_day2_s5_f21d4f8b:
 
-    # n "It's just… He seemed confident in every other aspect though, which was still a bit confusing to me." nointeract
-    n "Es solo que… Parecía confiado en todos los demás aspectos, lo cual todavía era un poco confuso para mí." nointeract
+    # n "It's just… He seemed confident in every other aspect though, which was still a bit confusing to me." 
+    n "Es solo que… Parecía confiado en todos los demás aspectos, lo cual todavía era un poco confuso para mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:129
 translate Paloslios DLC_day2_s5_d992f3e6:
 
-    # n "Ah well, just knowing [ch_ren] wanted to spend the entire day with me is enough." nointeract
-    n "Ah, bueno, sólo saber que [ch_ren] quería pasar todo el día conmigo es suficiente." nointeract
+    # n "Ah well, just knowing [ch_ren] wanted to spend the entire day with me is enough." 
+    n "Ah, bueno, sólo saber que [ch_ren] quería pasar todo el día conmigo es suficiente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:130
 translate Paloslios DLC_day2_s5_6dc446db:
 
-    # n "Rolling onto my side, I reach for the discarded plushie so I can be surrounded by his comforting scent and slowly drift off to sleep." nointeract
-    n "Rodándome de costado, alcanzo el peluche desechado para poder estar rodeada de su reconfortante aroma y quedarme dormido lentamente." nointeract
+    # n "Rolling onto my side, I reach for the discarded plushie so I can be surrounded by his comforting scent and slowly drift off to sleep." 
+    n "Rodándome de costado, alcanzo el peluche desechado para poder estar rodeada de su reconfortante aroma y quedarme dormido lentamente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:133
 translate Paloslios DLC_day2_s6_ce22946e:
 
-    # n "Y'know… Despite the fact that we'd gotten intimate {b}twice{/b} now." nointeract
-    n "Ya sabes... A pesar de que ya habíamos tenido intimidad {b}dos veces{/b}." nointeract
+    # n "Y'know… Despite the fact that we'd gotten intimate {b}twice{/b} now." 
+    n "Ya sabes... A pesar de que ya habíamos tenido intimidad {b}dos veces{/b}." 
 
 # game/14 Nights With You/14nightswithyou.rpy:134
 translate Paloslios DLC_day2_s6_bcede0ff:
 
-    # n "But still… It was nice to fantasise about. {b}He{/b} was certainly nice to fantasise about." nointeract
-    n "Pero aún así... Era agradable fantasear con eso. {b}Él{/b} ciertamente era agradable fantasear con él." nointeract
+    # n "But still… It was nice to fantasise about. {b}He{/b} was certainly nice to fantasise about." 
+    n "Pero aún así... Era agradable fantasear con eso. {b}Él{/b} ciertamente era agradable fantasear con él." 
 
 # game/14 Nights With You/14nightswithyou.rpy:135
 translate Paloslios DLC_day2_s6_6dc446db:
 
-    # n "Rolling onto my side, I reach for the discarded plushie so I can be surrounded by his comforting scent and slowly drift off to sleep." nointeract
-    n "Rodándome de costado, alcanzo el peluche desechado para poder estar rodeada de su reconfortante aroma y quedarme dormido lentamente." nointeract
+    # n "Rolling onto my side, I reach for the discarded plushie so I can be surrounded by his comforting scent and slowly drift off to sleep." 
+    n "Rodándome de costado, alcanzo el peluche desechado para poder estar rodeada de su reconfortante aroma y quedarme dormido lentamente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:138
 translate Paloslios DLC_day2_s7_f33dc7c1:
 
-    # n "And I wasn't talking about getting to know his {b}body{/b} better." nointeract
-    n "Y no estaba hablando de conocer mejor su {b}cuerpo{/b}." nointeract
+    # n "And I wasn't talking about getting to know his {b}body{/b} better." 
+    n "Y no estaba hablando de conocer mejor su {b}cuerpo{/b}." 
 
 # game/14 Nights With You/14nightswithyou.rpy:139
 translate Paloslios DLC_day2_s7_bcede0ff:
 
-    # n "But still… It was nice to fantasise about. {b}He{/b} was certainly nice to fantasise about." nointeract
-    n "Pero aún así... Era agradable fantasear con eso. {b}Él{/b} ciertamente era agradable fantasear con él." nointeract
+    # n "But still… It was nice to fantasise about. {b}He{/b} was certainly nice to fantasise about." 
+    n "Pero aún así... Era agradable fantasear con eso. {b}Él{/b} ciertamente era agradable fantasear con él." 
 
 # game/14 Nights With You/14nightswithyou.rpy:140
 translate Paloslios DLC_day2_s7_6f40f54b:
 
-    # n "Maybe we could get closer in the future? He'd have to actually {b}try{/b} and put the effort in though — because right now, it felt like I was doing all the work." nointeract
-    n "¿Quizás podríamos acercarnos más en el futuro? Sin embargo, tendría que {b}intentar{/b} y esforzarse, porque en este momento, sentía como si yo estuviera haciendo todo el trabajo." nointeract
+    # n "Maybe we could get closer in the future? He'd have to actually {b}try{/b} and put the effort in though — because right now, it felt like I was doing all the work." 
+    n "¿Quizás podríamos acercarnos más en el futuro? Sin embargo, tendría que {b}intentar{/b} y esforzarse, porque en este momento, sentía como si yo estuviera haciendo todo el trabajo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:141
 translate Paloslios DLC_day2_s7_682dab43:
 
-    # n "Ah well, there was no point in me stressing over something trivial." nointeract
-    n "Ah, bueno, no tenía sentido que me estresara por algo trivial." nointeract
+    # n "Ah well, there was no point in me stressing over something trivial." 
+    n "Ah, bueno, no tenía sentido que me estresara por algo trivial." 
 
 # game/14 Nights With You/14nightswithyou.rpy:142
 translate Paloslios DLC_day2_s7_6dc446db:
 
-    # n "Rolling onto my side, I reach for the discarded plushie so I can be surrounded by his comforting scent and slowly drift off to sleep." nointeract
-    n "Rodándome de costado, alcanzo el peluche desechado para poder estar rodeada de su reconfortante aroma y quedarme dormido lentamente." nointeract
+    # n "Rolling onto my side, I reach for the discarded plushie so I can be surrounded by his comforting scent and slowly drift off to sleep." 
+    n "Rodándome de costado, alcanzo el peluche desechado para poder estar rodeada de su reconfortante aroma y quedarme dormido lentamente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:145
 translate Paloslios DLC_day2_s8_116df39b:
 
-    # n "But I guess I shouldn't be calling him a creep when {b}I{/b} was the one who invited him into bed to have sex. {b}Twice{/b}." nointeract
-    n "Pero supongo que no debería llamarlo canalla cuando {b}yo{/b} fui quien lo invitó a la cama para tener sexo. {b}Dos veces{/b}." nointeract
+    # n "But I guess I shouldn't be calling him a creep when {b}I{/b} was the one who invited him into bed to have sex. {b}Twice{/b}." 
+    n "Pero supongo que no debería llamarlo canalla cuando {b}yo{/b} fui quien lo invitó a la cama para tener sexo. {b}Dos veces{/b}." 
 
 # game/14 Nights With You/14nightswithyou.rpy:146
 translate Paloslios DLC_day2_s8_2d10e08a:
 
-    # n "There was also that break-in that [ch_violet] mentioned yesterday, but [ch_ren] didn't fit their description at all." nointeract
-    n "También hubo ese robo que [ch_violet] mencionó ayer, pero [ch_ren] no encajaba en su descripción en absoluto." nointeract
+    # n "There was also that break-in that [ch_violet] mentioned yesterday, but [ch_ren] didn't fit their description at all." 
+    n "También hubo ese robo que [ch_violet] mencionó ayer, pero [ch_ren] no encajaba en su descripción en absoluto." 
 
 # game/14 Nights With You/14nightswithyou.rpy:147
 translate Paloslios DLC_day2_s8_8404bc9a:
 
-    # n "Ah well. I shouldn't be concerning myself over this. I still had that new lock installed, so I doubt they'd want to come back." nointeract
-    n "Ah bueno. No debería preocuparme por esto. Todavía tenía esa nueva cerradura instalada, así que dudo que quieran volver." nointeract
+    # n "Ah well. I shouldn't be concerning myself over this. I still had that new lock installed, so I doubt they'd want to come back." 
+    n "Ah bueno. No debería preocuparme por esto. Todavía tenía esa nueva cerradura instalada, así que dudo que quieran volver." 
 
 # game/14 Nights With You/14nightswithyou.rpy:148
 translate Paloslios DLC_day2_s8_d7c862ff:
 
-    # n "Rolling onto my side, I push those thoughts aside as I reach for the discarded plushie and slowly drift off to sleep." nointeract
-    n "Rodándome de costado, dejo esos pensamientos a un lado mientras alcanzo el peluche desechado y lentamente me quedo dormido." nointeract
+    # n "Rolling onto my side, I push those thoughts aside as I reach for the discarded plushie and slowly drift off to sleep." 
+    n "Rodándome de costado, dejo esos pensamientos a un lado mientras alcanzo el peluche desechado y lentamente me quedo dormido." 
 
 # game/14 Nights With You/14nightswithyou.rpy:151
 translate Paloslios DLC_day3_s1_06da1de6:
 
-    # n "Oh. Right. Last night, [ch_ren] and I…" nointeract
-    n "Oh. Bien. Anoche, [ch_ren] y yo…" nointeract
+    # n "Oh. Right. Last night, [ch_ren] and I…" 
+    n "Oh. Bien. Anoche, [ch_ren] y yo…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:152
 translate Paloslios DLC_day3_s1_0fdfcc31:
 
-    # n "I can feel my whole face flush as I recount what we did together last night. Or rather… What {b}he{/b} did." nointeract
-    n "Puedo sentir toda mi cara sonrojarse mientras cuento lo que hicimos juntos anoche. O más bien… Lo que {b}él{/b} hizo." nointeract
+    # n "I can feel my whole face flush as I recount what we did together last night. Or rather… What {b}he{/b} did." 
+    n "Puedo sentir toda mi cara sonrojarse mientras cuento lo que hicimos juntos anoche. O más bien… Lo que {b}él{/b} hizo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:153
 translate Paloslios DLC_day3_s1_c01048e9:
 
-    # n "Strange. A part of me thought I was going to wake up with [ch_ren] by my side this morning, given his clingy nature that I'd grown all-to-familiar with." nointeract
-    n "Extraño. Una parte de mí pensó que me iba a despertar con [ch_ren] a mi lado esta mañana, dada su naturaleza pegajosa con la que me había familiarizado por completo." nointeract
+    # n "Strange. A part of me thought I was going to wake up with [ch_ren] by my side this morning, given his clingy nature that I'd grown all-to-familiar with." 
+    n "Extraño. Una parte de mí pensó que me iba a despertar con [ch_ren] a mi lado esta mañana, dada su naturaleza pegajosa con la que me había familiarizado por completo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:154
 translate Paloslios DLC_day3_s1_7457df40:
 
-    # n "But still… His lack of presence had me wondering where he might be right now." nointeract
-    n "Pero aún así... Su falta de presencia me hizo preguntarme dónde podría estar ahora mismo." nointeract
+    # n "But still… His lack of presence had me wondering where he might be right now." 
+    n "Pero aún así... Su falta de presencia me hizo preguntarme dónde podría estar ahora mismo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:155
 translate Paloslios DLC_day3_s1_4a90488b:
 
-    # n "Did he go back to sleep in his own room? Or perhaps he was already awake?" nointeract
-    n "¿Se volvió a dormir en su propia habitación? ¿O tal vez ya estaba despierto?" nointeract
+    # n "Did he go back to sleep in his own room? Or perhaps he was already awake?" 
+    n "¿Se volvió a dormir en su propia habitación? ¿O tal vez ya estaba despierto?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:158
 translate Paloslios DLC_day3_s2_4d6ee019:
 
-    # n "I notice the way [ch_ren]'s eyes darken slightly as he rests his hip against the kitchen island." nointeract
-    n "Noto la forma en que los ojos de [ch_ren] se oscurecen ligeramente mientras apoya su cadera contra la isla de la cocina." nointeract
+    # n "I notice the way [ch_ren]'s eyes darken slightly as he rests his hip against the kitchen island." 
+    n "Noto la forma en que los ojos de [ch_ren] se oscurecen ligeramente mientras apoya su cadera contra la isla de la cocina." 
 
 # game/14 Nights With You/14nightswithyou.rpy:159
 translate Paloslios DLC_day3_s2_2585836b:
 
-    # n "He leans down close enough that I could make out the faint marks and blemishes on his cheeks, yet far away to be just out of my reach." nointeract
-    n "Se inclina lo suficientemente cerca como para que pueda distinguir las débiles marcas y imperfecciones en sus mejillas, pero lejos para estar fuera de mi alcance." nointeract
+    # n "He leans down close enough that I could make out the faint marks and blemishes on his cheeks, yet far away to be just out of my reach." 
+    n "Se inclina lo suficientemente cerca como para que pueda distinguir las débiles marcas y imperfecciones en sus mejillas, pero lejos para estar fuera de mi alcance." 
 
 # game/14 Nights With You/14nightswithyou.rpy:161
 translate Paloslios DLC_day3_s2_03d3b34d:
 
-    # r "Mm… I'm still full from the \"dessert\" I had last night." nointeract
-    r "Mm... todavía estoy lleno por el \"postre\" que comí anoche." nointeract
+    # r "Mm… I'm still full from the \"dessert\" I had last night." 
+    r "Mm... todavía estoy lleno por el \"postre\" que comí anoche." 
 
 # game/14 Nights With You/14nightswithyou.rpy:162
 translate Paloslios DLC_day3_s2_f164acaf:
 
-    # y "…H-Huh?!" nointeract with vpunch
-    y "… ¡¿E-Eh?!" nointeract with vpunch
+    # y "…H-Huh?!"  with vpunch
+    y "… ¡¿E-Eh?!"  with vpunch
 
 # game/14 Nights With You/14nightswithyou.rpy:164
 translate Paloslios DLC_day3_s2_d2ba05ce:
 
-    # r "You can't be the only one who's allowed to tease people, Angel." nointeract
-    r "No puedes ser el único al que se le permite burlarse de la gente, Ángel." nointeract
+    # r "You can't be the only one who's allowed to tease people, Angel." 
+    r "No puedes ser el único al que se le permite burlarse de la gente, Ángel." 
 
 # game/14 Nights With You/14nightswithyou.rpy:167
 translate Paloslios DLC_day4_s1_5942750f:
 
-    # n "Muscle memory kicks in, and my immediate reaction is to open the blinds for some much-needed sunshine — but when I glance at my windows, they were already pulled back." nointeract
-    n "La memoria muscular se activa y mi reacción inmediata es abrir las persianas para recibir el tan necesario sol, pero cuando miro las ventanas, ya están cerradas." nointeract
+    # n "Muscle memory kicks in, and my immediate reaction is to open the blinds for some much-needed sunshine — but when I glance at my windows, they were already pulled back." 
+    n "La memoria muscular se activa y mi reacción inmediata es abrir las persianas para recibir el tan necesario sol, pero cuando miro las ventanas, ya están cerradas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:168
 translate Paloslios DLC_day4_s1_c9194475:
 
-    # n "…Sunlight had been pouring into my room for who knows how long, and I didn't even notice? And when did I open them?" nointeract
-    n "…La luz del sol había estado entrando a raudales en mi habitación durante quién sabe cuánto tiempo, ¿y ni siquiera me di cuenta? ¿Y cuando los abrí?" nointeract
+    # n "…Sunlight had been pouring into my room for who knows how long, and I didn't even notice? And when did I open them?" 
+    n "…La luz del sol había estado entrando a raudales en mi habitación durante quién sabe cuánto tiempo, ¿y ni siquiera me di cuenta? ¿Y cuando los abrí?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:169
 translate Paloslios DLC_day4_s1_74ead60d:
 
-    # n "Did [ch_ren] open them? And… Wait. Did he leave?" nointeract
-    n "¿[ch_ren] los abrió? Y… espera. ¿Se fue?" nointeract
+    # n "Did [ch_ren] open them? And… Wait. Did he leave?" 
+    n "¿[ch_ren] los abrió? Y… espera. ¿Se fue?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:170
 translate Paloslios DLC_day4_s1_b22230b8:
 
-    # n "I know firsthand that [ch_ren] likes to wake up early, yet even after straining my ears, I couldn't hear him rattling about in my lounge room." nointeract
-    n "Sé de primera mano que a [ch_ren] le gusta levantarse temprano, pero incluso después de forzar mis oídos, no pude oírlo traquetear en mi sala de estar." nointeract
+    # n "I know firsthand that [ch_ren] likes to wake up early, yet even after straining my ears, I couldn't hear him rattling about in my lounge room." 
+    n "Sé de primera mano que a [ch_ren] le gusta levantarse temprano, pero incluso después de forzar mis oídos, no pude oírlo traquetear en mi sala de estar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:171
 translate Paloslios DLC_day4_s1_74c32a8e:
 
-    # n "Admittedly, I thought [ch_ren] would've wanted to stay the night after we…" nointeract
-    n "Es cierto que pensé que [ch_ren] habría querido quedarse a pasar la noche después de que…" nointeract
+    # n "Admittedly, I thought [ch_ren] would've wanted to stay the night after we…" 
+    n "Es cierto que pensé que [ch_ren] habría querido quedarse a pasar la noche después de que…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:172
 translate Paloslios DLC_day4_s1_8b6fefe9:
 
-    # n "The heat rushes to my face as I recall what we did last night. No, it wouldn't do me any good to think about that first thing in the morning." nointeract
-    n "El calor sube a mi cara cuando recuerdo lo que hicimos anoche. No, no me haría ningún bien pensar en eso a primera hora de la mañana." nointeract
+    # n "The heat rushes to my face as I recall what we did last night. No, it wouldn't do me any good to think about that first thing in the morning." 
+    n "El calor sube a mi cara cuando recuerdo lo que hicimos anoche. No, no me haría ningún bien pensar en eso a primera hora de la mañana." 
 
 # game/14 Nights With You/14nightswithyou.rpy:173
 translate Paloslios DLC_day4_s1_7ae09617:
 
-    # n "I could always text [ch_ren] later — after all, it was still early, and I didn't want to seem clingy." nointeract
-    n "Siempre podía enviar un mensaje de texto a [ch_ren] más tarde; después de todo, todavía era temprano y no quería parecer pegajoso." nointeract
+    # n "I could always text [ch_ren] later — after all, it was still early, and I didn't want to seem clingy." 
+    n "Siempre podía enviar un mensaje de texto a [ch_ren] más tarde; después de todo, todavía era temprano y no quería parecer pegajoso." 
 
 # game/14 Nights With You/14nightswithyou.rpy:174
 translate Paloslios DLC_day4_s1_346aacbf:
 
-    # n "…Would he even think I'm being clingy?" nointeract
-    n "… ¿Pensaría siquiera que estoy siendo pegajoso?" nointeract
+    # n "…Would he even think I'm being clingy?" 
+    n "… ¿Pensaría siquiera que estoy siendo pegajoso?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:178
 translate Paloslios DLC_day4_s2_4a6226d8:
 
-    # t "C'mon, like you haven't been fooling around with Buttercup. I can practically smell him on you." nointeract
-    t "Vamos, como si no hubieras estado jugando con Buttercup. Prácticamente puedo olerlo en ti." nointeract
+    # t "C'mon, like you haven't been fooling around with Buttercup. I can practically smell him on you." 
+    t "Vamos, como si no hubieras estado jugando con Buttercup. Prácticamente puedo olerlo en ti." 
 
 # game/14 Nights With You/14nightswithyou.rpy:181
 translate Paloslios DLC_day4_s3_630f0b95:
 
-    # y "Yeah… I'm pretty sure I placed it on the shelf when we… Y'know." nointeract
-    y "Sí... estoy bastante seguro de que lo coloqué en el estante cuando nosotros... Ya sabes." nointeract
+    # y "Yeah… I'm pretty sure I placed it on the shelf when we… Y'know." 
+    y "Sí... estoy bastante seguro de que lo coloqué en el estante cuando nosotros... Ya sabes." 
 
 # game/14 Nights With You/14nightswithyou.rpy:183
 translate Paloslios DLC_day4_s3_a020bd0c:
 
-    # n "[ch_ren] seems to blush at that." nointeract
-    n "[ch_ren] parece sonrojarse ante eso." nointeract
+    # n "[ch_ren] seems to blush at that." 
+    n "[ch_ren] parece sonrojarse ante eso." 
 
 # game/14 Nights With You/14nightswithyou.rpy:187
 translate Paloslios DLC_day5_s1_50754cbd:
 
-    # r "B-Because I'm all for it, trust me! I really like how insatiable you are, but y-your friend is still—" nointeract
-    r "P-Porque estoy totalmente a favor, ¡créeme! Realmente me gusta lo insaciable que eres, pero tu amigo todavía es..." nointeract
+    # r "B-Because I'm all for it, trust me! I really like how insatiable you are, but y-your friend is still—" 
+    r "P-Porque estoy totalmente a favor, ¡créeme! Realmente me gusta lo insaciable que eres, pero tu amigo todavía es..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:194
 translate Paloslios DLC_day5_s2_d1708a50:
 
-    # n "When I come to, the first thing I notice is the comforting weight of the blanket still covering me on the couch — alongside [ch_ren]'s familiar presence by my side." nointeract
-    n "Cuando vuelvo en mí, lo primero que noto es el reconfortante peso de la manta que aún me cubre en el sofá, junto con la familiar presencia de [ch_ren] a mi lado." nointeract
+    # n "When I come to, the first thing I notice is the comforting weight of the blanket still covering me on the couch — alongside [ch_ren]'s familiar presence by my side." 
+    n "Cuando vuelvo en mí, lo primero que noto es el reconfortante peso de la manta que aún me cubre en el sofá, junto con la familiar presencia de [ch_ren] a mi lado." 
 
 # game/14 Nights With You/14nightswithyou.rpy:195
 translate Paloslios DLC_day5_s2_16774cb9:
 
-    # n "The soft glow emitting from the TV casts a soft light in the otherwise darkened room, and it's then that I realise that the second episode of AoG is currently playing on the screen." nointeract
-    n "El suave brillo que emite el televisor arroja una suave luz en la habitación que de otro modo estaría oscura, y es entonces cuando me doy cuenta de que el segundo episodio de AoG se está reproduciendo actualmente en la pantalla." nointeract
+    # n "The soft glow emitting from the TV casts a soft light in the otherwise darkened room, and it's then that I realise that the second episode of AoG is currently playing on the screen." 
+    n "El suave brillo que emite el televisor arroja una suave luz en la habitación que de otro modo estaría oscura, y es entonces cuando me doy cuenta de que el segundo episodio de AoG se está reproduciendo actualmente en la pantalla." 
 
 # game/14 Nights With You/14nightswithyou.rpy:196
 translate Paloslios DLC_day5_s2_d2a61a26:
 
-    # n "Damn, did I really doze off long enough for the series to loop? Weren't there at least forty episodes?" nointeract
-    n "Maldita sea, ¿realmente me quedé dormido el tiempo suficiente para que la serie se repitiera? ¿No hubo al menos cuarenta episodios?" nointeract
+    # n "Damn, did I really doze off long enough for the series to loop? Weren't there at least forty episodes?" 
+    n "Maldita sea, ¿realmente me quedé dormido el tiempo suficiente para que la serie se repitiera? ¿No hubo al menos cuarenta episodios?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:197
 translate Paloslios DLC_day5_s2_8a0bdbda:
 
-    # n "With a soft groan, I adjust myself into a more comfortable position to survey the rest of my surroundings — only to realise that my movement must've stirred [ch_ren] awake as well." nointeract
-    n "Con un suave gemido, me acomodo en una posición más cómoda para observar el resto de mi entorno, sólo para darme cuenta de que mi movimiento debe haber despertado a [ch_ren] también." nointeract
+    # n "With a soft groan, I adjust myself into a more comfortable position to survey the rest of my surroundings — only to realise that my movement must've stirred [ch_ren] awake as well." 
+    n "Con un suave gemido, me acomodo en una posición más cómoda para observar el resto de mi entorno, sólo para darme cuenta de que mi movimiento debe haber despertado a [ch_ren] también." 
 
 # game/14 Nights With You/14nightswithyou.rpy:198
 translate Paloslios DLC_day5_s2_bfaf396a:
 
-    # n "Glancing behind me, I immediately notice his sleepy expression and tidy appearance, which means… He must've taken the time to fix both of our clothes at some point during my slumber." nointeract
-    n "Mirando detrás de mí, inmediatamente noté su expresión somnolienta y su apariencia ordenada, lo que significa... Debe haberse tomado el tiempo de arreglarnos la ropa a ambos en algún momento durante mi sueño." nointeract
+    # n "Glancing behind me, I immediately notice his sleepy expression and tidy appearance, which means… He must've taken the time to fix both of our clothes at some point during my slumber." 
+    n "Mirando detrás de mí, inmediatamente noté su expresión somnolienta y su apariencia ordenada, lo que significa... Debe haberse tomado el tiempo de arreglarnos la ropa a ambos en algún momento durante mi sueño." 
 
 # game/14 Nights With You/14nightswithyou.rpy:199
 translate Paloslios DLC_day5_s2_96042df9:
 
-    # n "An appreciative smile pulls at my features — one that [ch_ren] happily returns with his own — before the sound of a tired, drawn-out yawn breaks the silence and ruins the tender moment." nointeract
-    n "Una sonrisa de agradecimiento se dibuja en mis rasgos, una que [ch_ren] felizmente regresa con la suya, antes de que el sonido de un bostezo cansado y prolongado rompa el silencio y arruine el tierno momento." nointeract
+    # n "An appreciative smile pulls at my features — one that [ch_ren] happily returns with his own — before the sound of a tired, drawn-out yawn breaks the silence and ruins the tender moment." 
+    n "Una sonrisa de agradecimiento se dibuja en mis rasgos, una que [ch_ren] felizmente regresa con la suya, antes de que el sonido de un bostezo cansado y prolongado rompa el silencio y arruine el tierno momento." 
 
 # game/14 Nights With You/14nightswithyou.rpy:200
 translate Paloslios DLC_day5_s2_f825146e:
 
-    # n "Turning back around, it's then that I notice [ch_moth] slowly beginning to drift off from their spot on the floor, if the drool coming from the corner of their mouth was any indication." nointeract
-    n "Al darme la vuelta, es entonces cuando noto que [ch_moth] lentamente comienza a alejarse de su lugar en el suelo, si la baba que sale de la comisura de su boca era una indicación." nointeract
+    # n "Turning back around, it's then that I notice [ch_moth] slowly beginning to drift off from their spot on the floor, if the drool coming from the corner of their mouth was any indication." 
+    n "Al darme la vuelta, es entonces cuando noto que [ch_moth] lentamente comienza a alejarse de su lugar en el suelo, si la baba que sale de la comisura de su boca era una indicación." 
 
 # game/14 Nights With You/14nightswithyou.rpy:201
 translate Paloslios DLC_day5_s2_4021b5b8:
 
-    # n "It must be bedtime for {b}all{/b} of us." nointeract
-    n "Debe ser hora de dormir para {b}todos{/b} de nosotros." nointeract
+    # n "It must be bedtime for {b}all{/b} of us." 
+    n "Debe ser hora de dormir para {b}todos{/b} de nosotros." 
 
 # game/14 Nights With You/14nightswithyou.rpy:202
 translate Paloslios DLC_day5_s2_4c33c561:
 
-    # n "But after everything we'd just done, the last thing I wanted to do was leave the warmth of [ch_ren]'s body, but the thought of a comfy bed with plenty of leg room was calling my name." nointeract
-    n "Pero después de todo lo que acabábamos de hacer, lo último que quería hacer era dejar el calor del cuerpo de [ch_ren], pero la idea de una cama cómoda con mucho espacio para las piernas me llamaba." nointeract
+    # n "But after everything we'd just done, the last thing I wanted to do was leave the warmth of [ch_ren]'s body, but the thought of a comfy bed with plenty of leg room was calling my name." 
+    n "Pero después de todo lo que acabábamos de hacer, lo último que quería hacer era dejar el calor del cuerpo de [ch_ren], pero la idea de una cama cómoda con mucho espacio para las piernas me llamaba." 
 
 # game/14 Nights With You/14nightswithyou.rpy:203
 translate Paloslios DLC_day5_s2_43bca43a:
 
-    # n "I barely have any time to weigh my options, however, as [ch_ren] immediately picks up on my drowsy demeanour and offers to show us to our rooms so that we can rest." nointeract
-    n "Sin embargo, apenas tengo tiempo para sopesar mis opciones, ya que [ch_ren] inmediatamente se da cuenta de mi comportamiento somnoliento y se ofrece a mostrarnos nuestras habitaciones para que podamos descansar." nointeract
+    # n "I barely have any time to weigh my options, however, as [ch_ren] immediately picks up on my drowsy demeanour and offers to show us to our rooms so that we can rest." 
+    n "Sin embargo, apenas tengo tiempo para sopesar mis opciones, ya que [ch_ren] inmediatamente se da cuenta de mi comportamiento somnoliento y se ofrece a mostrarnos nuestras habitaciones para que podamos descansar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:207
 translate Paloslios DLC_day5_s2_2294c84b:
 
-    # n "Eventually, he leaves [ch_moth] and me to settle in for the night, claiming that he has one last matter to take care of." nointeract
-    n "Finalmente, nos deja a [ch_moth] y a mí para pasar la noche, alegando que tiene un último asunto del que ocuparse." nointeract
+    # n "Eventually, he leaves [ch_moth] and me to settle in for the night, claiming that he has one last matter to take care of." 
+    n "Finalmente, nos deja a [ch_moth] y a mí para pasar la noche, alegando que tiene un último asunto del que ocuparse." 
 
 # game/14 Nights With You/14nightswithyou.rpy:210
 translate Paloslios DLC_day5_s3_ff863a17:
 
-    # m "[player_fl] was looking for the bathroom earlier. [they!c] needed a mirror to check out all those fresh hickies on [their] neck." nointeract
-    m "[player_fl] estaba buscando el baño antes. [they!c] necesitaba un espejo para ver todos esos chupetones frescos en el cuello de [their]." nointeract
+    # m "[player_fl] was looking for the bathroom earlier. [they!c] needed a mirror to check out all those fresh hickies on [their] neck." 
+    m "[player_fl] estaba buscando el baño antes. [they!c] necesitaba un espejo para ver todos esos chupetones frescos en el cuello de [their]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:212
 translate Paloslios DLC_day5_s3_2e12aedb:
 
-    # m "…I wonder how those got there?" nointeract
-    m "…Me pregunto cómo llegaron allí." nointeract
+    # m "…I wonder how those got there?" 
+    m "…Me pregunto cómo llegaron allí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:219
 translate Paloslios DLC_firsttime_menu_cdf209c6:
 
-    # r "U-Um. Actually… Before we continue…" nointeract
-    r "U-um. En realidad… Antes de continuar…" nointeract
+    # r "U-Um. Actually… Before we continue…" 
+    r "U-um. En realidad… Antes de continuar…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:228
 translate Paloslios DLC_firsttime_menu_cdf209c6_1:
 
-    # r "U-Um. Actually… Before we continue…" nointeract
-    r "U-um. En realidad… Antes de continuar…" nointeract
+    # r "U-Um. Actually… Before we continue…" 
+    r "U-um. En realidad… Antes de continuar…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:234
 translate Paloslios DLC_firsttime_menu_cdf209c6_2:
 
-    # r "U-Um. Actually… Before we continue…" nointeract
-    r "U-um. En realidad… Antes de continuar…" nointeract
+    # r "U-Um. Actually… Before we continue…" 
+    r "U-um. En realidad… Antes de continuar…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:239
 translate Paloslios DLC_firsttime_menu_cdf209c6_3:
 
-    # r "U-Um. Actually… Before we continue…" nointeract
-    r "U-um. En realidad… Antes de continuar…" nointeract
+    # r "U-Um. Actually… Before we continue…" 
+    r "U-um. En realidad… Antes de continuar…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:244
 translate Paloslios DLC_firsttime_penetrated_ac7c7bf8:
 
-    # r "Y-You should know… I haven't done this with anyone else before…" nointeract
-    r "Deberías saber... No he hecho esto con nadie más antes..." nointeract
+    # r "Y-You should know… I haven't done this with anyone else before…" 
+    r "Deberías saber... No he hecho esto con nadie más antes..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:245
 translate Paloslios DLC_firsttime_penetrated_b917aabc:
 
-    # y "Wait, what?" nointeract
-    y "Espera, ¿qué?" nointeract
+    # y "Wait, what?" 
+    y "Espera, ¿qué?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:246
 translate Paloslios DLC_firsttime_penetrated_ebbb202d:
 
-    # r "I'm glad I get to experience my first time with someone like you." nointeract
-    r "Me alegro de poder vivir mi primera vez con alguien como tú." nointeract
+    # r "I'm glad I get to experience my first time with someone like you." 
+    r "Me alegro de poder vivir mi primera vez con alguien como tú." 
 
 # game/14 Nights With You/14nightswithyou.rpy:247
 translate Paloslios DLC_firsttime_penetrated_072dcc39:
 
-    # n "He's looking at me with those eyes again as if I was the one who strung the stars up in the night sky just for him to see. And now here he was, telling me that he'd never done this before?" nointeract
-    n "Me está mirando con esos ojos otra vez como si yo fuera quien colgó las estrellas en el cielo nocturno sólo para que él las viera. ¿Y ahora aquí estaba él, diciéndome que nunca había hecho esto antes?" nointeract
+    # n "He's looking at me with those eyes again as if I was the one who strung the stars up in the night sky just for him to see. And now here he was, telling me that he'd never done this before?" 
+    n "Me está mirando con esos ojos otra vez como si yo fuera quien colgó las estrellas en el cielo nocturno sólo para que él las viera. ¿Y ahora aquí estaba él, diciéndome que nunca había hecho esto antes?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:252
 translate Paloslios DLC_firsttime_penetrated_f024d064:
 
-    # r "{size=+10}R-Really?!{/size}" nointeract with vpunch
-    r "{size=+10}¡¿E-En serio?!{/size}" nointeract with vpunch
+    # r "{size=+10}R-Really?!{/size}"  with vpunch
+    r "{size=+10}¡¿E-En serio?!{/size}"  with vpunch
 
 # game/14 Nights With You/14nightswithyou.rpy:253
 translate Paloslios DLC_firsttime_penetrated_9c812463:
 
-    # r "Then… we're the same?" nointeract
-    r "Entonces… ¿somos iguales?" nointeract
+    # r "Then… we're the same?" 
+    r "Entonces… ¿somos iguales?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:254
 translate Paloslios DLC_firsttime_penetrated_16835f4f:
 
-    # n "The look of pure, unadulterated happiness washes over his features as I felt the leaking tip of his dick slowly push into me for the first time." nointeract
-    n "La mirada de felicidad pura y sin adulterar inunda sus rasgos cuando sentí la punta de su polla que goteaba lentamente empujarme hacia mí por primera vez." nointeract
+    # n "The look of pure, unadulterated happiness washes over his features as I felt the leaking tip of his dick slowly push into me for the first time." 
+    n "La mirada de felicidad pura y sin adulterar inunda sus rasgos cuando sentí la punta de su polla que goteaba lentamente empujarse contra mí por primera vez." 
 
 # game/14 Nights With You/14nightswithyou.rpy:255
 translate Paloslios DLC_firsttime_penetrated_34baa19b:
 
-    # r "Ah~ We get to be each other's firsts. I'm so happy!" nointeract
-    r "Ah ~ Llegamos a ser los primeros del otro. ¡Estoy tan feliz!" nointeract
+    # r "Ah~ We get to be each other's firsts. I'm so happy!" 
+    r "Ah ~ Llegamos a ser los primeros del otro. ¡Estoy tan feliz!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:259
 translate Paloslios DLC_firsttime_penetrated_b830da34:
 
-    # n "The look of pure, unbridled jealousy washes over his features before he masks it with a smile, and I {b}finally{/b} feel the leaking tip of his dick slowly enter me." nointeract
-    n "La mirada de celos puros y desenfrenados inunda sus rasgos antes de que los enmascare con una sonrisa, y {b}finalmente{/b} siento la punta de su polla que gotea entrar lentamente en mí." nointeract
+    # n "The look of pure, unbridled jealousy washes over his features before he masks it with a smile, and I {b}finally{/b} feel the leaking tip of his dick slowly enter me." 
+    n "La mirada de celos puros y desenfrenados inunda sus rasgos antes de que los enmascare con una sonrisa, y {b}finalmente{/b} siento la punta de su polla que gotea entrar lentamente en mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:260
 translate Paloslios DLC_firsttime_penetrated_5ff0db64:
 
-    # r "Then I'll fuck you better than anyone else you've ever had before me." nointeract
-    r "Entonces te follaré mejor que nadie que hayas tenido antes que yo." nointeract
+    # r "Then I'll fuck you better than anyone else you've ever had before me." 
+    r "Entonces te follaré mejor que nadie que hayas tenido antes que yo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:261
 translate Paloslios DLC_firsttime_penetrated_b4d4993f:
 
-    # r "You won't even remember their names by the time I'm done with you." nointeract
-    r "Ni siquiera recordarás sus nombres cuando termine contigo." nointeract
+    # r "You won't even remember their names by the time I'm done with you." 
+    r "Ni siquiera recordarás sus nombres cuando termine contigo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:265
 translate Paloslios DLC_firsttime_penetrated_50578e8d:
 
-    # n "He looks as though a giant weight had {b}finally{/b} been lifted off his shoulders, and I felt the leaking tip of his dick slowly enter me." nointeract
-    n "Parece como si finalmente le hubieran quitado un peso gigante {b}{/b} de sus hombros, y sentí la punta de su polla goteando entrar lentamente en mí." nointeract
+    # n "He looks as though a giant weight had {b}finally{/b} been lifted off his shoulders, and I felt the leaking tip of his dick slowly enter me." 
+    n "Parece como si finalmente le hubieran quitado un peso gigante {b}{/b} de sus hombros, y sentí la punta de su polla goteando entrar lentamente en mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:266
 translate Paloslios DLC_firsttime_penetrated_ae6c8a3f:
 
-    # r "Y-Yeah… I wouldn't want to do this with anyone else but you." nointeract
-    r "S-Sí... No me gustaría hacer esto con nadie más que tú." nointeract
+    # r "Y-Yeah… I wouldn't want to do this with anyone else but you." 
+    r "S-Sí... No me gustaría hacer esto con nadie más que tú." 
 
 # game/14 Nights With You/14nightswithyou.rpy:267
 translate Paloslios DLC_firsttime_penetrated_4e22d37c:
 
-    # r "Only you…" nointeract
-    r "Sólo tú…" nointeract
+    # r "Only you…" 
+    r "Sólo tú…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:268
 translate Paloslios DLC_firsttime_penetrated_4acc0d41:
 
-    # r "No one else matters." nointeract
-    r "Nadie más importa." nointeract
+    # r "No one else matters." 
+    r "Nadie más importa." 
 
 # game/14 Nights With You/14nightswithyou.rpy:272
 translate Paloslios DLC_firsttime_penetrated_ee9efea5:
 
-    # r "N-No, it doesn't. I just wanted you to know…" nointeract
-    r "N-No, no es así. Sólo quería que supieras..." nointeract
+    # r "N-No, it doesn't. I just wanted you to know…" 
+    r "N-No, no es así. Sólo quería que supieras..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:273
 translate Paloslios DLC_firsttime_penetrated_0f4b6462:
 
-    # n "He looks almost dejected for a moment before he masks it with a smile, and I finally felt the leaking tip of his dick slowly enter my hole." nointeract
-    n "Parece casi abatido por un momento antes de enmascararlo con una sonrisa, y finalmente sentí la punta de su polla que goteaba entrar lentamente en mi agujero." nointeract
+    # n "He looks almost dejected for a moment before he masks it with a smile, and I finally felt the leaking tip of his dick slowly enter my hole." 
+    n "Parece casi abatido por un momento antes de enmascararlo con una sonrisa, y finalmente sentí la punta de su polla que goteaba entrar lentamente en mi agujero." 
 
 # game/14 Nights With You/14nightswithyou.rpy:274
 translate Paloslios DLC_firsttime_penetrated_f367ac4d:
 
-    # r "{i}Hah—!{/i} You're so… tight—" nointeract
-    r "{i}¡Ja—!{/i} Eres tan… apretado—" nointeract
+    # r "{i}Hah—!{/i} You're so… tight—" 
+    r "{i}¡Hah—!{/i} Eres tan… apretada—" 
 
 # game/14 Nights With You/14nightswithyou.rpy:278
 translate Paloslios day1_wahooscene_92bc6876:
 
-    # r "Do y'want me to kiss you again? Or do you want… {i}something else?{/i}" nointeract
-    r "¿Quieres que te bese otra vez? ¿O quieres… {i}algo más?{/i}" nointeract
+    # r "Do y'want me to kiss you again? Or do you want… {i}something else?{/i}" 
+    r "¿Quieres que te bese otra vez? ¿O quieres… {i}algo más?{/i}" 
 
 # game/14 Nights With You/14nightswithyou.rpy:279
 translate Paloslios day1_wahooscene_a4e87a19:
 
-    # n "Where did this confident aura suddenly come from? The moment I showed interest, it was like he became a different person. Not that I was about to complain or anything; this side of him was… insanely attractive." nointeract
-    n "¿De dónde vino de repente esta aura de confianza? En el momento en que mostré interés, fue como si se convirtiera en una persona diferente. No es que estuviera a punto de quejarme ni nada; Este lado de él era... increíblemente atractivo." nointeract
+    # n "Where did this confident aura suddenly come from? The moment I showed interest, it was like he became a different person. Not that I was about to complain or anything; this side of him was… insanely attractive." 
+    n "¿De dónde vino de repente esta aura de confianza? En el momento en que mostré interés, fue como si se convirtiera en una persona diferente. No es que estuviera a punto de quejarme ni nada; Este lado de él era... increíblemente atractivo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:281
 translate Paloslios day1_wahooscene_cbb676fd:
 
-    # r "You've gone quiet on me, [ch_angel]. You have to tell me what you want, or I'll stop." nointeract
-    r "Te has quedado callado conmigo, [ch_angel]. Tienes que decirme lo que quieres o pararé." nointeract
+    # r "You've gone quiet on me, [ch_angel]. You have to tell me what you want, or I'll stop." 
+    r "Te has quedado callado conmigo, [ch_angel]. Tienes que decirme lo que quieres o pararé." 
 
 # game/14 Nights With You/14nightswithyou.rpy:282
 translate Paloslios day1_wahooscene_a0ece55a:
 
-    # y "…I want you, [ch_ren]. {i}Please?{/i}" nointeract
-    y "…Te quiero, [ch_ren]. {i}¿Por favor?{/i}" nointeract
+    # y "…I want you, [ch_ren]. {i}Please?{/i}" 
+    y "…Te quiero, [ch_ren]. {i}¿Por favor?{/i}" 
 
 # game/14 Nights With You/14nightswithyou.rpy:288
 translate Paloslios day1_wahooscene_864bced0:
 
-    # n "Without missing a beat, [ch_ren]'s large frame obscures my vision as he shifts between my thighs. Both of his arms rest against either side of my head and cage me in, and he stares down at me with an almost predatory gaze." nointeract
-    n "Sin perder el ritmo, la gran figura de [ch_ren] oscurece mi visión mientras se mueve entre mis muslos. Sus dos brazos descansan a cada lado de mi cabeza y me encierran, y me mira con una mirada casi depredadora." nointeract
+    # n "Without missing a beat, [ch_ren]'s large frame obscures my vision as he shifts between my thighs. Both of his arms rest against either side of my head and cage me in, and he stares down at me with an almost predatory gaze." 
+    n "Sin perder el ritmo, la gran figura de [ch_ren] oscurece mi visión mientras se mueve entre mis muslos. Sus dos brazos descansan a cada lado de mi cabeza y me encierran, y me mira con una mirada casi depredadora." 
 
 # game/14 Nights With You/14nightswithyou.rpy:289
 translate Paloslios day1_wahooscene_6ef4aadc:
 
-    # n "He barely allows me a moment to make sense of the new situation before he leans forward to capture my lips in a searing kiss. His large frame engulfs my vision yet again, and I wrap my arms around his neck to pull him even {b}closer{/b} to my body." nointeract
-    n "Apenas me permite un momento para darle sentido a la nueva situación antes de inclinarse hacia adelante para capturar mis labios en un beso abrasador. Su gran figura envuelve mi visión una vez más, y envuelvo mis brazos alrededor de su cuello para acercarlo aún más {b}{/b} a mi cuerpo." nointeract
+    # n "He barely allows me a moment to make sense of the new situation before he leans forward to capture my lips in a searing kiss. His large frame engulfs my vision yet again, and I wrap my arms around his neck to pull him even {b}closer{/b} to my body." 
+    n "Apenas me permite un momento para darle sentido a la nueva situación antes de inclinarse hacia adelante para capturar mis labios en un beso abrasador. Su gran figura envuelve mi visión una vez más, y envuelvo mis brazos alrededor de su cuello para acercarlo aún más {b}{/b} a mi cuerpo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:290
 translate Paloslios day1_wahooscene_b4b39357:
 
-    # n "There's a hunger behind his eyes now, almost as if he had been practically {b}yearning{/b} for me all this time. So I lean in for yet another selfish kiss." nointeract
-    n "Ahora hay hambre detrás de sus ojos, casi como si prácticamente hubiera estado {b}anhelando{/b} por mí todo este tiempo. Así que me inclino para darle otro beso egoísta." nointeract
+    # n "There's a hunger behind his eyes now, almost as if he had been practically {b}yearning{/b} for me all this time. So I lean in for yet another selfish kiss." 
+    n "Ahora hay hambre detrás de sus ojos, casi como si prácticamente hubiera estado {b}anhelando{/b} por mí todo este tiempo. Así que me inclino para darle otro beso egoísta." 
 
 # game/14 Nights With You/14nightswithyou.rpy:291
 translate Paloslios day1_wahooscene_d0d02abf:
 
-    # n "He almost hisses at the contact before deepening it, with one hand coming to caress my cheek once more as the other trails down to my side." nointeract
-    n "Casi sisea ante el contacto antes de profundizarlo, con una mano acariciando mi mejilla una vez más mientras la otra baja hacia mi costado." nointeract
+    # n "He almost hisses at the contact before deepening it, with one hand coming to caress my cheek once more as the other trails down to my side." 
+    n "Casi sisea ante el contacto antes de profundizarlo, con una mano acariciando mi mejilla una vez más mientras la otra baja hacia mi costado." 
 
 # game/14 Nights With You/14nightswithyou.rpy:292
 translate Paloslios day1_wahooscene_bb4392a9:
 
-    # n "He kisses with much more fervour now, and I find myself melting into his warm touch. The hand on my side digs deeper into the flesh of my hip before it travels {b}even lower{/b} to tug at the underside of my shirt." nointeract
-    n "Ahora besa con mucho más fervor y me encuentro derritiéndome en su cálido toque. La mano en mi costado se hunde más profundamente en la carne de mi cadera antes de viajar {b}aún más abajo{/b} para tirar de la parte inferior de mi camisa." nointeract
+    # n "He kisses with much more fervour now, and I find myself melting into his warm touch. The hand on my side digs deeper into the flesh of my hip before it travels {b}even lower{/b} to tug at the underside of my shirt." 
+    n "Ahora besa con mucho más fervor y me encuentro derritiéndome en su cálido toque. La mano en mi costado se hunde más profundamente en la carne de mi cadera antes de viajar {b}aún más abajo{/b} para tirar de la parte inferior de mi camisa." 
 
 # game/14 Nights With You/14nightswithyou.rpy:293
 translate Paloslios day1_wahooscene_a3565791:
 
-    # n "His eyes seek out mine in the dark to silently ask for permission, and I breathlessly nod my head." nointeract
-    n "Sus ojos buscan los míos en la oscuridad para pedirme permiso en silencio, y yo asiento con la cabeza sin aliento." nointeract
+    # n "His eyes seek out mine in the dark to silently ask for permission, and I breathlessly nod my head." 
+    n "Sus ojos buscan los míos en la oscuridad para pedirme permiso en silencio, y yo asiento con la cabeza sin aliento." 
 
 # game/14 Nights With You/14nightswithyou.rpy:294
 translate Paloslios day1_wahooscene_9c51d327:
 
-    # n "Almost eagerly, he pulls my shirt up to expose my [bust]." nointeract
-    n "Casi con entusiasmo, me levanta la camisa para exponer mi [bust]." nointeract
+    # n "Almost eagerly, he pulls my shirt up to expose my [bust!t]." 
+    n "Casi con entusiasmo, me levanta la camisa para exponer mi [bust!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:295
 translate Paloslios day1_wahooscene_e70f4e59:
 
-    # n "The stark coldness of the room finally sinks in and sends a chill down my spine, but I ignore it in favour of feebly tugging at [ch_ren]'s clothes as well." nointeract
-    n "La absoluta frialdad de la habitación finalmente me hace sentir y envía un escalofrío por mi espalda, pero lo ignoro y tiro débilmente de la ropa de [ch_ren] también." nointeract
+    # n "The stark coldness of the room finally sinks in and sends a chill down my spine, but I ignore it in favour of feebly tugging at [ch_ren]'s clothes as well." 
+    n "La absoluta frialdad de la habitación finalmente me hace sentir un escalofrío por mi espalda, pero lo ignoro y tiro débilmente de la ropa de [ch_ren] también." 
 
 # game/14 Nights With You/14nightswithyou.rpy:296
 translate Paloslios day1_wahooscene_e2191bb3:
 
-    # n "He gets the message immediately, hastily tugging his outer sweater off over his head and letting one of the sleeves dangle off of his arm haphazardly. But as I move to take off his white undershirt, he stops me by taking my hand in a gentle hold." nointeract
-    n "Capta el mensaje de inmediato, se quita apresuradamente el suéter exterior por la cabeza y deja que una de las mangas cuelgue de su brazo al azar. Pero cuando me muevo para quitarle la camiseta blanca, él me detiene tomándome la mano con suavidad." nointeract
+    # n "He gets the message immediately, hastily tugging his outer sweater off over his head and letting one of the sleeves dangle off of his arm haphazardly. But as I move to take off his white undershirt, he stops me by taking my hand in a gentle hold." 
+    n "Capta el mensaje de inmediato, se quita apresuradamente el suéter exterior por la cabeza y deja que una de las mangas cuelgue de su brazo al azar. Pero cuando me muevo para quitarle la camiseta blanca, él me detiene tomándome la mano con suavidad." 
 
 # game/14 Nights With You/14nightswithyou.rpy:297
 translate Paloslios day1_wahooscene_0f85737e:
 
-    # r "S-Sorry, can we keep that on? I… Don't feel comfortable taking it off just yet." nointeract
-    r "Lo siento, ¿podemos dejar eso puesto? Yo... No me siento cómoda quitándolo todavía." nointeract
+    # r "S-Sorry, can we keep that on? I… Don't feel comfortable taking it off just yet." 
+    r "Lo siento, ¿podemos dejar eso puesto? Yo... No me siento cómodo quitándolo todavía." 
 
 # game/14 Nights With You/14nightswithyou.rpy:298
 translate Paloslios day1_wahooscene_3652bb49:
 
-    # y "No, that's fine. I get it." nointeract
-    y "No, está bien. Lo entiendo." nointeract
+    # y "No, that's fine. I get it." 
+    y "No, está bien. Lo entiendo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:299
 translate Paloslios day1_wahooscene_861d5e3a:
 
-    # n "He barely allows me any time to respond before his lips latch on to my neck instead, and I let out an audible gasp as he bites and sucks on anything he can get his mouth on." nointeract
-    n "Apenas me deja tiempo para responder antes de que sus labios se peguen a mi cuello, y dejo escapar un jadeo audible mientras muerde y chupa cualquier cosa que pueda poner en su boca." nointeract
+    # n "He barely allows me any time to respond before his lips latch on to my neck instead, and I let out an audible gasp as he bites and sucks on anything he can get his mouth on." 
+    n "Apenas me deja tiempo para responder antes de que sus labios se peguen a mi cuello, y dejo escapar un jadeo audible mientras muerde y chupa cualquier cosa que pueda poner en su boca." 
 
 # game/14 Nights With You/14nightswithyou.rpy:300
 translate Paloslios day1_wahooscene_5fcf1150:
 
-    # n "One nibble in particular has me arching my body into him, and I suddenly became aware of {b}just{/b} how much this had been affecting him yet again." nointeract
-    n "Un mordisco en particular me hizo arquear mi cuerpo hacia él, y de repente me di cuenta de {b}justo{/b} cuánto le había estado afectando esto una vez más." nointeract
+    # n "One nibble in particular has me arching my body into him, and I suddenly became aware of {b}just{/b} how much this had been affecting him yet again." 
+    n "Un mordisco en particular me hizo arquear mi cuerpo hacia él, y de repente me di cuenta de {b}justo{/b} cuánto le había estado afectando esto una vez más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:301
 translate Paloslios day1_wahooscene_1c3df272:
 
-    # r "{i}Hng—! C-Careful…{/i}" nointeract
-    r "{i}¡Hng—! C-Cuidado…{/i}" nointeract
+    # r "{i}Hng—! C-Careful…{/i}" 
+    r "{i}¡Hng—! C-Cuidado…{/i}" 
 
 # game/14 Nights With You/14nightswithyou.rpy:302
 translate Paloslios day1_wahooscene_cb2d04ba:
 
-    # n "He lets out a shaky moan into my ear, and I found myself wanting to hear him make that sound again. And so, almost deviously, I reach a hand down to play with the hem of his jeans." nointeract
-    n "Deja escapar un gemido tembloroso en mi oído y me encontré deseando oírlo hacer ese sonido otra vez. Y entonces, casi tortuosamente, bajo una mano para jugar con el dobladillo de sus jeans." nointeract
+    # n "He lets out a shaky moan into my ear, and I found myself wanting to hear him make that sound again. And so, almost deviously, I reach a hand down to play with the hem of his jeans." 
+    n "Deja escapar un gemido tembloroso en mi oído y me encontré deseando oírlo hacer ese sonido otra vez. Y entonces, casi tortuosamente, bajo una mano para jugar con el dobladillo de sus jeans." 
 
 # game/14 Nights With You/14nightswithyou.rpy:303
 translate Paloslios day1_wahooscene_96290a45:
 
-    # n "I pull at the elastic of his waistband before letting it snap back into place, and [ch_ren]'s response is immediate." nointeract
-    n "Tiro del elástico de su cintura antes de dejar que vuelva a su lugar, y la respuesta de [ch_ren] es inmediata." nointeract
+    # n "I pull at the elastic of his waistband before letting it snap back into place, and [ch_ren]'s response is immediate." 
+    n "Tiro del elástico de su cintura antes de dejar que vuelva a su lugar, y la respuesta de [ch_ren] es inmediata." 
 
 # game/14 Nights With You/14nightswithyou.rpy:304
 translate Paloslios day1_wahooscene_ee2ea0fa:
 
-    # n "His hips rut desperately into mine as he whines once more into my ear, and his hands and teeth return to their spot on my body — Only this time, he's biting a little harder and squeezing a little tighter." nointeract
-    n "Sus caderas chocan desesperadamente contra las mías mientras gime una vez más en mi oído, y sus manos y dientes regresan a su lugar en mi cuerpo. Sólo que esta vez, está mordiendo un poco más fuerte y apretando un poco más fuerte." nointeract
+    # n "His hips rut desperately into mine as he whines once more into my ear, and his hands and teeth return to their spot on my body — Only this time, he's biting a little harder and squeezing a little tighter." 
+    n "Sus caderas chocan desesperadamente contra las mías mientras gime una vez más en mi oído, y sus manos y dientes regresan a su lugar en mi cuerpo. Sólo que esta vez, está mordiendo un poco más fuerte y apretando un poco más fuerte." 
 
 # game/14 Nights With You/14nightswithyou.rpy:305
 translate Paloslios day1_wahooscene_79ae6fac:
 
-    # n "His other hand, however, glides down my sides and makes quick work of my pyjama bottoms, leaving me in nothing but my undergarments." nointeract
-    n "Su otra mano, sin embargo, se desliza por mis costados y hace un trabajo rápido con los pantalones de mi pijama, dejándome nada más que en ropa interior." nointeract
+    # n "His other hand, however, glides down my sides and makes quick work of my pyjama bottoms, leaving me in nothing but my undergarments." 
+    n "Su otra mano, sin embargo, se desliza por mis costados y hace un trabajo rápido con los pantalones de mi pijama, dejándome nada más que en ropa interior." 
 
 # game/14 Nights With You/14nightswithyou.rpy:306
 translate Paloslios day1_wahooscene_4f8cb038:
 
-    # n "I can feel the friction of his jeans {b}even more{/b} against my core now, and I let out a muffled groan at the intense feeling." nointeract
-    n "Puedo sentir la fricción de sus jeans {b}aún más{/b} contra mi núcleo ahora, y dejo escapar un gemido ahogado ante la intensa sensación." nointeract
+    # n "I can feel the friction of his jeans {b}even more{/b} against my core now, and I let out a muffled groan at the intense feeling." 
+    n "Puedo sentir la fricción de sus jeans {b}aún más{/b} contra mi entrada ahora, y dejo escapar un gemido ahogado ante la intensa sensación." 
 
 # game/14 Nights With You/14nightswithyou.rpy:307
 translate Paloslios day1_wahooscene_76e2d4e4:
 
-    # n "Almost greedily, [ch_ren]'s head shifts back up to swallow my noises with a heated kiss, and his hand busies itself with the elastic of my underwear." nointeract
-    n "Casi con avidez, la cabeza de [ch_ren] se mueve hacia arriba para tragarse mis ruidos con un beso acalorado, y su mano se ocupa del elástico de mi ropa interior." nointeract
+    # n "Almost greedily, [ch_ren]'s head shifts back up to swallow my noises with a heated kiss, and his hand busies itself with the elastic of my underwear." 
+    n "Casi con avidez, la cabeza de [ch_ren] se mueve hacia arriba para tragarse mis ruidos con un beso acalorado, y su mano se ocupa del elástico de mi ropa interior." 
 
 # game/14 Nights With You/14nightswithyou.rpy:308
 translate Paloslios day1_wahooscene_327ee580:
 
-    # n "His blue eyes find mine once more in {b}yet another{/b} silent question, so I guide his hand to where I needed it the most as the answer." nointeract
-    n "Sus ojos azules encuentran los míos una vez más en {b}otra{/b} pregunta silenciosa, así que guío su mano hacia donde más la necesitaba como respuesta." nointeract
+    # n "His blue eyes find mine once more in {b}yet another{/b} silent question, so I guide his hand to where I needed it the most as the answer." 
+    n "Sus ojos azules encuentran los míos una vez más en {b}otra{/b} pregunta silenciosa, así que guío su mano hacia donde más la necesitaba como respuesta." 
 
 # game/14 Nights With You/14nightswithyou.rpy:309
 translate Paloslios day1_wahooscene_c22c1278:
 
-    # r "Fuck, Angel— You're {i}dripping{/i}." nointeract
-    r "Joder, Ángel. Estás {i}goteando{/i}." nointeract
+    # r "Fuck, Angel— You're {i}dripping{/i}." 
+    r "Joder, Ángel. Estás {i}goteando{/i}." 
 
 # game/14 Nights With You/14nightswithyou.rpy:314
 translate Paloslios day1_wahooscene_5b372044:
 
-    # n "Hearing him swear has me clenching my aching heat around nothing." nointeract
-    n "Escucharlo maldecir me hace apretar mi dolor alrededor de la nada." nointeract
+    # n "Hearing him swear has me clenching my aching heat around nothing." 
+    n "Escucharlo maldecir me hace apretar mi adolorida entrada alrededor de la nada." 
 
 # game/14 Nights With You/14nightswithyou.rpy:315
 translate Paloslios day1_wahooscene_f843cc2c:
 
-    # n "And as if [ch_ren] could sense my neediness, I felt his hand move its attention away from my clit to insert one of his slender fingers into the very place I needed him the most and experimentally wiggle around." nointeract
-    n "Y como si [ch_ren] pudiera sentir mi necesidad, sentí su mano alejar su atención de mi clítoris para insertar uno de sus delgados dedos en el lugar donde más lo necesitaba y moverse experimentalmente." nointeract
+    # n "And as if [ch_ren] could sense my neediness, I felt his hand move its attention away from my clit to insert one of his slender fingers into the very place I needed him the most and experimentally wiggle around." 
+    n "Y como si [ch_ren] pudiera sentir mi necesidad, sentí su mano alejar su atención de mi clítoris para insertar uno de sus delgados dedos en el lugar donde más lo necesitaba y moverse experimentalmente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:316
 translate Paloslios day1_wahooscene_2b741177:
 
-    # n "He starts thrusting his finger now, slowly easing it in and out of me before adding another. My breath hitches in my throat as I throw my head back, once again arching into his addictive touch." nointeract
-    n "Comienza a empujar su dedo ahora, lentamente metiéndolo y sacándolo antes de agregar otro. Mi respiración se corta en mi garganta mientras echo la cabeza hacia atrás, arqueándome una vez más ante su adictivo toque." nointeract
+    # n "He starts thrusting his finger now, slowly easing it in and out of me before adding another. My breath hitches in my throat as I throw my head back, once again arching into his addictive touch." 
+    n "Comienza a empujar su dedo ahora, lentamente metiéndolo y sacándolo antes de agregar otro. Mi respiración se corta en mi garganta mientras echo la cabeza hacia atrás, arqueándome una vez más ante su adictivo toque." 
 
 # game/14 Nights With You/14nightswithyou.rpy:318
 translate Paloslios day1_wahooscene_b1095491:
 
-    # n "And as if [ch_ren] could sense my neediness, I felt his hand move away from the base of my leaking dick to insert one of his slender fingers into the very place I needed him the most and experimentally wiggle around." nointeract
-    n "Y como si [ch_ren] pudiera sentir mi necesidad, sentí su mano alejarse de la base de mi pene goteante para insertar uno de sus delgados dedos en el lugar donde más lo necesitaba y moverse experimentalmente." nointeract
+    # n "And as if [ch_ren] could sense my neediness, I felt his hand move away from the base of my leaking dick to insert one of his slender fingers into the very place I needed him the most and experimentally wiggle around." 
+    n "Y como si [ch_ren] pudiera sentir mi necesidad, sentí su mano alejarse de la base de mi pene goteante para insertar uno de sus delgados dedos en el lugar donde más lo necesitaba y moverse experimentalmente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:319
 translate Paloslios day1_wahooscene_2b741177_1:
 
-    # n "He starts thrusting his finger now, slowly easing it in and out of me before adding another. My breath hitches in my throat as I throw my head back, once again arching into his addictive touch." nointeract
-    n "Comienza a empujar su dedo ahora, lentamente metiéndolo y sacándolo antes de agregar otro. Mi respiración se corta en mi garganta mientras echo la cabeza hacia atrás, arqueándome una vez más ante su adictivo toque." nointeract
+    # n "He starts thrusting his finger now, slowly easing it in and out of me before adding another. My breath hitches in my throat as I throw my head back, once again arching into his addictive touch." 
+    n "Comienza a empujar su dedo ahora, lentamente metiéndolo y sacándolo antes de agregar otro. Mi respiración se corta en mi garganta mientras echo la cabeza hacia atrás, arqueándome una vez más ante su adictivo toque." 
 
 # game/14 Nights With You/14nightswithyou.rpy:321
 translate Paloslios day1_wahooscene_5e449565:
 
-    # n "Hearing him swear has me clenching my aching hole around nothing." nointeract
-    n "Escucharlo maldecir me hace apretar mi dolorido agujero alrededor de la nada." nointeract
+    # n "Hearing him swear has me clenching my aching hole around nothing." 
+    n "Escucharlo maldecir me hace apretar mi adolorido agujero alrededor de la nada." 
 
 # game/14 Nights With You/14nightswithyou.rpy:322
 translate Paloslios day1_wahooscene_0406b088:
 
-    # n "And as if [ch_ren] could sense my neediness, I feel him insert one of his slender fingers into the very place I needed him the most and experimentally wiggle around." nointeract
-    n "Y como si [ch_ren] pudiera sentir mi necesidad, lo siento insertar uno de sus delgados dedos en el lugar donde más lo necesitaba y moverse experimentalmente." nointeract
+    # n "And as if [ch_ren] could sense my neediness, I feel him insert one of his slender fingers into the very place I needed him the most and experimentally wiggle around." 
+    n "Y como si [ch_ren] pudiera sentir mi necesidad, lo siento insertar uno de sus delgados dedos en el lugar donde más lo necesitaba y moverse experimentalmente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:323
 translate Paloslios day1_wahooscene_2b741177_2:
 
-    # n "He starts thrusting his finger now, slowly easing it in and out of me before adding another. My breath hitches in my throat as I throw my head back, once again arching into his addictive touch." nointeract
-    n "Comienza a empujar su dedo ahora, lentamente metiéndolo y sacándolo antes de agregar otro. Mi respiración se corta en mi garganta mientras echo la cabeza hacia atrás, arqueándome una vez más ante su adictivo toque." nointeract
+    # n "He starts thrusting his finger now, slowly easing it in and out of me before adding another. My breath hitches in my throat as I throw my head back, once again arching into his addictive touch." 
+    n "Comienza a empujar su dedo ahora, lentamente metiéndolo y sacándolo antes de agregar otro. Mi respiración se corta en mi garganta mientras echo la cabeza hacia atrás, arqueándome una vez más ante su adictivo toque." 
 
 # game/14 Nights With You/14nightswithyou.rpy:324
 translate Paloslios day1_wahooscene_e1451315:
 
-    # n "My hips shamelessly rut against [ch_ren]'s hand as they move in tandem with his ministrations." nointeract
-    n "Mis caderas se frotan descaradamente contra la mano de [ch_ren] mientras se mueven en conjunto con sus cuidados." nointeract
+    # n "My hips shamelessly rut against [ch_ren]'s hand as they move in tandem with his ministrations." 
+    n "Mis caderas se frotan descaradamente contra la mano de [ch_ren] mientras se mueven en conjunto con sus cuidados." 
 
 # game/14 Nights With You/14nightswithyou.rpy:325
 translate Paloslios day1_wahooscene_29cb03c8:
 
-    # n "Not wanting to be the only one experiencing such pleasure, I reach down to tug at his pants, and he {b}immediately{/b} gets the message to take them off — albeit with a bit {b}too{/b} much enthusiasm." nointeract
-    n "No queriendo ser el único que experimenta tal placer, me agacho para tirar de sus pantalones, y él {b}inmediatamente{/b} recibe el mensaje de quitárselos, aunque con un poco {b}demasiado{/b} de entusiasmo." nointeract
+    # n "Not wanting to be the only one experiencing such pleasure, I reach down to tug at his pants, and he {b}immediately{/b} gets the message to take them off — albeit with a bit {b}too{/b} much enthusiasm." 
+    n "No queriendo ser el único que experimenta tal placer, me agacho para tirar de sus pantalones, y él {b}inmediatamente{/b} recibe el mensaje de quitárselos, aunque con un poco {b}demasiado{/b} de entusiasmo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:326
 translate Paloslios day1_wahooscene_e1217243:
 
-    # n "[ch_ren] lifts himself from on top of me to cast his jeans off to who-knows-where before returning again with his undivided attention." nointeract
-    n "[ch_ren] se levanta encima de mí para quitarse los jeans y quién sabe dónde antes de regresar nuevamente con toda su atención." nointeract
+    # n "[ch_ren] lifts himself from on top of me to cast his jeans off to who-knows-where before returning again with his undivided attention." 
+    n "[ch_ren] se levanta encima de mí para quitarse los jeans quién sabe como antes de regresar nuevamente con toda su atención." 
 
 # game/14 Nights With You/14nightswithyou.rpy:330
 translate Paloslios day1_wahooscene_f87991f0:
 
-    # n "And as if to make up for temporarily leaving me, he inserts {b}yet another{/b} finger into me, and I feel myself stretching at the sheer size of them." nointeract
-    n "Y como para compensar el abandono temporal de mí, inserta {b}otro dedo{/b} dentro de mí, y siento que me estire ante el gran tamaño de ellos." nointeract
+    # n "And as if to make up for temporarily leaving me, he inserts {b}yet another{/b} finger into me, and I feel myself stretching at the sheer size of them." 
+    n "Y como para compensar el abandono temporal de mí, inserta {b}otro dedo{/b} dentro de mí, y siento como me estira ante el gran tamaño de ellos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:331
 translate Paloslios day1_wahooscene_71420b88:
 
-    # n "Fuck. Just how big {b}was{/b} he if [ch_ren] felt the need to prep me with {b}three{/b} fingers?" nointeract
-    n "Mierda. ¿Qué tan grande era {b}{/b} si [ch_ren] sintiera la necesidad de prepararme con {b}tres{/b} dedos?" nointeract
+    # n "Fuck. Just how big {b}was{/b} he if [ch_ren] felt the need to prep me with {b}three{/b} fingers?" 
+    n "Mierda. ¿Qué tan grande era {b}{/b} si [ch_ren] sintiera la necesidad de prepararme con {b}tres{/b} dedos?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:332
 translate Paloslios day1_wahooscene_2c2a7e72:
 
-    # n "If I could barely handle this many inside me, would I be able to…?" nointeract
-    n "Si apenas pudiera manejar tanto dentro de mí, ¿podría…?" nointeract
+    # n "If I could barely handle this many inside me, would I be able to…?" 
+    n "Si apenas puedo manejar tanto dentro de mí, ¿podría…?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:333
 translate Paloslios day1_wahooscene_9061a556:
 
-    # n "Reaching down, I let out a hitched breath as I take in just how {b}large{/b} his cock was. I mean, it made sense considering his overall size, but still…" nointeract
-    n "Me agacho y dejo escapar un suspiro entrecortado mientras percibo cuán {b}grande{/b} era su polla. Quiero decir, tenía sentido considerando su tamaño total, pero aún así…" nointeract
+    # n "Reaching down, I let out a hitched breath as I take in just how {b}large{/b} his cock was. I mean, it made sense considering his overall size, but still…" 
+    n "Me agacho y dejo escapar un suspiro entrecortado mientras percibo cuán {b}grande{/b} era su polla. Quiero decir, tenía sentido considerando su tamaño total, pero aún así…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:334
 translate Paloslios day1_wahooscene_6b6cede3:
 
-    # n "He felt thick and heavy in my hand, and I could hardly wrap my fingers around it. I gave an experimental squeeze around the tip, and I felt [ch_ren] shiver above me and nuzzle his head into the crook of my neck." nointeract
-    n "Lo sentía grueso y pesado en mi mano, y apenas podía rodearlo con mis dedos. Le di un apretón experimental alrededor de la punta y sentí que [ch_ren] temblaba sobre mí y acariciaba su cabeza en el hueco de mi cuello." nointeract
+    # n "He felt thick and heavy in my hand, and I could hardly wrap my fingers around it. I gave an experimental squeeze around the tip, and I felt [ch_ren] shiver above me and nuzzle his head into the crook of my neck." 
+    n "Lo sentía grueso y pesado en mi mano, y apenas podía rodearlo con mis dedos. Le di un apretón experimental alrededor de la punta y sentí que [ch_ren] temblaba sobre mí y acariciaba su cabeza en el hueco de mi cuello." 
 
 # game/14 Nights With You/14nightswithyou.rpy:335
 translate Paloslios day1_wahooscene_fc0bb05c:
 
-    # y "{i}A-Ah—!{/i}" nointeract
-    y "{i}¡A-Ah—!{/i}" nointeract
+    # y "{i}A-Ah—!{/i}" 
+    y "{i}¡A-Ah—!{/i}" 
 
 # game/14 Nights With You/14nightswithyou.rpy:336
 translate Paloslios day1_wahooscene_e4ede34b:
 
-    # n "As if responding to my sounds, his mouth moves towards my [bust], and I can't help but arch my back into his searing touch." nointeract
-    n "Como respondiendo a mis sonidos, su boca se mueve hacia mi [bust] y no puedo evitar arquear la espalda ante su toque abrasador." nointeract
+    # n "As if responding to my sounds, his mouth moves towards my [bust!t], and I can't help but arch my back into his searing touch." 
+    n "Como respondiendo a mis sonidos, su boca se mueve hacia mi [bust!t] y no puedo evitar arquear la espalda ante su toque abrasador." 
 
 # game/14 Nights With You/14nightswithyou.rpy:337
 translate Paloslios day1_wahooscene_e819d502:
 
-    # n "No longer caring about the sounds I make or holding myself back, I keen at [ch_ren]'s ministrations as I desperately cling to his warm skin, quickly feeling that euphoric bliss build up inside me." nointeract
-    n "Ya no me importan los sonidos que hago ni me contengo, disfruto de los cuidados de [ch_ren] mientras me aferro desesperadamente a su cálida piel, sintiendo rápidamente que esa dicha eufórica se acumula dentro de mí." nointeract
+    # n "No longer caring about the sounds I make or holding myself back, I keen at [ch_ren]'s ministrations as I desperately cling to his warm skin, quickly feeling that euphoric bliss build up inside me." 
+    n "Ya no me importan los sonidos que hago ni me contengo, disfruto de los cuidados de [ch_ren] mientras me aferro desesperadamente a su cálida piel, sintiendo rápidamente que esa dicha eufórica se acumula dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:341
 translate Paloslios day1_wahooscene_c3582979:
 
-    # r "…Just like that. Keep squeezing around my fingers like that." nointeract
-    r "…Así. Sigue apretando mis dedos así." nointeract
+    # r "…Just like that. Keep squeezing around my fingers like that." 
+    r "…Así. Sigue apretando mis dedos así." 
 
 # game/14 Nights With You/14nightswithyou.rpy:342
 translate Paloslios day1_wahooscene_07c1e447:
 
-    # n "His voice is barely above a whisper, but I hear it nonetheless and feel myself getting closer and closer to the edge." nointeract
-    n "Su voz es apenas más que un susurro, pero la escucho de todos modos y siento que me acerco cada vez más al borde." nointeract
+    # n "His voice is barely above a whisper, but I hear it nonetheless and feel myself getting closer and closer to the edge." 
+    n "Su voz es apenas más que un susurro, pero la escucho de todos modos y siento que me acerco cada vez más al borde." 
 
 # game/14 Nights With You/14nightswithyou.rpy:343
 translate Paloslios day1_wahooscene_b539b054:
 
-    # n "I stroke his length with the same fervour now as I shamelessly buck my hips against his hand and seek out what I was desperately looking for." nointeract
-    n "Acaricio su longitud con el mismo fervor ahora mientras descaradamente golpeo mis caderas contra su mano y busco lo que estaba buscando desesperadamente." nointeract
+    # n "I stroke his length with the same fervour now as I shamelessly buck my hips against his hand and seek out what I was desperately looking for." 
+    n "Acaricio su longitud con el mismo fervor ahora mientras descaradamente golpeo mis caderas contra su mano y busco lo que estaba buscando desesperadamente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:345
 translate Paloslios day1_wahooscene_f3509cfd:
 
-    # r "That's it, you're doing so well, baby~ Use my hand to get off." nointeract
-    r "Eso es todo, lo estás haciendo muy bien, cariño ~ Usa mi mano para bajar." nointeract
+    # r "That's it, you're doing so well, baby~ Use my hand to get off." 
+    r "Eso es todo, lo estás haciendo muy bien, cariño ~ Usa mi mano para bajar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:347
 translate Paloslios day1_wahooscene_8015c6ee:
 
-    # r "That's it, good [baby]~ Use my hand to get off." nointeract
-    r "Eso es todo, bien [baby]~ Usa mi mano para bajar." nointeract
+    # r "That's it, good [baby!t]~ Use my hand to get off." 
+    r "Eso es todo, ecxelente [baby!t]~ Usa mi mano para bajar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:348
 translate Paloslios day1_wahooscene_b1cc7162:
 
-    # r "Ah— {i}Shit—!{/i} I want you to come for me. Can you do that for me, Angel?" nointeract
-    r "Ah— {i}¡Mierda—!{/i} Quiero que vengas por mí. ¿Puedes hacer eso por mí, Ángel?" nointeract
+    # r "Ah— {i}Shit—!{/i} I want you to come for me. Can you do that for me, Angel?" 
+    r "Ah— {i}¡Mierda—!{/i} Quiero que te vengas por mí. ¿Puedes hacer eso por mí, Ángel?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:352
 translate Paloslios day1_wahooscene_03ef21cb:
 
-    # n "He quickens his pace, and suddenly, my vision goes white. My toes curl as [ch_ren] continues to thrust and scissor his slender digits inside me, and I come with his name on my tongue." nointeract
-    n "Acelera el paso y, de repente, mi visión se vuelve blanca. Los dedos de mis pies se curvan mientras [ch_ren] continúa empujando y cortando sus delgados dedos dentro de mí, y me corro con su nombre en mi lengua." nointeract
+    # n "He quickens his pace, and suddenly, my vision goes white. My toes curl as [ch_ren] continues to thrust and scissor his slender digits inside me, and I come with his name on my tongue." 
+    n "Acelera el paso y, de repente, mi visión se vuelve blanca. Los dedos de mis pies se curvan mientras [ch_ren] continúa empujando y cortando sus delgados dedos dentro de mí, y me corro con su nombre en mi lengua." 
 
 # game/14 Nights With You/14nightswithyou.rpy:353
 translate Paloslios day1_wahooscene_aaeba5b3:
 
-    # r "There you go. Fuck, {i}baby—{/i} You did such a good job." nointeract
-    r "Ahí tienes. Joder, {i}bebé—{/i} Hiciste un buen trabajo." nointeract
+    # r "There you go. Fuck, {i}baby—{/i} You did such a good job." 
+    r "Ahí tienes. Joder, {i}bebé—{/i} Hiciste un buen trabajo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:354
 translate Paloslios day1_wahooscene_662a00dc:
 
-    # n "I barely hear his words as I lay there almost lifelessly to catch my breath. His hand is still on me, and I feel him scoop up some of my fluids with an embarrassing squelch." nointeract
-    n "Apenas escucho sus palabras mientras me quedo allí casi sin vida para recuperar el aliento. Su mano todavía está sobre mí y siento que recoge algunos de mis fluidos con un chasquido vergonzoso." nointeract
+    # n "I barely hear his words as I lay there almost lifelessly to catch my breath. His hand is still on me, and I feel him scoop up some of my fluids with an embarrassing squelch." 
+    n "Apenas escucho sus palabras mientras me quedo allí casi sin vida para recuperar el aliento. Su mano todavía está sobre mí y siento que recoge algunos de mis fluidos con un chasquido vergonzoso." 
 
 # game/14 Nights With You/14nightswithyou.rpy:355
 translate Paloslios day1_wahooscene_03ecf179:
 
-    # n "Then, as if he was the devil incarnate, I watch as he brings his fingers to his lips and practically {b}sucks{/b} on them." nointeract
-    n "Luego, como si fuera el diablo encarnado, observo cómo se lleva los dedos a los labios y prácticamente {b}los chupa{/b}." nointeract
+    # n "Then, as if he was the devil incarnate, I watch as he brings his fingers to his lips and practically {b}sucks{/b} on them." 
+    n "Luego, como si fuera el diablo encarnado, observo cómo se lleva los dedos a los labios y prácticamente {b}los chupa{/b}." 
 
 # game/14 Nights With You/14nightswithyou.rpy:356
 translate Paloslios day1_wahooscene_68ce4264:
 
-    # r "Mm, you taste just as good as I imagined." nointeract
-    r "Mm, sabes tan bien como me imaginaba." nointeract
+    # r "Mm, you taste just as good as I imagined." 
+    r "Mm, sabes tan bien como me imaginaba." 
 
 # game/14 Nights With You/14nightswithyou.rpy:357
 translate Paloslios day1_wahooscene_b6e2eae4:
 
-    # y "Nn… Shit, [ch_ren]—" nointeract
-    y "Nn… Mierda, [ch_ren]—" nointeract
+    # y "Nn… Shit, [ch_ren]—" 
+    y "Nn… Mierda, [ch_ren]—" 
 
 # game/14 Nights With You/14nightswithyou.rpy:358
 translate Paloslios day1_wahooscene_ab289191:
 
-    # r "Are you alright? That wasn't too much, was it?" nointeract
-    r "¿Estás bien? Eso no fue demasiado, ¿verdad?" nointeract
+    # r "Are you alright? That wasn't too much, was it?" 
+    r "¿Estás bien? Eso no fue demasiado, ¿verdad?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:359
 translate Paloslios day1_wahooscene_8130aeee:
 
-    # y "Not at all… I think I just need a moment." nointeract
-    y "En absoluto... Creo que sólo necesito un momento." nointeract
+    # y "Not at all… I think I just need a moment." 
+    y "En absoluto... Creo que sólo necesito un momento." 
 
 # game/14 Nights With You/14nightswithyou.rpy:363
 translate Paloslios day1_wahooscene_71389e8e:
 
-    # n "But during my hazed-out state, I came to the realisation that [ch_ren] was {b}still{/b} hard — if his \"subtle\" grinding against my thigh had anything to do with it. So I wrap my legs around his waist and draw him closer." nointeract
-    n "Pero durante mi estado de confusión, me di cuenta de que [ch_ren] era {b}todavía{/b} duro, si su \"sutil\" rozar mi muslo tenía algo que ver con eso. Así que envuelvo mis piernas alrededor de su cintura y lo acerco más." nointeract
+    # n "But during my hazed-out state, I came to the realisation that [ch_ren] was {b}still{/b} hard — if his \"subtle\" grinding against my thigh had anything to do with it. So I wrap my legs around his waist and draw him closer." 
+    n "Pero durante mi estado de confusión, me di cuenta de que [ch_ren] esta {b}todavía{/b} duro, si su \"sutil\" roze con mi muslo tenía algo que ver con eso. Así que envuelvo mis piernas alrededor de su cintura y lo acerco más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:364
 translate Paloslios day1_wahooscene_3c5493ca:
 
-    # n "He cries out at the sudden contact and doubles over, but quickly catches himself on his forearms before he could crush me with his weight." nointeract
-    n "Grita ante el contacto repentino y se dobla, pero rápidamente se sujeta con los antebrazos antes de que pueda aplastarme con su peso." nointeract
+    # n "He cries out at the sudden contact and doubles over, but quickly catches himself on his forearms before he could crush me with his weight." 
+    n "Grita ante el contacto repentino y se dobla, pero rápidamente se sujeta con los antebrazos antes de que pueda aplastarme con su peso." 
 
 # game/14 Nights With You/14nightswithyou.rpy:365
 translate Paloslios day1_wahooscene_1dabb7f3:
 
-    # r "{i}Ah—!{/i} Are you sure, [ch_angel]? We-We don't have to…" nointeract
-    r "{i}¡Ah—!{/i} ¿Estás seguro, [ch_angel]? Nosotros-No tenemos que..." nointeract
+    # r "{i}Ah—!{/i} Are you sure, [ch_angel]? We-We don't have to…" 
+    r "{i}¡Ah—!{/i} ¿Estás segura, [ch_angel]? Nosotros-No tenemos que..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:366
 translate Paloslios day1_wahooscene_fe2841a9:
 
-    # n "His timid persona resurfaces once more, and had I not just experienced the best orgasm of my life, I would've been taken aback by the constant whiplash of his personality swings." nointeract
-    n "Su personalidad tímida resurge una vez más, y si no hubiera experimentado el mejor orgasmo de mi vida, me habría sorprendido el constante latigazo de sus cambios de personalidad." nointeract
+    # n "His timid persona resurfaces once more, and had I not just experienced the best orgasm of my life, I would've been taken aback by the constant whiplash of his personality swings." 
+    n "Su personalidad tímida resurge una vez más, y si no hubiera experimentado el mejor orgasmo de mi vida, me habría sorprendido el constante latigazo de sus cambios de personalidad." 
 
 # game/14 Nights With You/14nightswithyou.rpy:367
 translate Paloslios day1_wahooscene_03ffceda:
 
-    # y "I want to… {i}Please?{/i}" nointeract
-    y "Quiero... {i}¿Por favor?{/i}" nointeract
+    # y "I want to… {i}Please?{/i}" 
+    y "Quiero... {i}¿Por favor?{/i}" 
 
 # game/14 Nights With You/14nightswithyou.rpy:378
 translate Paloslios day1_wahooscene_8b1c41db:
 
-    # y "Please, [ch_ren]…" nointeract
-    y "Por favor, [ch_ren]…" nointeract
+    # y "Please, [ch_ren]…" 
+    y "Por favor, [ch_ren]…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:383
 translate Paloslios day1_wahooscene_10a6dc8d:
 
-    # n "Apparently, that's all it takes to have him back on me once more, with his hungry mouth and body on mine as his hand moves to line himself up with my aching cunt." nointeract
-    n "Aparentemente, eso es todo lo que se necesita para tenerlo de vuelta sobre mí una vez más, con su boca hambrienta y su cuerpo sobre el mío mientras su mano se mueve para alinearse con mi coño dolorido." nointeract
+    # n "Apparently, that's all it takes to have him back on me once more, with his hungry mouth and body on mine as his hand moves to line himself up with my aching cunt." 
+    n "Aparentemente, eso es todo lo que se necesita para tenerlo de vuelta sobre mí una vez más, con su boca hambrienta y su cuerpo sobre el mío mientras su mano se mueve para alinearse con mi coño dolorido." 
 
 # game/14 Nights With You/14nightswithyou.rpy:385
 translate Paloslios day1_wahooscene_14744e44:
 
-    # n "Apparently, that's all it takes to have him back on me once more, with his hungry mouth and body on mine as his hand moves to line himself up with my needy hole." nointeract
-    n "Aparentemente, eso es todo lo que se necesita para tenerlo de vuelta sobre mí una vez más, con su boca y su cuerpo hambrientos sobre los míos mientras su mano se mueve para alinearse con mi agujero necesitado." nointeract
+    # n "Apparently, that's all it takes to have him back on me once more, with his hungry mouth and body on mine as his hand moves to line himself up with my needy hole." 
+    n "Aparentemente, eso es todo lo que se necesita para tenerlo de vuelta sobre mí una vez más, con su boca y su cuerpo hambrientos sobre los míos mientras su mano se mueve para alinearse con mi agujero necesitado." 
 
 # game/14 Nights With You/14nightswithyou.rpy:389
 translate Paloslios day1_wahooscene_d5a79d74:
 
-    # n "[ch_ren] had the decency to go slowly considering his large size, and I find myself clenching around every inch by agonising inch as he enters me." nointeract
-    n "[ch_ren] tuvo la decencia de ir despacio considerando su gran tamaño, y me encuentro apretando cada centímetro a centímetro agonizante mientras él entra en mí." nointeract
+    # n "[ch_ren] had the decency to go slowly considering his large size, and I find myself clenching around every inch by agonising inch as he enters me." 
+    n "[ch_ren] tuvo la decencia de ir despacio considerando su gran tamaño, y me encuentro apretando cada centímetro a centímetro agonizante mientras él entra en mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:390
 translate Paloslios day1_wahooscene_fb7da9e3:
 
-    # n "I almost forget to breathe as I feel him stretch out my walls, and I unconsciously latch onto his shoulders with my nails to bear the pain." nointeract
-    n "Casi me olvido de respirar cuando lo siento estirar mis paredes, e inconscientemente me aferro a sus hombros con mis uñas para soportar el dolor." nointeract
+    # n "I almost forget to breathe as I feel him stretch out my walls, and I unconsciously latch onto his shoulders with my nails to bear the pain." 
+    n "Casi me olvido de respirar cuando lo siento estirar mis paredes, e inconscientemente me aferro a sus hombros con mis uñas para soportar el dolor." 
 
 # game/14 Nights With You/14nightswithyou.rpy:391
 translate Paloslios day1_wahooscene_bfc5e133:
 
-    # n "Fuuuck… He really was huge. {b}Definitely{/b} bigger than anything else I've ever taken before." nointeract
-    n "Joder... Realmente era enorme. {b}Definitivamente{/b} es más grande que cualquier otra cosa que haya tomado antes." nointeract
+    # n "Fuuuck… He really was huge. {b}Definitely{/b} bigger than anything else I've ever taken before." 
+    n "Joder... Realmente era enorme. {b}Definitivamente{/b} es más grande que cualquier otra cosa que haya tomado antes." 
 
 # game/14 Nights With You/14nightswithyou.rpy:392
 translate Paloslios day1_wahooscene_afc2da91:
 
-    # n "What felt like hours seemed to pass before [ch_ren] {b}finally{/b} bottoms out inside of me, and he almost seems to double over once more from the sheer pleasure of it all." nointeract
-    n "Lo que parecieron horas parecieron pasar antes de que [ch_ren]{b}finalmente{/b} toque fondo dentro de mí, y casi parece doblarse una vez más por el puro placer de todo." nointeract
+    # n "What felt like hours seemed to pass before [ch_ren] {b}finally{/b} bottoms out inside of me, and he almost seems to double over once more from the sheer pleasure of it all." 
+    n "Lo que parecieron horas parecieron pasar antes de que [ch_ren] {b}finalmente{/b} toque fondo dentro de mí, y casi parece doblarse una vez más por el puro placer de todo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:393
 translate Paloslios day1_wahooscene_129b52ff:
 
-    # n "He looks down at me once more with those soft blue eyes of his, and the entire exchange suddenly feels {b}far more{/b} intimate than actually having him inside of me." nointeract
-    n "Me mira una vez más con esos suaves ojos azules suyos, y todo el intercambio de repente se siente {b}mucho más{/b} íntimo que tenerlo dentro de mí." nointeract
+    # n "He looks down at me once more with those soft blue eyes of his, and the entire exchange suddenly feels {b}far more{/b} intimate than actually having him inside of me." 
+    n "Me mira una vez más con esos suaves ojos azules suyos, y todo el intercambio de repente se siente {b}mucho más{/b} íntimo que tenerlo dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:394
 translate Paloslios day1_wahooscene_be4b32a5:
 
-    # n "His hand comes to brush away a lone tear from the corner of my eye, and he bends down to give me a chaste kiss on the forehead." nointeract
-    n "Su mano viene a secar una lágrima solitaria del rabillo del ojo y se inclina para darme un casto beso en la frente." nointeract
+    # n "His hand comes to brush away a lone tear from the corner of my eye, and he bends down to give me a chaste kiss on the forehead." 
+    n "Su mano viene a secar una lágrima solitaria del rabillo del ojo y se inclina para darme un casto beso en la frente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:395
 translate Paloslios day1_wahooscene_a70845bb:
 
-    # n "Surprised by such an innocent gesture, my eyes flutter open once more — and what greets me is a sight that takes my breath away." nointeract
-    n "Sorprendida por un gesto tan inocente, mis ojos se abren una vez más y lo que me saluda es una visión que me deja sin aliento." nointeract
+    # n "Surprised by such an innocent gesture, my eyes flutter open once more — and what greets me is a sight that takes my breath away." 
+    n "Sorprendida por un gesto tan inocente, mis ojos se abren una vez más y lo que me saluda es una visión que me deja sin aliento." 
 
 # game/14 Nights With You/14nightswithyou.rpy:406
 translate Paloslios day1_wahooscene_86176a9e:
 
-    # r "Hah— Look~ I'm finally inside you… You took me so well, Angel." nointeract
-    r "Ja— Mira ~ Finalmente estoy dentro de ti… Me tomaste tan bien, Ángel." nointeract
+    # r "Hah— Look~ I'm finally inside you… You took me so well, Angel." 
+    r "Hah— Mira ~ Finalmente estoy dentro de ti… Me tomaste tan bien, Ángel." 
 
 # game/14 Nights With You/14nightswithyou.rpy:411
 translate Paloslios day1_wahooscene_1e7e8b7c:
 
-    # n "Despite his tender words, the sharp thrust of his hips takes me off guard as he begins to move. I can feel the veiny underside of his cock drag against my walls, which sends a wave of pleasure throughout my entire body." nointeract
-    n "A pesar de sus tiernas palabras, el fuerte movimiento de sus caderas me toma por sorpresa cuando comienza a moverse. Puedo sentir la parte inferior venosa de su polla arrastrándose contra mis paredes, lo que envía una ola de placer por todo mi cuerpo." nointeract
+    # n "Despite his tender words, the sharp thrust of his hips takes me off guard as he begins to move. I can feel the veiny underside of his cock drag against my walls, which sends a wave of pleasure throughout my entire body." 
+    n "A pesar de sus tiernas palabras, el fuerte movimiento de sus caderas me toma por sorpresa cuando comienza a moverse. Puedo sentir la parte inferior venosa de su polla arrastrándose contra mis paredes, lo que envía una ola de placer por todo mi cuerpo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:412
 translate Paloslios day1_wahooscene_6fe57686:
 
-    # r "Does that feel good? You're making such a {i}mess{/i} down there…" nointeract
-    r "¿Eso se siente bien? Estás haciendo un {i}lío{/i} ahí abajo..." nointeract
+    # r "Does that feel good? You're making such a {i}mess{/i} down there…" 
+    r "¿Eso se siente bien? Estás haciendo un {i}lío{/i} ahí abajo..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:413
 translate Paloslios day1_wahooscene_7860a2cc:
 
-    # r "Hah— Just wait until I'm finished with you~" nointeract
-    r "Ja—Solo espera hasta que termine contigo~" nointeract
+    # r "Hah— Just wait until I'm finished with you~" 
+    r "Hah—Solo espera hasta que termine contigo~" 
 
 # game/14 Nights With You/14nightswithyou.rpy:414
 translate Paloslios day1_wahooscene_d558a06e:
 
-    # n "His rough pace doesn't seem to relent as he slams his hips into mine, and the hand that brushed against my skin soon comes to interlock with one of my own." nointeract
-    n "Su ritmo brusco no parece ceder mientras golpea sus caderas contra las mías, y la mano que rozó mi piel pronto se entrelaza con una de las mías." nointeract
+    # n "His rough pace doesn't seem to relent as he slams his hips into mine, and the hand that brushed against my skin soon comes to interlock with one of my own." 
+    n "Su ritmo brusco no parece ceder mientras golpea sus caderas contra las mías, y la mano que rozó mi piel pronto se entrelaza con una de las mías." 
 
 # game/14 Nights With You/14nightswithyou.rpy:415
 translate Paloslios day1_wahooscene_ac387065:
 
-    # n "Yet again, this started to feel {b}far too{/b} intimate than it should've, but I was too lost in all the pleasure to give it much thought." nointeract
-    n "Una vez más, esto empezó a parecer {b}demasiado{/b} íntimo de lo que debería, pero estaba demasiado perdido en todo el placer como para pensarlo mucho." nointeract
+    # n "Yet again, this started to feel {b}far too{/b} intimate than it should've, but I was too lost in all the pleasure to give it much thought." 
+    n "Una vez más, esto empezó a parecer {b}demasiado{/b} íntimo de lo que debería, pero estaba demasiado perdido en todo el placer como para pensarlo mucho." 
 
 # game/14 Nights With You/14nightswithyou.rpy:420
 translate Paloslios day1_wahooscene_72929538:
 
-    # n "[ch_ren] doesn't move his hips yet, instead choosing to look down at me with soft eyes as I become accustomed to having something inside me for the first time." nointeract
-    n "[ch_ren] aún no mueve sus caderas, sino que elige mirarme con ojos suaves mientras me acostumbro a tener algo dentro de mí por primera vez." nointeract
+    # n "[ch_ren] doesn't move his hips yet, instead choosing to look down at me with soft eyes as I become accustomed to having something inside me for the first time." 
+    n "[ch_ren] aún no mueve sus caderas, sino que elige mirarme con ojos suaves mientras me acostumbro a tener algo dentro de mí por primera vez." 
 
 # game/14 Nights With You/14nightswithyou.rpy:421
 translate Paloslios day1_wahooscene_22713ae8:
 
-    # r "I-Is it uncomfortable? Let me know if it hurts, okay? Just say the word, and we can stop." nointeract
-    r "¿E-es incómodo? Avísame si te duele, ¿vale? Sólo di una palabra y podremos parar." nointeract
+    # r "I-Is it uncomfortable? Let me know if it hurts, okay? Just say the word, and we can stop." 
+    r "¿E-es incómodo? Avísame si te duele, ¿vale? Sólo di una palabra y podremos parar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:422
 translate Paloslios day1_wahooscene_a316e0e2:
 
-    # n "His sincerity touches me as he tries to remain still inside me, but I can tell from his rough expression that he's trying to hold himself back." nointeract
-    n "Su sinceridad me conmueve mientras intenta permanecer quieto dentro de mí, pero puedo decir por su expresión áspera que está tratando de contenerse." nointeract
+    # n "His sincerity touches me as he tries to remain still inside me, but I can tell from his rough expression that he's trying to hold himself back." 
+    n "Su sinceridad me conmueve mientras intenta permanecer quieto dentro de mí, pero puedo decir por su expresión áspera que está tratando de contenerse." 
 
 # game/14 Nights With You/14nightswithyou.rpy:423
 translate Paloslios day1_wahooscene_914ebe10:
 
-    # n "Sure, there was still a little bit of pain — but I reassure him by locking my legs around his waist and pulling him closer." nointeract
-    n "Claro, todavía sentía un poco de dolor, pero lo tranquilicé cerrando mis piernas alrededor de su cintura y acercándolo." nointeract
+    # n "Sure, there was still a little bit of pain — but I reassure him by locking my legs around his waist and pulling him closer." 
+    n "Claro, todavía sentía un poco de dolor, pero lo tranquilicé cerrando mis piernas alrededor de su cintura y acercándolo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:424
 translate Paloslios day1_wahooscene_563618a7:
 
-    # n "At that, I can feel the veiny underside of his cock drag against my walls as he begins to move, sending a wave of pleasure throughout my entire body." nointeract
-    n "Ante eso, puedo sentir la parte inferior venosa de su polla arrastrarse contra mis paredes mientras comienza a moverse, enviando una ola de placer por todo mi cuerpo." nointeract
+    # n "At that, I can feel the veiny underside of his cock drag against my walls as he begins to move, sending a wave of pleasure throughout my entire body." 
+    n "Ante eso, puedo sentir la parte inferior venosa de su polla arrastrarse contra mis paredes mientras comienza a moverse, enviando una ola de placer por todo mi cuerpo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:425
 translate Paloslios day1_wahooscene_36f399de:
 
-    # n "His gentle pace soon becomes a lot rougher as he experimentally bucks his hips into mine, and the hand that brushed against my skin soon comes to interlock with one of my own." nointeract
-    n "Su ritmo suave pronto se vuelve mucho más áspero cuando experimentalmente empuja sus caderas contra las mías, y la mano que rozó mi piel pronto se entrelaza con una de las mías." nointeract
+    # n "His gentle pace soon becomes a lot rougher as he experimentally bucks his hips into mine, and the hand that brushed against my skin soon comes to interlock with one of my own." 
+    n "Su ritmo suave pronto se vuelve mucho más áspero cuando experimentalmente empuja sus caderas contra las mías, y la mano que rozó mi piel pronto se entrelaza con una de las mías." 
 
 # game/14 Nights With You/14nightswithyou.rpy:426
 translate Paloslios day1_wahooscene_9c3b2c45:
 
-    # n "Yet again, this is starting to feel far more intimate than it should, but I'm lost in all the pleasure to give it much thought." nointeract
-    n "Una vez más, esto está empezando a parecer mucho más íntimo de lo que debería, pero estoy perdido en el placer de pensarlo mucho." nointeract
+    # n "Yet again, this is starting to feel far more intimate than it should, but I'm lost in all the pleasure to give it much thought." 
+    n "Una vez más, esto está empezando a parecer mucho más íntimo de lo que debería, pero estoy perdido en el placer de pensarlo mucho." 
 
 # game/14 Nights With You/14nightswithyou.rpy:430
 translate Paloslios day1_wahooscene_39a19950:
 
-    # r "Look at you, taking my cock with such a lewd expression on your face. {i}Fuck.{/i} Y'feel so good—!" nointeract
-    r "Mírate, tomando mi polla con una expresión tan lasciva en tu cara. {i}Joder.{/i} ¡Te sientes tan bien!" nointeract
+    # r "Look at you, taking my cock with such a lewd expression on your face. {i}Fuck.{/i} Y'feel so good—!" 
+    r "Mírate, tomando mi polla con una expresión tan lasciva en tu cara. {i}Joder.{/i} ¡Te sientes tan bien!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:431
 translate Paloslios day1_wahooscene_83fb40cf:
 
-    # r "It's like you were made for me…" nointeract
-    r "Es como si estuvieras hecho para mí..." nointeract
+    # r "It's like you were made for me…" 
+    r "Es como si estuvieras hecho para mí..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:434
 translate Paloslios day1_wahooscene_948dd091:
 
-    # r "Like you were made to be {i}mine{/i}." nointeract
-    r "Como si estuvieras hecho para ser {i}mío{/i}." nointeract
+    # r "Like you were made to be {i}mine{/i}." 
+    r "Como si estuvieras hecho para ser {i}mía{/i}." 
 
 # game/14 Nights With You/14nightswithyou.rpy:438
 translate Paloslios day1_wahooscene_ce567196:
 
-    # n "His expression does little to stifle the sensation slowly building between my legs, and I unconsciously clench down around him. [ch_ren] lets out another shaky moan before he effortlessly lifts my hips off of the bed and grinds it along his shaft instead." nointeract
-    n "Su expresión hace poco para sofocar la sensación que se acumula lentamente entre mis piernas, e inconscientemente me aprieto a su alrededor. [ch_ren] deja escapar otro gemido tembloroso antes de levantar sin esfuerzo mis caderas de la cama y frotarlas a lo largo de su eje." nointeract
+    # n "His expression does little to stifle the sensation slowly building between my legs, and I unconsciously clench down around him. [ch_ren] lets out another shaky moan before he effortlessly lifts my hips off of the bed and grinds it along his shaft instead." 
+    n "Su expresión hace poco para sofocar la sensación que se acumula lentamente entre mis piernas, e inconscientemente me aprieto a su alrededor. [ch_ren] deja escapar otro gemido tembloroso antes de levantar sin esfuerzo mis caderas de la cama y frotarlas a lo largo de su eje." 
 
 # game/14 Nights With You/14nightswithyou.rpy:439
 translate Paloslios day1_wahooscene_466648b1:
 
-    # n "The new position has me seeing stars, and sends my eyes rolling into the back of my head." nointeract
-    n "La nueva posición me hace ver estrellas y hace que mis ojos se pongan en blanco." nointeract
+    # n "The new position has me seeing stars, and sends my eyes rolling into the back of my head." 
+    n "La nueva posición me hace ver estrellas y hace que mis ojos se pongan en blanco." 
 
 # game/14 Nights With You/14nightswithyou.rpy:440
 translate Paloslios day1_wahooscene_ccc0b165:
 
-    # y "Shit, [ch_ren]! J-Just like that—!" nointeract
-    y "¡Mierda, [ch_ren]! ¡S-Así como así—!" nointeract
+    # y "Shit, [ch_ren]! J-Just like that—!" 
+    y "¡Mierda, [ch_ren]! ¡SI!, Hah- Así..así—!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:445
 translate Paloslios day1_wahooscene_85ab5e16:
 
-    # n "My praise only seems to spur him on as he pounds into me with even more vigour now, and the hand that was once intertwined with mine slips between our bodies to stroke my clit." nointeract
-    n "Mis elogios sólo parecen estimularlo mientras me golpea con aún más vigor ahora, y la mano que una vez estuvo entrelazada con la mía se desliza entre nuestros cuerpos para acariciar mi clítoris." nointeract
+    # n "My praise only seems to spur him on as he pounds into me with even more vigour now, and the hand that was once intertwined with mine slips between our bodies to stroke my clit." 
+    n "Mis elogios sólo parecen estimularlo mientras me golpea con aún más vigor ahora, y la mano que una vez estuvo entrelazada con la mía se desliza entre nuestros cuerpos para acariciar mi clítoris." 
 
 # game/14 Nights With You/14nightswithyou.rpy:447
 translate Paloslios day1_wahooscene_f74d20a9:
 
-    # n "My praise only seems to spur him on as he pounds into me with even more vigour now, and the hand that was once intertwined with mine slips between our bodies to pump my length once more." nointeract
-    n "Mis elogios sólo parecen estimularlo mientras me golpea con aún más vigor ahora, y la mano que una vez estuvo entrelazada con la mía se desliza entre nuestros cuerpos para bombear mi longitud una vez más." nointeract
+    # n "My praise only seems to spur him on as he pounds into me with even more vigour now, and the hand that was once intertwined with mine slips between our bodies to pump my length once more." 
+    n "Mis elogios sólo parecen estimularlo mientras me golpea con aún más vigor ahora, y la mano que una vez estuvo entrelazada con la mía se desliza entre nuestros cuerpos para bombear mi longitud una vez más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:449
 translate Paloslios day1_wahooscene_423a0e9a:
 
-    # n "My praise only seems to spur him on as he pounds into me with even more vigour now, and the hand that was once intertwined with mine slips between our bodies to play with my nipples once more." nointeract
-    n "Mis elogios sólo parecen estimularlo mientras me golpea con aún más vigor ahora, y la mano que una vez estuvo entrelazada con la mía se desliza entre nuestros cuerpos para jugar con mis pezones una vez más." nointeract
+    # n "My praise only seems to spur him on as he pounds into me with even more vigour now, and the hand that was once intertwined with mine slips between our bodies to play with my nipples once more." 
+    n "Mis elogios sólo parecen estimularlo mientras me golpea con aún más vigor ahora, y la mano que una vez estuvo entrelazada con la mía se desliza entre nuestros cuerpos para jugar con mis pezones una vez más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:452
 translate Paloslios day1_wahooscene_f2b7beea:
 
-    # r "{i}Haah~{/i} F-Fuck— [ch_angel]-!" nointeract
-    r "{i}Haah~{/i} ¡M-Mierda— [ch_angel]-!" nointeract
+    # r "{i}Haah~{/i} F-Fuck— [ch_angel]-!" 
+    r "{i}Haah~{/i} ¡M-Mierda— [ch_angel]-!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:456
 translate Paloslios day1_wahooscene_81afc6b0:
 
-    # n "Hearing him cry out my name with such {b}neediness{/b} is what finally sends me over the edge once more, and I come undone on his cock with his own name on my lips." nointeract
-    n "Escucharlo gritar mi nombre con tanta {b}necesidad{/b} es lo que finalmente me lleva al límite una vez más, y me deshago de su polla con su propio nombre en mis labios." nointeract
+    # n "Hearing him cry out my name with such {b}neediness{/b} is what finally sends me over the edge once more, and I come undone on his cock with his own name on my lips." 
+    n "Escucharlo gritar mi nombre con tanta {b}necesidad{/b} es lo que finalmente me lleva al límite una vez más, y me deshago de su polla con su propio nombre en mis labios." 
 
 # game/14 Nights With You/14nightswithyou.rpy:457
 translate Paloslios day1_wahooscene_5670ef5a:
 
-    # n "[ch_ren] isn't far off, it seems, as it only takes a few more thrusts of his hips before he reaches his peak, gripping my waist in a crushing hold as he cries out my own name as well." nointeract
-    n "[ch_ren] no está muy lejos, al parecer, ya que solo se necesitan unos cuantos empujones más de sus caderas antes de alcanzar su punto máximo, agarrando mi cintura con fuerza mientras grita mi propio nombre también." nointeract
+    # n "[ch_ren] isn't far off, it seems, as it only takes a few more thrusts of his hips before he reaches his peak, gripping my waist in a crushing hold as he cries out my own name as well." 
+    n "[ch_ren] no está muy lejos, al parecer, ya que solo se necesitan unos cuantos empujones más de sus caderas antes de alcanzar su punto máximo, agarrando mi cintura con fuerza mientras grita mi propio nombre también." 
 
 # game/14 Nights With You/14nightswithyou.rpy:458
 translate Paloslios day1_wahooscene_85b401fe:
 
-    # r "[player_fl]-[player_fl]-[ch_angel]!" nointeract
-    r "[player_fl]-[player_fl]-[ch_angel]!" nointeract
+    # r "[player_fl]-[player_fl]-[ch_angel]!" 
+    r "[player_fl]-[player_fl]-[ch_angel]!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:459
 translate Paloslios day1_wahooscene_4257f2b4:
 
-    # n "He seems almost dazed for a moment as he catches his breath, before he doubles over and almost crushes me with the weight of his chest." nointeract
-    n "Parece casi aturdido por un momento mientras recupera el aliento, antes de doblarse y casi aplastarme con el peso de su pecho." nointeract
+    # n "He seems almost dazed for a moment as he catches his breath, before he doubles over and almost crushes me with the weight of his chest." 
+    n "Parece casi aturdido por un momento mientras recupera el aliento, antes de doblarse y casi aplastarme con el peso de su pecho." 
 
 # game/14 Nights With You/14nightswithyou.rpy:466
 translate Paloslios day1_wahooscene_374c964e:
 
-    # n "At my protest, he lethargically rolls to his side — but not before scooping me into his large arms and bringing me along with him." nointeract
-    n "Ante mi protesta, él rueda letárgicamente hacia un lado, no sin antes tomarme en sus grandes brazos y llevarme con él." nointeract
+    # n "At my protest, he lethargically rolls to his side — but not before scooping me into his large arms and bringing me along with him." 
+    n "Ante mi protesta, él rueda letárgicamente hacia un lado, no sin antes tomarme en sus grandes brazos y llevarme con él." 
 
 # game/14 Nights With You/14nightswithyou.rpy:468
 translate Paloslios day1_wahooscene_cac2c01f:
 
-    # n "His softening length remains buried deep inside me, but it feels more like a dull sensation at this point as I curl myself into [ch_ren]'s warmth." nointeract
-    n "Su suave longitud permanece enterrada profundamente dentro de mí, pero se siente más como una sensación aburrida en este punto mientras me acurruco en el calor de [ch_ren]." nointeract
+    # n "His softening length remains buried deep inside me, but it feels more like a dull sensation at this point as I curl myself into [ch_ren]'s warmth." 
+    n "Su suave longitud permanece enterrada profundamente dentro de mí, pero se siente más como una sensación aburrida en este punto mientras me acurruco en el calor de [ch_ren]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:469
 translate Paloslios day1_wahooscene_4ba4660f:
 
-    # n "Breathless, sticky, and now perched atop his chest, [ch_ren] and I simply lay there as we take in the afterglow of the moment. What feels like hours seem to pass as I listen to his breathing, and soon enough, I feel my own come to a slow, even pace." nointeract
-    n "Sin aliento, pegajoso y ahora sentado sobre su pecho, [ch_ren] y yo simplemente me quedé allí mientras disfrutamos del resplandor del momento. Lo que parecen horas parecen pasar mientras escucho su respiración, y muy pronto, siento que la mía alcanza un ritmo lento y uniforme." nointeract
+    # n "Breathless, sticky, and now perched atop his chest, [ch_ren] and I simply lay there as we take in the afterglow of the moment. What feels like hours seem to pass as I listen to his breathing, and soon enough, I feel my own come to a slow, even pace." 
+    n "Sin aliento, pegajoso y ahora sentado sobre su pecho, [ch_ren] y yo simplemente me quedé allí mientras disfrutamos del resplandor del momento. Lo que parecen horas parecen pasar mientras escucho su respiración, y muy pronto, siento que la mía alcanza un ritmo lento y uniforme." 
 
 # game/14 Nights With You/14nightswithyou.rpy:470
 translate Paloslios day1_wahooscene_8effde75:
 
-    # n "The hand that was idly stroking up and down my backside soon comes to an eventual halt, and I don't even need to look up to know that he'd already fallen asleep." nointeract
-    n "La mano que acariciaba distraídamente mi trasero arriba y abajo pronto se detiene, y ni siquiera necesito mirar hacia arriba para saber que ya se había quedado dormido." nointeract
+    # n "The hand that was idly stroking up and down my backside soon comes to an eventual halt, and I don't even need to look up to know that he'd already fallen asleep." 
+    n "La mano que acariciaba distraídamente mi trasero arriba y abajo pronto se detiene, y ni siquiera necesito mirar hacia arriba para saber que ya se había quedado dormido." 
 
 # game/14 Nights With You/14nightswithyou.rpy:471
 translate Paloslios day1_wahooscene_b00ee623:
 
-    # n "He still has a protective grip on me, though, so I allow the exhaustion to take hold of me and follow [ch_ren] to dreamland." nointeract
-    n "Sin embargo, todavía tiene un control protector sobre mí, así que dejo que el cansancio se apodere de mí y sigo a [ch_ren] al país de los sueños." nointeract
+    # n "He still has a protective grip on me, though, so I allow the exhaustion to take hold of me and follow [ch_ren] to dreamland." 
+    n "Sin embargo, todavía tiene un control protector sobre mí, así que dejo que el cansancio se apodere de mí y sigo a [ch_ren] al país de los sueños." 
 
 # game/14 Nights With You/14nightswithyou.rpy:472
 translate Paloslios day1_wahooscene_cfa7d0b2:
 
-    # n "After all, we could talk about what had just happened in the morning." nointeract
-    n "Después de todo, podríamos hablar de lo que acababa de pasar por la mañana." nointeract
+    # n "After all, we could talk about what had just happened in the morning." 
+    n "Después de todo, podríamos hablar de lo que acababa de pasar por la mañana." 
 
 # game/14 Nights With You/14nightswithyou.rpy:488
 translate Paloslios day2_wahooscene_15626c96:
 
-    # n "Without missing a beat, I pull [ch_ren] into the room by the ends of his shirt, making sure to tug him down and plant a kiss on his inviting lips in the process." nointeract
-    n "Sin perder el ritmo, entro a [ch_ren] en la habitación por los extremos de su camisa, asegurándome de tirar de él hacia abajo y plantar un beso en sus tentadores labios en el proceso." nointeract
+    # n "Without missing a beat, I pull [ch_ren] into the room by the ends of his shirt, making sure to tug him down and plant a kiss on his inviting lips in the process." 
+    n "Sin perder el ritmo, entro a [ch_ren] en la habitación por los extremos de su camisa, asegurándome de tirar de él hacia abajo y plantar un beso en sus tentadores labios en el proceso." 
 
 # game/14 Nights With You/14nightswithyou.rpy:490
 translate Paloslios day2_wahooscene_a2bf0146:
 
-    # n "He seems surprised for a brief moment — if his wide eyes were any indication — but he quickly recovers by wrapping a large hand around my waist and pulling me closer to his body." nointeract
-    n "Parece sorprendido por un breve momento (si sus ojos muy abiertos son una indicación), pero se recupera rápidamente envolviendo una mano grande alrededor de mi cintura y acercándome a su cuerpo." nointeract
+    # n "He seems surprised for a brief moment — if his wide eyes were any indication — but he quickly recovers by wrapping a large hand around my waist and pulling me closer to his body." 
+    n "Parece sorprendido por un breve momento (si sus ojos muy abiertos son una indicación), pero se recupera rápidamente envolviendo una mano grande alrededor de mi cintura y acercándome a su cuerpo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:491
 translate Paloslios day2_wahooscene_a21edd26:
 
-    # n "Pressed flush against his warmth now, I paid no mind to the cold bite of the wind outside his window — alongside the ominous lulls of thunder off in the distance and the streaks of lightning illuminating the dark sky." nointeract
-    n "Presionado contra su calidez ahora, no presté atención al frío viento fuera de su ventana, junto con los siniestros truenos en la distancia y los rayos que iluminaban el cielo oscuro." nointeract
+    # n "Pressed flush against his warmth now, I paid no mind to the cold bite of the wind outside his window — alongside the ominous lulls of thunder off in the distance and the streaks of lightning illuminating the dark sky." 
+    n "Presionado contra su calidez ahora, no presté atención al frío viento fuera de su ventana, junto con los siniestros truenos en la distancia y los rayos que iluminaban el cielo oscuro." 
 
 # game/14 Nights With You/14nightswithyou.rpy:493
 translate Paloslios day2_wahooscene_f0da6c1f:
 
-    # n "I somehow felt safe in his embrace, and the way he was pressing hot, fervent kisses against my mouth made me forget all about the muted downpour of rain outside." nointeract
-    n "De alguna manera me sentí segura en su abrazo, y la forma en que presionaba besos calientes y fervientes contra mi boca me hizo olvidar por completo el aguacero apagado de afuera." nointeract
+    # n "I somehow felt safe in his embrace, and the way he was pressing hot, fervent kisses against my mouth made me forget all about the muted downpour of rain outside." 
+    n "De alguna manera me sentí segura en su abrazo, y la forma en que presionaba besos calientes y fervientes contra mi boca me hizo olvidar por completo el aguacero apagado de afuera." 
 
 # game/14 Nights With You/14nightswithyou.rpy:494
 translate Paloslios day2_wahooscene_7abf72d2:
 
-    # n "[ch_ren] seemingly felt the same given how he didn't even bat an eye at the flash of lightning — instead appearing content with hoisting my legs around his waist and carrying me towards the edge of the bed. " nointeract
-    n "[ch_ren] aparentemente sintió lo mismo dado que ni siquiera se inmutó ante el destello del relámpago, en lugar de eso parecía contento con levantar mis piernas alrededor de su cintura y llevarme hacia el borde de la cama. " nointeract
+    # n "[ch_ren] seemingly felt the same given how he didn't even bat an eye at the flash of lightning — instead appearing content with hoisting my legs around his waist and carrying me towards the edge of the bed. " 
+    n "[ch_ren] aparentemente sintió lo mismo dado que ni siquiera se inmutó ante el destello del relámpago, en lugar de eso parecía contento con levantar mis piernas alrededor de su cintura y llevarme hacia el borde de la cama. " 
 
 # game/14 Nights With You/14nightswithyou.rpy:495
 translate Paloslios day2_wahooscene_dce172c1:
 
-    # n "Well, that was rather bold of him." nointeract
-    n "Bueno, eso fue bastante atrevido de su parte." nointeract
+    # n "Well, that was rather bold of him." 
+    n "Bueno, eso fue bastante atrevido de su parte." 
 
 # game/14 Nights With You/14nightswithyou.rpy:496
 translate Paloslios day2_wahooscene_4f6f84cf:
 
-    # n "I let him take the initiative for the moment as I let my hands aimlessly wander up and down the expanse of his (admittedly large) chest, before settling against the exposed skin just above his grey sweatpants instead." nointeract
-    n "Le dejé tomar la iniciativa por el momento mientras dejaba que mis manos vagaran sin rumbo arriba y abajo por la extensión de su (ciertamente grande) pecho, antes de posarme contra la piel expuesta justo encima de sus pantalones de chándal grises." nointeract
+    # n "I let him take the initiative for the moment as I let my hands aimlessly wander up and down the expanse of his (admittedly large) chest, before settling against the exposed skin just above his grey sweatpants instead." 
+    n "Le dejé tomar la iniciativa por el momento mientras dejaba que mis manos vagaran sin rumbo arriba y abajo por la extensión de su (ciertamente grande) pecho, antes de posarme contra la piel expuesta justo encima de sus pantalones de chándal grises." 
 
 # game/14 Nights With You/14nightswithyou.rpy:497
 translate Paloslios day2_wahooscene_9923b934:
 
-    # n "My sudden touch seems to pull an audible gasp from [ch_ren] as his lips begrudgingly leave my own to peer down at me instead." nointeract
-    n "Mi toque repentino parece provocar un grito ahogado de [ch_ren] mientras sus labios de mala gana abandonan los míos para mirarme." nointeract
+    # n "My sudden touch seems to pull an audible gasp from [ch_ren] as his lips begrudgingly leave my own to peer down at me instead." 
+    n "Mi toque repentino parece provocar un grito ahogado de [ch_ren] mientras sus labios de mala gana abandonan los míos para mirarme." 
 
 # game/14 Nights With You/14nightswithyou.rpy:500
 translate Paloslios day2_wahooscene_07277345:
 
-    # r "You sure? You want to… A-Again?" nointeract
-    r "¿Seguro? Quieres... ¿Otra vez?" nointeract
+    # r "You sure? You want to… A-Again?" 
+    r "¿Seguro? Quieres... ¿Otra vez?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:502
 translate Paloslios day2_wahooscene_4310ccbe:
 
-    # r "Are you sure? Y-You want to…" nointeract
-    r "¿Está seguro? T-Quieres..." nointeract
+    # r "Are you sure? Y-You want to…" 
+    r "¿Está seguro? T-Quieres..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:503
 translate Paloslios day2_wahooscene_f5e99afc:
 
-    # n "[ch_ren]'s eyes maintain that hopeful sheen to them, though I can tell by his hesitance that he didn't want to instigate anything without my consent." nointeract
-    n "Los ojos de [ch_ren] mantienen ese brillo esperanzador, aunque puedo decir por su vacilación que no quería instigar nada sin mi consentimiento." nointeract
+    # n "[ch_ren]'s eyes maintain that hopeful sheen to them, though I can tell by his hesitance that he didn't want to instigate anything without my consent." 
+    n "Los ojos de [ch_ren] mantienen ese brillo esperanzador, aunque puedo decir por su vacilación que no quería instigar nada sin mi consentimiento." 
 
 # game/14 Nights With You/14nightswithyou.rpy:508
 translate Paloslios day2_wahooscene_8fe90929:
 
-    # n "And so, with an affirmative nod, I close my eyes and press my body against his once more as his mouth and teeth playfully return to that sensitive spot on my neck." nointeract
-    n "Y así, asintiendo afirmativamente, cierro los ojos y presiono mi cuerpo contra el suyo una vez más mientras su boca y sus dientes regresan juguetonamente a ese punto sensible en mi cuello." nointeract
+    # n "And so, with an affirmative nod, I close my eyes and press my body against his once more as his mouth and teeth playfully return to that sensitive spot on my neck." 
+    n "Y así, asintiendo afirmativamente, cierro los ojos y presiono mi cuerpo contra el suyo una vez más mientras su boca y sus dientes regresan juguetonamente a ese punto sensible en mi cuello." 
 
 # game/14 Nights With You/14nightswithyou.rpy:509
 translate Paloslios day2_wahooscene_bdce49e1:
 
-    # n "The faint pitter-patter of rain against glass fills the empty silence in the room, before it's replaced by the sounds of us falling onto the mattress in a mess of tangled limbs and fervent kisses." nointeract
-    n "El leve repiqueteo de la lluvia contra el cristal llena el silencio vacío de la habitación, antes de ser reemplazado por los sonidos de nosotros cayendo sobre el colchón en un lío de extremidades enredadas y besos fervientes." nointeract
+    # n "The faint pitter-patter of rain against glass fills the empty silence in the room, before it's replaced by the sounds of us falling onto the mattress in a mess of tangled limbs and fervent kisses." 
+    n "El leve repiqueteo de la lluvia contra el cristal llena el silencio vacío de la habitación, antes de ser reemplazado por los sonidos de nosotros cayendo sobre el colchón en un lío de extremidades enredadas y besos fervientes." 
 
 # game/14 Nights With You/14nightswithyou.rpy:510
 translate Paloslios day2_wahooscene_270c8407:
 
-    # n "The fresh smell of linen and soft sheets fills my senses until it slowly starts to morph into a vague visage of [ch_ren] — with his large frame blocking my view as he slowly crawls on top of me." nointeract
-    n "El olor fresco a lino y sábanas suaves llena mis sentidos hasta que lentamente comienza a transformarse en un rostro vago de [ch_ren], con su gran figura bloqueando mi vista mientras lentamente se arrastra encima de mí." nointeract
+    # n "The fresh smell of linen and soft sheets fills my senses until it slowly starts to morph into a vague visage of [ch_ren] — with his large frame blocking my view as he slowly crawls on top of me." 
+    n "El olor fresco a lino y sábanas suaves llena mis sentidos hasta que lentamente comienza a transformarse en un rostro vago de [ch_ren], con su gran figura bloqueando mi vista mientras lentamente se arrastra encima de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:511
 translate Paloslios day2_wahooscene_32019702:
 
-    # n "Cherry-tinted lips return once more in the form of frantic kisses and hushed moans as his hands roam up and down my sides in a soothing manner." nointeract
-    n "Los labios teñidos de cereza regresan una vez más en forma de besos frenéticos y gemidos silenciosos mientras sus manos recorren mis costados de manera tranquilizadora." nointeract
+    # n "Cherry-tinted lips return once more in the form of frantic kisses and hushed moans as his hands roam up and down my sides in a soothing manner." 
+    n "Los labios teñidos de cereza regresan una vez más en forma de besos frenéticos y gemidos silenciosos mientras sus manos recorren mis costados de manera tranquilizadora." 
 
 # game/14 Nights With You/14nightswithyou.rpy:512
 translate Paloslios day2_wahooscene_05a8028b:
 
-    # n "His entire being overwhelms me, and I couldn't help but want to reciprocate his addictive ministrations." nointeract
-    n "Todo su ser me abruma y no pude evitar querer corresponder a sus adictivos cuidados." nointeract
+    # n "His entire being overwhelms me, and I couldn't help but want to reciprocate his addictive ministrations." 
+    n "Todo su ser me abruma y no pude evitar querer corresponder a sus adictivos cuidados." 
 
 # game/14 Nights With You/14nightswithyou.rpy:513
 translate Paloslios day2_wahooscene_1b1b561d:
 
-    # n "And so, almost unabashedly, I run my hands down the warm expanse of his chest once more before tugging at the hem of his shirt — indicating that I wanted him to take it off." nointeract
-    n "Y así, casi descaradamente, paso mis manos por la cálida extensión de su pecho una vez más antes de tirar del dobladillo de su camisa, indicando que quería que se la quitara." nointeract
+    # n "And so, almost unabashedly, I run my hands down the warm expanse of his chest once more before tugging at the hem of his shirt — indicating that I wanted him to take it off." 
+    n "Y así, casi descaradamente, paso mis manos por la cálida extensión de su pecho una vez más antes de tirar del dobladillo de su camisa, indicando que quería que se la quitara." 
 
 # game/14 Nights With You/14nightswithyou.rpy:515
 translate Paloslios day2_wahooscene_aa203a75:
 
-    # n "But just like last time, [ch_ren]'s hand moves to stop me once more." nointeract
-    n "Pero al igual que la última vez, la mano de [ch_ren] se mueve para detenerme una vez más." nointeract
+    # n "But just like last time, [ch_ren]'s hand moves to stop me once more." 
+    n "Pero al igual que la última vez, la mano de [ch_ren] se mueve para detenerme una vez más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:516
 translate Paloslios day2_wahooscene_4d16892a:
 
-    # r "Not yet. I still don't… I-I'm sorry, but I don't want to take it off just yet-" nointeract
-    r "Aún no. Todavía no... L-lo siento, pero no quiero quitármelo todavía-" nointeract
+    # r "Not yet. I still don't… I-I'm sorry, but I don't want to take it off just yet-" 
+    r "Aún no. Todavía no... L-lo siento, pero no quiero quitármelo todavía-" 
 
 # game/14 Nights With You/14nightswithyou.rpy:518
 translate Paloslios day2_wahooscene_fbe73ea6:
 
-    # n "But almost unexpectedly, [ch_ren]'s hand moves to stop me once more." nointeract
-    n "Pero casi inesperadamente, la mano de [ch_ren] se mueve para detenerme una vez más." nointeract
+    # n "But almost unexpectedly, [ch_ren]'s hand moves to stop me once more." 
+    n "Pero casi inesperadamente, la mano de [ch_ren] se mueve para detenerme una vez más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:519
 translate Paloslios day2_wahooscene_4b603a0c:
 
-    # r "Um— Sorry, but I don't want to take it off just yet-" nointeract
-    r "Um... Lo siento, pero no quiero quitármelo todavía..." nointeract
+    # r "Um— Sorry, but I don't want to take it off just yet-" 
+    r "Um... Lo siento, pero no quiero quitármelo todavía..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:520
 translate Paloslios day2_wahooscene_e98e740f:
 
-    # y "Hey, it's okay." nointeract
-    y "Oye, está bien." nointeract
+    # y "Hey, it's okay." 
+    y "Oye, está bien." 
 
 # game/14 Nights With You/14nightswithyou.rpy:521
 translate Paloslios day2_wahooscene_2810bc5f:
 
-    # n "Not wanting to startle him, I gently cup [ch_ren]'s cheek to give him some sort of reassurance." nointeract
-    n "Sin querer asustarlo, acaricio suavemente la mejilla de [ch_ren] para darle algún tipo de tranquilidad." nointeract
+    # n "Not wanting to startle him, I gently cup [ch_ren]'s cheek to give him some sort of reassurance." 
+    n "Sin querer asustarlo, acaricio suavemente la mejilla de [ch_ren] para darle algún tipo de tranquilidad." 
 
 # game/14 Nights With You/14nightswithyou.rpy:523
 translate Paloslios day2_wahooscene_6eed00c8:
 
-    # n "He had been nothing but patient and understanding with me during our last intimate encounter, so it was only fitting for me to return the favour." nointeract
-    n "Él no había sido más que paciente y comprensivo conmigo durante nuestro último encuentro íntimo, por lo que era apropiado que yo le devolviera el favor." nointeract
+    # n "He had been nothing but patient and understanding with me during our last intimate encounter, so it was only fitting for me to return the favour." 
+    n "Él no había sido más que paciente y comprensivo conmigo durante nuestro último encuentro íntimo, por lo que era apropiado que yo le devolviera el favor." 
 
 # game/14 Nights With You/14nightswithyou.rpy:524
 translate Paloslios day2_wahooscene_0c0c23d7:
 
-    # y "Whatever you're comfortable with, [ch_ren]." nointeract
-    y "Lo que sea con lo que te sientas cómodo, [ch_ren]." nointeract
+    # y "Whatever you're comfortable with, [ch_ren]." 
+    y "Lo que sea con lo que te sientas cómodo, [ch_ren]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:525
 translate Paloslios day2_wahooscene_c2658d5d:
 
-    # n "His eyes seem to soften at my words the moment he hears them, so he sends me a blinding smile in response." nointeract
-    n "Sus ojos parecen suavizarse ante mis palabras en el momento en que las escucha, por lo que me envía una sonrisa cegadora en respuesta." nointeract
+    # n "His eyes seem to soften at my words the moment he hears them, so he sends me a blinding smile in response." 
+    n "Sus ojos parecen suavizarse ante mis palabras en el momento en que las escucha, por lo que me envía una sonrisa cegadora en respuesta." 
 
 # game/14 Nights With You/14nightswithyou.rpy:526
 translate Paloslios day2_wahooscene_abc06c9c:
 
-    # n "Large, gentle hands encompass my waist as [ch_ren] shifts his body closer, nuzzling his head into my neck before he speaks once more." nointeract
-    n "Manos grandes y suaves rodean mi cintura mientras [ch_ren] acerca su cuerpo y acaricia mi cuello con la cabeza antes de hablar una vez más." nointeract
+    # n "Large, gentle hands encompass my waist as [ch_ren] shifts his body closer, nuzzling his head into my neck before he speaks once more." 
+    n "Manos grandes y suaves rodean mi cintura mientras [ch_ren] acerca su cuerpo y acaricia mi cuello con la cabeza antes de hablar una vez más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:527
 translate Paloslios day2_wahooscene_7722e1d9:
 
-    # r "…Y'too. I only wanna do what you're comfortable with." nointeract
-    r "…Tú también. Sólo quiero hacer aquello con lo que te sientas cómodo." nointeract
+    # r "…Y'too. I only wanna do what you're comfortable with." 
+    r "…Tú también. Sólo quiero hacer aquello con lo que te sientas cómodo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:528
 translate Paloslios day2_wahooscene_06f21925:
 
-    # n "Lifting his head, [ch_ren]'s lips return to mine once again, and I kiss [ch_ren] back with the same amount of desire and ardour." nointeract
-    n "Levantando la cabeza, los labios de [ch_ren] regresan a los míos una vez más, y yo le devuelvo el beso con la misma cantidad de deseo y ardor." nointeract
+    # n "Lifting his head, [ch_ren]'s lips return to mine once again, and I kiss [ch_ren] back with the same amount of desire and ardour." 
+    n "Levantando la cabeza, los labios de [ch_ren] regresan a los míos una vez más, y yo le devuelvo el beso con la misma cantidad de deseo y ardor." 
 
 # game/14 Nights With You/14nightswithyou.rpy:529
 translate Paloslios day2_wahooscene_ee8297c1:
 
-    # n "I can feel one of his hands chart a path down my side to play with the strings of my (his?) shorts, before teasingly tugging them loose and slipping underneath." nointeract
-    n "Puedo sentir una de sus manos trazando un camino por mi costado para jugar con los hilos de mis (¿sus?) pantalones cortos, antes de soltarlos burlonamente y deslizarse debajo." nointeract
+    # n "I can feel one of his hands chart a path down my side to play with the strings of my (his?) shorts, before teasingly tugging them loose and slipping underneath." 
+    n "Puedo sentir una de sus manos trazando un camino por mi costado para jugar con los hilos de mis (¿sus?) pantalones cortos, antes de soltarlos burlonamente y deslizarse debajo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:530
 translate Paloslios day2_wahooscene_d70c2b58:
 
-    # n "His hand doesn't go any further than my hip, but the way he touched me felt… {b}different{/b}, somehow." nointeract
-    n "Su mano no va más allá de mi cadera, pero la forma en que me tocó se sintió... {b}diferente{/b}, de alguna manera." nointeract
+    # n "His hand doesn't go any further than my hip, but the way he touched me felt… {b}different{/b}, somehow." 
+    n "Su mano no va más allá de mi cadera, pero la forma en que me tocó se sintió... {b}diferente{/b}, de alguna manera." 
 
 # game/14 Nights With You/14nightswithyou.rpy:532
 translate Paloslios day2_wahooscene_d40c4ac5:
 
-    # n "It'd barely been a day since we last did… {b}this{/b} — yet it seem as though [ch_ren] was a completely different person this time. His touch feels more practised and confident now, almost like he wasn't holding himself back anymore." nointeract
-    n "Apenas había pasado un día desde la última vez que hicimos... {b}esto{/b}, pero parece que [ch_ren] era una persona completamente diferente esta vez. Su toque se siente más practicado y seguro ahora, casi como si ya no se estuviera conteniendo." nointeract
+    # n "It'd barely been a day since we last did… {b}this{/b} — yet it seem as though [ch_ren] was a completely different person this time. His touch feels more practised and confident now, almost like he wasn't holding himself back anymore." 
+    n "Apenas había pasado un día desde la última vez que hicimos... {b}esto{/b}, pero parece que [ch_ren] era una persona completamente diferente esta vez. Su toque se siente más practicado y seguro ahora, casi como si ya no se estuviera conteniendo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:533
 translate Paloslios day2_wahooscene_362e2907:
 
-    # n "His kisses, however, are all too familiar." nointeract
-    n "Sus besos, sin embargo, le resultan demasiado familiares." nointeract
+    # n "His kisses, however, are all too familiar." 
+    n "Sus besos, sin embargo, le resultan demasiado familiares." 
 
 # game/14 Nights With You/14nightswithyou.rpy:534
 translate Paloslios day2_wahooscene_88495744:
 
-    # n "I can practically {b}feel{/b} the adoration and devotion with every press of his lips, and the faint taste of mint brings back those intimate memories shared in the darkness of my bedroom." nointeract
-    n "Prácticamente puedo {b}sentir{/b} la adoración y la devoción con cada presión de sus labios, y el leve sabor a menta me trae esos recuerdos íntimos compartidos en la oscuridad de mi dormitorio." nointeract
+    # n "I can practically {b}feel{/b} the adoration and devotion with every press of his lips, and the faint taste of mint brings back those intimate memories shared in the darkness of my bedroom." 
+    n "Prácticamente puedo {b}sentir{/b} la adoración y la devoción con cada presión de sus labios, y el leve sabor a menta me trae esos recuerdos íntimos compartidos en la oscuridad de mi dormitorio." 
 
 # game/14 Nights With You/14nightswithyou.rpy:536
 translate Paloslios day2_wahooscene_7bf251a6:
 
-    # n "I've grown used to seeing such a shy and timid [ch_ren] — it almost seems like the person in front of me is a completely different person. His touch feels… confident somehow, almost like he wasn't holding himself back anymore." nointeract
-    n "Me he acostumbrado a ver a un [ch_ren] tan tímido y tímido; casi parece que la persona frente a mí es una persona completamente diferente. Su toque se siente... seguro de alguna manera, casi como si ya no se estuviera conteniendo más." nointeract
+    # n "I've grown used to seeing such a shy and timid [ch_ren] — it almost seems like the person in front of me is a completely different person. His touch feels… confident somehow, almost like he wasn't holding himself back anymore." 
+    n "Me he acostumbrado a ver a un [ch_ren] tan tímido y tímido; casi parece que la persona frente a mí es una persona completamente diferente. Su toque se siente... seguro de alguna manera, casi como si ya no se estuviera conteniendo más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:537
 translate Paloslios day2_wahooscene_362e2907_1:
 
-    # n "His kisses, however, are all too familiar." nointeract
-    n "Sus besos, sin embargo, le resultan demasiado familiares." nointeract
+    # n "His kisses, however, are all too familiar." 
+    n "Sus besos, sin embargo, le resultan demasiado familiares." 
 
 # game/14 Nights With You/14nightswithyou.rpy:538
 translate Paloslios day2_wahooscene_6055b503:
 
-    # r "Actually…" nointeract
-    r "En realidad…" nointeract
+    # r "Actually…" 
+    r "En realidad…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:539
 translate Paloslios day2_wahooscene_133a54ff:
 
-    # n "His voice is nothing but a whisper against my skin before he draws back slightly to look me in my eyes. I watch on with bated breath as he continues speaking." nointeract
-    n "Su voz no es más que un susurro contra mi piel antes de retroceder ligeramente para mirarme a los ojos. Observo con gran expectación mientras continúa hablando." nointeract
+    # n "His voice is nothing but a whisper against my skin before he draws back slightly to look me in my eyes. I watch on with bated breath as he continues speaking." 
+    n "Su voz no es más que un susurro contra mi piel antes de retroceder ligeramente para mirarme a los ojos. Observo con gran expectación mientras continúa hablando." 
 
 # game/14 Nights With You/14nightswithyou.rpy:540
 translate Paloslios day2_wahooscene_6c985615:
 
-    # r "Can we try something… different tonight?" nointeract
-    r "¿Podemos probar algo... diferente esta noche?" nointeract
+    # r "Can we try something… different tonight?" 
+    r "¿Podemos probar algo... diferente esta noche?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:541
 translate Paloslios day2_wahooscene_1c44fdf0:
 
-    # n "[ch_ren]'s timid tone catches me off guard, and I look up only to see him sporting an inquisitive glint in his eyes." nointeract
-    n "El tono tímido de [ch_ren] me toma por sorpresa, y levanto la vista sólo para verlo con un brillo inquisitivo en sus ojos." nointeract
+    # n "[ch_ren]'s timid tone catches me off guard, and I look up only to see him sporting an inquisitive glint in his eyes." 
+    n "El tono tímido de [ch_ren] me toma por sorpresa, y levanto la vista sólo para verlo con un brillo inquisitivo en sus ojos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:542
 translate Paloslios day2_wahooscene_1410d2a7:
 
-    # n "Curious — and perhaps a little out of breath from the heated make-out session we just shared — I raise an eyebrow at [ch_ren]'s sudden request, but allow him to continue nonetheless." nointeract
-    n "Curioso, y tal vez un poco sin aliento por la acalorada sesión de besos que acabamos de compartir, levanto una ceja ante la repentina petición de [ch_ren], pero le permito continuar de todos modos." nointeract
+    # n "Curious — and perhaps a little out of breath from the heated make-out session we just shared — I raise an eyebrow at [ch_ren]'s sudden request, but allow him to continue nonetheless." 
+    n "Curioso, y tal vez un poco sin aliento por la acalorada sesión de besos que acabamos de compartir, levanto una ceja ante la repentina petición de [ch_ren], pero le permito continuar de todos modos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:543
 translate Paloslios day2_wahooscene_e7ccf59c:
 
-    # r "Here, lay back." nointeract
-    r "Toma, recuéstate." nointeract
+    # r "Here, lay back." 
+    r "Toma, recuéstate." 
 
 # game/14 Nights With You/14nightswithyou.rpy:544
 translate Paloslios day2_wahooscene_c835255e:
 
-    # n "With his honeyed voice as soft as his gaze, [ch_ren] gently pulls me towards the end of the bed by my hips." nointeract
-    n "Con su voz melosa tan suave como su mirada, [ch_ren] me tira suavemente hacia el final de la cama por mis caderas." nointeract
+    # n "With his honeyed voice as soft as his gaze, [ch_ren] gently pulls me towards the end of the bed by my hips." 
+    n "Con su voz melosa tan suave como su mirada, [ch_ren] me tira suavemente hacia el final de la cama por mis caderas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:548
 translate Paloslios day2_wahooscene_2009dfce:
 
-    # n "A puff of laughter escapes my throat at the sudden motion, before it abruptly morphs into a moan as [ch_ren] situates himself between my thighs instead." nointeract
-    n "Una risa se escapa de mi garganta ante el movimiento repentino, antes de que abruptamente se transforme en un gemido cuando [ch_ren] se sitúa entre mis muslos." nointeract
+    # n "A puff of laughter escapes my throat at the sudden motion, before it abruptly morphs into a moan as [ch_ren] situates himself between my thighs instead." 
+    n "Una risa se escapa de mi garganta ante el movimiento repentino, antes de que abruptamente se transforme en un gemido cuando [ch_ren] se sitúa entre mis muslos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:549
 translate Paloslios day2_wahooscene_e321d251:
 
-    # n "And despite the heavy tension in the air, I hear something fall from the pillows above my head, which makes me look upwards to see what it was." nointeract
-    n "Y a pesar de la gran tensión en el aire, escucho algo caer de las almohadas sobre mi cabeza, lo que me hace mirar hacia arriba para ver qué era." nointeract
+    # n "And despite the heavy tension in the air, I hear something fall from the pillows above my head, which makes me look upwards to see what it was." 
+    n "Y a pesar de la gran tensión en el aire, escucho algo caer de las almohadas sobre mi cabeza, lo que me hace mirar hacia arriba para ver qué era." 
 
 # game/14 Nights With You/14nightswithyou.rpy:550
 translate Paloslios day2_wahooscene_65d1ee84:
 
-    # n "My mind barely has a moment to process the Haruko plushie leaning on its side — did [ch_ren] {b}really{/b} go out of his way to buy this for me? — before he easily hoists my legs over his shoulders and steals my attention once more." nointeract
-    n "Mi mente apenas tiene un momento para procesar el peluche de Haruko inclinado sobre su costado. ¿[ch_ren]{b}realmente{/b} hizo todo lo posible para comprarme esto? – antes de que fácilmente levante mis piernas sobre sus hombros y robe mi atención una vez más." nointeract
+    # n "My mind barely has a moment to process the Haruko plushie leaning on its side — did [ch_ren] {b}really{/b} go out of his way to buy this for me? — before he easily hoists my legs over his shoulders and steals my attention once more." 
+    n "Mi mente apenas tiene un momento para procesar el peluche de Haruko inclinado sobre su costado. ¿[ch_ren]{b}realmente{/b} hizo todo lo posible para comprarme esto? – antes de que fácilmente levante mis piernas sobre sus hombros y robe mi atención una vez más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:551
 translate Paloslios day2_wahooscene_2fee4794:
 
-    # n "I watch on with avid curiosity as [ch_ren] shoots me an unreadable grin in return, barely drawing my focus away from his hands as they slowly travel down my sides to hook themselves in the waistband of my shorts." nointeract
-    n "Observo con ávida curiosidad cómo [ch_ren] me devuelve una sonrisa ilegible, apenas desviando mi atención de sus manos mientras viajan lentamente por mis costados para engancharse en la cintura de mis pantalones cortos." nointeract
+    # n "I watch on with avid curiosity as [ch_ren] shoots me an unreadable grin in return, barely drawing my focus away from his hands as they slowly travel down my sides to hook themselves in the waistband of my shorts." 
+    n "Observo con ávida curiosidad cómo [ch_ren] me devuelve una sonrisa ilegible, apenas desviando mi atención de sus manos mientras viajan lentamente por mis costados para engancharse en la cintura de mis pantalones cortos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:552
 translate Paloslios day2_wahooscene_7074c6df:
 
-    # n "Ah. So that was what he had in mind." nointeract
-    n "Ah. Entonces eso era lo que tenía en mente." nointeract
+    # n "Ah. So that was what he had in mind." 
+    n "Ah. Entonces eso era lo que tenía en mente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:553
 translate Paloslios day2_wahooscene_de6f156a:
 
-    # n "Catching on quickly, I lift my hips to let [ch_ren] remove them alongside my underwear — one of the only particles of clothing left that hadn't been soaked by the rain." nointeract
-    n "Entendiendo rápidamente, levanto mis caderas para dejar que [ch_ren] las quite junto con mi ropa interior, una de las únicas partículas de ropa que quedan que no han sido empapadas por la lluvia." nointeract
+    # n "Catching on quickly, I lift my hips to let [ch_ren] remove them alongside my underwear — one of the only particles of clothing left that hadn't been soaked by the rain." 
+    n "Entendiendo rápidamente, levanto mis caderas para dejar que [ch_ren] las quite junto con mi ropa interior, una de las únicas partículas de ropa que quedan que no han sido empapadas por la lluvia." 
 
 # game/14 Nights With You/14nightswithyou.rpy:554
 translate Paloslios day2_wahooscene_14e21e89:
 
-    # n "Now completely bare before him, I felt the urge to turn on my side and hide away from his heavy gaze, but the lustful look in his eyes convinces me to stay put." nointeract
-    n "Ahora completamente desnuda ante él, sentí la necesidad de ponerme de lado y esconderme de su pesada mirada, pero la mirada lujuriosa en sus ojos me convence de quedarme quieta." nointeract
+    # n "Now completely bare before him, I felt the urge to turn on my side and hide away from his heavy gaze, but the lustful look in his eyes convinces me to stay put." 
+    n "Ahora completamente desnuda ante él, sentí la necesidad de ponerme de lado y esconderme de su pesada mirada, pero la mirada lujuriosa en sus ojos me convence de quedarme quieta." 
 
 # game/14 Nights With You/14nightswithyou.rpy:555
 translate Paloslios day2_wahooscene_c134f4f2:
 
-    # n "Almost shaking in anticipation, I watch as his hand travels lower and lower until…" nointeract
-    n "Casi temblando de anticipación, observo cómo su mano viaja más y más hasta..." nointeract
+    # n "Almost shaking in anticipation, I watch as his hand travels lower and lower until…" 
+    n "Casi temblando de anticipación, observo cómo su mano viaja más y más hasta..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:556
 translate Paloslios day2_wahooscene_47b70928:
 
-    # y "Ah-!" nointeract
-    y "¡Ah-!" nointeract
+    # y "Ah-!" 
+    y "¡Ah-!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:557
 translate Paloslios day2_wahooscene_630675f8:
 
-    # n "Cold fingertips brush against my inner thigh as [ch_ren] places butterfly kisses against my left ankle." nointeract
-    n "Las yemas de los dedos fríos rozan la parte interna de mi muslo mientras [ch_ren] coloca besos de mariposa en mi tobillo izquierdo." nointeract
+    # n "Cold fingertips brush against my inner thigh as [ch_ren] places butterfly kisses against my left ankle." 
+    n "Las yemas de los dedos fríos rozan la parte interna de mi muslo mientras [ch_ren] coloca besos de mariposa en mi tobillo izquierdo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:560
 translate Paloslios day2_wahooscene_6d2a115a:
 
-    # n "His descent is slow, deliberate, and ardent — before his soft lips meet the space near his fingers. I can feel his mouth move against my skin before my pleasure-filled mind can process his words." nointeract
-    n "Su descenso es lento, deliberado y ardiente, antes de que sus suaves labios encuentren el espacio cerca de sus dedos. Puedo sentir su boca moverse contra mi piel antes de que mi mente llena de placer pueda procesar sus palabras." nointeract
+    # n "His descent is slow, deliberate, and ardent — before his soft lips meet the space near his fingers. I can feel his mouth move against my skin before my pleasure-filled mind can process his words." 
+    n "Su descenso es lento, deliberado y ardiente, antes de que sus suaves labios encuentren el espacio cerca de sus dedos. Puedo sentir su boca moverse contra mi piel antes de que mi mente llena de placer pueda procesar sus palabras." 
 
 # game/14 Nights With You/14nightswithyou.rpy:561
 translate Paloslios day2_wahooscene_ae4873f2:
 
-    # r "Just lay back. You don't need to do anything." nointeract
-    r "Sólo recuéstate. No necesitas hacer nada." nointeract
+    # r "Just lay back. You don't need to do anything." 
+    r "Sólo recuéstate. No necesitas hacer nada." 
 
 # game/14 Nights With You/14nightswithyou.rpy:562
 translate Paloslios day2_wahooscene_e003a218:
 
-    # n "[ch_ren]'s blue eyes shine faintly in the darkness, and I could catch the softest hint of mischief behind them." nointeract
-    n "Los ojos azules de [ch_ren] brillan débilmente en la oscuridad, y pude captar el más suave indicio de picardía detrás de ellos." nointeract
+    # n "[ch_ren]'s blue eyes shine faintly in the darkness, and I could catch the softest hint of mischief behind them." 
+    n "Los ojos azules de [ch_ren] brillan débilmente en la oscuridad, y pude captar el más suave indicio de picardía detrás de ellos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:563
 translate Paloslios day2_wahooscene_648675d6:
 
-    # r "Let me take care of you." nointeract
-    r "Déjame cuidar de ti." nointeract
+    # r "Let me take care of you." 
+    r "Déjame cuidar de ti." 
 
 # game/14 Nights With You/14nightswithyou.rpy:566
 translate Paloslios day2_wahooscene_6dea34ad:
 
-    # n "Squeezing my eyes shut, I feel his lips leave a trail of wet kisses against my skin, closer and closer until—" nointeract
-    n "Cierro los ojos con fuerza y siento que sus labios dejan un rastro de besos húmedos contra mi piel, cada vez más cerca hasta que..." nointeract
+    # n "Squeezing my eyes shut, I feel his lips leave a trail of wet kisses against my skin, closer and closer until—" 
+    n "Cierro los ojos con fuerza y siento que sus labios dejan un rastro de besos húmedos contra mi piel, cada vez más cerca hasta que..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:568
 translate Paloslios day2_wahooscene_ee029db5:
 
-    # n "The next thing I know, I can feel [ch_ren]'s warm mouth pressed flush against the spot where I'm aching the most." nointeract
-    n "Lo siguiente que sé es que puedo sentir la cálida boca de [ch_ren] presionada contra el lugar donde más me duele." nointeract
+    # n "The next thing I know, I can feel [ch_ren]'s warm mouth pressed flush against the spot where I'm aching the most." 
+    n "Lo siguiente que sé es que puedo sentir la cálida boca de [ch_ren] presionada contra el lugar donde más me duele." 
 
 # game/14 Nights With You/14nightswithyou.rpy:570
 translate Paloslios day2_wahooscene_982f8807:
 
-    # n "A hot tongue darts out to lick a long, wet stripe against my folds, and I have to resist the urge to arch back into his touch." nointeract
-    n "Una lengua caliente sale disparada para lamer una raya larga y húmeda contra mis pliegues, y tengo que resistir el impulso de arquearme hacia atrás ante su toque." nointeract
+    # n "A hot tongue darts out to lick a long, wet stripe against my folds, and I have to resist the urge to arch back into his touch." 
+    n "Una lengua caliente sale disparada para lamer una raya larga y húmeda contra mis pliegues, y tengo que resistir el impulso de arquearme hacia atrás ante su toque." 
 
 # game/14 Nights With You/14nightswithyou.rpy:571
 translate Paloslios day2_wahooscene_ccc81c79:
 
-    # n "His fingers soon join in as they slowly enter my hole, causing my breath to hitch at the sudden sensation." nointeract
-    n "Sus dedos pronto se unen mientras entran lentamente en mi agujero, haciendo que mi respiración se corte ante la repentina sensación." nointeract
+    # n "His fingers soon join in as they slowly enter my hole, causing my breath to hitch at the sudden sensation." 
+    n "Sus dedos pronto se unen mientras entran lentamente en mi agujero, haciendo que mi respiración se corte ante la repentina sensación." 
 
 # game/14 Nights With You/14nightswithyou.rpy:572
 translate Paloslios day2_wahooscene_0eda4638:
 
-    # n "They curl and prod against my walls as [ch_ren] shifts slightly to press soft kisses against my stomach and thighs once more, before slowly inching his face closer and closer to where I need him the most." nointeract
-    n "Se curvan y empujan contra mis paredes mientras [ch_ren] se mueve ligeramente para presionar suaves besos contra mi estómago y muslos una vez más, antes de acercar lentamente su rostro cada vez más a donde más lo necesito." nointeract
+    # n "They curl and prod against my walls as [ch_ren] shifts slightly to press soft kisses against my stomach and thighs once more, before slowly inching his face closer and closer to where I need him the most." 
+    n "Se curvan y empujan contra mis paredes mientras [ch_ren] se mueve ligeramente para presionar suaves besos contra mi estómago y muslos una vez más, antes de acercar lentamente su rostro cada vez más a donde más lo necesito." 
 
 # game/14 Nights With You/14nightswithyou.rpy:573
 translate Paloslios day2_wahooscene_40c03de9:
 
-    # n "The wet tip of his tongue lands on my clit, and I open my eyes in time to watch him eagerly lap up the fluid pooling between my thighs with a debauched grin." nointeract
-    n "La punta húmeda de su lengua aterriza en mi clítoris y abro los ojos a tiempo para verlo lamer con entusiasmo el líquido que se acumula entre mis muslos con una sonrisa libertina." nointeract
+    # n "The wet tip of his tongue lands on my clit, and I open my eyes in time to watch him eagerly lap up the fluid pooling between my thighs with a debauched grin." 
+    n "La punta húmeda de su lengua aterriza en mi clítoris y abro los ojos a tiempo para verlo lamer con entusiasmo el líquido que se acumula entre mis muslos con una sonrisa libertina." 
 
 # game/14 Nights With You/14nightswithyou.rpy:575
 translate Paloslios day2_wahooscene_b267789e:
 
-    # n "A hot tongue darts out to lick a long, wet stripe along my cock, and I have to resist the urge to arch back into his touch." nointeract
-    n "Una lengua caliente sale disparada para lamer una franja larga y húmeda a lo largo de mi polla, y tengo que resistir la tentación de arquearme hacia atrás ante su toque." nointeract
+    # n "A hot tongue darts out to lick a long, wet stripe along my cock, and I have to resist the urge to arch back into his touch." 
+    n "Una lengua caliente sale disparada para lamer una franja larga y húmeda a lo largo de mi polla, y tengo que resistir la tentación de arquearme hacia atrás ante su toque." 
 
 # game/14 Nights With You/14nightswithyou.rpy:576
 translate Paloslios day2_wahooscene_eaab2906:
 
-    # n "His fingers soon travel south as they slowly enter me, causing my breath to hitch at the sudden sensation." nointeract
-    n "Sus dedos pronto viajan hacia el sur mientras entran lentamente en mí, haciendo que mi respiración se corte ante la repentina sensación." nointeract
+    # n "His fingers soon travel south as they slowly enter me, causing my breath to hitch at the sudden sensation." 
+    n "Sus dedos pronto viajan hacia el sur mientras entran lentamente en mí, haciendo que mi respiración se corte ante la repentina sensación." 
 
 # game/14 Nights With You/14nightswithyou.rpy:577
 translate Paloslios day2_wahooscene_90424b1f:
 
-    # n "They push and prod against my walls as [ch_ren] shifts slightly to press soft kisses against my base and tip once more, before slowly taking my entire length into his mouth." nointeract
-    n "Empujan y empujan contra mis paredes mientras [ch_ren] se mueve ligeramente para presionar suaves besos contra mi base y se inclinan una vez más, antes de llevar lentamente toda mi longitud a su boca." nointeract
+    # n "They push and prod against my walls as [ch_ren] shifts slightly to press soft kisses against my base and tip once more, before slowly taking my entire length into his mouth." 
+    n "Empujan y empujan contra mis paredes mientras [ch_ren] se mueve ligeramente para presionar suaves besos contra mi base y se inclinan una vez más, antes de llevar lentamente toda mi longitud a su boca." 
 
 # game/14 Nights With You/14nightswithyou.rpy:578
 translate Paloslios day2_wahooscene_f1612b83:
 
-    # n "The wet tip of his tongue returns once again, and I open my eyes in time to watch him eagerly lap up the fluid dribbling between my thighs with a debauched grin." nointeract
-    n "La punta húmeda de su lengua regresa una vez más, y abro los ojos a tiempo para verlo lamer con entusiasmo el líquido que gotea entre mis muslos con una sonrisa libertina." nointeract
+    # n "The wet tip of his tongue returns once again, and I open my eyes in time to watch him eagerly lap up the fluid dribbling between my thighs with a debauched grin." 
+    n "La punta húmeda de su lengua regresa una vez más, y abro los ojos a tiempo para verlo lamer con entusiasmo el líquido que gotea entre mis muslos con una sonrisa libertina." 
 
 # game/14 Nights With You/14nightswithyou.rpy:580
 translate Paloslios day2_wahooscene_01d5bc0e:
 
-    # n "A hot tongue darts out to lick a wet stripe along my skin, and I have to resist the urge to arch back into his touch." nointeract
-    n "Una lengua caliente sale disparada para lamer una raya húmeda a lo largo de mi piel, y tengo que resistir el impulso de arquearme nuevamente ante su toque." nointeract
+    # n "A hot tongue darts out to lick a wet stripe along my skin, and I have to resist the urge to arch back into his touch." 
+    n "Una lengua caliente sale disparada para lamer una raya húmeda a lo largo de mi piel, y tengo que resistir el impulso de arquearme nuevamente ante su toque." 
 
 # game/14 Nights With You/14nightswithyou.rpy:581
 translate Paloslios day2_wahooscene_e574508b:
 
-    # n "His fingers soon join in as they slowly enter me, causing my breath to hitch at the sudden sensation." nointeract
-    n "Sus dedos pronto se unen mientras entran lentamente en mí, haciendo que mi respiración se corte ante la repentina sensación." nointeract
+    # n "His fingers soon join in as they slowly enter me, causing my breath to hitch at the sudden sensation." 
+    n "Sus dedos pronto se unen mientras entran lentamente en mí, haciendo que mi respiración se corte ante la repentina sensación." 
 
 # game/14 Nights With You/14nightswithyou.rpy:582
 translate Paloslios day2_wahooscene_be3c337b:
 
-    # n "They push and prod against my walls as [ch_ren] shifts slightly to press soft kisses against my stomach and thighs once more, before slowly inching his face closer and closer to where I need him the most." nointeract
-    n "Empujan y empujan contra mis paredes mientras [ch_ren] se mueve ligeramente para presionar suaves besos contra mi estómago y muslos una vez más, antes de acercar lentamente su rostro cada vez más a donde más lo necesito." nointeract
+    # n "They push and prod against my walls as [ch_ren] shifts slightly to press soft kisses against my stomach and thighs once more, before slowly inching his face closer and closer to where I need him the most." 
+    n "Empujan y empujan contra mis paredes mientras [ch_ren] se mueve ligeramente para presionar suaves besos contra mi estómago y muslos una vez más, antes de acercar lentamente su rostro cada vez más a donde más lo necesito." 
 
 # game/14 Nights With You/14nightswithyou.rpy:583
 translate Paloslios day2_wahooscene_93b77c0b:
 
-    # n "The wet tip of his tongue returns once again, and I open my eyes in time to watch him eagerly lap up the fluid pooling between my thighs with a debauched grin." nointeract
-    n "La punta húmeda de su lengua regresa una vez más, y abro los ojos a tiempo para verlo lamer con entusiasmo el líquido que se acumula entre mis muslos con una sonrisa libertina." nointeract
+    # n "The wet tip of his tongue returns once again, and I open my eyes in time to watch him eagerly lap up the fluid pooling between my thighs with a debauched grin." 
+    n "La punta húmeda de su lengua regresa una vez más, y abro los ojos a tiempo para verlo lamer con entusiasmo el líquido que se acumula entre mis muslos con una sonrisa libertina." 
 
 # game/14 Nights With You/14nightswithyou.rpy:584
 translate Paloslios day2_wahooscene_c2a618d3:
 
-    # y "[ch_ren]—!" nointeract
-    y "[ch_ren]—!" nointeract
+    # y "[ch_ren]—!" 
+    y "[ch_ren]—!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:585
 translate Paloslios day2_wahooscene_65d28650:
 
-    # n "I can practically {b}feel{/b} him laugh at my reaction, seemingly pleased with having me watch on with bated breath and clenched muscles." nointeract
-    n "Prácticamente puedo {b}sentir{/b} cómo se ríe de mi reacción, aparentemente complacido de tenerme mirando con la respiración contenida y los músculos apretados." nointeract
+    # n "I can practically {b}feel{/b} him laugh at my reaction, seemingly pleased with having me watch on with bated breath and clenched muscles." 
+    n "Prácticamente puedo {b}sentir{/b} cómo se ríe de mi reacción, aparentemente complacido de tenerme mirando con la respiración contenida y los músculos apretados." 
 
 # game/14 Nights With You/14nightswithyou.rpy:586
 translate Paloslios day2_wahooscene_7efc9004:
 
-    # n "And just like that, his mouth goes back to my sensitive parts as his two fingers continue their ministrations inside of me: stretching me out and rubbing against my walls with languid, deliberate motions." nointeract
-    n "Y así, su boca regresa a mis partes sensibles mientras sus dos dedos continúan sus cuidados dentro de mí: estirándome y frotando contra mis paredes con movimientos lánguidos y deliberados." nointeract
+    # n "And just like that, his mouth goes back to my sensitive parts as his two fingers continue their ministrations inside of me: stretching me out and rubbing against my walls with languid, deliberate motions." 
+    n "Y así, su boca regresa a mis partes sensibles mientras sus dos dedos continúan sus cuidados dentro de mí: estirándome y frotando contra mis paredes con movimientos lánguidos y deliberados." 
 
 # game/14 Nights With You/14nightswithyou.rpy:587
 translate Paloslios day2_wahooscene_d6567911:
 
-    # n "Another finger soon joins the others, and my thighs unconsciously close around his head at the intrusion." nointeract
-    n "Otro dedo pronto se une a los demás, y mis muslos inconscientemente se cierran alrededor de su cabeza ante la intrusión." nointeract
+    # n "Another finger soon joins the others, and my thighs unconsciously close around his head at the intrusion." 
+    n "Otro dedo pronto se une a los demás, y mis muslos inconscientemente se cierran alrededor de su cabeza ante la intrusión." 
 
 # game/14 Nights With You/14nightswithyou.rpy:588
 translate Paloslios day2_wahooscene_986f905b:
 
-    # n "[ch_ren] lets out a pleased hum at this, clearly content with being sandwiched between my legs and being so close to my heat." nointeract
-    n "[ch_ren] deja escapar un tarareo de satisfacción ante esto, claramente contento con estar entre mis piernas y estar tan cerca de mi calor." nointeract
+    # n "[ch_ren] lets out a pleased hum at this, clearly content with being sandwiched between my legs and being so close to my heat." 
+    n "[ch_ren] deja escapar un tarareo de satisfacción ante esto, claramente contento con estar entre mis piernas y estar tan cerca de mi calor." 
 
 # game/14 Nights With You/14nightswithyou.rpy:589
 translate Paloslios day2_wahooscene_6fc62f42:
 
-    # n "He gives a loving nip at my skin to show his appreciation before sinking his head lower and deeper — lapping up my wetness like a man starved." nointeract
-    n "Me da un mordisco amoroso en la piel para mostrar su agradecimiento antes de hundir la cabeza más y más profundamente, lamiendo mi humedad como un hombre hambriento." nointeract
+    # n "He gives a loving nip at my skin to show his appreciation before sinking his head lower and deeper — lapping up my wetness like a man starved." 
+    n "Me da un mordisco amoroso en la piel para mostrar su agradecimiento antes de hundir la cabeza más y más profundamente, lamiendo mi humedad como un hombre hambriento." 
 
 # game/14 Nights With You/14nightswithyou.rpy:590
 translate Paloslios day2_wahooscene_56a69edb:
 
-    # r "I've dreamed about this." nointeract
-    r "He soñado con esto." nointeract
+    # r "I've dreamed about this." 
+    r "He soñado con esto." 
 
 # game/14 Nights With You/14nightswithyou.rpy:591
 translate Paloslios day2_wahooscene_4de99b33:
 
-    # r "You taste better than anything I was expecting." nointeract
-    r "Sabes mejor que cualquier cosa que esperaba." nointeract
+    # r "You taste better than anything I was expecting." 
+    r "Sabes mejor que cualquier cosa que esperaba." 
 
 # game/14 Nights With You/14nightswithyou.rpy:592
 translate Paloslios day2_wahooscene_c35559f0:
 
-    # n "His words came out as nothing but a mumbled, sticky mess against my skin, bringing on another wave of pleasure that was slowly building inside of me." nointeract
-    n "Sus palabras salieron como nada más que un murmullo pegajoso contra mi piel, provocando otra ola de placer que lentamente se estaba acumulando dentro de mí." nointeract
+    # n "His words came out as nothing but a mumbled, sticky mess against my skin, bringing on another wave of pleasure that was slowly building inside of me." 
+    n "Sus palabras salieron como nada más que un murmullo pegajoso contra mi piel, provocando otra ola de placer que lentamente se estaba acumulando dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:593
 translate Paloslios day2_wahooscene_c0ee8ae4:
 
-    # n "I can feel [ch_ren]'s other hand run up and down my thighs in a soothing manner before gently prying them apart to spread my legs wider." nointeract
-    n "Puedo sentir la otra mano de [ch_ren] subir y bajar por mis muslos de manera tranquilizadora antes de separarlos suavemente para abrir más mis piernas." nointeract
+    # n "I can feel [ch_ren]'s other hand run up and down my thighs in a soothing manner before gently prying them apart to spread my legs wider." 
+    n "Puedo sentir la otra mano de [ch_ren] subir y bajar por mis muslos de manera tranquilizadora antes de separarlos suavemente para abrir más mis piernas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:594
 translate Paloslios day2_wahooscene_ef9dba06:
 
-    # n "Cold air rushes past our bodies and sends a shiver up my spine, and I can feel him readjust himself beneath me before returning to my needy sex with renowned fervour." nointeract
-    n "El aire frío pasa rápidamente por nuestros cuerpos y envía un escalofrío por mi columna, y puedo sentirlo reajustarse debajo de mí antes de regresar a mi sexo necesitado con reconocido fervor." nointeract
+    # n "Cold air rushes past our bodies and sends a shiver up my spine, and I can feel him readjust himself beneath me before returning to my needy sex with renowned fervour." 
+    n "El aire frío pasa rápidamente por nuestros cuerpos y envía un escalofrío por mi columna, y puedo sentirlo reajustarse debajo de mí antes de regresar a mi sexo necesitado con reconocido fervor." 
 
 # game/14 Nights With You/14nightswithyou.rpy:596
 translate Paloslios day2_wahooscene_9ec3f899:
 
-    # n "His mouth is hot against my dripping cunt once more, and I watch as his eyes close in bliss as he moans against my skin." nointeract
-    n "Su boca está caliente contra mi coño goteante una vez más, y observo cómo sus ojos se cierran de felicidad mientras gime contra mi piel." nointeract
+    # n "His mouth is hot against my dripping cunt once more, and I watch as his eyes close in bliss as he moans against my skin." 
+    n "Su boca está caliente contra mi coño goteante una vez más, y observo cómo sus ojos se cierran de felicidad mientras gime contra mi piel." 
 
 # game/14 Nights With You/14nightswithyou.rpy:598
 translate Paloslios day2_wahooscene_0e88cc44:
 
-    # n "His mouth is hot against my leaking dick once more, and I watch as his eyes close in bliss as he moans against my skin." nointeract
-    n "Su boca está caliente contra mi polla que gotea una vez más, y observo cómo sus ojos se cierran de felicidad mientras gime contra mi piel." nointeract
+    # n "His mouth is hot against my leaking dick once more, and I watch as his eyes close in bliss as he moans against my skin." 
+    n "Su boca está caliente contra mi polla que gotea una vez más, y observo cómo sus ojos se cierran de felicidad mientras gime contra mi piel." 
 
 # game/14 Nights With You/14nightswithyou.rpy:600
 translate Paloslios day2_wahooscene_3e2b5248:
 
-    # n "His mouth is hot against me once more, and I watch as his eyes close in bliss as he moans against my skin." nointeract
-    n "Su boca está caliente contra mí una vez más, y observo cómo sus ojos se cierran de felicidad mientras gime contra mi piel." nointeract
+    # n "His mouth is hot against me once more, and I watch as his eyes close in bliss as he moans against my skin." 
+    n "Su boca está caliente contra mí una vez más, y observo cómo sus ojos se cierran de felicidad mientras gime contra mi piel." 
 
 # game/14 Nights With You/14nightswithyou.rpy:601
 translate Paloslios day2_wahooscene_a2ae0298:
 
-    # r "Y'taste divine. Fuck, [ch_angel]… I could stay here forever." nointeract
-    r "Sabe divino. Joder, [ch_angel]… Podría quedarme aquí para siempre." nointeract
+    # r "Y'taste divine. Fuck, [ch_angel]… I could stay here forever." 
+    r "Sabe divino. Joder, [ch_angel]… Podría quedarme aquí para siempre." 
 
 # game/14 Nights With You/14nightswithyou.rpy:602
 translate Paloslios day2_wahooscene_efb98b87:
 
-    # n "He sounds serious about his declaration — and the mental image of [ch_ren] on his knees whilst nestled between my thighs emits yet another low whine from me." nointeract
-    n "Suena serio acerca de su declaración, y la imagen mental de [ch_ren] de rodillas mientras está acurrucado entre mis muslos emite otro gemido bajo de mi parte." nointeract
+    # n "He sounds serious about his declaration — and the mental image of [ch_ren] on his knees whilst nestled between my thighs emits yet another low whine from me." 
+    n "Suena serio acerca de su declaración, y la imagen mental de [ch_ren] de rodillas mientras está acurrucado entre mis muslos emite otro gemido bajo de mi parte." 
 
 # game/14 Nights With You/14nightswithyou.rpy:603
 translate Paloslios day2_wahooscene_cd01bffc:
 
-    # n "The movement of his fingers only adds to the building sensation, and the sudden addition of his tongue does little to stifle the burning desire inside of me." nointeract
-    n "El movimiento de sus dedos sólo aumenta la sensación de construcción, y la repentina adición de su lengua hace poco para sofocar el ardiente deseo dentro de mí." nointeract
+    # n "The movement of his fingers only adds to the building sensation, and the sudden addition of his tongue does little to stifle the burning desire inside of me." 
+    n "El movimiento de sus dedos sólo aumenta la sensación de construcción, y la repentina adición de su lengua hace poco para sofocar el ardiente deseo dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:604
 translate Paloslios day2_wahooscene_512e3499:
 
-    # n "It was starting to become too much for me to keep bottled up, and I have to hold myself back from pulling at the sheets and crying out in pleasure — or, at the very least, stop tugging on [ch_ren]'s hair and shamelessly moan out his name." nointeract
-    n "Estaba empezando a ser demasiado para mí mantenerlo reprimido, y tengo que contenerme para no tirar de las sábanas y gritar de placer o, al menos, dejar de tirar del cabello de [ch_ren] y gemir descaradamente su nombre." nointeract
+    # n "It was starting to become too much for me to keep bottled up, and I have to hold myself back from pulling at the sheets and crying out in pleasure — or, at the very least, stop tugging on [ch_ren]'s hair and shamelessly moan out his name." 
+    n "Estaba empezando a ser demasiado para mí mantenerlo reprimido, y tengo que contenerme para no tirar de las sábanas y gritar de placer o, al menos, dejar de tirar del cabello de [ch_ren] y gemir descaradamente su nombre." 
 
 # game/14 Nights With You/14nightswithyou.rpy:605
 translate Paloslios day2_wahooscene_c5f0b001:
 
-    # n "Completely unaware of my inner turmoil, he pushes his digits in deeper now — and in my hazy pleasure, I can faintly make out the metallic feeling of his ring rubbing against my entrance." nointeract
-    n "Completamente inconsciente de mi confusión interna, ahora empuja sus dedos más profundamente y, en mi vago placer, puedo distinguir débilmente la sensación metálica de su anillo rozando mi entrada." nointeract
+    # n "Completely unaware of my inner turmoil, he pushes his digits in deeper now — and in my hazy pleasure, I can faintly make out the metallic feeling of his ring rubbing against my entrance." 
+    n "Completamente inconsciente de mi confusión interna, ahora empuja sus dedos más profundamente y, en mi vago placer, puedo distinguir débilmente la sensación metálica de su anillo rozando mi entrada." 
 
 # game/14 Nights With You/14nightswithyou.rpy:606
 translate Paloslios day2_wahooscene_c2a618d3_1:
 
-    # y "[ch_ren]—!" nointeract
-    y "[ch_ren]—!" nointeract
+    # y "[ch_ren]—!" 
+    y "[ch_ren]—!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:607
 translate Paloslios day2_wahooscene_97dad74f:
 
-    # n "He all but moans against my skin in response as his free hand ghosts along my (still-clothed) stomach to play with my [bust] instead of my thighs." nointeract
-    n "Él casi gime contra mi piel en respuesta mientras su mano libre recorre mi estómago (aún vestido) para jugar con mi [bust] en lugar de mis muslos." nointeract
+    # n "He all but moans against my skin in response as his free hand ghosts along my (still-clothed) stomach to play with my [bust!t] instead of my thighs." 
+    n "Él casi gime contra mi piel en respuesta mientras su mano libre recorre mi estómago (aún vestido) para jugar con mi [bust!t] en lugar de mis muslos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:608
 translate Paloslios day2_wahooscene_77b36333:
 
-    # n "He pinches and rolls one of my nipples between his fingers while his tongue delves deeper inside me, and I can barely keep my eyes open as I give in to the hazy pleasure he was giving me." nointeract
-    n "Pellizca y rueda uno de mis pezones entre sus dedos mientras su lengua profundiza más dentro de mí, y apenas puedo mantener los ojos abiertos mientras me entrego al vago placer que me estaba dando." nointeract
+    # n "He pinches and rolls one of my nipples between his fingers while his tongue delves deeper inside me, and I can barely keep my eyes open as I give in to the hazy pleasure he was giving me." 
+    n "Pellizca y rueda uno de mis pezones entre sus dedos mientras su lengua profundiza más dentro de mí, y apenas puedo mantener los ojos abiertos mientras me entrego al vago placer que me estaba dando." 
 
 # game/14 Nights With You/14nightswithyou.rpy:610
 translate Paloslios day2_wahooscene_e64884db:
 
-    # n "Clenching my eyes shut, I can almost make out [ch_ren] trying to spell his name with his tongue, and I can barely hold myself back from keening out at the budding sensation inside of me." nointeract
-    n "Cerrando los ojos con fuerza, casi puedo distinguir a [ch_ren] tratando de deletrear su nombre con su lengua, y apenas puedo contenerme para no lamentarme por la sensación incipiente dentro de mí." nointeract
+    # n "Clenching my eyes shut, I can almost make out [ch_ren] trying to spell his name with his tongue, and I can barely hold myself back from keening out at the budding sensation inside of me." 
+    n "Cerrando los ojos con fuerza, casi puedo distinguir a [ch_ren] tratando de deletrear su nombre con su lengua, y apenas puedo contenerme para no lamentarme por la sensación incipiente dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:612
 translate Paloslios day2_wahooscene_d5bba50e:
 
-    # n "Clenching my eyes shut, I can almost feel the back of [ch_ren]'s throat as he takes all of me into his mouth, and I can barely hold myself back from keening out at the budding sensation inside of me." nointeract
-    n "Cerrando los ojos con fuerza, casi puedo sentir la parte posterior de la garganta de [ch_ren] mientras me lleva por completo a su boca, y apenas puedo contenerme para no lamentarme por la sensación que está naciendo dentro de mí." nointeract
+    # n "Clenching my eyes shut, I can almost feel the back of [ch_ren]'s throat as he takes all of me into his mouth, and I can barely hold myself back from keening out at the budding sensation inside of me." 
+    n "Cerrando los ojos con fuerza, casi puedo sentir la parte posterior de la garganta de [ch_ren] mientras me lleva por completo a su boca, y apenas puedo contenerme para no lamentarme por la sensación que está naciendo dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:614
 translate Paloslios day2_wahooscene_62c7ea6f:
 
-    # n "Clenching my eyes shut, I can almost feel [ch_ren] reaching the deepest parts of me with his tongue, and I can barely hold myself back from keening out at the budding sensation inside of me." nointeract
-    n "Cerrando los ojos con fuerza, casi puedo sentir que [ch_ren] llega a las partes más profundas de mí con su lengua, y apenas puedo contenerme para no lamentarme por la sensación incipiente dentro de mí." nointeract
+    # n "Clenching my eyes shut, I can almost feel [ch_ren] reaching the deepest parts of me with his tongue, and I can barely hold myself back from keening out at the budding sensation inside of me." 
+    n "Cerrando los ojos con fuerza, casi puedo sentir que [ch_ren] llega a las partes más profundas de mí con su lengua, y apenas puedo contenerme para no lamentarme por la sensación incipiente dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:615
 translate Paloslios day2_wahooscene_5c7c2abc:
 
-    # n "Seemingly enjoying all the sounds he pulls from my lips, [ch_ren] looks up from between my thighs and gives me yet {b}another{/b} playful grin." nointeract
-    n "Aparentemente disfrutando de todos los sonidos que saca de mis labios, [ch_ren] levanta la vista entre mis muslos y me da aún {b}otra{/b} sonrisa juguetona." nointeract
+    # n "Seemingly enjoying all the sounds he pulls from my lips, [ch_ren] looks up from between my thighs and gives me yet {b}another{/b} playful grin." 
+    n "Aparentemente disfrutando de todos los sonidos que saca de mis labios, [ch_ren] levanta la vista entre mis muslos y me da aún {b}otra{/b} sonrisa juguetona." 
 
 # game/14 Nights With You/14nightswithyou.rpy:616
 translate Paloslios day2_wahooscene_4c333f8e:
 
-    # r "That's it. You're doing so well, Angel." nointeract
-    r "Eso es todo. Lo estás haciendo muy bien, Ángel." nointeract
+    # r "That's it. You're doing so well, Angel." 
+    r "Eso es todo. Lo estás haciendo muy bien, Ángel." 
 
 # game/14 Nights With You/14nightswithyou.rpy:617
 translate Paloslios day2_wahooscene_dffe7603:
 
-    # r "Buck back against my face if y'want to. Don't be shy." nointeract
-    r "Retrocede contra mi cara si quieres. No seas tímido." nointeract
+    # r "Buck back against my face if y'want to. Don't be shy." 
+    r "Retrocede contra mi cara si quieres. No seas tímido." 
 
 # game/14 Nights With You/14nightswithyou.rpy:618
 translate Paloslios day2_wahooscene_6d1a27a1:
 
-    # n "At his words, [ch_ren] seems to pick up on my sudden hesitance — if my slight change in body language was anything to go by." nointeract
-    n "Ante sus palabras, [ch_ren] parece darse cuenta de mi repentina vacilación, si mi ligero cambio en el lenguaje corporal es algo a tener en cuenta." nointeract
+    # n "At his words, [ch_ren] seems to pick up on my sudden hesitance — if my slight change in body language was anything to go by." 
+    n "Ante sus palabras, [ch_ren] parece darse cuenta de mi repentina vacilación, si mi ligero cambio en el lenguaje corporal es algo a tener en cuenta." 
 
 # game/14 Nights With You/14nightswithyou.rpy:619
 translate Paloslios day2_wahooscene_df477768:
 
-    # r "It's okay; use me to make yourself feel good." nointeract
-    r "Está bien; Úsame para hacerte sentir bien." nointeract
+    # r "It's okay; use me to make yourself feel good." 
+    r "Está bien; Úsame para hacerte sentir bien." 
 
 # game/14 Nights With You/14nightswithyou.rpy:620
 translate Paloslios day2_wahooscene_50fcb626:
 
-    # n "And with that, [ch_ren] goes back to licking up my wetness like it's his last meal." nointeract
-    n "Y con eso, [ch_ren] vuelve a lamer mi humedad como si fuera su última comida." nointeract
+    # n "And with that, [ch_ren] goes back to licking up my wetness like it's his last meal." 
+    n "Y con eso, [ch_ren] vuelve a lamer mi humedad como si fuera su última comida." 
 
 # game/14 Nights With You/14nightswithyou.rpy:622
 translate Paloslios day2_wahooscene_e638bc47:
 
-    # n "I can feel him softly moaning against my skin as his nose rubs against my clit — before his tongue joins his fingers once more to stretch me out and make me see stars." nointeract
-    n "Puedo sentirlo gemir suavemente contra mi piel mientras su nariz frota mi clítoris, antes de que su lengua una una vez más con sus dedos para estirarme y hacerme ver estrellas." nointeract
+    # n "I can feel him softly moaning against my skin as his nose rubs against my clit — before his tongue joins his fingers once more to stretch me out and make me see stars." 
+    n "Puedo sentirlo gemir suavemente contra mi piel mientras su nariz frota mi clítoris, antes de que su lengua una una vez más con sus dedos para estirarme y hacerme ver estrellas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:623
 translate Paloslios day2_wahooscene_e5442cc3:
 
-    # n "I couldn't help but do as he says in that moment; shamelessly bucking my hips and bordering on riding his face as [ch_ren] reaches the deepest parts of me with his mouth and hand." nointeract
-    n "No pude evitar hacer lo que él dice en ese momento; Moviendo descaradamente mis caderas y casi cabalgando su cara mientras [ch_ren] llega a las partes más profundas de mí con su boca y su mano." nointeract
+    # n "I couldn't help but do as he says in that moment; shamelessly bucking my hips and bordering on riding his face as [ch_ren] reaches the deepest parts of me with his mouth and hand." 
+    n "No pude evitar hacer lo que él dice en ese momento; Moviendo descaradamente mis caderas y casi cabalgando su cara mientras [ch_ren] llega a las partes más profundas de mí con su boca y su mano." 
 
 # game/14 Nights With You/14nightswithyou.rpy:625
 translate Paloslios day2_wahooscene_1cc67c70:
 
-    # n "I can feel him softly moaning around my leaking cock as the tip touches the back of his throat — before his fingers curl once more to stretch me out and make me see stars." nointeract
-    n "Puedo sentirlo gimiendo suavemente alrededor de mi polla que gotea cuando la punta toca la parte posterior de su garganta, antes de que sus dedos se curvan una vez más para estirarme y hacerme ver estrellas." nointeract
+    # n "I can feel him softly moaning around my leaking cock as the tip touches the back of his throat — before his fingers curl once more to stretch me out and make me see stars." 
+    n "Puedo sentirlo gimiendo suavemente alrededor de mi polla que gotea cuando la punta toca la parte posterior de su garganta, antes de que sus dedos se curvan una vez más para estirarme y hacerme ver estrellas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:626
 translate Paloslios day2_wahooscene_24e0cf0f:
 
-    # n "I couldn't help but do as he says in that moment; shamelessly bucking my hips and bordering on fucking his face as [ch_ren] reaches the deepest parts of me with his long fingers." nointeract
-    n "No pude evitar hacer lo que él dice en ese momento; Moviendo descaradamente mis caderas y casi follando su cara mientras [ch_ren] llega a las partes más profundas de mí con sus largos dedos." nointeract
+    # n "I couldn't help but do as he says in that moment; shamelessly bucking my hips and bordering on fucking his face as [ch_ren] reaches the deepest parts of me with his long fingers." 
+    n "No pude evitar hacer lo que él dice en ese momento; Moviendo descaradamente mis caderas y casi follando su cara mientras [ch_ren] llega a las partes más profundas de mí con sus largos dedos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:628
 translate Paloslios day2_wahooscene_99051429:
 
-    # n "I can feel him softly moaning against my hole as his nose rubs against my skin — before his tongue joins his fingers once more to stretch me out and make me see stars." nointeract
-    n "Puedo sentirlo gemir suavemente contra mi agujero mientras su nariz frota mi piel, antes de que su lengua una una vez más con sus dedos para estirarme y hacerme ver estrellas." nointeract
+    # n "I can feel him softly moaning against my hole as his nose rubs against my skin — before his tongue joins his fingers once more to stretch me out and make me see stars." 
+    n "Puedo sentirlo gemir suavemente contra mi agujero mientras su nariz frota mi piel, antes de que su lengua una una vez más con sus dedos para estirarme y hacerme ver estrellas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:629
 translate Paloslios day2_wahooscene_0f3d42c0:
 
-    # n "I couldn't help but do as he says in that moment; shamelessly bucking my hips and bordering on riding his face as [ch_ren] reaches the deepest parts of me with his mouth and fingers." nointeract
-    n "No pude evitar hacer lo que él dice en ese momento; Moviendo descaradamente mis caderas y casi cabalgando su cara mientras [ch_ren] llega a las partes más profundas de mí con su boca y sus dedos." nointeract
+    # n "I couldn't help but do as he says in that moment; shamelessly bucking my hips and bordering on riding his face as [ch_ren] reaches the deepest parts of me with his mouth and fingers." 
+    n "No pude evitar hacer lo que él dice en ese momento; Moviendo descaradamente mis caderas y casi cabalgando su cara mientras [ch_ren] llega a las partes más profundas de mí con su boca y sus dedos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:630
 translate Paloslios day2_wahooscene_56c71d70:
 
-    # n "Soon enough, the pressure becomes too much for me to handle, and I can only cry out his name like a broken record on repeat." nointeract
-    n "Muy pronto, la presión se vuelve demasiado para mí y solo puedo gritar su nombre como un disco rayado una y otra vez." nointeract
+    # n "Soon enough, the pressure becomes too much for me to handle, and I can only cry out his name like a broken record on repeat." 
+    n "Muy pronto, la presión se vuelve demasiado para mí y solo puedo gritar su nombre como un disco rayado una y otra vez." 
 
 # game/14 Nights With You/14nightswithyou.rpy:631
 translate Paloslios day2_wahooscene_fc3574ca:
 
-    # y "I-I'm close—!" nointeract
-    y "¡Estoy cerca!" nointeract
+    # y "I-I'm close—!" 
+    y "¡Estoy cerca!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:632
 translate Paloslios day2_wahooscene_1ca4e7f5:
 
-    # r "Yeah? It's okay. Come for me, Angel." nointeract
-    r "¿Sí? Está bien. Ven por mí, Ángel." nointeract
+    # r "Yeah? It's okay. Come for me, Angel." 
+    r "¿Sí? Está bien. Ven por mí, Ángel." 
 
 # game/14 Nights With You/14nightswithyou.rpy:634
 translate Paloslios day2_wahooscene_8d48789b:
 
-    # n "My voice echoes out into the dark room as my back arches off the bed. Shamelessly riding [ch_ren]'s tongue and fingers; I rock back and forth until the pleasure becomes too much for me to handle." nointeract
-    n "Mi voz resuena en la habitación oscura mientras mi espalda se arquea sobre la cama. Montar descaradamente la lengua y los dedos de [ch_ren]; Me balanceo hacia adelante y hacia atrás hasta que el placer se vuelve demasiado difícil de manejar." nointeract
+    # n "My voice echoes out into the dark room as my back arches off the bed. Shamelessly riding [ch_ren]'s tongue and fingers; I rock back and forth until the pleasure becomes too much for me to handle." 
+    n "Mi voz resuena en la habitación oscura mientras mi espalda se arquea sobre la cama. Montar descaradamente la lengua y los dedos de [ch_ren]; Me balanceo hacia adelante y hacia atrás hasta que el placer se vuelve demasiado difícil de manejar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:635
 translate Paloslios day2_wahooscene_0217279d:
 
-    # n "His free hand grips my thigh to pull my cunt impossibly close to his mouth and play with my clit, and his ministrations soon speed up to help me reach my peak." nointeract
-    n "Su mano libre agarra mi muslo para acercar mi coño increíblemente a su boca y jugar con mi clítoris, y sus cuidados pronto se aceleran para ayudarme a alcanzar mi punto máximo." nointeract
+    # n "His free hand grips my thigh to pull my cunt impossibly close to his mouth and play with my clit, and his ministrations soon speed up to help me reach my peak." 
+    n "Su mano libre agarra mi muslo para acercar mi coño increíblemente a su boca y jugar con mi clítoris, y sus cuidados pronto se aceleran para ayudarme a alcanzar mi punto máximo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:636
 translate Paloslios day2_wahooscene_12ea751d:
 
-    # n "[ch_ren]'s name continues to fall from my lips like a mantra as I tumble over that blissful edge; tugging on the roots of his hair as I fall into the pit of pleasure below." nointeract
-    n "El nombre de [ch_ren] continúa cayendo de mis labios como un mantra mientras caigo sobre ese borde dichoso; Tirando de las raíces de su cabello mientras caigo en el pozo de placer que hay debajo." nointeract
+    # n "[ch_ren]'s name continues to fall from my lips like a mantra as I tumble over that blissful edge; tugging on the roots of his hair as I fall into the pit of pleasure below." 
+    n "El nombre de [ch_ren] continúa cayendo de mis labios como un mantra mientras caigo sobre ese borde dichoso; Tirando de las raíces de su cabello mientras caigo en el pozo de placer que hay debajo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:637
 translate Paloslios day2_wahooscene_767cb287:
 
-    # n "Blinding white floods my vision as I moan out in bliss, my hole tightening and twitching around the large fingers still deep inside me." nointeract
-    n "Un blanco cegador inunda mi visión mientras gimo de felicidad, mi agujero se aprieta y se contrae alrededor de los grandes dedos que todavía están dentro de mí." nointeract
+    # n "Blinding white floods my vision as I moan out in bliss, my hole tightening and twitching around the large fingers still deep inside me." 
+    n "Un blanco cegador inunda mi visión mientras gimo de felicidad, mi agujero se aprieta y se contrae alrededor de los grandes dedos que todavía están dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:639
 translate Paloslios day2_wahooscene_45c5fac2:
 
-    # n "My voice echoes out into the dark room as my back arches off the bed. Shamelessly bucking into [ch_ren]'s hot mouth; I rock back and forth until the pleasure becomes too much for me to handle." nointeract
-    n "Mi voz resuena en la habitación oscura mientras mi espalda se arquea sobre la cama. Chocando descaradamente contra la boca caliente de [ch_ren]; Me balanceo hacia adelante y hacia atrás hasta que el placer se vuelve demasiado difícil de manejar." nointeract
+    # n "My voice echoes out into the dark room as my back arches off the bed. Shamelessly bucking into [ch_ren]'s hot mouth; I rock back and forth until the pleasure becomes too much for me to handle." 
+    n "Mi voz resuena en la habitación oscura mientras mi espalda se arquea sobre la cama. Chocando descaradamente contra la boca caliente de [ch_ren]; Me balanceo hacia adelante y hacia atrás hasta que el placer se vuelve demasiado difícil de manejar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:640
 translate Paloslios day2_wahooscene_a789fa77:
 
-    # n "His free hand grips my thigh as he pulls me impossibly close to his mouth, and his ministrations speed up to help me reach my peak." nointeract
-    n "Su mano libre agarra mi muslo mientras me acerca increíblemente a su boca, y sus cuidados se aceleran para ayudarme a alcanzar mi punto máximo." nointeract
+    # n "His free hand grips my thigh as he pulls me impossibly close to his mouth, and his ministrations speed up to help me reach my peak." 
+    n "Su mano libre agarra mi muslo mientras me acerca increíblemente a su boca, y sus cuidados se aceleran para ayudarme a alcanzar mi punto máximo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:641
 translate Paloslios day2_wahooscene_12ea751d_1:
 
-    # n "[ch_ren]'s name continues to fall from my lips like a mantra as I tumble over that blissful edge; tugging on the roots of his hair as I fall into the pit of pleasure below." nointeract
-    n "El nombre de [ch_ren] continúa cayendo de mis labios como un mantra mientras caigo sobre ese borde dichoso; Tirando de las raíces de su cabello mientras caigo en el pozo de placer que hay debajo." nointeract
+    # n "[ch_ren]'s name continues to fall from my lips like a mantra as I tumble over that blissful edge; tugging on the roots of his hair as I fall into the pit of pleasure below." 
+    n "El nombre de [ch_ren] continúa cayendo de mis labios como un mantra mientras caigo sobre ese borde dichoso; Tirando de las raíces de su cabello mientras caigo en el pozo de placer que hay debajo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:642
 translate Paloslios day2_wahooscene_f28decd1:
 
-    # n "Blinding white floods my vision as I moan out in bliss, hot ropes of cum erupting inside of [ch_ren]'s mouth as he swallows it all down with a satisfied smile." nointeract
-    n "Un blanco cegador inunda mi visión mientras gimo de felicidad, hilos calientes de semen brotan dentro de la boca de [ch_ren] mientras se lo traga todo con una sonrisa de satisfacción." nointeract
+    # n "Blinding white floods my vision as I moan out in bliss, hot ropes of cum erupting inside of [ch_ren]'s mouth as he swallows it all down with a satisfied smile." 
+    n "Un blanco cegador inunda mi visión mientras gimo de felicidad, hilos calientes de semen brotan dentro de la boca de [ch_ren] mientras se lo traga todo con una sonrisa de satisfacción." 
 
 # game/14 Nights With You/14nightswithyou.rpy:644
 translate Paloslios day2_wahooscene_da669e75:
 
-    # n "My voice echoes out into the dark room as my back arches off the bed. Shamelessly riding [ch_ren]'s tongue and fingers; I buck back and forth until the pleasure becomes too much for me to handle." nointeract
-    n "Mi voz resuena en la habitación oscura mientras mi espalda se arquea sobre la cama. Montar descaradamente la lengua y los dedos de [ch_ren]; Me muevo de un lado a otro hasta que el placer se vuelve demasiado difícil de manejar." nointeract
+    # n "My voice echoes out into the dark room as my back arches off the bed. Shamelessly riding [ch_ren]'s tongue and fingers; I buck back and forth until the pleasure becomes too much for me to handle." 
+    n "Mi voz resuena en la habitación oscura mientras mi espalda se arquea sobre la cama. Montar descaradamente la lengua y los dedos de [ch_ren]; Me muevo de un lado a otro hasta que el placer se vuelve demasiado difícil de manejar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:645
 translate Paloslios day2_wahooscene_a789fa77_1:
 
-    # n "His free hand grips my thigh as he pulls me impossibly close to his mouth, and his ministrations speed up to help me reach my peak." nointeract
-    n "Su mano libre agarra mi muslo mientras me acerca increíblemente a su boca, y sus cuidados se aceleran para ayudarme a alcanzar mi punto máximo." nointeract
+    # n "His free hand grips my thigh as he pulls me impossibly close to his mouth, and his ministrations speed up to help me reach my peak." 
+    n "Su mano libre agarra mi muslo mientras me acerca increíblemente a su boca, y sus cuidados se aceleran para ayudarme a alcanzar mi punto máximo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:646
 translate Paloslios day2_wahooscene_12ea751d_2:
 
-    # n "[ch_ren]'s name continues to fall from my lips like a mantra as I tumble over that blissful edge; tugging on the roots of his hair as I fall into the pit of pleasure below." nointeract
-    n "El nombre de [ch_ren] continúa cayendo de mis labios como un mantra mientras caigo sobre ese borde dichoso; Tirando de las raíces de su cabello mientras caigo en el pozo de placer que hay debajo." nointeract
+    # n "[ch_ren]'s name continues to fall from my lips like a mantra as I tumble over that blissful edge; tugging on the roots of his hair as I fall into the pit of pleasure below." 
+    n "El nombre de [ch_ren] continúa cayendo de mis labios como un mantra mientras caigo sobre ese borde dichoso; Tirando de las raíces de su cabello mientras caigo en el pozo de placer que hay debajo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:647
 translate Paloslios day2_wahooscene_567ffb7c:
 
-    # n "Blinding white floods my vision as I moan out in bliss, my hole tightening and twitching on the large fingers still deep inside me." nointeract
-    n "Un blanco cegador inunda mi visión mientras gimo de felicidad, mi agujero se aprieta y se contrae en los dedos grandes que todavía están dentro de mí." nointeract
+    # n "Blinding white floods my vision as I moan out in bliss, my hole tightening and twitching on the large fingers still deep inside me." 
+    n "Un blanco cegador inunda mi visión mientras gimo de felicidad, mi agujero se aprieta y se contrae en los dedos grandes que todavía están dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:648
 translate Paloslios day2_wahooscene_77c1c2d6:
 
-    # n "My breath is shaky as I slowly fall back onto the bed to catch my breath, and I can feel [ch_ren] leaving soft kitten licks against my skin as I calm down." nointeract
-    n "Mi respiración es temblorosa mientras lentamente caigo sobre la cama para recuperar el aliento, y puedo sentir que [ch_ren] deja suaves lamidas de gatito contra mi piel mientras me calmo." nointeract
+    # n "My breath is shaky as I slowly fall back onto the bed to catch my breath, and I can feel [ch_ren] leaving soft kitten licks against my skin as I calm down." 
+    n "Mi respiración es temblorosa mientras lentamente caigo sobre la cama para recuperar el aliento, y puedo sentir que [ch_ren] deja suaves lamidas de gatito contra mi piel mientras me calmo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:649
 translate Paloslios day2_wahooscene_11ff3580:
 
-    # n "Slowly, he crawls up from beneath me — but not before adjusting my legs around his waist once more rather than his shoulders." nointeract
-    n "Lentamente, se arrastra debajo de mí, no sin antes ajustar mis piernas alrededor de su cintura una vez más en lugar de sus hombros." nointeract
+    # n "Slowly, he crawls up from beneath me — but not before adjusting my legs around his waist once more rather than his shoulders." 
+    n "Lentamente, se arrastra debajo de mí, no sin antes ajustar mis piernas alrededor de su cintura una vez más en lugar de sus hombros." 
 
 # game/14 Nights With You/14nightswithyou.rpy:650
 translate Paloslios day2_wahooscene_8d894294:
 
-    # n "Soft, cerulean eyes find mine in the darkness as [ch_ren] places a gentle kiss on my temple, alongside murmurs of praise and reassurance." nointeract
-    n "Ojos suaves y cerúleos encuentran los míos en la oscuridad mientras [ch_ren] me da un suave beso en la sien, junto con murmullos de elogios y tranquilidad." nointeract
+    # n "Soft, cerulean eyes find mine in the darkness as [ch_ren] places a gentle kiss on my temple, alongside murmurs of praise and reassurance." 
+    n "Ojos suaves y cerúleos encuentran los míos en la oscuridad mientras [ch_ren] me da un suave beso en la sien, junto con murmullos de elogios y tranquilidad." 
 
 # game/14 Nights With You/14nightswithyou.rpy:651
 translate Paloslios day2_wahooscene_f14135a9:
 
-    # n "The moment feels soft and tender — just like how he was looking at me — and almost instinctively, I weakly reach for the band of his sweatpants to return the favour." nointeract
-    n "El momento se siente suave y tierno, tal como él me estaba mirando, y casi instintivamente, alcanzo débilmente la banda de sus pantalones deportivos para devolverle el favor." nointeract
+    # n "The moment feels soft and tender — just like how he was looking at me — and almost instinctively, I weakly reach for the band of his sweatpants to return the favour." 
+    n "El momento se siente suave y tierno, tal como él me estaba mirando, y casi instintivamente, alcanzo débilmente la banda de sus pantalones deportivos para devolverle el favor." 
 
 # game/14 Nights With You/14nightswithyou.rpy:652
 translate Paloslios day2_wahooscene_e0c9980b:
 
-    # n "But before I can get anywhere near his private parts, [ch_ren] grabs my hand and brings it towards his face instead." nointeract
-    n "Pero antes de que pueda acercarme a sus partes privadas, [ch_ren] agarra mi mano y la acerca a su cara." nointeract
+    # n "But before I can get anywhere near his private parts, [ch_ren] grabs my hand and brings it towards his face instead." 
+    n "Pero antes de que pueda acercarme a sus partes privadas, [ch_ren] agarra mi mano y la acerca a su cara." 
 
 # game/14 Nights With You/14nightswithyou.rpy:653
 translate Paloslios day2_wahooscene_36cd482b:
 
-    # y "Here, let me—" nointeract
-    y "Aquí, déjame..." nointeract
+    # y "Here, let me—" 
+    y "Aquí, déjame..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:654
 translate Paloslios day2_wahooscene_7d756b0d:
 
-    # r "I-It's okay." nointeract
-    r "E-está bien." nointeract
+    # r "I-It's okay." 
+    r "E-está bien." 
 
 # game/14 Nights With You/14nightswithyou.rpy:655
 translate Paloslios day2_wahooscene_6aefe1b3:
 
-    # y "But you did all the work just now. I wanna return the favour." nointeract
-    y "Pero acabas de hacer todo el trabajo. Quiero devolverte el favor." nointeract
+    # y "But you did all the work just now. I wanna return the favour." 
+    y "Pero acabas de hacer todo el trabajo. Quiero devolverte el favor." 
 
 # game/14 Nights With You/14nightswithyou.rpy:656
 translate Paloslios day2_wahooscene_cefed108:
 
-    # r "It's okay. Really. As long as you got to feel good, [ch_angel]." nointeract
-    r "Está bien. En realidad. Mientras te sientas bien, [ch_angel]." nointeract
+    # r "It's okay. Really. As long as you got to feel good, [ch_angel]." 
+    r "Está bien. En realidad. Mientras te sientas bien, [ch_angel]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:657
 translate Paloslios day2_wahooscene_bac13e21:
 
-    # n "He repeats himself as he snuggles closer into my side; almost as if he was used to this intimate routine by now." nointeract
-    n "Se repite mientras se acurruca más cerca de mi lado; casi como si ya estuviera acostumbrado a esta rutina íntima." nointeract
+    # n "He repeats himself as he snuggles closer into my side; almost as if he was used to this intimate routine by now." 
+    n "Se repite mientras se acurruca más cerca de mi lado; casi como si ya estuviera acostumbrado a esta rutina íntima." 
 
 # game/14 Nights With You/14nightswithyou.rpy:658
 translate Paloslios day2_wahooscene_e53e5960:
 
-    # n "Strong arms wrap around my waist as [ch_ren]'s body collapses behind me, carefully pulling me into the warmth of his chest before he starts to draw shapes on my stomach." nointeract
-    n "Unos brazos fuertes rodean mi cintura mientras el cuerpo de [ch_ren] colapsa detrás de mí, atrayéndome con cuidado hacia el calor de su pecho antes de que comience a dibujar formas en mi estómago." nointeract
+    # n "Strong arms wrap around my waist as [ch_ren]'s body collapses behind me, carefully pulling me into the warmth of his chest before he starts to draw shapes on my stomach." 
+    n "Unos brazos fuertes rodean mi cintura mientras el cuerpo de [ch_ren] colapsa detrás de mí, atrayéndome con cuidado hacia el calor de su pecho antes de que comience a dibujar formas en mi estómago." 
 
 # game/14 Nights With You/14nightswithyou.rpy:659
 translate Paloslios day2_wahooscene_30e5d1ed:
 
-    # n "From this position, I can easily make out the outline of his hard-on pressing against my backside — and it did little to ease my conscience." nointeract
-    n "Desde esta posición, puedo distinguir fácilmente el contorno de su erección presionando contra mi trasero, y eso hizo poco para aliviar mi conciencia." nointeract
+    # n "From this position, I can easily make out the outline of his hard-on pressing against my backside — and it did little to ease my conscience." 
+    n "Desde esta posición, puedo distinguir fácilmente el contorno de su erección presionando contra mi trasero, y eso hizo poco para aliviar mi conciencia." 
 
 # game/14 Nights With You/14nightswithyou.rpy:660
 translate Paloslios day2_wahooscene_502d368d:
 
-    # y "[ch_ren]?" nointeract
-    y "[ch_ren]?" nointeract
+    # y "[ch_ren]?" 
+    y "[ch_ren]?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:661
 translate Paloslios day2_wahooscene_cf013459:
 
-    # r "[ch_angel]." nointeract
-    r "[ch_angel]." nointeract
+    # r "[ch_angel]." 
+    r "[ch_angel]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:662
 translate Paloslios day2_wahooscene_5fe31fc0:
 
-    # y "{i}[ch_ren].{/i}" nointeract
-    y "{i}[ch_ren].{/i}" nointeract
+    # y "{i}[ch_ren].{/i}" 
+    y "{i}[ch_ren].{/i}" 
 
 # game/14 Nights With You/14nightswithyou.rpy:663
 translate Paloslios day2_wahooscene_a8ac1098:
 
-    # n "He lets out a bemused hum behind me, before halting his movements and breathing in my scent." nointeract
-    n "Deja escapar un zumbido desconcertado detrás de mí, antes de detener sus movimientos y respirar mi aroma." nointeract
+    # n "He lets out a bemused hum behind me, before halting his movements and breathing in my scent." 
+    n "Deja escapar un zumbido desconcertado detrás de mí, antes de detener sus movimientos y respirar mi aroma." 
 
 # game/14 Nights With You/14nightswithyou.rpy:664
 translate Paloslios day2_wahooscene_c52834ea:
 
-    # r "Alright. Maybe next time you can return the favour, then." nointeract
-    r "Está bien. Quizás la próxima vez puedas devolverme el favor." nointeract
+    # r "Alright. Maybe next time you can return the favour, then." 
+    r "Está bien. Quizás la próxima vez puedas devolverme el favor." 
 
 # game/14 Nights With You/14nightswithyou.rpy:665
 translate Paloslios day2_wahooscene_e30d0b66:
 
-    # r "B-But… But only if you want to." nointeract
-    r "P-Pero… Pero sólo si quieres." nointeract
+    # r "B-But… But only if you want to." 
+    r "P-Pero… Pero sólo si quieres." 
 
 # game/14 Nights With You/14nightswithyou.rpy:666
 translate Paloslios day2_wahooscene_c4043c29:
 
-    # n "At that, [ch_ren] pulls me even closer into the warmth of his body — if it was even possible, given how inseparable we were right now." nointeract
-    n "Ante eso, [ch_ren] me acerca aún más al calor de su cuerpo, si fuera posible, dado lo inseparables que éramos en este momento." nointeract
+    # n "At that, [ch_ren] pulls me even closer into the warmth of his body — if it was even possible, given how inseparable we were right now." 
+    n "Ante eso, [ch_ren] me acerca aún más al calor de su cuerpo, si fuera posible, dado lo inseparables que éramos en este momento." 
 
 # game/14 Nights With You/14nightswithyou.rpy:667
 translate Paloslios day2_wahooscene_a0381185:
 
-    # r "Ooor… You could let me go down on you again." nointeract
-    r "Ooor… Podrías dejarme caer sobre ti otra vez." nointeract
+    # r "Ooor… You could let me go down on you again." 
+    r "Ooor… Podrías dejarme caer sobre ti otra vez." 
 
 # game/14 Nights With You/14nightswithyou.rpy:668
 translate Paloslios day2_wahooscene_42ea68fc:
 
-    # r "You're my new favourite dessert now. Forget that boardwalk café." nointeract
-    r "Eres mi nuevo postre favorito ahora. Olvídate de ese café del paseo marítimo." nointeract
+    # r "You're my new favourite dessert now. Forget that boardwalk café." 
+    r "Eres mi nuevo postre favorito ahora. Olvídate de ese café del paseo marítimo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:669
 translate Paloslios day2_wahooscene_d28b2bb3:
 
-    # n "I couldn't help but laugh at that. It certainly wasn't something I'd imagine [ch_ren] to say, but he seemed to be full of unexpected surprises tonight." nointeract
-    n "No pude evitar reírme de eso. Ciertamente no era algo que me imaginaría que [ch_ren] dijera, pero parecía estar lleno de sorpresas inesperadas esta noche." nointeract
+    # n "I couldn't help but laugh at that. It certainly wasn't something I'd imagine [ch_ren] to say, but he seemed to be full of unexpected surprises tonight." 
+    n "No pude evitar reírme de eso. Ciertamente no era algo que me imaginaría que [ch_ren] dijera, pero parecía estar lleno de sorpresas inesperadas esta noche." 
 
 # game/14 Nights With You/14nightswithyou.rpy:670
 translate Paloslios day2_wahooscene_56c3ebc5:
 
-    # n "A comfortable silence soon washes over the both of us, and I can feel [ch_ren] mumble a faint 'getting… sleepy… g'night, Angel.' against my shoulder." nointeract
-    n "Un cómodo silencio pronto nos inunda a los dos, y puedo sentir a [ch_ren] murmurar un débil \"teniendo... sueño... buenas noches, Ángel\". contra mi hombro." nointeract
+    # n "A comfortable silence soon washes over the both of us, and I can feel [ch_ren] mumble a faint 'getting… sleepy… g'night, Angel.' against my shoulder." 
+    n "Un cómodo silencio pronto nos inunda a los dos, y puedo sentir a [ch_ren] murmurar un débil \"teniendo... sueño... buenas noches, Ángel\". contra mi hombro." 
 
 # game/14 Nights With You/14nightswithyou.rpy:671
 translate Paloslios day2_wahooscene_33e20263:
 
-    # n "Well, he certainly seemed to fall asleep quickly." nointeract
-    n "Bueno, ciertamente pareció quedarse dormido rápidamente." nointeract
+    # n "Well, he certainly seemed to fall asleep quickly." 
+    n "Bueno, ciertamente pareció quedarse dormido rápidamente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:672
 translate Paloslios day2_wahooscene_9fdf84ca:
 
-    # n "Leaving me to my own devices, I idly take in the interior of the dark room until the urge to sleep consumes me." nointeract
-    n "Dejándome a mi suerte, observo distraídamente el interior de la habitación oscura hasta que la necesidad de dormir me consume." nointeract
+    # n "Leaving me to my own devices, I idly take in the interior of the dark room until the urge to sleep consumes me." 
+    n "Dejándome a mi suerte, observo distraídamente el interior de la habitación oscura hasta que la necesidad de dormir me consume." 
 
 # game/14 Nights With You/14nightswithyou.rpy:673
 translate Paloslios day2_wahooscene_d7d4ccc1:
 
-    # n "The soft patter of rain and thunder still echoes in the distance — coupled with [ch_ren]'s soft breathing — giving me a moment to myself to think." nointeract
-    n "El suave repiqueteo de la lluvia y los truenos todavía resuena en la distancia, junto con la suave respiración de [ch_ren], dándome un momento para pensar." nointeract
+    # n "The soft patter of rain and thunder still echoes in the distance — coupled with [ch_ren]'s soft breathing — giving me a moment to myself to think." 
+    n "El suave repiqueteo de la lluvia y los truenos todavía resuena en la distancia, junto con la suave respiración de [ch_ren], dándome un momento para pensar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:674
 translate Paloslios day2_wahooscene_49fa6b6a:
 
-    # n "How did I feel about [ch_ren]?" nointeract
-    n "¿Cómo me sentí respecto a [ch_ren]?" nointeract
+    # n "How did I feel about [ch_ren]?" 
+    n "¿Cómo me sentí respecto a [ch_ren]?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:689
 translate Paloslios day3_wahooscene_99025ad9:
 
-    # n "Everything around me goes dark, and suddenly, all my other senses are filled with [ch_ren]." nointeract
-    n "Todo a mi alrededor se oscurece y, de repente, todos mis demás sentidos se llenan de [ch_ren]." nointeract
+    # n "Everything around me goes dark, and suddenly, all my other senses are filled with [ch_ren]." 
+    n "Todo a mi alrededor se oscurece y, de repente, todos mis demás sentidos se llenan de [ch_ren]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:690
 translate Paloslios day3_wahooscene_bd31e7fd:
 
-    # n "The smell of fresh linen and old books greet me as I feel the cold touch of his fingers glide across my skin and gently spin me back around." nointeract
-    n "El olor a ropa limpia y libros viejos me recibe cuando siento el toque frío de sus dedos deslizarse por mi piel y hacerme girar suavemente." nointeract
+    # n "The smell of fresh linen and old books greet me as I feel the cold touch of his fingers glide across my skin and gently spin me back around." 
+    n "El olor a ropa limpia y libros viejos me recibe cuando siento el toque frío de sus dedos deslizarse por mi piel y hacerme girar suavemente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:691
 translate Paloslios day3_wahooscene_63d3aa28:
 
-    # n "I hear more fabric rustling and [ch_ren]'s breathing grow heavier before I taste his cherry-tinted lips against my own in a slow, ardent kiss." nointeract
-    n "Escucho más crujidos de tela y la respiración de [ch_ren] se vuelve más pesada antes de saborear sus labios color cereza contra los míos en un beso lento y ardiente." nointeract
+    # n "I hear more fabric rustling and [ch_ren]'s breathing grow heavier before I taste his cherry-tinted lips against my own in a slow, ardent kiss." 
+    n "Escucho más crujidos de tela y la respiración de [ch_ren] se vuelve más pesada antes de saborear sus labios color cereza contra los míos en un beso lento y ardiente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:692
 translate Paloslios day3_wahooscene_fc378c28:
 
-    # n "But [ch_ren] cruelly pulls away the moment I try to deepen the kiss, and I didn't need to see his face to know that he was probably sporting a playful grin at my sour expression." nointeract
-    n "Pero [ch_ren] se aleja cruelmente en el momento en que intento profundizar el beso, y no necesitaba ver su rostro para saber que probablemente estaba luciendo una sonrisa juguetona ante mi expresión amarga." nointeract
+    # n "But [ch_ren] cruelly pulls away the moment I try to deepen the kiss, and I didn't need to see his face to know that he was probably sporting a playful grin at my sour expression." 
+    n "Pero [ch_ren] se aleja cruelmente en el momento en que intento profundizar el beso, y no necesitaba ver su rostro para saber que probablemente estaba luciendo una sonrisa juguetona ante mi expresión amarga." 
 
 # game/14 Nights With You/14nightswithyou.rpy:693
 translate Paloslios day3_wahooscene_3f03d7b8:
 
-    # n "As if to make up for it, [ch_ren]'s larger hands reach for my own and bring them towards the warmth of his chest." nointeract
-    n "Como para compensarlo, las manos más grandes de [ch_ren] toman las mías y las acercan al calor de su pecho." nointeract
+    # n "As if to make up for it, [ch_ren]'s larger hands reach for my own and bring them towards the warmth of his chest." 
+    n "Como para compensarlo, las manos más grandes de [ch_ren] toman las mías y las acercan al calor de su pecho." 
 
 # game/14 Nights With You/14nightswithyou.rpy:694
 translate Paloslios day3_wahooscene_69ccf0a9:
 
-    # n "…His warm, {b}bare{/b} chest." nointeract
-    n "…Su pecho cálido y {b}desnudo{/b}." nointeract
+    # n "…His warm, {b}bare{/b} chest." 
+    n "…Su pecho cálido y {b}desnudo{/b}." 
 
 # game/14 Nights With You/14nightswithyou.rpy:695
 translate Paloslios day3_wahooscene_b557134c:
 
-    # n "Not wanting to waste this opportunity, I carefully run my nails against his skin, taking in the hardness of his muscles and the rivets of his collarbones." nointeract
-    n "No queriendo desperdiciar esta oportunidad, paso con cuidado mis uñas por su piel, notando la dureza de sus músculos y los remaches de sus clavículas." nointeract
+    # n "Not wanting to waste this opportunity, I carefully run my nails against his skin, taking in the hardness of his muscles and the rivets of his collarbones." 
+    n "No queriendo desperdiciar esta oportunidad, paso con cuidado mis uñas por su piel, notando la dureza de sus músculos y los remaches de sus clavículas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:696
 translate Paloslios day3_wahooscene_ab45f4d3:
 
-    # n "The bulky muscle mass {b}clearly{/b} wasn't what I was expecting him to hide underneath those soft, cosy-looking sweaters of his — and I have to hold back the urge to move the makeshift blindfold to sneak a peek." nointeract
-    n "La voluminosa masa muscular {b}claramente{/b} no era lo que esperaba que escondiera debajo de esos suéteres suyos suaves y de aspecto acogedor, y tengo que contener la necesidad de mover la improvisada venda de los ojos para echar un vistazo." nointeract
+    # n "The bulky muscle mass {b}clearly{/b} wasn't what I was expecting him to hide underneath those soft, cosy-looking sweaters of his — and I have to hold back the urge to move the makeshift blindfold to sneak a peek." 
+    n "La voluminosa masa muscular {b}claramente{/b} no era lo que esperaba que escondiera debajo de esos suéteres suyos suaves y de aspecto acogedor, y tengo que contener la necesidad de mover la improvisada venda de los ojos para echar un vistazo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:697
 translate Paloslios day3_wahooscene_23dbec20:
 
-    # n "But I suppose [ch_ren] isn't comfortable with me seeing him without his shirt, so I decide to respect his decision and make do with what he was willing to offer me." nointeract
-    n "Pero supongo que [ch_ren] no se siente cómodo con que lo vea sin camiseta, así que decido respetar su decisión y conformarme con lo que estaba dispuesto a ofrecerme." nointeract
+    # n "But I suppose [ch_ren] isn't comfortable with me seeing him without his shirt, so I decide to respect his decision and make do with what he was willing to offer me." 
+    n "Pero supongo que [ch_ren] no se siente cómodo con que lo vea sin camiseta, así que decido respetar su decisión y conformarme con lo que estaba dispuesto a ofrecerme." 
 
 # game/14 Nights With You/14nightswithyou.rpy:698
 translate Paloslios day3_wahooscene_b595dd26:
 
-    # y "[ch_ren]…" nointeract
-    y "[ch_ren]…" nointeract
+    # y "[ch_ren]…" 
+    y "[ch_ren]…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:699
 translate Paloslios day3_wahooscene_5a0a1278:
 
-    # n "My hands travel lower until they brush over his abdomen, and I can hear him suck in a breath at the sensation." nointeract
-    n "Mis manos bajan hasta rozar su abdomen y puedo oírlo respirar profundamente ante la sensación." nointeract
+    # n "My hands travel lower until they brush over his abdomen, and I can hear him suck in a breath at the sensation." 
+    n "Mis manos bajan hasta rozar su abdomen y puedo oírlo respirar profundamente ante la sensación." 
 
 # game/14 Nights With You/14nightswithyou.rpy:700
 translate Paloslios day3_wahooscene_6627d797:
 
-    # n "His muscles flex and stiffen under my touch before cold fingers wrap around my wrist to guide them towards his face instead." nointeract
-    n "Sus músculos se flexionan y se ponen rígidos bajo mi tacto antes de que unos dedos fríos se envuelvan alrededor de mi muñeca para guiarlos hacia su cara." nointeract
+    # n "His muscles flex and stiffen under my touch before cold fingers wrap around my wrist to guide them towards his face instead." 
+    n "Sus músculos se flexionan y se ponen rígidos bajo mi tacto antes de que unos dedos fríos se envuelvan alrededor de mi muñeca para guiarlos hacia su cara." 
 
 # game/14 Nights With You/14nightswithyou.rpy:701
 translate Paloslios day3_wahooscene_e3c5ead7:
 
-    # n "Soft kisses are left on the palm of my hands, and I gently cup [ch_ren]'s face as he continues his doting ministrations." nointeract
-    n "Dejo suaves besos en la palma de mis manos y acaricio suavemente el rostro de [ch_ren] mientras continúa con sus cariñosas atenciones." nointeract
+    # n "Soft kisses are left on the palm of my hands, and I gently cup [ch_ren]'s face as he continues his doting ministrations." 
+    n "Dejo suaves besos en la palma de mis manos y acaricio suavemente el rostro de [ch_ren] mientras continúa con sus cariñosas atenciones." 
 
 # game/14 Nights With You/14nightswithyou.rpy:702
 translate Paloslios day3_wahooscene_92301e37:
 
-    # n "It doesn't take long before I feel [ch_ren]'s hands ghost against my sides instead — and almost like clockwork, I lift my hips and let him remove the rest of my clothing." nointeract
-    n "No pasa mucho tiempo antes de que sienta las manos de [ch_ren] contra mis costados y, casi como un reloj, levanto mis caderas y dejo que me quite el resto de la ropa." nointeract
+    # n "It doesn't take long before I feel [ch_ren]'s hands ghost against my sides instead — and almost like clockwork, I lift my hips and let him remove the rest of my clothing." 
+    n "No pasa mucho tiempo antes de que sienta las manos de [ch_ren] contra mis costados y, casi como un reloj, levanto mis caderas y dejo que me quite el resto de la ropa." 
 
 # game/14 Nights With You/14nightswithyou.rpy:703
 translate Paloslios day3_wahooscene_14259e85:
 
-    # n "With the rest of my senses heightened, I feel the rush of cold air brush against my skin before it's replaced by the warmth of [ch_ren]'s body once more." nointeract
-    n "Con el resto de mis sentidos intensificados, siento la ráfaga de aire frío rozar mi piel antes de ser reemplazada por el calor del cuerpo de [ch_ren] una vez más." nointeract
+    # n "With the rest of my senses heightened, I feel the rush of cold air brush against my skin before it's replaced by the warmth of [ch_ren]'s body once more." 
+    n "Con el resto de mis sentidos intensificados, siento la ráfaga de aire frío rozar mi piel antes de ser reemplazada por el calor del cuerpo de [ch_ren] una vez más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:704
 translate Paloslios day3_wahooscene_2ab1e207:
 
-    # n "My arms eagerly hook themselves over his shoulders, and I feel him pull me closer by my thighs before pressing light kisses against my neck." nointeract
-    n "Mis brazos se enganchan ansiosamente sobre sus hombros y siento que me acerca por los muslos antes de dejar ligeros besos en mi cuello." nointeract
+    # n "My arms eagerly hook themselves over his shoulders, and I feel him pull me closer by my thighs before pressing light kisses against my neck." 
+    n "Mis brazos se enganchan ansiosamente sobre sus hombros y siento que me acerca por los muslos antes de dejar ligeros besos en mi cuello." 
 
 # game/14 Nights With You/14nightswithyou.rpy:705
 translate Paloslios day3_wahooscene_642b780e:
 
-    # n "A ticklish sensation runs throughout my entire body as his fingers return to my thighs once more, gently running up and down before inching closer and closer to the place that was yearning for his touch." nointeract
-    n "Una sensación de cosquillas recorre todo mi cuerpo cuando sus dedos regresan a mis muslos una vez más, subiendo y bajando suavemente antes de acercarse cada vez más al lugar que anhelaba su toque." nointeract
+    # n "A ticklish sensation runs throughout my entire body as his fingers return to my thighs once more, gently running up and down before inching closer and closer to the place that was yearning for his touch." 
+    n "Una sensación de cosquillas recorre todo mi cuerpo cuando sus dedos regresan a mis muslos una vez más, subiendo y bajando suavemente antes de acercarse cada vez más al lugar que anhelaba su toque." 
 
 # game/14 Nights With You/14nightswithyou.rpy:706
 translate Paloslios day3_wahooscene_9eb151f2:
 
-    # y "P-Please…" nointeract
-    y "P-Por favor..." nointeract
+    # y "P-Please…" 
+    y "P-Por favor..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:707
 translate Paloslios day3_wahooscene_0900b415:
 
-    # r "Please what? You have t'use your words, Angel." nointeract
-    r "¿Por favor qué? Tienes que usar tus palabras, Ángel." nointeract
+    # r "Please what? You have t'use your words, Angel." 
+    r "¿Por favor qué? Tienes que usar tus palabras, Ángel." 
 
 # game/14 Nights With You/14nightswithyou.rpy:708
 translate Paloslios day3_wahooscene_56ec07c2:
 
-    # n "His breath tickles my skin as he murmurs into the juncture near my neck, before he drops lower to playfully nip at my [bust]." nointeract
-    n "Su aliento me hace cosquillas en la piel mientras murmura en la unión cerca de mi cuello, antes de caer más abajo para pellizcar juguetonamente mi [bust]." nointeract
+    # n "His breath tickles my skin as he murmurs into the juncture near my neck, before he drops lower to playfully nip at my [bust!t]." 
+    n "Su aliento me hace cosquillas en la piel mientras murmura en la unión cerca de mi cuello, antes de caer más abajo para pellizcar juguetonamente mi [bust!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:711
 translate Paloslios day3_wahooscene_a7cb5876:
 
-    # n "The sensation has me squeezing my eyes shut as I try to fumble around for [ch_ren] in the dark." nointeract
-    n "La sensación me hace cerrar los ojos con fuerza mientras intento buscar [ch_ren] en la oscuridad." nointeract
+    # n "The sensation has me squeezing my eyes shut as I try to fumble around for [ch_ren] in the dark." 
+    n "La sensación me hace cerrar los ojos con fuerza mientras intento buscar [ch_ren] en la oscuridad." 
 
 # game/14 Nights With You/14nightswithyou.rpy:712
 translate Paloslios day3_wahooscene_70079c54:
 
-    # y "Ah—! Please touch me…" nointeract
-    y "¡Ah—! Por favor tócame..." nointeract
+    # y "Ah—! Please touch me…" 
+    y "¡Ah—! Por favor tócame..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:713
 translate Paloslios day3_wahooscene_7fdc5847:
 
-    # r "…Where?" nointeract
-    r "…¿Dónde?" nointeract
+    # r "…Where?" 
+    r "…¿Dónde?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:714
 translate Paloslios day3_wahooscene_94be1477:
 
-    # n "Almost groaning in frustration, I roll my hips against his large hand to get my point across." nointeract
-    n "Casi gimiendo de frustración, giro mis caderas contra su gran mano para expresar mi punto." nointeract
+    # n "Almost groaning in frustration, I roll my hips against his large hand to get my point across." 
+    n "Casi gimiendo de frustración, giro mis caderas contra su gran mano para expresar mi punto." 
 
 # game/14 Nights With You/14nightswithyou.rpy:715
 translate Paloslios day3_wahooscene_19521f36:
 
-    # r "What's that? Want me to stop?" nointeract
-    r "¿Qué es eso? ¿Quieres que pare?" nointeract
+    # r "What's that? Want me to stop?" 
+    r "¿Qué es eso? ¿Quieres que pare?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:716
 translate Paloslios day3_wahooscene_d9ebebca:
 
-    # n "Even with the blindfold on, I can still practically make out the sly expression on [ch_ren]'s face. His tone was practically {b}dripping{/b} in smugness, and it takes all my willpower not to take matters into my own hands." nointeract
-    n "Incluso con los ojos vendados, prácticamente puedo distinguir la expresión astuta en el rostro de [ch_ren]. Su tono estaba prácticamente {b}goteando{/b} engreimiento, y se necesita toda mi fuerza de voluntad para no tomar el asunto en mis propias manos." nointeract
+    # n "Even with the blindfold on, I can still practically make out the sly expression on [ch_ren]'s face. His tone was practically {b}dripping{/b} in smugness, and it takes all my willpower not to take matters into my own hands." 
+    n "Incluso con los ojos vendados, prácticamente puedo distinguir la expresión astuta en el rostro de [ch_ren]. Su tono estaba prácticamente {b}goteando{/b} engreimiento, y se necesita toda mi fuerza de voluntad para no tomar el asunto en mis propias manos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:717
 translate Paloslios day3_wahooscene_fb2d5ea4:
 
-    # n "Letting go of my pride — even if it was for just a moment — I quietly mutter out a response." nointeract
-    n "Dejando de lado mi orgullo, aunque fuera solo por un momento, murmuro una respuesta en voz baja." nointeract
+    # n "Letting go of my pride — even if it was for just a moment — I quietly mutter out a response." 
+    n "Dejando de lado mi orgullo, aunque fuera solo por un momento, murmuro una respuesta en voz baja." 
 
 # game/14 Nights With You/14nightswithyou.rpy:718
 translate Paloslios day3_wahooscene_bda94500:
 
-    # y "Jeez, [ch_ren]! Just— {i}Please…{/i}" nointeract
-    y "¡Dios, [ch_ren]! Sólo— {i}Por favor…{/i}" nointeract
+    # y "Jeez, [ch_ren]! Just— {i}Please…{/i}" 
+    y "¡Dios, [ch_ren]! Sólo— {i}Por favor…{/i}" 
 
 # game/14 Nights With You/14nightswithyou.rpy:719
 translate Paloslios day3_wahooscene_d51014e2:
 
-    # extend " Just touch me. You know where." nointeract
-    extend " Sólo tócame. Ya sabes dónde." nointeract
+    # extend " Just touch me. You know where." 
+    extend " Sólo tócame. Ya sabes dónde." 
 
 # game/14 Nights With You/14nightswithyou.rpy:720
 translate Paloslios day3_wahooscene_75a9366a:
 
-    # r "Do I?" nointeract
-    r "¿Yo?" nointeract
+    # r "Do I?" 
+    r "¿Yo?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:721
 translate Paloslios day3_wahooscene_6c290696:
 
-    # y "[ch_ren]!" nointeract
-    y "[ch_ren]!" nointeract
+    # y "[ch_ren]!" 
+    y "[ch_ren]!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:722
 translate Paloslios day3_wahooscene_43421abf:
 
-    # r "Haha~ I'm sorry. You're just so fun to tease." nointeract
-    r "Jaja ~ Lo siento. Eres tan divertido de burlar." nointeract
+    # r "Haha~ I'm sorry. You're just so fun to tease." 
+    r "Jaja ~ Lo siento. Eres tan divertido de burlar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:723
 translate Paloslios day3_wahooscene_03b8c054:
 
-    # r "You know I'd never deny you, [ch_angel]." nointeract
-    r "Sabes que nunca te lo negaría, [ch_angel]." nointeract
+    # r "You know I'd never deny you, [ch_angel]." 
+    r "Sabes que nunca te lo negaría, [ch_angel]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:724
 translate Paloslios day3_wahooscene_742fea6d:
 
-    # n "At that, I can feel him press a wet kiss against my cheek before he slowly inches his way closer towards my lips." nointeract
-    n "Ante eso, puedo sentirlo presionar un beso húmedo contra mi mejilla antes de acercarse lentamente a mis labios." nointeract
+    # n "At that, I can feel him press a wet kiss against my cheek before he slowly inches his way closer towards my lips." 
+    n "Ante eso, puedo sentirlo presionar un beso húmedo contra mi mejilla antes de acercarse lentamente a mis labios." 
 
 # game/14 Nights With You/14nightswithyou.rpy:725
 translate Paloslios day3_wahooscene_d5e9bd65:
 
-    # r "…Here?" nointeract
-    r "…¿Aquí?" nointeract
+    # r "…Here?" 
+    r "…¿Aquí?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:726
 translate Paloslios day3_wahooscene_e73e0620:
 
-    # n "Almost immediately, [ch_ren]'s hand starts to move in tandem with his mouth, and I almost cry out in relief." nointeract
-    n "Casi de inmediato, la mano de [ch_ren] comienza a moverse junto con su boca, y casi grito de alivio." nointeract
+    # n "Almost immediately, [ch_ren]'s hand starts to move in tandem with his mouth, and I almost cry out in relief." 
+    n "Casi de inmediato, la mano de [ch_ren] comienza a moverse junto con su boca, y casi grito de alivio." 
 
 # game/14 Nights With You/14nightswithyou.rpy:728
 translate Paloslios day3_wahooscene_c474596f:
 
-    # n "His touch is light and tentative at first, gently running along my folds and gathering my slick — before he slowly eases two of his fingers inside me." nointeract
-    n "Su toque es ligero y vacilante al principio, recorriendo suavemente mis pliegues y acumulando mi grasa, antes de que lentamente introduzca dos de sus dedos dentro de mí." nointeract
+    # n "His touch is light and tentative at first, gently running along my folds and gathering my slick — before he slowly eases two of his fingers inside me." 
+    n "Su toque es ligero y vacilante al principio, recorriendo suavemente mis pliegues y acumulando mi grasa, antes de que lentamente introduzca dos de sus dedos dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:730
 translate Paloslios day3_wahooscene_09f31a47:
 
-    # n "His touch is light and tentative at first, swiping up some of my leaking precum to use as lube alongside his own spit — before he slowly eases one of his fingers into my hole." nointeract
-    n "Su toque es ligero y vacilante al principio, deslizando un poco de mi líquido preseminal que gotea para usarlo como lubricante junto con su propia saliva, antes de que lentamente introduzca uno de sus dedos en mi agujero." nointeract
+    # n "His touch is light and tentative at first, swiping up some of my leaking precum to use as lube alongside his own spit — before he slowly eases one of his fingers into my hole." 
+    n "Su toque es ligero y vacilante al principio, deslizando un poco de mi líquido preseminal que gotea para usarlo como lubricante junto con su propia saliva, antes de que lentamente introduzca uno de sus dedos en mi agujero." 
 
 # game/14 Nights With You/14nightswithyou.rpy:732
 translate Paloslios day3_wahooscene_87d0f518:
 
-    # n "His touch is slow at first, gently tracing and prodding my entrance — before he gently eases in one of his fingers." nointeract
-    n "Su toque es lento al principio, rastreando y empujando suavemente mi entrada, antes de introducir suavemente uno de sus dedos." nointeract
+    # n "His touch is slow at first, gently tracing and prodding my entrance — before he gently eases in one of his fingers." 
+    n "Su toque es lento al principio, rastreando y empujando suavemente mi entrada, antes de introducir suavemente uno de sus dedos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:733
 translate Paloslios day3_wahooscene_1621ceed:
 
-    # n "I hadn't even noticed how much of a mess I was making down there, but it helped ease the friction once [ch_ren] added another digit inside of me." nointeract
-    n "Ni siquiera me había dado cuenta del desorden que estaba haciendo allí abajo, pero ayudó a aliviar la fricción una vez que [ch_ren] añadió otro dedo dentro de mí." nointeract
+    # n "I hadn't even noticed how much of a mess I was making down there, but it helped ease the friction once [ch_ren] added another digit inside of me." 
+    n "Ni siquiera me había dado cuenta del desorden que estaba haciendo allí abajo, pero ayudó a aliviar la fricción una vez que [ch_ren] añadió otro dedo dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:734
 translate Paloslios day3_wahooscene_fc0d4e60:
 
-    # n "He starts to pump it in and out of me before switching to a slow, deliberate scissoring motion, and it has me keening out." nointeract
-    n "Empieza a bombearlo dentro y fuera de mí antes de cambiar a un movimiento lento y deliberado de tijera, y eso me hace gemir." nointeract
+    # n "He starts to pump it in and out of me before switching to a slow, deliberate scissoring motion, and it has me keening out." 
+    n "Empieza a bombearlo dentro y fuera de mí antes de cambiar a un movimiento lento y deliberado de tijera, y eso me hace gemir." 
 
 # game/14 Nights With You/14nightswithyou.rpy:735
 translate Paloslios day3_wahooscene_9af80d68:
 
-    # n "It sends a wave of pleasure throughout my body, and I return the favour by reaching out to trace whatever patch of skin my hands can reach." nointeract
-    n "Envía una ola de placer por todo mi cuerpo y le devuelvo el favor extendiendo la mano para trazar cualquier zona de piel que mis manos puedan alcanzar." nointeract
+    # n "It sends a wave of pleasure throughout my body, and I return the favour by reaching out to trace whatever patch of skin my hands can reach." 
+    n "Envía una ola de placer por todo mi cuerpo y le devuelvo el favor extendiendo la mano para trazar cualquier zona de piel que mis manos puedan alcanzar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:736
 translate Paloslios day3_wahooscene_f21f59d7:
 
-    # n "It doesn't take long before my hands find his chest and chart a familiar path down towards his navel — before coming into contact with [ch_ren]'s fully erect member." nointeract
-    n "No pasa mucho tiempo antes de que mis manos encuentren su pecho y tracen un camino familiar hacia su ombligo, antes de entrar en contacto con el miembro completamente erecto de [ch_ren]." nointeract
+    # n "It doesn't take long before my hands find his chest and chart a familiar path down towards his navel — before coming into contact with [ch_ren]'s fully erect member." 
+    n "No pasa mucho tiempo antes de que mis manos encuentren su pecho y tracen un camino familiar hacia su ombligo, antes de entrar en contacto con el miembro completamente erecto de [ch_ren]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:737
 translate Paloslios day3_wahooscene_e5c0a930:
 
-    # r "A-Ah—!" nointeract
-    r "¡A-Ah—!" nointeract
+    # r "A-Ah—!" 
+    r "¡A-Ah—!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:738
 translate Paloslios day3_wahooscene_0387a7c2:
 
-    # n "[ch_ren] buckles over in pleasure, and I can feel his head dip into my neck once more before his teeth meet my skin." nointeract
-    n "[ch_ren] se dobla de placer y puedo sentir su cabeza hundirse en mi cuello una vez más antes de que sus dientes toquen mi piel." nointeract
+    # n "[ch_ren] buckles over in pleasure, and I can feel his head dip into my neck once more before his teeth meet my skin." 
+    n "[ch_ren] se dobla de placer y puedo sentir su cabeza hundirse en mi cuello una vez más antes de que sus dientes toquen mi piel." 
 
 # game/14 Nights With You/14nightswithyou.rpy:739
 translate Paloslios day3_wahooscene_280429b7:
 
-    # n "I lean in to press a kiss of my own to the side of his head, and he reacts almost immediately to my touch; pumping his hand with even more vigour and pressing searing kisses to the spot below my earlobe." nointeract
-    n "Me inclino para darle un beso en el costado de su cabeza y él reacciona casi de inmediato a mi toque; bombeando su mano con aún más vigor y presionando besos abrasadores en el lugar debajo del lóbulo de mi oreja." nointeract
+    # n "I lean in to press a kiss of my own to the side of his head, and he reacts almost immediately to my touch; pumping his hand with even more vigour and pressing searing kisses to the spot below my earlobe." 
+    n "Me inclino para darle un beso en el costado de su cabeza y él reacciona casi de inmediato a mi toque; bombeando su mano con aún más vigor y presionando besos abrasadores en el lugar debajo del lóbulo de mi oreja." 
 
 # game/14 Nights With You/14nightswithyou.rpy:740
 translate Paloslios day3_wahooscene_8d0473b2:
 
-    # r "I-I can't wait any longer… Angel, can I—" nointeract
-    r "N-no puedo esperar más… Ángel, ¿puedo…?" nointeract
+    # r "I-I can't wait any longer… Angel, can I—" 
+    r "N-no puedo esperar más… Ángel, ¿puedo…?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:754
 translate Paloslios day3_wahooscene_2cea7678:
 
-    # n "He can't seem to concentrate with the way his words come out slurred and needy, so I decide to put him out of his misery by adjusting his cock and lining it up with my entrance." nointeract
-    n "Parece que no puede concentrarse por la forma en que sus palabras salen confusas y necesitadas, así que decido sacarlo de su miseria ajustando su polla y alineándola con mi entrada." nointeract
+    # n "He can't seem to concentrate with the way his words come out slurred and needy, so I decide to put him out of his misery by adjusting his cock and lining it up with my entrance." 
+    n "Parece que no puede concentrarse por la forma en que sus palabras salen confusas y necesitadas, así que decido sacarlo de su miseria ajustando su polla y alineándola con mi entrada." 
 
 # game/14 Nights With You/14nightswithyou.rpy:755
 translate Paloslios day3_wahooscene_28c682d8:
 
-    # n "He immediately catches on — leaning back onto the couch and spreading my legs further. I almost miss the warmth of his body on mine, but the sudden sensation of his tip teasing my hole draws my attention away." nointeract
-    n "Él inmediatamente se dio cuenta: se reclinó en el sofá y abrió aún más las piernas. Casi extraño el calor de su cuerpo sobre el mío, pero la repentina sensación de su punta provocando mi agujero desvía mi atención." nointeract
+    # n "He immediately catches on — leaning back onto the couch and spreading my legs further. I almost miss the warmth of his body on mine, but the sudden sensation of his tip teasing my hole draws my attention away." 
+    n "Él inmediatamente se dio cuenta: se reclinó en el sofá y abrió aún más las piernas. Casi extraño el calor de su cuerpo sobre el mío, pero la repentina sensación de su punta provocando mi agujero desvía mi atención." 
 
 # game/14 Nights With You/14nightswithyou.rpy:756
 translate Paloslios day3_wahooscene_5c7609c5:
 
-    # n "With slow, deliberate movements, [ch_ren] gently pushes himself inside of me, and I can barely hold back the sounds of my voice as the stretch of his length fills me up." nointeract
-    n "Con movimientos lentos y deliberados, [ch_ren] se empuja suavemente dentro de mí y apenas puedo contener los sonidos de mi voz mientras la extensión de su longitud me llena." nointeract
+    # n "With slow, deliberate movements, [ch_ren] gently pushes himself inside of me, and I can barely hold back the sounds of my voice as the stretch of his length fills me up." 
+    n "Con movimientos lentos y deliberados, [ch_ren] se empuja suavemente dentro de mí y apenas puedo contener los sonidos de mi voz mientras la extensión de su longitud me llena." 
 
 # game/14 Nights With You/14nightswithyou.rpy:761
 translate Paloslios day3_wahooscene_031fd9c0:
 
-    # r "Missed this… Missed being inside of you…" nointeract
-    r "Extrañaba esto... Extrañaba estar dentro de ti..." nointeract
+    # r "Missed this… Missed being inside of you…" 
+    r "Extrañaba esto... Extrañaba estar dentro de ti..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:762
 translate Paloslios day3_wahooscene_c6a207c1:
 
-    # n "[ch_ren] starts to move his hips now as one of his hands seeks out my own. Familiarity blooms inside of me once he entwines our fingers, before it gets replaced with a foggy haze the moment he starts to pick up his pace." nointeract
-    n "[ch_ren] comienza a mover sus caderas ahora mientras una de sus manos busca la mía. La familiaridad florece dentro de mí una vez que entrelaza nuestros dedos, antes de ser reemplazada por una neblina en el momento en que comienza a acelerar el paso." nointeract
+    # n "[ch_ren] starts to move his hips now as one of his hands seeks out my own. Familiarity blooms inside of me once he entwines our fingers, before it gets replaced with a foggy haze the moment he starts to pick up his pace." 
+    n "[ch_ren] comienza a mover sus caderas ahora mientras una de sus manos busca la mía. La familiaridad florece dentro de mí una vez que entrelaza nuestros dedos, antes de ser reemplazada por una neblina en el momento en que comienza a acelerar el paso." 
 
 # game/14 Nights With You/14nightswithyou.rpy:764
 translate Paloslios day3_wahooscene_a921d1ef:
 
-    # r "We're finally… Haah~ Y'feel so good! This is better than anything I've ever imagined…" nointeract
-    r "Finalmente estamos… Haah~ ¡Te sientes tan bien! Esto es mejor que cualquier cosa que haya imaginado..." nointeract
+    # r "We're finally… Haah~ Y'feel so good! This is better than anything I've ever imagined…" 
+    r "Finalmente estamos… Haah~ ¡Te sientes tan bien! Esto es mejor que cualquier cosa que haya imaginado..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:765
 translate Paloslios day3_wahooscene_a8ced66e:
 
-    # n "[ch_ren] starts to move his hips now as one of his hands seeks out my own. Sincerity blooms inside of me once he entwines our fingers, before it gets replaced with a foggy haze the moment he starts to tentatively move his hips." nointeract
-    n "[ch_ren] comienza a mover sus caderas ahora mientras una de sus manos busca la mía. La sinceridad florece dentro de mí una vez que entrelaza nuestros dedos, antes de ser reemplazada por una neblina en el momento en que comienza a mover tentativamente sus caderas." nointeract
+    # n "[ch_ren] starts to move his hips now as one of his hands seeks out my own. Sincerity blooms inside of me once he entwines our fingers, before it gets replaced with a foggy haze the moment he starts to tentatively move his hips." 
+    n "[ch_ren] comienza a mover sus caderas ahora mientras una de sus manos busca la mía. La sinceridad florece dentro de mí una vez que entrelaza nuestros dedos, antes de ser reemplazada por una neblina en el momento en que comienza a mover tentativamente sus caderas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:769
 translate Paloslios day3_wahooscene_9bcb81da:
 
-    # n "The friction of his cock brushing against my walls practically steals the air from my lungs, and I can't help but arch my back off of the couch." nointeract
-    n "La fricción de su polla rozando mis paredes prácticamente me roba el aire de los pulmones y no puedo evitar arquear la espalda fuera del sofá." nointeract
+    # n "The friction of his cock brushing against my walls practically steals the air from my lungs, and I can't help but arch my back off of the couch." 
+    n "La fricción de su polla rozando mis paredes prácticamente me roba el aire de los pulmones y no puedo evitar arquear la espalda fuera del sofá." 
 
 # game/14 Nights With You/14nightswithyou.rpy:771
 translate Paloslios day3_wahooscene_925fe2c8:
 
-    # r "Are you okay? You're not in any pain, are you? If you are, tell me and I'll stop." nointeract
-    r "¿Estás bien? No sientes ningún dolor, ¿verdad? Si es así, dímelo y pararé." nointeract
+    # r "Are you okay? You're not in any pain, are you? If you are, tell me and I'll stop." 
+    r "¿Estás bien? No sientes ningún dolor, ¿verdad? Si es así, dímelo y pararé." 
 
 # game/14 Nights With You/14nightswithyou.rpy:772
 translate Paloslios day3_wahooscene_d00ce437:
 
-    # y "Me? What about you?" nointeract
-    y "¿A mí? ¿Qué pasa contigo?" nointeract
+    # y "Me? What about you?" 
+    y "¿A mí? ¿Qué pasa contigo?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:773
 translate Paloslios day3_wahooscene_7398832d:
 
-    # n "I can feel him smile against my neck before his lips timidly move towards my [bust]." nointeract
-    n "Puedo sentirlo sonreír contra mi cuello antes de que sus labios se muevan tímidamente hacia mi [bust]." nointeract
+    # n "I can feel him smile against my neck before his lips timidly move towards my [bust!t]." 
+    n "Puedo sentirlo sonreír contra mi cuello antes de que sus labios se muevan tímidamente hacia mi [bust!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:774
 translate Paloslios day3_wahooscene_f0febe6b:
 
-    # r "I-I… Um… I want to make you feel good too, since this is our first time and all. Is that okay?" nointeract
-    r "Yo-yo… Um… quiero hacerte sentir bien también, ya que esta es nuestra primera vez y todo. ¿Está bien?" nointeract
+    # r "I-I… Um… I want to make you feel good too, since this is our first time and all. Is that okay?" 
+    r "Yo-yo… Um… quiero hacerte sentir bien también, ya que esta es nuestra primera vez y todo. ¿Está bien?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:775
 translate Paloslios day3_wahooscene_773161f8:
 
-    # r "You don't have to do anything! J-Just let me do all the work." nointeract
-    r "¡No tienes que hacer nada! J-Sólo déjame hacer todo el trabajo." nointeract
+    # r "You don't have to do anything! J-Just let me do all the work." 
+    r "¡No tienes que hacer nada! J-Sólo déjame hacer todo el trabajo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:777
 translate Paloslios day3_wahooscene_1c5457d3:
 
-    # r "We've been doing this a lot now, haven't we? You're so addictive, Angel." nointeract
-    r "Hemos estado haciendo esto mucho ahora, ¿no? Eres tan adictiva, Ángel." nointeract
+    # r "We've been doing this a lot now, haven't we? You're so addictive, Angel." 
+    r "Hemos estado haciendo esto mucho ahora, ¿no? Eres tan adictiva, Ángel." 
 
 # game/14 Nights With You/14nightswithyou.rpy:778
 translate Paloslios day3_wahooscene_0399e8c2:
 
-    # n "I can feel him smile against my neck before his lips move towards my [bust]." nointeract
-    n "Puedo sentirlo sonreír contra mi cuello antes de que sus labios se muevan hacia mi [bust]." nointeract
+    # n "I can feel him smile against my neck before his lips move towards my [bust!t]." 
+    n "Puedo sentirlo sonreír contra mi cuello antes de que sus labios se muevan hacia mi [bust!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:782
 translate Paloslios day3_wahooscene_1b187b01:
 
-    # r "…No one else has been inside of you since last time, right? Only me?" nointeract
-    r "…Nadie más ha estado dentro de ti desde la última vez, ¿verdad? ¿Solo yo?" nointeract
+    # r "…No one else has been inside of you since last time, right? Only me?" 
+    r "…Nadie más ha estado dentro de ti desde la última vez, ¿verdad? ¿Solo yo?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:783
 translate Paloslios day3_wahooscene_42e84a76:
 
-    # r "Doesn't really matter anyway. 'M gonna make this [hole] remember my shape." nointeract
-    r "Realmente no importa de todos modos. Voy a hacer que este [hole] recuerde mi forma." nointeract
+    # r "Doesn't really matter anyway. 'M gonna make this [hole!t] remember my shape." 
+    r "Realmente no importa de todos modos. Voy a hacer que este [hole!t] recuerde mi forma." 
 
 # game/14 Nights With You/14nightswithyou.rpy:785
 translate Paloslios day3_wahooscene_b5ea79d4:
 
-    # r "Y-You're so addictive, Angel. I can't get enough of you." nointeract
-    r "Eres tan adictivo, Ángel. No puedo tener suficiente de ti." nointeract
+    # r "Y-You're so addictive, Angel. I can't get enough of you." 
+    r "Eres tan adictivo, Ángel. No puedo tener suficiente de ti." 
 
 # game/14 Nights With You/14nightswithyou.rpy:786
 translate Paloslios day3_wahooscene_0399e8c2_1:
 
-    # n "I can feel him smile against my neck before his lips move towards my [bust]." nointeract
-    n "Puedo sentirlo sonreír contra mi cuello antes de que sus labios se muevan hacia mi [bust]." nointeract
+    # n "I can feel him smile against my neck before his lips move towards my [bust!t]." 
+    n "Puedo sentirlo sonreír contra mi cuello antes de que sus labios se muevan hacia mi [bust!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:787
 translate Paloslios day3_wahooscene_d32980c5:
 
-    # r "…You won't let anyone else do this with you, right? Only me?" nointeract
-    r "…No dejarás que nadie más haga esto contigo, ¿verdad? ¿Solo yo?" nointeract
+    # r "…You won't let anyone else do this with you, right? Only me?" 
+    r "…No dejarás que nadie más haga esto contigo, ¿verdad? ¿Solo yo?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:791
 translate Paloslios day3_wahooscene_42e84a76_1:
 
-    # r "Doesn't really matter anyway. 'M gonna make this [hole] remember my shape." nointeract
-    r "Realmente no importa de todos modos. Voy a hacer que este [hole] recuerde mi forma." nointeract
+    # r "Doesn't really matter anyway. 'M gonna make this [hole!t] remember my shape." 
+    r "Realmente no importa de todos modos. Voy a hacer que este [hole!t] recuerde mi forma." 
 
 # game/14 Nights With You/14nightswithyou.rpy:792
 translate Paloslios day3_wahooscene_de0f9c86:
 
-    # n "His babbling is bordering on intelligible, and I can barely process his words as all the pleasure fills my brain." nointeract
-    n "Su balbuceo roza lo inteligible y apenas puedo procesar sus palabras mientras todo el placer llena mi cerebro." nointeract
+    # n "His babbling is bordering on intelligible, and I can barely process his words as all the pleasure fills my brain." 
+    n "Su balbuceo roza lo inteligible y apenas puedo procesar sus palabras mientras todo el placer llena mi cerebro." 
 
 # game/14 Nights With You/14nightswithyou.rpy:796
 translate Paloslios day3_wahooscene_80bd753e:
 
-    # n "All I can focus on is the way [ch_ren]'s cock drives into me as his desperate moans ghost along my skin." nointeract
-    n "Lo único en lo que puedo concentrarme es en la forma en que la polla de [ch_ren] se introduce en mí mientras sus gemidos desesperados recorren mi piel." nointeract
+    # n "All I can focus on is the way [ch_ren]'s cock drives into me as his desperate moans ghost along my skin." 
+    n "Lo único en lo que puedo concentrarme es en la forma en que la polla de [ch_ren] se introduce en mí mientras sus gemidos desesperados recorren mi piel." 
 
 # game/14 Nights With You/14nightswithyou.rpy:797
 translate Paloslios day3_wahooscene_d81c99ec:
 
-    # r "Only I get to be with you like this… O-Only I can bring you this much pleasure, right?" nointeract
-    r "Sólo yo puedo estar contigo así... S-Sólo yo puedo darte tanto placer, ¿verdad?" nointeract
+    # r "Only I get to be with you like this… O-Only I can bring you this much pleasure, right?" 
+    r "Sólo yo puedo estar contigo así... S-Sólo yo puedo darte tanto placer, ¿verdad?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:798
 translate Paloslios day3_wahooscene_d3919dd4:
 
-    # n "[ch_ren]'s free hand comes to play with my [bust] as his hips roughly buck against my own. The lewd sound of wet skin slapping skin fills the room, accompanied by his insistent ramblings." nointeract
-    n "La mano libre de [ch_ren] viene a jugar con mi [bust] mientras sus caderas se mueven bruscamente contra las mías. El sonido lascivo de la piel húmeda golpeando la piel llena la habitación, acompañado por sus insistentes divagaciones." nointeract
+    # n "[ch_ren]'s free hand comes to play with my [bust!t] as his hips roughly buck against my own. The lewd sound of wet skin slapping skin fills the room, accompanied by his insistent ramblings." 
+    n "La mano libre de [ch_ren] viene a jugar con mi [bust!t] mientras sus caderas se mueven bruscamente contra las mías. El sonido lascivo de la piel húmeda golpeando la piel llena la habitación, acompañado por sus insistentes divagaciones." 
 
 # game/14 Nights With You/14nightswithyou.rpy:799
 translate Paloslios day3_wahooscene_f89ef252:
 
-    # r "Only me? I'm the only one, aren't I? Tell me…! Ah— F-Fuck!" nointeract
-    r "¿Solo yo? Soy el único, ¿no? Dime…! Ah... ¡Mierda!" nointeract
+    # r "Only me? I'm the only one, aren't I? Tell me…! Ah— F-Fuck!" 
+    r "¿Solo yo? Soy el único, ¿no? Dime…! Ah... ¡Mierda!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:800
 translate Paloslios day3_wahooscene_c91f9e3d:
 
-    # r "Y'feel so good… Tell me, [ch_angel]—!" nointeract
-    r "Te sientes tan bien… ¡Dime, [ch_angel]—!" nointeract
+    # r "Y'feel so good… Tell me, [ch_angel]—!" 
+    r "Te sientes tan bien… ¡Dime, [ch_angel]—!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:801
 translate Paloslios day3_wahooscene_3978d693:
 
-    # n "His grip on my hand tightens and draws me back to the present. In my hazy state, I barely process his unintelligible mumbling before responding with a few words of my own." nointeract
-    n "Su agarre en mi mano se aprieta y me devuelve al presente. En mi estado de confusión, apenas proceso su murmullo ininteligible antes de responder con algunas palabras propias." nointeract
+    # n "His grip on my hand tightens and draws me back to the present. In my hazy state, I barely process his unintelligible mumbling before responding with a few words of my own." 
+    n "Su agarre en mi mano se aprieta y me devuelve al presente. En mi estado de confusión, apenas proceso su murmullo ininteligible antes de responder con algunas palabras propias." 
 
 # game/14 Nights With You/14nightswithyou.rpy:802
 translate Paloslios day3_wahooscene_dbbbbc45:
 
-    # n "My voice barely comes out louder than a whisper, though I was sure [ch_ren] would hear it, given his close proximity." nointeract
-    n "Mi voz apenas suena más fuerte que un susurro, aunque estaba seguro de que [ch_ren] la escucharía, dada su proximidad." nointeract
+    # n "My voice barely comes out louder than a whisper, though I was sure [ch_ren] would hear it, given his close proximity." 
+    n "Mi voz apenas suena más fuerte que un susurro, aunque estaba seguro de que [ch_ren] la escucharía, dada su proximidad." 
 
 # game/14 Nights With You/14nightswithyou.rpy:803
 translate Paloslios day3_wahooscene_db69612c:
 
-    # y "Only {i}you,{/i} [ch_ren]— Just you!" nointeract
-    y "Sólo {i}tú,{/i}[ch_ren]—¡Solo tú!" nointeract
+    # y "Only {i}you,{/i} [ch_ren]— Just you!" 
+    y "Sólo {i}tú,{/i}[ch_ren]—¡Solo tú!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:804
 translate Paloslios day3_wahooscene_827cd68c:
 
-    # n "I can hear him let out a laugh of relief before his mouth closes on my neck to gently nibble and suck." nointeract
-    n "Puedo oírlo soltar una risa de alivio antes de que su boca se cierre sobre mi cuello para mordisquear y chupar suavemente." nointeract
+    # n "I can hear him let out a laugh of relief before his mouth closes on my neck to gently nibble and suck." 
+    n "Puedo oírlo soltar una risa de alivio antes de que su boca se cierre sobre mi cuello para mordisquear y chupar suavemente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:808
 translate Paloslios day3_wahooscene_4a97f6ec:
 
-    # n "Leaving another hickey, no doubt — and had I not been getting fucked within an inch of my life — I would've fully noticed the possessive undertones of his actions." nointeract
-    n "Dejando otro chupetón, sin duda, y si no me hubieran jodido a un centímetro de mi vida, habría notado plenamente el trasfondo posesivo de sus acciones." nointeract
+    # n "Leaving another hickey, no doubt — and had I not been getting fucked within an inch of my life — I would've fully noticed the possessive undertones of his actions." 
+    n "Dejando otro chupetón, sin duda, y si no me hubieran jodido a un centímetro de mi vida, habría notado plenamente el trasfondo posesivo de sus acciones." 
 
 # game/14 Nights With You/14nightswithyou.rpy:809
 translate Paloslios day3_wahooscene_939ca821:
 
-    # r "That's right. Only me. Just like you're the only one f'me, too." nointeract
-    r "Así es. Sólo yo. Al igual que tú también eres el único para mí." nointeract
+    # r "That's right. Only me. Just like you're the only one f'me, too." 
+    r "Así es. Sólo yo. Al igual que tú también eres el único para mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:810
 translate Paloslios day3_wahooscene_6d0fdd73:
 
-    # r "No one— No one can ever replace you—!" nointeract
-    r "¡Nadie... nadie podrá reemplazarte jamás!" nointeract
+    # r "No one— No one can ever replace you—!" 
+    r "¡Nadie... nadie podrá reemplazarte jamás!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:811
 translate Paloslios day3_wahooscene_c0e7a082:
 
-    # r "Here… Let me reward you for being so honest." nointeract
-    r "Toma... Déjame recompensarte por ser tan honesto." nointeract
+    # r "Here… Let me reward you for being so honest." 
+    r "Toma... Déjame recompensarte por ser tan honesto." 
 
 # game/14 Nights With You/14nightswithyou.rpy:815
 translate Paloslios day3_wahooscene_b2d31b13:
 
-    # n "Before I can respond, [ch_ren] effortlessly lifts my hips off the couch and {b}fully{/b} sheaths himself inside of me. He sets a brutal pace now, and all I could do was latch onto the throw pillows above my head and let him pound into me." nointeract
-    n "Antes de que pueda responder, [ch_ren] levanta sin esfuerzo mis caderas del sofá y {b}completamente{/b} se enfunda dentro de mí. Él marca un ritmo brutal ahora, y todo lo que pude hacer fue agarrarme a los cojines sobre mi cabeza y dejar que me golpeara." nointeract
+    # n "Before I can respond, [ch_ren] effortlessly lifts my hips off the couch and {b}fully{/b} sheaths himself inside of me. He sets a brutal pace now, and all I could do was latch onto the throw pillows above my head and let him pound into me." 
+    n "Antes de que pueda responder, [ch_ren] levanta sin esfuerzo mis caderas del sofá y {b}completamente{/b} se enfunda dentro de mí. Él marca un ritmo brutal ahora, y todo lo que pude hacer fue agarrarme a los cojines sobre mi cabeza y dejar que me golpeara." 
 
 # game/14 Nights With You/14nightswithyou.rpy:816
 translate Paloslios day3_wahooscene_8a858920:
 
-    # r "No one else could ever compare to you…" nointeract
-    r "Nadie más podría compararse contigo..." nointeract
+    # r "No one else could ever compare to you…" 
+    r "Nadie más podría compararse contigo..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:817
 translate Paloslios day3_wahooscene_09365d99:
 
-    # r "Y'feel so good too, squeezing my cock like that." nointeract
-    r "Tú también te sientes muy bien apretando mi polla así." nointeract
+    # r "Y'feel so good too, squeezing my cock like that." 
+    r "Tú también te sientes muy bien apretando mi polla así." 
 
 # game/14 Nights With You/14nightswithyou.rpy:818
 translate Paloslios day3_wahooscene_8546c2cd:
 
-    # n "My legs get thrown over his shoulders, and the new position has me seeing stars." nointeract
-    n "Mis piernas pasan sobre sus hombros y la nueva posición me hace ver estrellas." nointeract
+    # n "My legs get thrown over his shoulders, and the new position has me seeing stars." 
+    n "Mis piernas pasan sobre sus hombros y la nueva posición me hace ver estrellas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:819
 translate Paloslios day3_wahooscene_0b021d4b:
 
-    # n "I can feel [ch_ren]'s cock drag against my walls, and once his swollen tip hits that particular spot inside me, I can't help but cry out and dig my nails into his arms." nointeract
-    n "Puedo sentir la polla de [ch_ren] arrastrándose contra mis paredes, y una vez que su punta hinchada golpea ese punto particular dentro de mí, no puedo evitar gritar y clavar mis uñas en sus brazos." nointeract
+    # n "I can feel [ch_ren]'s cock drag against my walls, and once his swollen tip hits that particular spot inside me, I can't help but cry out and dig my nails into his arms." 
+    n "Puedo sentir la polla de [ch_ren] arrastrándose contra mis paredes, y una vez que su punta hinchada golpea ese punto particular dentro de mí, no puedo evitar gritar y clavar mis uñas en sus brazos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:820
 translate Paloslios day3_wahooscene_bc83d18c:
 
-    # n "Pleasure starts to build inside me, and I cast my dignity aside in favour of bucking my hips back in time to meet [ch_ren]'s." nointeract
-    n "El placer comienza a acumularse dentro de mí y dejo a un lado mi dignidad para mover mis caderas hacia atrás en el tiempo para encontrarme con las de [ch_ren]." nointeract
+    # n "Pleasure starts to build inside me, and I cast my dignity aside in favour of bucking my hips back in time to meet [ch_ren]'s." 
+    n "El placer comienza a acumularse dentro de mí y dejo a un lado mi dignidad para mover mis caderas hacia atrás en el tiempo para encontrarme con las de [ch_ren]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:821
 translate Paloslios day3_wahooscene_73097b97:
 
-    # r "That's it, keep grinding against me like that." nointeract
-    r "Eso es todo, sigue molestándome así." nointeract
+    # r "That's it, keep grinding against me like that." 
+    r "Eso es todo, sigue molestándome así." 
 
 # game/14 Nights With You/14nightswithyou.rpy:822
 translate Paloslios day3_wahooscene_1f9f97b6:
 
-    # r "You're doing so well. {i}So good{/i} for me." nointeract
-    r "Lo estás haciendo muy bien. {i}Muy bien{/i} para mí." nointeract
+    # r "You're doing so well. {i}So good{/i} for me." 
+    r "Lo estás haciendo muy bien. {i}Muy bien{/i} para mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:823
 translate Paloslios day3_wahooscene_8111ae65:
 
-    # n "His praise only spurs me on, and if I could see his face right now, I know it would be scrunched up in pleasure." nointeract
-    n "Sus elogios sólo me estimulan, y si pudiera ver su rostro ahora mismo, sé que estaría arrugado de placer." nointeract
+    # n "His praise only spurs me on, and if I could see his face right now, I know it would be scrunched up in pleasure." 
+    n "Sus elogios sólo me estimulan, y si pudiera ver su rostro ahora mismo, sé que estaría arrugado de placer." 
 
 # game/14 Nights With You/14nightswithyou.rpy:827
 translate Paloslios day3_wahooscene_d87518aa:
 
-    # n "[ch_ren]'s voice does little to hide his desire and hunger for me, and he makes it known by bullying his dick into me with reckless abandon." nointeract
-    n "La voz de [ch_ren] hace poco para ocultar su deseo y hambre por mí, y lo hace saber introduciendo su polla dentro de mí con imprudente abandono." nointeract
+    # n "[ch_ren]'s voice does little to hide his desire and hunger for me, and he makes it known by bullying his dick into me with reckless abandon." 
+    n "La voz de [ch_ren] hace poco para ocultar su deseo y hambre por mí, y lo hace saber introduciendo su polla dentro de mí con imprudente abandono." 
 
 # game/14 Nights With You/14nightswithyou.rpy:828
 translate Paloslios day3_wahooscene_5f789b7f:
 
-    # r "You won't do this with anyone else, right? Only me?" nointeract
-    r "No harás esto con nadie más, ¿verdad? ¿Solo yo?" nointeract
+    # r "You won't do this with anyone else, right? Only me?" 
+    r "No harás esto con nadie más, ¿verdad? ¿Solo yo?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:829
 translate Paloslios day3_wahooscene_331ef30f:
 
-    # r "You'll come to me for this kind of stuff, won't you, Angel?" nointeract
-    r "Vendrás a mí para este tipo de cosas, ¿verdad, Ángel?" nointeract
+    # r "You'll come to me for this kind of stuff, won't you, Angel?" 
+    r "Vendrás a mí para este tipo de cosas, ¿verdad, Ángel?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:830
 translate Paloslios day3_wahooscene_554b9d37:
 
-    # n "His voice is right beside my ear now, and it sends a shiver up my spine. His tongue soon darts across my skin, creating a wet path from the shell of my ear down to my neck." nointeract
-    n "Su voz está justo al lado de mi oído ahora, y me envía un escalofrío por la espalda. Su lengua pronto recorre mi piel, creando un camino húmedo desde el caparazón de mi oreja hasta mi cuello." nointeract
+    # n "His voice is right beside my ear now, and it sends a shiver up my spine. His tongue soon darts across my skin, creating a wet path from the shell of my ear down to my neck." 
+    n "Su voz está justo al lado de mi oído ahora, y me envía un escalofrío por la espalda. Su lengua pronto recorre mi piel, creando un camino húmedo desde el caparazón de mi oreja hasta mi cuello." 
 
 # game/14 Nights With You/14nightswithyou.rpy:831
 translate Paloslios day3_wahooscene_4349d320:
 
-    # n "He gently bites down then, drawing another moan from my lips and sending my head spinning. It's slowly becoming too much for me to handle, and I can tell [ch_ren] is enjoying every second of it." nointeract
-    n "Luego muerde suavemente, provocando otro gemido de mis labios y haciendo que mi cabeza dé vueltas. Poco a poco se está volviendo demasiado para mí y puedo decir que [ch_ren] está disfrutando cada segundo." nointeract
+    # n "He gently bites down then, drawing another moan from my lips and sending my head spinning. It's slowly becoming too much for me to handle, and I can tell [ch_ren] is enjoying every second of it." 
+    n "Luego muerde suavemente, provocando otro gemido de mis labios y haciendo que mi cabeza dé vueltas. Poco a poco se está volviendo demasiado para mí y puedo decir que [ch_ren] está disfrutando cada segundo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:835
 translate Paloslios day3_wahooscene_7938be66:
 
-    # r "Nobody else will fuck you as good as I can." nointeract
-    r "Nadie más te follará tan bien como yo." nointeract
+    # r "Nobody else will fuck you as good as I can." 
+    r "Nadie más te follará tan bien como yo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:836
 translate Paloslios day3_wahooscene_9621fce7:
 
-    # r "Try as much as you want, but it's {i}my{/i} cock that your [hole] will crave." nointeract
-    r "Prueba todo lo que quieras, pero es {i}mi{/i} polla la que tu [hole] anhelará." nointeract
+    # r "Try as much as you want, but it's {i}my{/i} cock that your [hole!t] will crave." 
+    r "Prueba todo lo que quieras, pero es {i}mi{/i} polla la que tu [hole!t] anhelará." 
 
 # game/14 Nights With You/14nightswithyou.rpy:837
 translate Paloslios day3_wahooscene_e375e4d8:
 
-    # r "Nobody else will fill you up like I can. No one can stretch you full like me." nointeract
-    r "Nadie más te llenará como yo puedo. Nadie puede estirarte tanto como yo." nointeract
+    # r "Nobody else will fill you up like I can. No one can stretch you full like me." 
+    r "Nadie más te llenará como yo puedo. Nadie puede estirarte tanto como yo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:838
 translate Paloslios day3_wahooscene_c3b6dfb0:
 
-    # r "I'll make you remember it." nointeract
-    r "Te haré recordarlo." nointeract
+    # r "I'll make you remember it." 
+    r "Te haré recordarlo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:839
 translate Paloslios day3_wahooscene_4da40ea9:
 
-    # n "The lewd sounds coming between our bodies are bordering on {b}obscene{/b} at this point, yet [ch_ren] only seems to add fuel to the fire by softly moaning into my sweaty skin and pressing my back further into the plushness of the couch." nointeract
-    n "Los sonidos lascivos que surgen entre nuestros cuerpos están al borde de lo {b}obsceno{/b} en este punto, sin embargo, [ch_ren] solo parece agregar más leña al fuego al gemir suavemente en mi piel sudorosa y presionar mi espalda más contra la felpa del sofá." nointeract
+    # n "The lewd sounds coming between our bodies are bordering on {b}obscene{/b} at this point, yet [ch_ren] only seems to add fuel to the fire by softly moaning into my sweaty skin and pressing my back further into the plushness of the couch." 
+    n "Los sonidos lascivos que surgen entre nuestros cuerpos están al borde de lo {b}obsceno{/b} en este punto, sin embargo, [ch_ren] solo parece agregar más leña al fuego al gemir suavemente en mi piel sudorosa y presionar mi espalda más contra la felpa del sofá." 
 
 # game/14 Nights With You/14nightswithyou.rpy:844
 translate Paloslios day3_wahooscene_3f3a35c8:
 
-    # n "His length is going deeper than ever now, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — moves one of his hands from the back of my knee and rubs circles against my clit instead." nointeract
-    n "Su longitud es cada vez más profunda que nunca, y echo la cabeza hacia atrás en éxtasis. Y [ch_ren], siempre atento a mis necesidades, mueve una de sus manos desde la parte posterior de mi rodilla y en su lugar frota círculos contra mi clítoris." nointeract
+    # n "His length is going deeper than ever now, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — moves one of his hands from the back of my knee and rubs circles against my clit instead." 
+    n "Su longitud es cada vez más profunda que nunca, y echo la cabeza hacia atrás en éxtasis. Y [ch_ren], siempre atento a mis necesidades, mueve una de sus manos desde la parte posterior de mi rodilla y en su lugar frota círculos contra mi clítoris." 
 
 # game/14 Nights With You/14nightswithyou.rpy:846
 translate Paloslios day3_wahooscene_634254fb:
 
-    # n "His length is going deeper than ever now, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — moves one of his hands from the back of my knee and circles around the tip of my weeping cock." nointeract
-    n "Su longitud es cada vez más profunda que nunca, y echo la cabeza hacia atrás en éxtasis. Y [ch_ren], siempre atento a mis necesidades, mueve una de sus manos desde la parte posterior de mi rodilla y rodea la punta de mi polla llorosa." nointeract
+    # n "His length is going deeper than ever now, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — moves one of his hands from the back of my knee and circles around the tip of my weeping cock." 
+    n "Su longitud es cada vez más profunda que nunca, y echo la cabeza hacia atrás en éxtasis. Y [ch_ren], siempre atento a mis necesidades, mueve una de sus manos desde la parte posterior de mi rodilla y rodea la punta de mi polla llorosa." 
 
 # game/14 Nights With You/14nightswithyou.rpy:848
 translate Paloslios day3_wahooscene_239bbb17:
 
-    # n "His length is going deeper than ever now, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — moves one of his hands from the back of my knee and between our bodies to stimulate me down there instead." nointeract
-    n "Su longitud es cada vez más profunda que nunca, y echo la cabeza hacia atrás en éxtasis. Y [ch_ren], siempre atento a mis necesidades, mueve una de sus manos desde la parte posterior de mi rodilla y entre nuestros cuerpos para estimularme allí abajo." nointeract
+    # n "His length is going deeper than ever now, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — moves one of his hands from the back of my knee and between our bodies to stimulate me down there instead." 
+    n "Su longitud es cada vez más profunda que nunca, y echo la cabeza hacia atrás en éxtasis. Y [ch_ren], siempre atento a mis necesidades, mueve una de sus manos desde la parte posterior de mi rodilla y entre nuestros cuerpos para estimularme allí abajo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:849
 translate Paloslios day3_wahooscene_b2b47c53:
 
-    # n "Tears form in the corner of my eyes from all the stimulation and heightened pleasure, but [ch_ren]'s white turtleneck absorbs it all." nointeract
-    n "Se forman lágrimas en el rabillo de mis ojos por toda la estimulación y el mayor placer, pero el jersey de cuello alto blanco de [ch_ren] lo absorbe todo." nointeract
+    # n "Tears form in the corner of my eyes from all the stimulation and heightened pleasure, but [ch_ren]'s white turtleneck absorbs it all." 
+    n "Se forman lágrimas en el rabillo de mis ojos por toda la estimulación y el mayor placer, pero el jersey de cuello alto blanco de [ch_ren] lo absorbe todo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:850
 translate Paloslios day3_wahooscene_6fa19eea:
 
-    # n "I had half a mind to remove it from my face and glance down at the mess [ch_ren] was creating between our bodies, but I knew better than to do that." nointeract
-    n "Tenía la intención de quitármelo de la cara y mirar el desorden que [ch_ren] estaba creando entre nuestros cuerpos, pero sabía que no debía hacerlo." nointeract
+    # n "I had half a mind to remove it from my face and glance down at the mess [ch_ren] was creating between our bodies, but I knew better than to do that." 
+    n "Tenía la intención de quitármelo de la cara y mirar el desorden que [ch_ren] estaba creando entre nuestros cuerpos, pero sabía que no debía hacerlo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:851
 translate Paloslios day3_wahooscene_5aa54dea:
 
-    # n "If he was making me feel this good all because I was listening to his instructions, then who was I to go against him?" nointeract
-    n "Si él me hacía sentir tan bien porque escuchaba sus instrucciones, entonces ¿quién era yo para ir en su contra?" nointeract
+    # n "If he was making me feel this good all because I was listening to his instructions, then who was I to go against him?" 
+    n "Si él me hacía sentir tan bien porque escuchaba sus instrucciones, entonces ¿quién era yo para ir en su contra?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:852
 translate Paloslios day3_wahooscene_618ebed3:
 
-    # r "Are you going to cum, Angel? I want to feel it. Only I get t'feel it." nointeract
-    r "¿Te vas a correr, Ángel? Quiero sentirlo. Sólo yo puedo sentirlo." nointeract
+    # r "Are you going to cum, Angel? I want to feel it. Only I get t'feel it." 
+    r "¿Te vas a correr, Ángel? Quiero sentirlo. Sólo yo puedo sentirlo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:853
 translate Paloslios day3_wahooscene_a379969f:
 
-    # y "Yes! O-Only you!" nointeract
-    y "¡Sí! ¡Solo tú!" nointeract
+    # y "Yes! O-Only you!" 
+    y "¡Sí! ¡Solo tú!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:854
 translate Paloslios day3_wahooscene_e182f562:
 
-    # n "I wasn't sure what I was saying at this point. I was too overwhelmed with how good [ch_ren] felt to care though, so I greedily buck my hips to get more." nointeract
-    n "No estaba seguro de lo que estaba diciendo en este momento. Estaba demasiado abrumado por lo bien que se sentía [ch_ren] como para preocuparme, así que con avidez moví mis caderas para conseguir más." nointeract
+    # n "I wasn't sure what I was saying at this point. I was too overwhelmed with how good [ch_ren] felt to care though, so I greedily buck my hips to get more." 
+    n "No estaba seguro de lo que estaba diciendo en este momento. Estaba demasiado abrumado por lo bien que se sentía [ch_ren] como para preocuparme, así que con avidez moví mis caderas para conseguir más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:855
 translate Paloslios day3_wahooscene_cad1905a:
 
-    # n "He willingly obliges, leaning down once more to press his mouth against mine in a heated kiss as his free hand roams my body." nointeract
-    n "Él accede de buena gana, inclinándose una vez más para presionar su boca contra la mía en un beso acalorado mientras su mano libre recorre mi cuerpo." nointeract
+    # n "He willingly obliges, leaning down once more to press his mouth against mine in a heated kiss as his free hand roams my body." 
+    n "Él accede de buena gana, inclinándose una vez más para presionar su boca contra la mía en un beso acalorado mientras su mano libre recorre mi cuerpo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:856
 translate Paloslios day3_wahooscene_d079b009:
 
-    # n "[ch_ren]'s tongue gently prods my lips open, before he deepens the kiss and explores the rest of my body with his fingers." nointeract
-    n "La lengua de [ch_ren] empuja suavemente mis labios para abrirlos, antes de profundizar el beso y explorar el resto de mi cuerpo con sus dedos." nointeract
+    # n "[ch_ren]'s tongue gently prods my lips open, before he deepens the kiss and explores the rest of my body with his fingers." 
+    n "La lengua de [ch_ren] empuja suavemente mis labios para abrirlos, antes de profundizar el beso y explorar el resto de mi cuerpo con sus dedos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:857
 translate Paloslios day3_wahooscene_430e88cf:
 
-    # n "Not an inch of my skin was going untouched or unloved by him, and I was loving every second of it." nointeract
-    n "Ni un centímetro de mi piel quedaba sin tocar o sin ser amado por él, y amaba cada segundo de ello." nointeract
+    # n "Not an inch of my skin was going untouched or unloved by him, and I was loving every second of it." 
+    n "Ni un centímetro de mi piel quedaba sin tocar o sin ser amado por él, y amaba cada segundo de ello." 
 
 # game/14 Nights With You/14nightswithyou.rpy:858
 translate Paloslios day3_wahooscene_bd0224e4:
 
-    # n "One thrust in particular knocks the breath out of me — and from that alone — [ch_ren] was able to tell that I was nearing my end." nointeract
-    n "Un empujón en particular me deja sin aliento, y solo por eso, [ch_ren] pudo decir que me estaba acercando a mi fin." nointeract
+    # n "One thrust in particular knocks the breath out of me — and from that alone — [ch_ren] was able to tell that I was nearing my end." 
+    n "Un empujón en particular me deja sin aliento, y solo por eso, [ch_ren] pudo decir que me estaba acercando a mi fin." 
 
 # game/14 Nights With You/14nightswithyou.rpy:863
 translate Paloslios day3_wahooscene_d8570c70:
 
-    # r "That's it. Give it to me. Be good f'me and come on my cock." nointeract
-    r "Eso es todo. Dámelo. Sé bueno conmigo y ven a mi polla." nointeract
+    # r "That's it. Give it to me. Be good f'me and come on my cock." 
+    r "Eso es todo. Dámelo. Sé bueno conmigo y ven a mi polla." 
 
 # game/14 Nights With You/14nightswithyou.rpy:865
 translate Paloslios day3_wahooscene_9a7738e1:
 
-    # r "That's it. Give it to me. Be a good [baby] and come on my cock." nointeract
-    r "Eso es todo. Dámelo. Sé un buen [baby] y ven a mi polla." nointeract
+    # r "That's it. Give it to me. Be a good [baby!t] and come on my cock." 
+    r "Eso es todo. Dámelo. Sé un buen [baby!t] y ven a mi polla." 
 
 # game/14 Nights With You/14nightswithyou.rpy:866
 translate Paloslios day3_wahooscene_c8df3c53:
 
-    # r "Y-You own it, don't you? Prove it. Show me who this cock belongs to." nointeract
-    r "T-eres dueño, ¿no? Pruébalo. Muéstrame a quién pertenece esta polla." nointeract
+    # r "Y-You own it, don't you? Prove it. Show me who this cock belongs to." 
+    r "T-eres dueño, ¿no? Pruébalo. Muéstrame a quién pertenece esta polla." 
 
 # game/14 Nights With You/14nightswithyou.rpy:867
 translate Paloslios day3_wahooscene_07c1b1a8:
 
-    # n "His words go straight to my core, and I do as he says, wanting nothing more than to please him. And with a few more deep thrusts, [ch_ren] has me tumbling off the edge and into a bottomless pit of pleasure." nointeract
-    n "Sus palabras van directas a mi corazón y hago lo que dice, sin querer nada más que complacerlo. Y con unas cuantas embestidas más profundas, [ch_ren] me hace caer por el borde y caer en un pozo sin fondo de placer." nointeract
+    # n "His words go straight to my core, and I do as he says, wanting nothing more than to please him. And with a few more deep thrusts, [ch_ren] has me tumbling off the edge and into a bottomless pit of pleasure." 
+    n "Sus palabras van directas a mi corazón y hago lo que dice, sin querer nada más que complacerlo. Y con unas cuantas embestidas más profundas, [ch_ren] me hace caer por el borde y caer en un pozo sin fondo de placer." 
 
 # game/14 Nights With You/14nightswithyou.rpy:868
 translate Paloslios day3_wahooscene_00140b00:
 
-    # n "Even though I'm still blindfolded, I see white spots in my vision as my toes curl and my hands grab onto any part of [ch_ren] they can reach." nointeract
-    n "Aunque todavía tengo los ojos vendados, veo puntos blancos en mi visión mientras los dedos de mis pies se curvan y mis manos se agarran a cualquier parte de [ch_ren] que puedan alcanzar." nointeract
+    # n "Even though I'm still blindfolded, I see white spots in my vision as my toes curl and my hands grab onto any part of [ch_ren] they can reach." 
+    n "Aunque todavía tengo los ojos vendados, veo puntos blancos en mi visión mientras los dedos de mis pies se curvan y mis manos se agarran a cualquier parte de [ch_ren] que puedan alcanzar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:873
 translate Paloslios day3_wahooscene_ec38d5f7:
 
-    # n "Something rough and textured brushes against my fingertips, but I pay it no mind as I come all over his length buried deep inside me." nointeract
-    n "Algo áspero y con textura roza las yemas de mis dedos, pero no le presto atención mientras me corro por toda su longitud enterrada profundamente dentro de mí." nointeract
+    # n "Something rough and textured brushes against my fingertips, but I pay it no mind as I come all over his length buried deep inside me." 
+    n "Algo áspero y con textura roza las yemas de mis dedos, pero no le presto atención mientras me corro por toda su longitud enterrada profundamente dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:875
 translate Paloslios day3_wahooscene_a95b3981:
 
-    # n "Something rough and textured brushes against my fingertips, but I pay it no mind as I come all over his abdomen." nointeract
-    n "Algo áspero y con textura roza las yemas de mis dedos, pero no le presto atención mientras me corro por todo su abdomen." nointeract
+    # n "Something rough and textured brushes against my fingertips, but I pay it no mind as I come all over his abdomen." 
+    n "Algo áspero y con textura roza las yemas de mis dedos, pero no le presto atención mientras me corro por todo su abdomen." 
 
 # game/14 Nights With You/14nightswithyou.rpy:877
 translate Paloslios day3_wahooscene_c5d05150:
 
-    # n "Something rough and textured brushes against my fingertips, but I pay it no mind as I clench around his length and come." nointeract
-    n "Algo áspero y con textura roza mis yemas de los dedos, pero no le presto atención mientras aprieto su longitud y me corro." nointeract
+    # n "Something rough and textured brushes against my fingertips, but I pay it no mind as I clench around his length and come." 
+    n "Algo áspero y con textura roza mis yemas de los dedos, pero no le presto atención mientras aprieto su longitud y me corro." 
 
 # game/14 Nights With You/14nightswithyou.rpy:878
 translate Paloslios day3_wahooscene_8931bc88:
 
-    # n "[ch_ren] seems to have other plans, though, as his hips start to stutter — and before I know it, his strained voice is whimpering into my neck once more as he spills himself inside of me." nointeract
-    n "Sin embargo, [ch_ren] parece tener otros planes, ya que sus caderas comienzan a tartamudear y, antes de que me dé cuenta, su voz tensa gime en mi cuello una vez más mientras se derrama dentro de mí." nointeract
+    # n "[ch_ren] seems to have other plans, though, as his hips start to stutter — and before I know it, his strained voice is whimpering into my neck once more as he spills himself inside of me." 
+    n "Sin embargo, [ch_ren] parece tener otros planes, ya que sus caderas comienzan a tartamudear y, antes de que me dé cuenta, su voz tensa gime en mi cuello una vez más mientras se derrama dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:879
 translate Paloslios day3_wahooscene_21ca34ee:
 
-    # r "Hah~ A-Angel, I— Ngh!" nointeract
-    r "Ja ~ A-Ángel, yo— ¡Ngh!" nointeract
+    # r "Hah~ A-Angel, I— Ngh!" 
+    r "Ja ~ A-Ángel, yo— ¡Ngh!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:880
 translate Paloslios day3_wahooscene_9f53b497:
 
-    # n "[ch_ren] pulls my body impossibly close to his own and simply holds me there while he tries to catch his breath." nointeract
-    n "[ch_ren] acerca mi cuerpo increíblemente al suyo y simplemente me mantiene allí mientras intenta recuperar el aliento." nointeract
+    # n "[ch_ren] pulls my body impossibly close to his own and simply holds me there while he tries to catch his breath." 
+    n "[ch_ren] acerca mi cuerpo increíblemente al suyo y simplemente me mantiene allí mientras intenta recuperar el aliento." 
 
 # game/14 Nights With You/14nightswithyou.rpy:885
 translate Paloslios day3_wahooscene_be491ade:
 
-    # n "He doesn't seem to pull out anytime soon though — and much like last time — [ch_ren] remains balls deep inside me as we both melt into the couch." nointeract
-    n "Sin embargo, no parece salir pronto, y al igual que la última vez, [ch_ren] permanece profundamente dentro de mí mientras ambos nos derretimos en el sofá." nointeract
+    # n "He doesn't seem to pull out anytime soon though — and much like last time — [ch_ren] remains balls deep inside me as we both melt into the couch." 
+    n "Sin embargo, no parece salir pronto, y al igual que la última vez, [ch_ren] permanece profundamente dentro de mí mientras ambos nos derretimos en el sofá." 
 
 # game/14 Nights With You/14nightswithyou.rpy:890
 translate Paloslios day3_wahooscene_cef2d28d:
 
-    # n "He doesn't seem to detach himself from me though, so we both remain as close as possible while [ch_ren] pulls me closer into the couch." nointeract
-    n "Sin embargo, él no parece separarse de mí, así que ambos permanecemos lo más cerca posible mientras [ch_ren] me acerca al sofá." nointeract
+    # n "He doesn't seem to detach himself from me though, so we both remain as close as possible while [ch_ren] pulls me closer into the couch." 
+    n "Sin embargo, él no parece separarse de mí, así que ambos permanecemos lo más cerca posible mientras [ch_ren] me acerca al sofá." 
 
 # game/14 Nights With You/14nightswithyou.rpy:891
 translate Paloslios day3_wahooscene_62fefa55:
 
-    # y "…You're heavy." nointeract
-    y "… Eres pesado." nointeract
+    # y "…You're heavy." 
+    y "… Eres pesado." 
 
 # game/14 Nights With You/14nightswithyou.rpy:892
 translate Paloslios day3_wahooscene_b4fc33de:
 
-    # n "My voice comes out hoarse, and I attempt to swat [ch_ren]'s back in hopes of getting him off of me." nointeract
-    n "Mi voz sale ronca e intento golpearle la espalda a [ch_ren] con la esperanza de quitárselo de encima." nointeract
+    # n "My voice comes out hoarse, and I attempt to swat [ch_ren]'s back in hopes of getting him off of me." 
+    n "Mi voz sale ronca e intento golpearle la espalda a [ch_ren] con la esperanza de quitárselo de encima." 
 
 # game/14 Nights With You/14nightswithyou.rpy:893
 translate Paloslios day3_wahooscene_cd34b433:
 
-    # n "But instead, he languidly rolls to the side and pulls me with him." nointeract
-    n "Pero en cambio, lánguidamente rueda hacia un lado y me arrastra con él." nointeract
+    # n "But instead, he languidly rolls to the side and pulls me with him." 
+    n "Pero en cambio, lánguidamente rueda hacia un lado y me arrastra con él." 
 
 # game/14 Nights With You/14nightswithyou.rpy:894
 translate Paloslios day3_wahooscene_bd1dba1b:
 
-    # r "'N you're warm…" nointeract
-    r "'N estás caliente..." nointeract
+    # r "'N you're warm…" 
+    r "'N estás caliente..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:895
 translate Paloslios day3_wahooscene_18d531d8:
 
-    # n "I would've rolled my eyes at his retort if I wasn't still so dazed. But my eyes were still covered, and I barely had any strength left to move his sweater from my face." nointeract
-    n "Habría puesto los ojos en blanco ante su respuesta si no estuviera todavía tan aturdida. Pero mis ojos todavía estaban cubiertos y apenas me quedaban fuerzas para quitar su suéter de mi cara." nointeract
+    # n "I would've rolled my eyes at his retort if I wasn't still so dazed. But my eyes were still covered, and I barely had any strength left to move his sweater from my face." 
+    n "Habría puesto los ojos en blanco ante su respuesta si no estuviera todavía tan aturdida. Pero mis ojos todavía estaban cubiertos y apenas me quedaban fuerzas para quitar su suéter de mi cara." 
 
 # game/14 Nights With You/14nightswithyou.rpy:896
 translate Paloslios day3_wahooscene_1d18410d:
 
-    # n "[ch_ren] seems to pick up on this though (or perhaps he suddenly remembered), because I feel his body shift against mine before his warmth is replaced by my apartment's cold air." nointeract
-    n "Sin embargo, [ch_ren] parece darse cuenta de esto (o tal vez lo recordó de repente), porque siento su cuerpo moverse contra el mío antes de que su calor sea reemplazado por el aire frío de mi apartamento." nointeract
+    # n "[ch_ren] seems to pick up on this though (or perhaps he suddenly remembered), because I feel his body shift against mine before his warmth is replaced by my apartment's cold air." 
+    n "Sin embargo, [ch_ren] parece darse cuenta de esto (o tal vez lo recordó de repente), porque siento su cuerpo moverse contra el mío antes de que su calor sea reemplazado por el aire frío de mi apartamento." 
 
 # game/14 Nights With You/14nightswithyou.rpy:897
 translate Paloslios day3_wahooscene_e4caa25b:
 
-    # n "His fingers trace the side of my jaw before running over my lip, and I resist the urge to playfully lick them." nointeract
-    n "Sus dedos trazan el costado de mi mandíbula antes de pasar por mi labio, y resisto la tentación de lamerlos juguetonamente." nointeract
+    # n "His fingers trace the side of my jaw before running over my lip, and I resist the urge to playfully lick them." 
+    n "Sus dedos trazan el costado de mi mandíbula antes de pasar por mi labio, y resisto la tentación de lamerlos juguetonamente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:898
 translate Paloslios day3_wahooscene_74576146:
 
-    # n "All too soon, [ch_ren] moves towards the knot of his turtleneck — but before he removes it, I feel his lips press against mine once more." nointeract
-    n "Demasiado pronto, [ch_ren] se acerca al nudo de su jersey de cuello alto, pero antes de que se lo quite, siento sus labios presionar contra los míos una vez más." nointeract
+    # n "All too soon, [ch_ren] moves towards the knot of his turtleneck — but before he removes it, I feel his lips press against mine once more." 
+    n "Demasiado pronto, [ch_ren] se acerca al nudo de su jersey de cuello alto, pero antes de que se lo quite, siento sus labios presionar contra los míos una vez más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:899
 translate Paloslios day3_wahooscene_a05d4791:
 
-    # r "I'm gonna take this off now, Angel, but keep your eyes closed for a little longer." nointeract
-    r "Me voy a quitar esto ahora, Ángel, pero mantén los ojos cerrados un poco más." nointeract
+    # r "I'm gonna take this off now, Angel, but keep your eyes closed for a little longer." 
+    r "Me voy a quitar esto ahora, Ángel, pero mantén los ojos cerrados un poco más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:900
 translate Paloslios day3_wahooscene_feaa56ae:
 
-    # n "I give him a nod, and after a beat of silence, I feel him slowly lift the fabric from my face." nointeract
-    n "Asiento con la cabeza y, después de un momento de silencio, siento que levanta lentamente la tela de mi cara." nointeract
+    # n "I give him a nod, and after a beat of silence, I feel him slowly lift the fabric from my face." 
+    n "Asiento con la cabeza y, después de un momento de silencio, siento que levanta lentamente la tela de mi cara." 
 
 # game/14 Nights With You/14nightswithyou.rpy:901
 translate Paloslios day3_wahooscene_09d45e88:
 
-    # n "Even with my eyes still squeezed tight, my surroundings somehow became brighter now that nothing was obscuring it." nointeract
-    n "Incluso con mis ojos todavía apretados, mi entorno de alguna manera se volvió más brillante ahora que nada lo oscurecía." nointeract
+    # n "Even with my eyes still squeezed tight, my surroundings somehow became brighter now that nothing was obscuring it." 
+    n "Incluso con mis ojos todavía apretados, mi entorno de alguna manera se volvió más brillante ahora que nada lo oscurecía." 
 
 # game/14 Nights With You/14nightswithyou.rpy:902
 translate Paloslios day3_wahooscene_525aed92:
 
-    # n "I can hear the sound of fabric moving as [ch_ren] shifts from his spot below me. And before I can protest, his {b}now-clothed{/b} body returns to me once more." nointeract
-    n "Puedo escuchar el sonido de la tela moviéndose mientras [ch_ren] se mueve de su lugar debajo de mí. Y antes de que pueda protestar, su cuerpo {b}ahora vestido{/b} regresa a mí una vez más." nointeract
+    # n "I can hear the sound of fabric moving as [ch_ren] shifts from his spot below me. And before I can protest, his {b}now-clothed{/b} body returns to me once more." 
+    n "Puedo escuchar el sonido de la tela moviéndose mientras [ch_ren] se mueve de su lugar debajo de mí. Y antes de que pueda protestar, su cuerpo {b}ahora vestido{/b} regresa a mí una vez más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:903
 translate Paloslios day3_wahooscene_42e1edd4:
 
-    # r "Kay, you can open 'em now." nointeract
-    r "Kay, puedes abrirlos ahora." nointeract
+    # r "Kay, you can open 'em now." 
+    r "Kay, puedes abrirlos ahora." 
 
 # game/14 Nights With You/14nightswithyou.rpy:904
 translate Paloslios day3_wahooscene_75398947:
 
-    # n "Slowly blinking my eyes open, I let them adjust to the newfound brightness." nointeract
-    n "Parpadeando lentamente para abrir los ojos, dejé que se adaptaran al nuevo brillo." nointeract
+    # n "Slowly blinking my eyes open, I let them adjust to the newfound brightness." 
+    n "Parpadeando lentamente para abrir los ojos, dejé que se adaptaran al nuevo brillo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:909
 translate Paloslios day3_wahooscene_bc03d25f:
 
-    # n "But rather than the bleak whiteness of my ceiling, all I can see is [ch_ren]'s adoring gaze boring into mine." nointeract
-    n "Pero en lugar de la sombría blancura de mi techo, todo lo que puedo ver es la mirada de adoración de [ch_ren] taladrando la mía." nointeract
+    # n "But rather than the bleak whiteness of my ceiling, all I can see is [ch_ren]'s adoring gaze boring into mine." 
+    n "Pero en lugar de la sombría blancura de mi techo, todo lo que puedo ver es la mirada de adoración de [ch_ren] taladrando la mía." 
 
 # game/14 Nights With You/14nightswithyou.rpy:910
 translate Paloslios day3_wahooscene_c896856d:
 
-    # n "There's that familiar lovesick expression in his eyes once more, and I can feel his thumb caress my cheek." nointeract
-    n "Hay esa familiar expresión de amor en sus ojos una vez más, y puedo sentir su pulgar acariciando mi mejilla." nointeract
+    # n "There's that familiar lovesick expression in his eyes once more, and I can feel his thumb caress my cheek." 
+    n "Hay esa familiar expresión de amor en sus ojos una vez más, y puedo sentir su pulgar acariciando mi mejilla." 
 
 # game/14 Nights With You/14nightswithyou.rpy:912
 translate Paloslios day3_wahooscene_65943369:
 
-    # r "H-Hey." nointeract
-    r "H-Oye." nointeract
+    # r "H-Hey." 
+    r "H-Oye." 
 
 # game/14 Nights With You/14nightswithyou.rpy:913
 translate Paloslios day3_wahooscene_4c2ed64b:
 
-    # y "Hi…" nointeract
-    y "Hola…" nointeract
+    # y "Hi…" 
+    y "Hola…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:914
 translate Paloslios day3_wahooscene_4497b6e3:
 
-    # n "His gentle ministrations make me want to fall back asleep for some reason, and before I know it, my eyelids start to grow heavy." nointeract
-    n "Sus suaves cuidados me hacen querer volver a quedarme dormido por alguna razón y, antes de darme cuenta, mis párpados empiezan a pesarse." nointeract
+    # n "His gentle ministrations make me want to fall back asleep for some reason, and before I know it, my eyelids start to grow heavy." 
+    n "Sus suaves cuidados me hacen querer volver a quedarme dormido por alguna razón y, antes de darme cuenta, mis párpados empiezan a pesarse." 
 
 # game/14 Nights With You/14nightswithyou.rpy:915
 translate Paloslios day3_wahooscene_6ac8380e:
 
-    # n "Doing… {b}this{/b} with [ch_ren] always left me feeling languid and tired (for obvious reasons), and I couldn't stop myself from melting into his embrace." nointeract
-    n "Hacer... {b}esto{/b} con [ch_ren] siempre me dejaba sintiéndome lánguido y cansado (por razones obvias), y no podía evitar derretirme en su abrazo." nointeract
+    # n "Doing… {b}this{/b} with [ch_ren] always left me feeling languid and tired (for obvious reasons), and I couldn't stop myself from melting into his embrace." 
+    n "Hacer... {b}esto{/b} con [ch_ren] siempre me dejaba sintiéndome lánguido y cansado (por razones obvias), y no podía evitar derretirme en su abrazo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:916
 translate Paloslios day3_wahooscene_9b94e77a:
 
-    # n "Surely he wouldn't mind if I closed my eyes for a few seconds…" nointeract
-    n "Seguramente no le importaría si cerraba los ojos por unos segundos…" nointeract
+    # n "Surely he wouldn't mind if I closed my eyes for a few seconds…" 
+    n "Seguramente no le importaría si cerraba los ojos por unos segundos…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:920
 translate Paloslios day3_wahooscene_47e222dd:
 
-    # n "As if sensing my fatigue, I hear [ch_ren] let out an endearing chuckle above me before he scoops me into his arms." nointeract
-    n "Como si sintiera mi fatiga, escucho a [ch_ren] soltar una risa entrañable encima de mí antes de tomarme en sus brazos." nointeract
+    # n "As if sensing my fatigue, I hear [ch_ren] let out an endearing chuckle above me before he scoops me into his arms." 
+    n "Como si sintiera mi fatiga, escucho a [ch_ren] soltar una risa entrañable encima de mí antes de tomarme en sus brazos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:921
 translate Paloslios day3_wahooscene_08850995:
 
-    # n "The next thing I know, I'm being lifted from the couch and into the safety of [ch_ren]'s chest instead." nointeract
-    n "Lo siguiente que sé es que me levantan del sofá y me colocan en la seguridad del pecho de [ch_ren]." nointeract
+    # n "The next thing I know, I'm being lifted from the couch and into the safety of [ch_ren]'s chest instead." 
+    n "Lo siguiente que sé es que me levantan del sofá y me colocan en la seguridad del pecho de [ch_ren]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:922
 translate Paloslios day3_wahooscene_f84ad344:
 
-    # n "I already miss the feeling of having him inside me, but the longing soon gets soothed with the comfort of my bedsheets instead." nointeract
-    n "Ya extraño la sensación de tenerlo dentro de mí, pero el anhelo pronto se calma con la comodidad de mis sábanas." nointeract
+    # n "I already miss the feeling of having him inside me, but the longing soon gets soothed with the comfort of my bedsheets instead." 
+    n "Ya extraño la sensación de tenerlo dentro de mí, pero el anhelo pronto se calma con la comodidad de mis sábanas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:923
 translate Paloslios day3_wahooscene_65bdd170:
 
-    # n "…Did [ch_ren] carry me to my bedroom?" nointeract
-    n "… ¿[ch_ren] me llevó a mi habitación?" nointeract
+    # n "…Did [ch_ren] carry me to my bedroom?" 
+    n "… ¿[ch_ren] me llevó a mi habitación?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:924
 translate Paloslios day3_wahooscene_c6591efe:
 
-    # n "I can barely keep my eyes open at this point, seemingly happy with reaching for my Haruko plushie to snuggle with instead." nointeract
-    n "Apenas puedo mantener los ojos abiertos en este punto, aparentemente feliz de alcanzar mi peluche de Haruko para acurrucarme." nointeract
+    # n "I can barely keep my eyes open at this point, seemingly happy with reaching for my Haruko plushie to snuggle with instead." 
+    n "Apenas puedo mantener los ojos abiertos en este punto, aparentemente feliz de alcanzar mi peluche de Haruko para acurrucarme." 
 
 # game/14 Nights With You/14nightswithyou.rpy:925
 translate Paloslios day3_wahooscene_e16f9223:
 
-    # n "I can hear [ch_ren] move about my room from somewhere behind me, before I feel the welcoming sensation of a towel clean up the sticky mess between my thighs." nointeract
-    n "Puedo escuchar a [ch_ren] moverse por mi habitación desde algún lugar detrás de mí, antes de sentir la acogedora sensación de una toalla limpiando el lío pegajoso entre mis muslos." nointeract
+    # n "I can hear [ch_ren] move about my room from somewhere behind me, before I feel the welcoming sensation of a towel clean up the sticky mess between my thighs." 
+    n "Puedo escuchar a [ch_ren] moverse por mi habitación desde algún lugar detrás de mí, antes de sentir la acogedora sensación de una toalla limpiando el lío pegajoso entre mis muslos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:926
 translate Paloslios day3_wahooscene_2e6765ca:
 
-    # n "I let out an appreciative hum at his ministrations — though I was sure it sounded more like a tired sigh — yet [ch_ren] didn't seem to mind." nointeract
-    n "Dejé escapar un tarareo agradecido por sus cuidados, aunque estaba seguro de que sonaba más como un suspiro cansado, pero a [ch_ren] no pareció importarle." nointeract
+    # n "I let out an appreciative hum at his ministrations — though I was sure it sounded more like a tired sigh — yet [ch_ren] didn't seem to mind." 
+    n "Dejé escapar un tarareo agradecido por sus cuidados, aunque estaba seguro de que sonaba más como un suspiro cansado, pero a [ch_ren] no pareció importarle." 
 
 # game/14 Nights With You/14nightswithyou.rpy:927
 translate Paloslios day3_wahooscene_7c2518f7:
 
-    # n "Once he's done, I feel him cover my body with the duvet before placing a kiss against the crown of my head." nointeract
-    n "Una vez que termina, lo siento cubrir mi cuerpo con el edredón antes de depositar un beso en la coronilla de mi cabeza." nointeract
+    # n "Once he's done, I feel him cover my body with the duvet before placing a kiss against the crown of my head." 
+    n "Una vez que termina, lo siento cubrir mi cuerpo con el edredón antes de depositar un beso en la coronilla de mi cabeza." 
 
 # game/14 Nights With You/14nightswithyou.rpy:928
 translate Paloslios day3_wahooscene_94ff9abb:
 
-    # r "…Sleep well, Love." nointeract
-    r "…Que duermas bien, amor." nointeract
+    # r "…Sleep well, Love." 
+    r "…Que duermas bien, amor." 
 
 # game/14 Nights With You/14nightswithyou.rpy:929
 translate Paloslios day3_wahooscene_211fa319:
 
-    # n "His heavy footsteps are the last thing I hear before my consciousness starts to shift from reality and into dreamland." nointeract
-    n "Sus fuertes pasos son lo último que escucho antes de que mi conciencia comience a pasar de la realidad a la tierra de los sueños." nointeract
+    # n "His heavy footsteps are the last thing I hear before my consciousness starts to shift from reality and into dreamland." 
+    n "Sus fuertes pasos son lo último que escucho antes de que mi conciencia comience a pasar de la realidad a la tierra de los sueños." 
 
 # game/14 Nights With You/14nightswithyou.rpy:948
 translate Paloslios day4_wahooscene_ad20ca54:
 
-    # n "He looks down at me with wide eyes, but before he can usher out a word, I sink lower on my knees and playfully pull at the waistband of his jeans." nointeract
-    n "Me mira con los ojos muy abiertos, pero antes de que pueda decir una palabra, me arrodillo y tiro juguetonamente de la cintura de sus jeans." nointeract
+    # n "He looks down at me with wide eyes, but before he can usher out a word, I sink lower on my knees and playfully pull at the waistband of his jeans." 
+    n "Me mira con los ojos muy abiertos, pero antes de que pueda decir una palabra, me arrodillo y tiro juguetonamente de la cintura de sus jeans." 
 
 # game/14 Nights With You/14nightswithyou.rpy:949
 translate Paloslios day4_wahooscene_65981e03:
 
-    # n "Or… At least, what I {b}assumed{/b} were his jeans. It was difficult to see anything inside this dark storage closet." nointeract
-    n "O... Al menos, lo que {b}asumí{/b} eran sus jeans. Era difícil ver algo dentro de este armario oscuro." nointeract
+    # n "Or… At least, what I {b}assumed{/b} were his jeans. It was difficult to see anything inside this dark storage closet." 
+    n "O... Al menos, lo que {b}asumí{/b} eran sus jeans. Era difícil ver algo dentro de este armario oscuro." 
 
 # game/14 Nights With You/14nightswithyou.rpy:950
 translate Paloslios day4_wahooscene_102ef1a2:
 
-    # r "A-A-A-Angel! You don't… You don't have to—" nointeract
-    r "A-A-A-Ángel! No... No tienes que..." nointeract
+    # r "A-A-A-Angel! You don't… You don't have to—" 
+    r "A-A-A-Ángel! No... No tienes que..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:952
 translate Paloslios day4_wahooscene_00fd98ce:
 
-    # y "I'm cashing in that favour now." nointeract
-    y "Estoy cobrando ese favor ahora." nointeract
+    # y "I'm cashing in that favour now." 
+    y "Estoy cobrando ese favor ahora." 
 
 # game/14 Nights With You/14nightswithyou.rpy:953
 translate Paloslios day4_wahooscene_91b27701:
 
-    # n "I say with a wink before tasking myself with unbuckling his belt." nointeract
-    n "—digo con un guiño antes de desabrocharle el cinturón." nointeract
+    # n "I say with a wink before tasking myself with unbuckling his belt." 
+    n "—digo con un guiño antes de desabrocharle el cinturón." 
 
 # game/14 Nights With You/14nightswithyou.rpy:954
 translate Paloslios day4_wahooscene_73524183:
 
-    # n "I still haven't forgotten about that night when [ch_ren] went down on me — only to pull me into his arms afterwards and fall asleep without getting off himself. Now, it was his turn." nointeract
-    n "Todavía no me he olvidado de esa noche en la que [ch_ren] cayó sobre mí, sólo para después tirarme a sus brazos y quedarse dormido sin levantarse. Ahora era su turno." nointeract
+    # n "I still haven't forgotten about that night when [ch_ren] went down on me — only to pull me into his arms afterwards and fall asleep without getting off himself. Now, it was his turn." 
+    n "Todavía no me he olvidado de esa noche en la que [ch_ren] cayó sobre mí, sólo para después tirarme a sus brazos y quedarse dormido sin levantarse. Ahora era su turno." 
 
 # game/14 Nights With You/14nightswithyou.rpy:956
 translate Paloslios day4_wahooscene_e0a891b8:
 
-    # y "Trust me, [ch_ren], I want to." nointeract
-    y "Créeme, [ch_ren], quiero hacerlo." nointeract
+    # y "Trust me, [ch_ren], I want to." 
+    y "Créeme, [ch_ren], quiero hacerlo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:957
 translate Paloslios day4_wahooscene_91b27701_1:
 
-    # n "I say with a wink before tasking myself with unbuckling his belt." nointeract
-    n "—digo con un guiño antes de desabrocharle el cinturón." nointeract
+    # n "I say with a wink before tasking myself with unbuckling his belt." 
+    n "—digo con un guiño antes de desabrocharle el cinturón." 
 
 # game/14 Nights With You/14nightswithyou.rpy:959
 translate Paloslios day4_wahooscene_d115ac38:
 
-    # n "I won't lie and say that I {b}hadn't{/b} been curious about learning more about what he had going on down there, and especially after our last encounter, I wanted to know just what I was dealing with." nointeract
-    n "No mentiré y diré que {b}no{/b} había sentido curiosidad por saber más sobre lo que estaba pasando allí abajo, y especialmente después de nuestro último encuentro, quería saber exactamente con qué estaba lidiando." nointeract
+    # n "I won't lie and say that I {b}hadn't{/b} been curious about learning more about what he had going on down there, and especially after our last encounter, I wanted to know just what I was dealing with." 
+    n "No mentiré y diré que {b}no{/b} había sentido curiosidad por saber más sobre lo que estaba pasando allí abajo, y especialmente después de nuestro último encuentro, quería saber exactamente con qué estaba lidiando." 
 
 # game/14 Nights With You/14nightswithyou.rpy:961
 translate Paloslios day4_wahooscene_b68af0e5:
 
-    # n "I won't lie and say that I {b}hadn't{/b} been curious about learning more about what he had going on down there. Plus, I wanted to know just what I was dealing with." nointeract
-    n "No mentiré y diré que {b}no había{/b} sentido curiosidad por saber más sobre lo que estaba pasando allí. Además, quería saber con qué estaba lidiando." nointeract
+    # n "I won't lie and say that I {b}hadn't{/b} been curious about learning more about what he had going on down there. Plus, I wanted to know just what I was dealing with." 
+    n "No mentiré y diré que {b}no había{/b} sentido curiosidad por saber más sobre lo que estaba pasando allí. Además, quería saber con qué estaba lidiando." 
 
 # game/14 Nights With You/14nightswithyou.rpy:962
 translate Paloslios day4_wahooscene_a0e40aea:
 
-    # r "[player_fl]-[ch_angel]!" nointeract
-    r "[player_fl]-[ch_angel]!" nointeract
+    # r "[player_fl]-[ch_angel]!" 
+    r "[player_fl]-[ch_angel]!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:963
 translate Paloslios day4_wahooscene_b597dea1:
 
-    # n "[ch_ren]'s voice echoes inside the cramped space, and I can feel his body tense underneath me as I run my hands along his thighs." nointeract
-    n "La voz de [ch_ren] hace eco dentro del espacio reducido, y puedo sentir su cuerpo tenso debajo de mí mientras paso mis manos por sus muslos." nointeract
+    # n "[ch_ren]'s voice echoes inside the cramped space, and I can feel his body tense underneath me as I run my hands along his thighs." 
+    n "La voz de [ch_ren] hace eco dentro del espacio reducido, y puedo sentir su cuerpo tenso debajo de mí mientras paso mis manos por sus muslos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:964
 translate Paloslios day4_wahooscene_0a56539a:
 
-    # n "And when I move towards his zipper, I make out the distinct shape of his hard-on straining against the fabric of his jeans." nointeract
-    n "Y cuando me acerco a su cremallera, distingo la forma distintiva de su erección contra la tela de sus jeans." nointeract
+    # n "And when I move towards his zipper, I make out the distinct shape of his hard-on straining against the fabric of his jeans." 
+    n "Y cuando me acerco a su cremallera, distingo la forma distintiva de su erección contra la tela de sus jeans." 
 
 # game/14 Nights With You/14nightswithyou.rpy:965
 translate Paloslios day4_wahooscene_f6100fe8:
 
-    # n "Wanting to relieve him, I carefully unzip his pants to free his member." nointeract
-    n "Queriendo aliviarlo, le bajo con cuidado el pantalón para liberar su miembro." nointeract
+    # n "Wanting to relieve him, I carefully unzip his pants to free his member." 
+    n "Queriendo aliviarlo, le bajo con cuidado el pantalón para liberar su miembro." 
 
 # game/14 Nights With You/14nightswithyou.rpy:966
 translate Paloslios day4_wahooscene_7403ec13:
 
-    # y "Oh…" nointeract
-    y "Ah..." nointeract
+    # y "Oh…" 
+    y "Ah..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:967
 translate Paloslios day4_wahooscene_e7d43f74:
 
-    # n "I can't help but let out a surprised sound the moment it springs free — clearly not prepared to be met with something so… big. It's almost daunting having [ch_ren]'s cock so close to my face, and it's {b}then{/b} when reality finally sets in." nointeract
-    n "No puedo evitar dejar escapar un sonido de sorpresa en el momento en que se libera; claramente no estoy preparado para encontrarme con algo tan... grande. Es casi desalentador tener la polla de [ch_ren] tan cerca de mi cara, y es {b}entonces{/b} cuando la realidad finalmente se impone." nointeract
+    # n "I can't help but let out a surprised sound the moment it springs free — clearly not prepared to be met with something so… big. It's almost daunting having [ch_ren]'s cock so close to my face, and it's {b}then{/b} when reality finally sets in." 
+    n "No puedo evitar dejar escapar un sonido de sorpresa en el momento en que se libera; claramente no estoy preparado para encontrarme con algo tan... grande. Es casi desalentador tener la polla de [ch_ren] tan cerca de mi cara, y es {b}entonces{/b} cuando la realidad finalmente se impone." 
 
 # game/14 Nights With You/14nightswithyou.rpy:969
 translate Paloslios day4_wahooscene_c79f2ebd:
 
-    # n "I had {b}this{/b} inside me? It was almost… unbelievable." nointeract
-    n "¿Tenía {b}esto{/b} dentro de mí? Era casi… increíble." nointeract
+    # n "I had {b}this{/b} inside me? It was almost… unbelievable." 
+    n "¿Tenía {b}esto{/b} dentro de mí? Era casi… increíble." 
 
 # game/14 Nights With You/14nightswithyou.rpy:971
 translate Paloslios day4_wahooscene_a9d9f551:
 
-    # n "…He's {b}huge{/b}. There's absolutely no denying it." nointeract
-    n "…Él es {b}enorme{/b}. No se puede negar en absoluto." nointeract
+    # n "…He's {b}huge{/b}. There's absolutely no denying it." 
+    n "…Él es {b}enorme{/b}. No se puede negar en absoluto." 
 
 # game/14 Nights With You/14nightswithyou.rpy:974
 translate Paloslios day4_wahooscene_b3e04835:
 
-    # n "Curiously, I poke at the flared tip to gauge [ch_ren]'s reaction. His reaction is almost immediate with how he practically jumps — letting out a surprised gasp and leaning back onto the shelf the moment I touch him." nointeract
-    n "Curiosamente, toco la punta ensanchada para medir la reacción de [ch_ren]. Su reacción es casi inmediata con la forma en que prácticamente salta, dejando escapar un grito ahogado de sorpresa y recostándose en el estante en el momento en que lo toco." nointeract
+    # n "Curiously, I poke at the flared tip to gauge [ch_ren]'s reaction. His reaction is almost immediate with how he practically jumps — letting out a surprised gasp and leaning back onto the shelf the moment I touch him." 
+    n "Curiosamente, toco la punta ensanchada para medir la reacción de [ch_ren]. Su reacción es casi inmediata con la forma en que prácticamente salta, dejando escapar un grito ahogado de sorpresa y recostándose en el estante en el momento en que lo toco." 
 
 # game/14 Nights With You/14nightswithyou.rpy:975
 translate Paloslios day4_wahooscene_4edb0179:
 
-    # n "And when I take it a step further and wrap my hand around the head, he all but keens as the air gets sucked out of his lungs as though he was winded." nointeract
-    n "Y cuando doy un paso más y envuelvo mi mano alrededor de la cabeza, casi se queja cuando el aire sale de sus pulmones como si estuviera sin aliento." nointeract
+    # n "And when I take it a step further and wrap my hand around the head, he all but keens as the air gets sucked out of his lungs as though he was winded." 
+    n "Y cuando doy un paso más y envuelvo mi mano alrededor de la cabeza, casi se queja cuando el aire sale de sus pulmones como si estuviera sin aliento." 
 
 # game/14 Nights With You/14nightswithyou.rpy:976
 translate Paloslios day4_wahooscene_1fdf149d:
 
-    # n "Even from down here, I can hear the back of his head thump against one of the shelves as he revels in all the attention I'm giving his member." nointeract
-    n "Incluso desde aquí abajo, puedo escuchar la parte posterior de su cabeza golpear contra uno de los estantes mientras se deleita con toda la atención que le estoy dando a su miembro." nointeract
+    # n "Even from down here, I can hear the back of his head thump against one of the shelves as he revels in all the attention I'm giving his member." 
+    n "Incluso desde aquí abajo, puedo escuchar la parte posterior de su cabeza golpear contra uno de los estantes mientras se deleita con toda la atención que le estoy dando a su miembro." 
 
 # game/14 Nights With You/14nightswithyou.rpy:978
 translate Paloslios day4_wahooscene_2e40205b:
 
-    # n "And as if to show his gratitude, one of [ch_ren]'s hands moves from the shelf to cup my cheek instead." nointeract
-    n "Y como para mostrar su gratitud, una de las manos de [ch_ren] se mueve desde el estante para acariciar mi mejilla." nointeract
+    # n "And as if to show his gratitude, one of [ch_ren]'s hands moves from the shelf to cup my cheek instead." 
+    n "Y como para mostrar su gratitud, una de las manos de [ch_ren] se mueve desde el estante para acariciar mi mejilla." 
 
 # game/14 Nights With You/14nightswithyou.rpy:980
 translate Paloslios day4_wahooscene_323acea8:
 
-    # n "And as if to show his gratitude, [ch_ren] gently smoothes his hand over my [hair_length] hair." nointeract
-    n "Y como para mostrar su gratitud, [ch_ren] pasa suavemente su mano por mi cabello [hair_length]." nointeract
+    # n "And as if to show his gratitude, [ch_ren] gently smoothes his hand over my [hair_length] hair." 
+    n "Y como para mostrar su gratitud, [ch_ren] pasa suavemente su mano por mi cabello [hair_length]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:981
 translate Paloslios day4_wahooscene_dd0f3202:
 
-    # n "His touch is soft and gentle — seemingly a sharp contrast to the throbbing, erect member in front of me right now." nointeract
-    n "Su tacto es suave y gentil, aparentemente en marcado contraste con el miembro erecto y palpitante frente a mí en este momento." nointeract
+    # n "His touch is soft and gentle — seemingly a sharp contrast to the throbbing, erect member in front of me right now." 
+    n "Su tacto es suave y gentil, aparentemente en marcado contraste con el miembro erecto y palpitante frente a mí en este momento." 
 
 # game/14 Nights With You/14nightswithyou.rpy:983
 translate Paloslios day4_wahooscene_c5b5503e:
 
-    # n "And even in the darkness, I can make out the faintest blush of pink on his flared tip, the trail of precum dripping down the underside, and the coarse patch of hair covering the base of his cock." nointeract
-    n "E incluso en la oscuridad, puedo distinguir el más leve rubor rosado en su punta acampanada, el rastro de líquido preseminal que gotea por la parte inferior y el áspero mechón de pelo que cubre la base de su pene." nointeract
+    # n "And even in the darkness, I can make out the faintest blush of pink on his flared tip, the trail of precum dripping down the underside, and the coarse patch of hair covering the base of his cock." 
+    n "E incluso en la oscuridad, puedo distinguir el más leve rubor rosado en su punta acampanada, el rastro de líquido preseminal que gotea por la parte inferior y el áspero mechón de pelo que cubre la base de su pene." 
 
 # game/14 Nights With You/14nightswithyou.rpy:985
 translate Paloslios day4_wahooscene_fed68ed0:
 
-    # n "And even in the darkness, I can make out the faintest blush of pink on his flared tip, the trail of precum dripping down the underside, and the bare patch of clean-shaven skin at the base of his cock." nointeract
-    n "E incluso en la oscuridad, puedo distinguir el más leve rubor rosado en su punta acampanada, el rastro de líquido preseminal que gotea por la parte inferior y el parche desnudo de piel bien afeitada en la base de su pene." nointeract
+    # n "And even in the darkness, I can make out the faintest blush of pink on his flared tip, the trail of precum dripping down the underside, and the bare patch of clean-shaven skin at the base of his cock." 
+    n "E incluso en la oscuridad, puedo distinguir el más leve rubor rosado en su punta acampanada, el rastro de líquido preseminal que gotea por la parte inferior y el parche desnudo de piel bien afeitada en la base de su pene." 
 
 # game/14 Nights With You/14nightswithyou.rpy:986
 translate Paloslios day4_wahooscene_86e98e5c:
 
-    # n "There's also some kind of marking on his left pelvis, but I can barely make out what it is due to the lack of lighting." nointeract
-    n "También hay algún tipo de marca en su pelvis izquierda, pero apenas puedo distinguir qué es debido a la falta de iluminación." nointeract
+    # n "There's also some kind of marking on his left pelvis, but I can barely make out what it is due to the lack of lighting." 
+    n "También hay algún tipo de marca en su pelvis izquierda, pero apenas puedo distinguir qué es debido a la falta de iluminación." 
 
 # game/14 Nights With You/14nightswithyou.rpy:987
 translate Paloslios day4_wahooscene_c8421780:
 
-    # n "…A tattoo, perhaps? But that was very unlikely given [ch_ren]'s interests and timid demeanour." nointeract
-    n "…¿Un tatuaje, tal vez? Pero eso era muy poco probable dados los intereses y el comportamiento tímido de [ch_ren]." nointeract
+    # n "…A tattoo, perhaps? But that was very unlikely given [ch_ren]'s interests and timid demeanour." 
+    n "…¿Un tatuaje, tal vez? Pero eso era muy poco probable dados los intereses y el comportamiento tímido de [ch_ren]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:988
 translate Paloslios day4_wahooscene_16b63ee1:
 
-    # n "I'm pulled from my thoughts when [ch_ren] lets out a low whine, and it's then that I realise I'd been practically staring at his dick without doing anything. Well… Almost anything." nointeract
-    n "Salgo de mis pensamientos cuando [ch_ren] deja escapar un gemido bajo, y es entonces cuando me doy cuenta de que prácticamente había estado mirando su polla sin hacer nada. Bueno… Casi cualquier cosa." nointeract
+    # n "I'm pulled from my thoughts when [ch_ren] lets out a low whine, and it's then that I realise I'd been practically staring at his dick without doing anything. Well… Almost anything." 
+    n "Salgo de mis pensamientos cuando [ch_ren] deja escapar un gemido bajo, y es entonces cuando me doy cuenta de que prácticamente había estado mirando su polla sin hacer nada. Bueno… Casi cualquier cosa." 
 
 # game/14 Nights With You/14nightswithyou.rpy:989
 translate Paloslios day4_wahooscene_978cbe99:
 
-    # n "I'd been breathing hot air all over his exposed skin, which might explain the faint goosebumps along his thighs and the glassy, dazed-out look in his eyes." nointeract
-    n "Había estado respirando aire caliente sobre toda su piel expuesta, lo que podría explicar la leve piel de gallina a lo largo de sus muslos y la mirada vidriosa y aturdida en sus ojos." nointeract
+    # n "I'd been breathing hot air all over his exposed skin, which might explain the faint goosebumps along his thighs and the glassy, dazed-out look in his eyes." 
+    n "Había estado respirando aire caliente sobre toda su piel expuesta, lo que podría explicar la leve piel de gallina a lo largo de sus muslos y la mirada vidriosa y aturdida en sus ojos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:990
 translate Paloslios day4_wahooscene_0c8d4f73:
 
-    # n "Seeing him react in such a way… It made me want to see {b}more{/b}." nointeract
-    n "Verlo reaccionar de esa manera... Me hizo querer ver {b}más{/b}." nointeract
+    # n "Seeing him react in such a way… It made me want to see {b}more{/b}." 
+    n "Verlo reaccionar de esa manera... Me hizo querer ver {b}más{/b}." 
 
 # game/14 Nights With You/14nightswithyou.rpy:991
 translate Paloslios day4_wahooscene_3bad87a7:
 
-    # n "I'm so used to seeing [ch_ren] act all shy and bashful around me, so this was honestly a nice — and welcome — change of pace. And so, with determined hands, I reach for his member and try to wrap my fingers around the base — only to fall short." nointeract
-    n "Estoy tan acostumbrado a ver a [ch_ren] actuar tímido y tímido a mi alrededor, así que, sinceramente, este fue un cambio de ritmo agradable y bienvenido. Y así, con manos decididas, alcanzo su miembro y trato de rodear la base con mis dedos, pero me quedo corto." nointeract
+    # n "I'm so used to seeing [ch_ren] act all shy and bashful around me, so this was honestly a nice — and welcome — change of pace. And so, with determined hands, I reach for his member and try to wrap my fingers around the base — only to fall short." 
+    n "Estoy tan acostumbrado a ver a [ch_ren] actuar tímido y tímido a mi alrededor, así que, sinceramente, este fue un cambio de ritmo agradable y bienvenido. Y así, con manos decididas, alcanzo su miembro y trato de rodear la base con mis dedos, pero me quedo corto." 
 
 # game/14 Nights With You/14nightswithyou.rpy:992
 translate Paloslios day4_wahooscene_eef10631:
 
-    # n "But before I have the chance to feel discouraged, one of [ch_ren]'s hands closes around my own and gently coaxes me into stroking his cock; smearing his precum all over the head and down his length." nointeract
-    n "Pero antes de que tenga la oportunidad de desanimarme, una de las manos de [ch_ren] se cierra alrededor de la mía y suavemente me convence para que acaricie su polla; untando su precum por toda la cabeza y a lo largo de su longitud." nointeract
+    # n "But before I have the chance to feel discouraged, one of [ch_ren]'s hands closes around my own and gently coaxes me into stroking his cock; smearing his precum all over the head and down his length." 
+    n "Pero antes de que tenga la oportunidad de desanimarme, una de las manos de [ch_ren] se cierra alrededor de la mía y suavemente me convence para que acaricie su polla; untando su precum por toda la cabeza y a lo largo de su longitud." 
 
 # game/14 Nights With You/14nightswithyou.rpy:993
 translate Paloslios day4_wahooscene_a2f9f04c:
 
-    # n "The irony of his cock fitting perfectly in his {b}own{/b} hand isn't lost on me, though I find myself getting more and more distracted with the way [ch_ren] uses me to pleasure himself." nointeract
-    n "La ironía de que su polla encaje perfectamente en su {b}propia{/b} mano no se me escapa, aunque me distraigo cada vez más con la forma en que [ch_ren] me usa para darse placer a sí mismo." nointeract
+    # n "The irony of his cock fitting perfectly in his {b}own{/b} hand isn't lost on me, though I find myself getting more and more distracted with the way [ch_ren] uses me to pleasure himself." 
+    n "La ironía de que su polla encaje perfectamente en su {b}propia{/b} mano no se me escapa, aunque me distraigo cada vez más con la forma en que [ch_ren] me usa para darse placer a sí mismo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:994
 translate Paloslios day4_wahooscene_a8e3df01:
 
-    # n "With a steady pace, he guides my hand up and down his shaft and revels in the pure rapture that comes from it, clearly finding bliss in the feeling of my fingers wrapped around his length." nointeract
-    n "Con un ritmo constante, guía mi mano hacia arriba y hacia abajo por su eje y se deleita en el puro éxtasis que surge de él, claramente encontrando felicidad en la sensación de mis dedos envueltos alrededor de su longitud." nointeract
+    # n "With a steady pace, he guides my hand up and down his shaft and revels in the pure rapture that comes from it, clearly finding bliss in the feeling of my fingers wrapped around his length." 
+    n "Con un ritmo constante, guía mi mano hacia arriba y hacia abajo por su eje y se deleita en el puro éxtasis que surge de él, claramente encontrando felicidad en la sensación de mis dedos envueltos alrededor de su longitud." 
 
 # game/14 Nights With You/14nightswithyou.rpy:995
 translate Paloslios day4_wahooscene_c3859ad5:
 
-    # n "A heavy sigh falls from his lips the moment I tentatively squeeze the tip a little tighter, before he pulls his hand away and reaches for the shelf once more." nointeract
-    n "Un profundo suspiro sale de sus labios en el momento en que tentativamente aprieto la punta un poco más, antes de que retire su mano y alcance el estante una vez más." nointeract
+    # n "A heavy sigh falls from his lips the moment I tentatively squeeze the tip a little tighter, before he pulls his hand away and reaches for the shelf once more." 
+    n "Un profundo suspiro sale de sus labios en el momento en que tentativamente aprieto la punta un poco más, antes de que retire su mano y alcance el estante una vez más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:996
 translate Paloslios day4_wahooscene_728ab2e5:
 
-    # r "Keep going… J-Just like that…" nointeract
-    r "Sigue adelante... J-Sólo así..." nointeract
+    # r "Keep going… J-Just like that…" 
+    r "Sigue adelante... J-Sólo así..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:997
 translate Paloslios day4_wahooscene_136a1aa0:
 
-    # n "Feeling bold, I move my face closer and lick a long stripe from the base towards the tip. The taste of salty precum lands on my tongue, and I let out a surprised hum from the intrusion." nointeract
-    n "Sintiéndome audaz, acerco mi cara y lamo una raya larga desde la base hacia la punta. El sabor del líquido preseminal salado aterriza en mi lengua y dejo escapar un zumbido de sorpresa por la intrusión." nointeract
+    # n "Feeling bold, I move my face closer and lick a long stripe from the base towards the tip. The taste of salty precum lands on my tongue, and I let out a surprised hum from the intrusion." 
+    n "Sintiéndome audaz, acerco mi cara y lamo una raya larga desde la base hacia la punta. El sabor del líquido preseminal salado aterriza en mi lengua y dejo escapar un zumbido de sorpresa por la intrusión." 
 
 # game/14 Nights With You/14nightswithyou.rpy:998
 translate Paloslios day4_wahooscene_2a045bfd:
 
-    # n "The vibration from my sounds only seems to spur [ch_ren] on as his chest rises and falls with heavy breaths, before one of his hands lifts the hem of his cardigan to see more of my face." nointeract
-    n "La vibración de mis sonidos sólo parece estimular a [ch_ren] mientras su pecho sube y baja con respiraciones pesadas, antes de que una de sus manos levante el dobladillo de su cárdigan para ver más de mi cara." nointeract
+    # n "The vibration from my sounds only seems to spur [ch_ren] on as his chest rises and falls with heavy breaths, before one of his hands lifts the hem of his cardigan to see more of my face." 
+    n "La vibración de mis sonidos sólo parece estimular a [ch_ren] mientras su pecho sube y baja con respiraciones pesadas, antes de que una de sus manos levante el dobladillo de su cárdigan para ver más de mi cara." 
 
 # game/14 Nights With You/14nightswithyou.rpy:999
 translate Paloslios day4_wahooscene_1ec232f2:
 
-    # n "Wanting to see just how much more of a reaction I can get out of him, I wrap my lips around the flushed tip and give it an experimental suck." nointeract
-    n "Queriendo ver cuánta más reacción puedo obtener de él, envuelvo mis labios alrededor de la punta sonrojada y le doy una succión experimental." nointeract
+    # n "Wanting to see just how much more of a reaction I can get out of him, I wrap my lips around the flushed tip and give it an experimental suck." 
+    n "Queriendo ver cuánta más reacción puedo obtener de él, envuelvo mis labios alrededor de la punta sonrojada y le doy una succión experimental." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1000
 translate Paloslios day4_wahooscene_908755dd:
 
-    # n "At that, the faint shadow of [ch_ren]'s adam's apple move as he swallows {b}hard{/b}, and I can tell by the way his fingers curl and flex that he wants to reach out and touch me as well." nointeract
-    n "Ante eso, la tenue sombra de la nuez de [ch_ren] se mueve mientras traga {b}fuerte{/b}, y por la forma en que sus dedos se curvan y flexionan, puedo decir que quiere extender la mano y tocarme a mí también." nointeract
+    # n "At that, the faint shadow of [ch_ren]'s adam's apple move as he swallows {b}hard{/b}, and I can tell by the way his fingers curl and flex that he wants to reach out and touch me as well." 
+    n "Ante eso, la tenue sombra de la nuez de [ch_ren] se mueve mientras traga {b}fuerte{/b}, y por la forma en que sus dedos se curvan y flexionan, puedo decir que quiere extender la mano y tocarme a mí también." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1001
 translate Paloslios day4_wahooscene_f93cfeee:
 
-    # n "Heh, how cute." nointeract
-    n "Je, que lindo." nointeract
+    # n "Heh, how cute." 
+    n "Je, que lindo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1002
 translate Paloslios day4_wahooscene_76f585e3:
 
-    # n "When I add my tongue to the mix and swirl it around the head, [ch_ren] acts as though his soul practically left his body. He hunches over my form with a low groan, and his eyes whisper for me to continue before he squeezes them shut." nointeract
-    n "Cuando agrego mi lengua a la mezcla y la hago girar alrededor de la cabeza, [ch_ren] actúa como si su alma prácticamente abandonara su cuerpo. Se inclina sobre mí con un gemido bajo y sus ojos me susurran que continúe antes de cerrarlos con fuerza." nointeract
+    # n "When I add my tongue to the mix and swirl it around the head, [ch_ren] acts as though his soul practically left his body. He hunches over my form with a low groan, and his eyes whisper for me to continue before he squeezes them shut." 
+    n "Cuando agrego mi lengua a la mezcla y la hago girar alrededor de la cabeza, [ch_ren] actúa como si su alma prácticamente abandonara su cuerpo. Se inclina sobre mí con un gemido bajo y sus ojos me susurran que continúe antes de cerrarlos con fuerza." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1003
 translate Paloslios day4_wahooscene_70a2159d:
 
-    # r "Please…" nointeract
-    r "Por favor…" nointeract
+    # r "Please…" 
+    r "Por favor…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1004
 translate Paloslios day4_wahooscene_aef2a5c3:
 
-    # n "His voice comes out hoarse — and had I been paying more attention — I would've said it sounded like a whimper." nointeract
-    n "Su voz sale ronca, y si hubiera prestado más atención, habría dicho que sonaba como un gemido." nointeract
+    # n "His voice comes out hoarse — and had I been paying more attention — I would've said it sounded like a whimper." 
+    n "Su voz sale ronca, y si hubiera prestado más atención, habría dicho que sonaba como un gemido." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1005
 translate Paloslios day4_wahooscene_144507f5:
 
-    # n "All of [ch_ren]'s reactions are bordering on being addictive at this point, and I find myself wanting to hear {b}more{/b} and see what other kinds of sounds I could pull from him." nointeract
-    n "Todas las reacciones de [ch_ren] están al borde de ser adictivas en este punto, y me encuentro con ganas de escuchar {b}más{/b} y ver qué otros tipos de sonidos puedo extraer de él." nointeract
+    # n "All of [ch_ren]'s reactions are bordering on being addictive at this point, and I find myself wanting to hear {b}more{/b} and see what other kinds of sounds I could pull from him." 
+    n "Todas las reacciones de [ch_ren] están al borde de ser adictivas en este punto, y me encuentro con ganas de escuchar {b}más{/b} y ver qué otros tipos de sonidos puedo extraer de él." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1006
 translate Paloslios day4_wahooscene_2e849f21:
 
-    # n "It quickly becomes a challenge to see if I can get him to moan {b}my{/b} name instead, and I slowly start to stop caring about someone walking in on us in such a compromising position — Teo and [ch_elanor] be damned." nointeract
-    n "Rápidamente se convierte en un desafío ver si puedo lograr que gima {b}mi{/b} nombre en su lugar, y poco a poco empiezo a dejar de preocuparme por alguien que se nos acerca en una posición tan comprometedora: Teo y [ch_elanor] al diablo." nointeract
+    # n "It quickly becomes a challenge to see if I can get him to moan {b}my{/b} name instead, and I slowly start to stop caring about someone walking in on us in such a compromising position — Teo and [ch_elanor] be damned." 
+    n "Rápidamente se convierte en un desafío ver si puedo lograr que gima {b}mi{/b} nombre en su lugar, y poco a poco empiezo a dejar de preocuparme por alguien que se nos acerca en una posición tan comprometedora: Teo y [ch_elanor] al diablo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1007
 translate Paloslios day4_wahooscene_ace5b116:
 
-    # n "All I want to concern myself with are [ch_ren]'s moans, the shape of his cock, and the way it tastes while it touches the back of my throat." nointeract
-    n "Lo único que quiero preocuparme son los gemidos de [ch_ren], la forma de su polla y el sabor que tiene cuando toca el fondo de mi garganta." nointeract
+    # n "All I want to concern myself with are [ch_ren]'s moans, the shape of his cock, and the way it tastes while it touches the back of my throat." 
+    n "Lo único que quiero preocuparme son los gemidos de [ch_ren], la forma de su polla y el sabor que tiene cuando toca el fondo de mi garganta." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1008
 translate Paloslios day4_wahooscene_6ff1e692:
 
-    # n "With a newfound resolve, I try to take him as deep as I can while my free hand strokes what my mouth can't reach." nointeract
-    n "Con una nueva determinación, trato de tomarlo lo más profundo que puedo mientras mi mano libre acaricia lo que mi boca no puede alcanzar." nointeract
+    # n "With a newfound resolve, I try to take him as deep as I can while my free hand strokes what my mouth can't reach." 
+    n "Con una nueva determinación, trato de tomarlo lo más profundo que puedo mientras mi mano libre acaricia lo que mi boca no puede alcanzar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1009
 translate Paloslios day4_wahooscene_d2764b26:
 
-    # n "And by the looks of it, [ch_ren] seems to be enjoying every second with the way his entire body shakes from above me. Not wanting to disappoint, I continue my ministrations with an eager smile." nointeract
-    n "Y por lo que parece, [ch_ren] parece estar disfrutando cada segundo con la forma en que todo su cuerpo se sacude encima de mí. Sin querer decepcionar, continúo mis cuidados con una sonrisa ansiosa." nointeract
+    # n "And by the looks of it, [ch_ren] seems to be enjoying every second with the way his entire body shakes from above me. Not wanting to disappoint, I continue my ministrations with an eager smile." 
+    n "Y por lo que parece, [ch_ren] parece estar disfrutando cada segundo con la forma en que todo su cuerpo se sacude encima de mí. Sin querer decepcionar, continúo mis cuidados con una sonrisa ansiosa." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1010
 translate Paloslios day4_wahooscene_005eecc9:
 
-    # n "Giving his cock {b}even more{/b} attention now, I lick a wet stripe from the veiny underside to the tip before taking most of it into my mouth once more." nointeract
-    n "Prestando aún más atención a su polla {b}{/b} ahora, lamo una raya húmeda desde la parte inferior venosa hasta la punta antes de llevarme la mayor parte a la boca una vez más." nointeract
+    # n "Giving his cock {b}even more{/b} attention now, I lick a wet stripe from the veiny underside to the tip before taking most of it into my mouth once more." 
+    n "Prestando aún más atención a su polla {b}{/b} ahora, lamo una raya húmeda desde la parte inferior venosa hasta la punta antes de llevarme la mayor parte a la boca una vez más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1011
 translate Paloslios day4_wahooscene_ee9a58b2:
 
-    # n "But instead of another breathy moan or twitch of his thigh like I was expecting, [ch_ren]'s gravelly voice breaks the silence." nointeract
-    n "Pero en lugar de otro gemido entrecortado o un movimiento de su muslo como esperaba, la voz grave de [ch_ren] rompe el silencio." nointeract
+    # n "But instead of another breathy moan or twitch of his thigh like I was expecting, [ch_ren]'s gravelly voice breaks the silence." 
+    n "Pero en lugar de otro gemido entrecortado o un movimiento de su muslo como esperaba, la voz grave de [ch_ren] rompe el silencio." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1012
 translate Paloslios day4_wahooscene_09591deb:
 
-    # r "Touch yourself too, [ch_angel]." nointeract
-    r "Tócate tú también, [ch_angel]." nointeract
+    # r "Touch yourself too, [ch_angel]." 
+    r "Tócate tú también, [ch_angel]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1013
 translate Paloslios day4_wahooscene_dcc09276:
 
-    # n "Clearly not expecting him to say anything, my mind barely registers his words — so I look up through my lashes to (vaguely) see the pink-haired man peering down at me with an unreadable look." nointeract
-    n "Claramente no esperaba que dijera nada, mi mente apenas registra sus palabras, así que miro a través de mis pestañas para ver (vagamente) al hombre de cabello rosado mirándome con una mirada ilegible." nointeract
+    # n "Clearly not expecting him to say anything, my mind barely registers his words — so I look up through my lashes to (vaguely) see the pink-haired man peering down at me with an unreadable look." 
+    n "Claramente no esperaba que dijera nada, mi mente apenas registra sus palabras, así que miro a través de mis pestañas para ver (vagamente) al hombre de cabello rosado mirándome con una mirada ilegible." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1015
 translate Paloslios day4_wahooscene_9ae953ab:
 
-    # r "Your mouth is more than enough f'me. Use your hands to play with your clit." nointeract
-    r "Tu boca es más que suficiente para mí. Usa tus manos para jugar con tu clítoris." nointeract
+    # r "Your mouth is more than enough f'me. Use your hands to play with your clit." 
+    r "Tu boca es más que suficiente para mí. Usa tus manos para jugar con tu clítoris." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1017
 translate Paloslios day4_wahooscene_85a1ba09:
 
-    # r "I want you to stroke your own cock too. Your mouth is more than enough f'me." nointeract
-    r "Quiero que tú también acaricies tu propia polla. Tu boca es más que suficiente para mí." nointeract
+    # r "I want you to stroke your own cock too. Your mouth is more than enough f'me." 
+    r "Quiero que tú también acaricies tu propia polla. Tu boca es más que suficiente para mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1019
 translate Paloslios day4_wahooscene_0ecdda52:
 
-    # r "Your mouth is more than enough f'me. Use your hands to touch yourself." nointeract
-    r "Tu boca es más que suficiente para mí. Usa tus manos para tocarte." nointeract
+    # r "Your mouth is more than enough f'me. Use your hands to touch yourself." 
+    r "Tu boca es más que suficiente para mí. Usa tus manos para tocarte." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1020
 translate Paloslios day4_wahooscene_ffaf65f6:
 
-    # n "Oh. Was that what he had in mind?" nointeract
-    n "Oh. ¿Era eso lo que tenía en mente?" nointeract
+    # n "Oh. Was that what he had in mind?" 
+    n "Oh. ¿Era eso lo que tenía en mente?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1021
 translate Paloslios day4_wahooscene_c1ac2515:
 
-    # n "I won't lie; much like his moans, [ch_ren]'s lewd words also had an effect on me — it was evident with the way it went straight to my core and left me dripping in arousal — but I wanted to focus all of my attention on {b}him{/b} this time." nointeract
-    n "No mentiré; Al igual que sus gemidos, las palabras lascivas de [ch_ren] también tuvieron un efecto en mí, era evidente por la forma en que fueron directo a mi núcleo y me dejaron goteando de excitación, pero esta vez quería centrar toda mi atención en {b}él{/b}." nointeract
+    # n "I won't lie; much like his moans, [ch_ren]'s lewd words also had an effect on me — it was evident with the way it went straight to my core and left me dripping in arousal — but I wanted to focus all of my attention on {b}him{/b} this time." 
+    n "No mentiré; Al igual que sus gemidos, las palabras lascivas de [ch_ren] también tuvieron un efecto en mí, era evidente por la forma en que fueron directo a mi núcleo y me dejaron goteando de excitación, pero esta vez quería centrar toda mi atención en {b}él{/b}." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1022
 translate Paloslios day4_wahooscene_7f2abc3b:
 
-    # n "He's done nothing but show me so much kindness and patience over the past few days, and it was high time I showed a bit more gratitude." nointeract
-    n "No ha hecho más que mostrarme tanta amabilidad y paciencia durante los últimos días, y ya era hora de que mostrara un poco más de gratitud." nointeract
+    # n "He's done nothing but show me so much kindness and patience over the past few days, and it was high time I showed a bit more gratitude." 
+    n "No ha hecho más que mostrarme tanta amabilidad y paciencia durante los últimos días, y ya era hora de que mostrara un poco más de gratitud." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1023
 translate Paloslios day4_wahooscene_9e0c0495:
 
-    # n "So, with a slight smile, I shake my head and go back to lavishing his length with soft kitten licks." nointeract
-    n "Entonces, con una leve sonrisa, sacudo la cabeza y vuelvo a prodigar su longitud con suaves lamidas de gatito." nointeract
+    # n "So, with a slight smile, I shake my head and go back to lavishing his length with soft kitten licks." 
+    n "Entonces, con una leve sonrisa, sacudo la cabeza y vuelvo a prodigar su longitud con suaves lamidas de gatito." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1024
 translate Paloslios day4_wahooscene_690fe272:
 
-    # y "Nuh-uh. It's all about {i}you{/i} today. Tell me what you need." nointeract
-    y "No-uh. Todo se trata de {i}tú{/i} hoy. Dime lo que necesitas." nointeract
+    # y "Nuh-uh. It's all about {i}you{/i} today. Tell me what you need." 
+    y "No-uh. Todo se trata de {i}tú{/i} hoy. Dime lo que necesitas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1025
 translate Paloslios day4_wahooscene_de28aa5a:
 
-    # n "He lets out another low whine at my words — but before he can respond, I quickly cut him off." nointeract
-    n "Deja escapar otro gemido bajo ante mis palabras, pero antes de que pueda responder, rápidamente lo interrumpo." nointeract
+    # n "He lets out another low whine at my words — but before he can respond, I quickly cut him off." 
+    n "Deja escapar otro gemido bajo ante mis palabras, pero antes de que pueda responder, rápidamente lo interrumpo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1026
 translate Paloslios day4_wahooscene_3440988c:
 
-    # y "And don't say you want me to touch myself. I wanna show my appreciation towards {i}you{/i}, [ch_ren]." nointeract
-    y "Y no digas que quieres que me toque. Quiero mostrar mi agradecimiento hacia {i}tú{/i}, [ch_ren]." nointeract
+    # y "And don't say you want me to touch myself. I wanna show my appreciation towards {i}you{/i}, [ch_ren]." 
+    y "Y no digas que quieres que me toque. Quiero mostrar mi agradecimiento hacia {i}tú{/i}, [ch_ren]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1027
 translate Paloslios day4_wahooscene_89b8a025:
 
-    # r "…M-Me? {i}Ngh!{/i}" nointeract
-    r "… ¿M-Yo? {i}¡Ngh!{/i}" nointeract
+    # r "…M-Me? {i}Ngh!{/i}" 
+    r "… ¿M-Yo? {i}¡Ngh!{/i}" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1028
 translate Paloslios day4_wahooscene_3e59b8f0:
 
-    # n "It was like I read his mind or something, because he instantly clams up and tries to find something else to say instead. But as I continue to languidly stroke his length with my hands, [ch_ren] seems less and less inclined to respond." nointeract
-    n "Fue como si hubiera leído su mente o algo así, porque instantáneamente se calla y trata de encontrar algo más que decir. Pero mientras continúo acariciando lánguidamente su longitud con mis manos, [ch_ren] parece cada vez menos inclinado a responder." nointeract
+    # n "It was like I read his mind or something, because he instantly clams up and tries to find something else to say instead. But as I continue to languidly stroke his length with my hands, [ch_ren] seems less and less inclined to respond." 
+    n "Fue como si hubiera leído su mente o algo así, porque instantáneamente se calla y trata de encontrar algo más que decir. Pero mientras continúo acariciando lánguidamente su longitud con mis manos, [ch_ren] parece cada vez menos inclinado a responder." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1030
 translate Paloslios day4_wahooscene_3dd61af2:
 
-    # n "Instead, he simply slumps against the shelf once more as his hands run along my cheeks and jaw in a blissed-out manner." nointeract
-    n "En cambio, simplemente se deja caer contra el estante una vez más mientras sus manos recorren mis mejillas y mandíbula de manera feliz." nointeract
+    # n "Instead, he simply slumps against the shelf once more as his hands run along my cheeks and jaw in a blissed-out manner." 
+    n "En cambio, simplemente se deja caer contra el estante una vez más mientras sus manos recorren mis mejillas y mandíbula de manera feliz." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1032
 translate Paloslios day4_wahooscene_6a9a6459:
 
-    # n "Instead, he simply slumps against the shelf once more as his hands card through my hair in a blissed-out manner." nointeract
-    n "En cambio, simplemente se deja caer contra el estante una vez más mientras sus manos pasan por mi cabello de manera feliz." nointeract
+    # n "Instead, he simply slumps against the shelf once more as his hands card through my hair in a blissed-out manner." 
+    n "En cambio, simplemente se deja caer contra el estante una vez más mientras sus manos pasan por mi cabello de manera feliz." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1033
 translate Paloslios day4_wahooscene_0a9acd05:
 
-    # n "Deciding to push a little further, I grip the base of his cock in an attempt to silently draw his attention once more. And it seems to work, given how [ch_ren] lets out a soft moan from the friction and glances down at me with half-lidded eyes." nointeract
-    n "Decidiendo empujar un poco más, agarro la base de su polla en un intento de llamar silenciosamente su atención una vez más. Y parece funcionar, dado que [ch_ren] deja escapar un suave gemido por la fricción y me mira con los ojos entrecerrados." nointeract
+    # n "Deciding to push a little further, I grip the base of his cock in an attempt to silently draw his attention once more. And it seems to work, given how [ch_ren] lets out a soft moan from the friction and glances down at me with half-lidded eyes." 
+    n "Decidiendo empujar un poco más, agarro la base de su polla en un intento de llamar silenciosamente su atención una vez más. Y parece funcionar, dado que [ch_ren] deja escapar un suave gemido por la fricción y me mira con los ojos entrecerrados." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1034
 translate Paloslios day4_wahooscene_b058532f:
 
-    # y "…What do {i}you{/i} need, baby?" nointeract
-    y "… ¿Qué necesitas {i}tú{/i}, cariño?" nointeract
+    # y "…What do {i}you{/i} need, baby?" 
+    y "… ¿Qué necesitas {i}tú{/i}, cariño?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1035
 translate Paloslios day4_wahooscene_58fed132:
 
-    # n "I'm not exactly sure where the affectionate name came from or why I said it, but it seems to do the trick as [ch_ren] practically throws his head back and tenderly cups my jaw." nointeract
-    n "No estoy exactamente seguro de dónde vino el nombre cariñoso o por qué lo dije, pero parece funcionar ya que [ch_ren] prácticamente echa la cabeza hacia atrás y acaricia tiernamente mi mandíbula." nointeract
+    # n "I'm not exactly sure where the affectionate name came from or why I said it, but it seems to do the trick as [ch_ren] practically throws his head back and tenderly cups my jaw." 
+    n "No estoy exactamente seguro de dónde vino el nombre cariñoso o por qué lo dije, pero parece funcionar ya que [ch_ren] prácticamente echa la cabeza hacia atrás y acaricia tiernamente mi mandíbula." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1036
 translate Paloslios day4_wahooscene_efe930b9:
 
-    # r "Your… Your mouth. I want your mouth on me again. Please?" nointeract
-    r "Tu… tu boca. Quiero tu boca sobre mí otra vez. ¿Por favor?" nointeract
+    # r "Your… Your mouth. I want your mouth on me again. Please?" 
+    r "Tu… tu boca. Quiero tu boca sobre mí otra vez. ¿Por favor?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1038
 translate Paloslios day4_wahooscene_6e587ec4:
 
-    # r "I'll do whatever you want after… I'll eat you out again if you want! Or press you against the wall 'n fuck you nice and hard—" nointeract
-    r "Haré lo que quieras después... ¡Te comeré de nuevo si quieres! O presionarte contra la pared y follarte bien y duro." nointeract
+    # r "I'll do whatever you want after… I'll eat you out again if you want! Or press you against the wall 'n fuck you nice and hard—" 
+    r "Haré lo que quieras después... ¡Te comeré de nuevo si quieres! O presionarte contra la pared y follarte bien y duro." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1040
 translate Paloslios day4_wahooscene_2a9fdf45:
 
-    # r "I'll do whatever you want after… You can even fuck {i}me{/i} this time— I'll… I'll be good for you!" nointeract
-    r "Haré lo que quieras después... Incluso puedes follarme {i}{/i} esta vez... Yo... ¡Seré bueno para ti!" nointeract
+    # r "I'll do whatever you want after… You can even fuck {i}me{/i} this time— I'll… I'll be good for you!" 
+    r "Haré lo que quieras después... Incluso puedes follarme {i}{/i} esta vez... Yo... ¡Seré bueno para ti!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1042
 translate Paloslios day4_wahooscene_a00e3cd1:
 
-    # r "I'll do anything you want afterwards… I don't care if someone walks in on us right now—" nointeract
-    r "Haré lo que quieras después... No me importa si alguien se nos acerca ahora mismo..." nointeract
+    # r "I'll do anything you want afterwards… I don't care if someone walks in on us right now—" 
+    r "Haré lo que quieras después... No me importa si alguien se nos acerca ahora mismo..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1043
 translate Paloslios day4_wahooscene_27e53c72:
 
-    # r "Please… I just need to feel your mouth again, and—" nointeract
-    r "Por favor... sólo necesito sentir tu boca otra vez, y..." nointeract
+    # r "Please… I just need to feel your mouth again, and—" 
+    r "Por favor... sólo necesito sentir tu boca otra vez, y..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1044
 translate Paloslios day4_wahooscene_88810082:
 
-    # n "Without missing a beat, I set back to work. Taking the flushed tip into my mouth once more, I wrap my lips around it and gently suck." nointeract
-    n "Sin perder el ritmo, me puse a trabajar. Meto la punta enrojecida en mi boca una vez más, la envuelvo con mis labios y la chupo suavemente." nointeract
+    # n "Without missing a beat, I set back to work. Taking the flushed tip into my mouth once more, I wrap my lips around it and gently suck." 
+    n "Sin perder el ritmo, me puse a trabajar. Meto la punta enrojecida en mi boca una vez más, la envuelvo con mis labios y la chupo suavemente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1045
 translate Paloslios day4_wahooscene_10e557ce:
 
-    # n "{b}More{/b} of [ch_ren]'s salty precum lands on my tongue, and I eagerly lap up everything he has to offer me with an impish smile." nointeract
-    n "{b}Más{/b} del líquido preseminal salado de [ch_ren] aterriza en mi lengua, y lamo con entusiasmo todo lo que tiene para ofrecerme con una sonrisa traviesa." nointeract
+    # n "{b}More{/b} of [ch_ren]'s salty precum lands on my tongue, and I eagerly lap up everything he has to offer me with an impish smile." 
+    n "{b}Más{/b} del líquido preseminal salado de [ch_ren] aterriza en mi lengua, y lamo con entusiasmo todo lo que tiene para ofrecerme con una sonrisa traviesa." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1046
 translate Paloslios day4_wahooscene_3bc8b98d:
 
-    # n "I'm rewarded with more of his addictive sounds, and the moment I run my tongue along one of the more prominent veins on his cock, it was almost as if I activated a switch." nointeract
-    n "Soy recompensada con más sonidos adictivos, y en el momento en que paso mi lengua por una de las venas más prominentes de su polla, fue casi como si activara un interruptor." nointeract
+    # n "I'm rewarded with more of his addictive sounds, and the moment I run my tongue along one of the more prominent veins on his cock, it was almost as if I activated a switch." 
+    n "Soy recompensada con más sonidos adictivos, y en el momento en que paso mi lengua por una de las venas más prominentes de su polla, fue casi como si activara un interruptor." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1047
 translate Paloslios day4_wahooscene_bfe98baa:
 
-    # n "All of a sudden, [ch_ren] seems all the more eager and chatty now — given how he slightly starts to buck his hips, moan my name, and lose himself in all the pleasure I was giving him." nointeract
-    n "De repente, [ch_ren] parece mucho más ansioso y conversador ahora, dado que comienza a mover ligeramente las caderas, gemir mi nombre y perderse en todo el placer que le estaba dando." nointeract
+    # n "All of a sudden, [ch_ren] seems all the more eager and chatty now — given how he slightly starts to buck his hips, moan my name, and lose himself in all the pleasure I was giving him." 
+    n "De repente, [ch_ren] parece mucho más ansioso y conversador ahora, dado que comienza a mover ligeramente las caderas, gemir mi nombre y perderse en todo el placer que le estaba dando." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1048
 translate Paloslios day4_wahooscene_67ce75ae:
 
-    # r "Could stay like this forever— Feels {i}soo{/i} good." nointeract
-    r "Podría permanecer así para siempre. Se siente {i}muy{/i} bien." nointeract
+    # r "Could stay like this forever— Feels {i}soo{/i} good." 
+    r "Podría permanecer así para siempre. Se siente {i}muy{/i} bien." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1049
 translate Paloslios day4_wahooscene_1601b8b2:
 
-    # r "Fuck— The next time I look at those tempting lips of yours, all I'll think about is this moment." nointeract
-    r "Joder... La próxima vez que mire esos tentadores labios tuyos, todo en lo que pensaré será en este momento." nointeract
+    # r "Fuck— The next time I look at those tempting lips of yours, all I'll think about is this moment." 
+    r "Joder... La próxima vez que mire esos tentadores labios tuyos, todo en lo que pensaré será en este momento." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1050
 translate Paloslios day4_wahooscene_d2c79dd4:
 
-    # r "You, on your knees, with my cock shoved halfway down your throat…" nointeract
-    r "Tú, de rodillas, con mi polla metida hasta la mitad de tu garganta…" nointeract
+    # r "You, on your knees, with my cock shoved halfway down your throat…" 
+    r "Tú, de rodillas, con mi polla metida hasta la mitad de tu garganta…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1051
 translate Paloslios day4_wahooscene_9dc6e5c9:
 
-    # r "Haah~ The thought alone is so… so— {i}Shit{/i}." nointeract
-    r "Haah~ El solo pensamiento es tan... tan— {i}Mierda{/i}." nointeract
+    # r "Haah~ The thought alone is so… so— {i}Shit{/i}." 
+    r "Haah~ El solo pensamiento es tan... tan— {i}Mierda{/i}." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1052
 translate Paloslios day4_wahooscene_12471a1f:
 
-    # n "His words do nothing but go straight to my core, and I eagerly pick up the pace in an attempt to hear more of them." nointeract
-    n "Sus palabras no hacen más que ir directamente a mi núcleo, y acelero el ritmo con entusiasmo en un intento de escuchar más de ellas." nointeract
+    # n "His words do nothing but go straight to my core, and I eagerly pick up the pace in an attempt to hear more of them." 
+    n "Sus palabras no hacen más que ir directamente a mi núcleo, y acelero el ritmo con entusiasmo en un intento de escuchar más de ellas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1053
 translate Paloslios day4_wahooscene_57790711:
 
-    # n "I hardly ever see this side of [ch_ren], and now that he's given me a taste, I only want more." nointeract
-    n "Casi nunca veo este lado de [ch_ren], y ahora que me ha dado una probada, sólo quiero más." nointeract
+    # n "I hardly ever see this side of [ch_ren], and now that he's given me a taste, I only want more." 
+    n "Casi nunca veo este lado de [ch_ren], y ahora que me ha dado una probada, sólo quiero más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1056
 translate Paloslios day4_wahooscene_b4b49027:
 
-    # n "Was this how [ch_ren] felt when he was sucking {b}my{/b} cock?" nointeract
-    n "¿Era así como se sentía [ch_ren] cuando estaba chupando {b}mi{/b} polla?" nointeract
+    # n "Was this how [ch_ren] felt when he was sucking {b}my{/b} cock?" 
+    n "¿Era así como se sentía [ch_ren] cuando estaba chupando {b}mi{/b} polla?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1058
 translate Paloslios day4_wahooscene_52e4bffe:
 
-    # n "Was this how [ch_ren] felt when his head was buried between my thighs?" nointeract
-    n "¿Fue así como se sintió [ch_ren] cuando su cabeza quedó enterrada entre mis muslos?" nointeract
+    # n "Was this how [ch_ren] felt when his head was buried between my thighs?" 
+    n "¿Fue así como se sintió [ch_ren] cuando su cabeza quedó enterrada entre mis muslos?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1060
 translate Paloslios day4_wahooscene_092cc6ef:
 
-    # n "Was this how [ch_ren] felt when he went down on me all those nights ago?" nointeract
-    n "¿Fue así como se sintió [ch_ren] cuando me atacó hace todas esas noches?" nointeract
+    # n "Was this how [ch_ren] felt when he went down on me all those nights ago?" 
+    n "¿Fue así como se sintió [ch_ren] cuando me atacó hace todas esas noches?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1063
 translate Paloslios day4_wahooscene_410610a9:
 
-    # n "Without wasting another second, I rest one of my hands on the base of his length once more while the other runs along any exposed skin it can find. His stomach, hips, thighs — anything to make him a shaking, blushing mess above me." nointeract
-    n "Sin perder un segundo más, apoyo una de mis manos en la base de su longitud una vez más mientras la otra recorre cualquier piel expuesta que pueda encontrar. Su estómago, caderas, muslos... cualquier cosa que lo hiciera temblar y sonrojarse encima de mí." nointeract
+    # n "Without wasting another second, I rest one of my hands on the base of his length once more while the other runs along any exposed skin it can find. His stomach, hips, thighs — anything to make him a shaking, blushing mess above me." 
+    n "Sin perder un segundo más, apoyo una de mis manos en la base de su longitud una vez más mientras la otra recorre cualquier piel expuesta que pueda encontrar. Su estómago, caderas, muslos... cualquier cosa que lo hiciera temblar y sonrojarse encima de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1064
 translate Paloslios day4_wahooscene_23b67813:
 
-    # n "This time, I try to take as much of [ch_ren]'s cock into my velvety mouth as I can, though it proved difficult given his sheer size." nointeract
-    n "Esta vez, trato de meter la mayor cantidad posible de la polla de [ch_ren] en mi boca aterciopelada, aunque resultó difícil dado su gran tamaño." nointeract
+    # n "This time, I try to take as much of [ch_ren]'s cock into my velvety mouth as I can, though it proved difficult given his sheer size." 
+    n "Esta vez, trato de meter la mayor cantidad posible de la polla de [ch_ren] en mi boca aterciopelada, aunque resultó difícil dado su gran tamaño." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1065
 translate Paloslios day4_wahooscene_33687eb0:
 
-    # n "It's becoming increasingly more difficult to ignore the dull ache in my jaw from keeping my mouth open for so long, so I instead focus on how [ch_ren] chants my name under his breath over and over again like a mantra." nointeract
-    n "Cada vez es más difícil ignorar el dolor sordo en mi mandíbula por mantener la boca abierta durante tanto tiempo, así que me concentro en cómo [ch_ren] canta mi nombre en voz baja una y otra vez como un mantra." nointeract
+    # n "It's becoming increasingly more difficult to ignore the dull ache in my jaw from keeping my mouth open for so long, so I instead focus on how [ch_ren] chants my name under his breath over and over again like a mantra." 
+    n "Cada vez es más difícil ignorar el dolor sordo en mi mandíbula por mantener la boca abierta durante tanto tiempo, así que me concentro en cómo [ch_ren] canta mi nombre en voz baja una y otra vez como un mantra." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1066
 translate Paloslios day4_wahooscene_890e19e7:
 
-    # r "[player_fl]-[ch_angel]… [ch_angel]— You're making me feel so— {i}Ah,{/i} [ch_angel]!" nointeract
-    r "[player_fl]-[ch_angel]… [ch_angel]— Me estás haciendo sentir tan— {i}¡Ah,{/i}[ch_angel]!" nointeract
+    # r "[player_fl]-[ch_angel]… [ch_angel]— You're making me feel so— {i}Ah,{/i} [ch_angel]!" 
+    r "[player_fl]-[ch_angel]… [ch_angel]— Me estás haciendo sentir tan— {i}¡Ah,{/i}[ch_angel]!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1067
 translate Paloslios day4_wahooscene_b8b2a5c1:
 
-    # n "I can't see his face anymore with how it's thrown back in pure ecstasy, so I settle for watching the sharp rise and fall of his chest instead." nointeract
-    n "Ya no puedo ver su rostro por cómo está echado hacia atrás en puro éxtasis, así que me conformo con observar el brusco subir y bajar de su pecho." nointeract
+    # n "I can't see his face anymore with how it's thrown back in pure ecstasy, so I settle for watching the sharp rise and fall of his chest instead." 
+    n "Ya no puedo ver su rostro por cómo está echado hacia atrás en puro éxtasis, así que me conformo con observar el brusco subir y bajar de su pecho." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1068
 translate Paloslios day4_wahooscene_c2b5574a:
 
-    # y "You look beautiful like this, [ch_ren]." nointeract
-    y "Te ves hermosa así, [ch_ren]." nointeract
+    # y "You look beautiful like this, [ch_ren]." 
+    y "Te ves hermosa así, [ch_ren]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1069
 translate Paloslios day4_wahooscene_5c8c2daa:
 
-    # r "…Wh-Wha—? {i}Hng!{/i}" nointeract
-    r "… ¿Q-Qu—? {i}¡Hng!{/i}" nointeract
+    # r "…Wh-Wha—? {i}Hng!{/i}" 
+    r "… ¿Q-Qu—? {i}¡Hng!{/i}" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1070
 translate Paloslios day4_wahooscene_0935e087:
 
-    # n "At that, he immediately covers his face with one of his sleeves — no doubt to hide his reddening cheeks — as he turns his head away from me." nointeract
-    n "Ante eso, inmediatamente se cubre la cara con una de sus mangas, sin duda para ocultar sus mejillas enrojecidas, mientras gira la cabeza lejos de mí." nointeract
+    # n "At that, he immediately covers his face with one of his sleeves — no doubt to hide his reddening cheeks — as he turns his head away from me." 
+    n "Ante eso, inmediatamente se cubre la cara con una de sus mangas, sin duda para ocultar sus mejillas enrojecidas, mientras gira la cabeza lejos de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1071
 translate Paloslios day4_wahooscene_42c1b537:
 
-    # n "…Even with his length out on full display in front of me, calling him beautiful was what made him flustered?" nointeract
-    n "…Incluso con su longitud a la vista frente a mí, ¿llamarlo hermoso fue lo que lo puso nervioso?" nointeract
+    # n "…Even with his length out on full display in front of me, calling him beautiful was what made him flustered?" 
+    n "…Incluso con su longitud a la vista frente a mí, ¿llamarlo hermoso fue lo que lo puso nervioso?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1072
 translate Paloslios day4_wahooscene_b9938a71:
 
-    # n "Admittedly, I {b}was{/b} having way too much fun teasing [ch_ren] in order to see all his different sounds and reactions, but I figured it was about time to let him have his release." nointeract
-    n "Es cierto que {b} me estaba divirtiendo demasiado provocando a [ch_ren] para poder ver todos sus diferentes sonidos y reacciones, pero pensé que ya era hora de dejarlo liberarse." nointeract
+    # n "Admittedly, I {b}was{/b} having way too much fun teasing [ch_ren] in order to see all his different sounds and reactions, but I figured it was about time to let him have his release." 
+    n "Es cierto que {b} me estaba divirtiendo demasiado provocando a [ch_ren] para poder ver todos sus diferentes sonidos y reacciones, pero pensé que ya era hora de dejarlo liberarse." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1073
 translate Paloslios day4_wahooscene_aa20d19b:
 
-    # n "Though he must've been getting close already, seeing as he was slowly starting to topple over and his words were beginning to slur." nointeract
-    n "Aunque ya debía haberse estado acercando, ya que lentamente comenzaba a caerse y sus palabras comenzaban a arrastrarse." nointeract
+    # n "Though he must've been getting close already, seeing as he was slowly starting to topple over and his words were beginning to slur." 
+    n "Aunque ya debía haberse estado acercando, ya que lentamente comenzaba a caerse y sus palabras comenzaban a arrastrarse." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1074
 translate Paloslios day4_wahooscene_b4c1b297:
 
-    # n "At this point, I can barely make out what he's saying outside of my own name and a few occasional moans." nointeract
-    n "En este punto, apenas puedo entender lo que dice aparte de mi propio nombre y algunos gemidos ocasionales." nointeract
+    # n "At this point, I can barely make out what he's saying outside of my own name and a few occasional moans." 
+    n "En este punto, apenas puedo entender lo que dice aparte de mi propio nombre y algunos gemidos ocasionales." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1076
 translate Paloslios day4_wahooscene_3f20b788:
 
-    # n "One of his hands soon slips further down until it reaches my neck, while the other clutches the shelf in a vice-like grip." nointeract
-    n "Una de sus manos pronto se desliza más abajo hasta llegar a mi cuello, mientras que la otra agarra el estante con fuerza." nointeract
+    # n "One of his hands soon slips further down until it reaches my neck, while the other clutches the shelf in a vice-like grip." 
+    n "Una de sus manos pronto se desliza más abajo hasta llegar a mi cuello, mientras que la otra agarra el estante con fuerza." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1078
 translate Paloslios day4_wahooscene_3b37d090:
 
-    # n "One of his hands soon finds its way into my hair, while the other clutches the shelf in a vice-like grip." nointeract
-    n "Una de sus manos pronto encuentra su camino hacia mi cabello, mientras que la otra agarra el estante con fuerza." nointeract
+    # n "One of his hands soon finds its way into my hair, while the other clutches the shelf in a vice-like grip." 
+    n "Una de sus manos pronto encuentra su camino hacia mi cabello, mientras que la otra agarra el estante con fuerza." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1079
 translate Paloslios day4_wahooscene_62d1114b:
 
-    # n "I can make out the faintest hint of sweat on his brows — though it disappears from view once [ch_ren] arches his spine and lets out a breathy groan from a particularly hard suck." nointeract
-    n "Puedo distinguir el más leve indicio de sudor en sus cejas, aunque desaparece de la vista una vez que [ch_ren] arquea su columna y deja escapar un gemido entrecortado por una succión particularmente fuerte." nointeract
+    # n "I can make out the faintest hint of sweat on his brows — though it disappears from view once [ch_ren] arches his spine and lets out a breathy groan from a particularly hard suck." 
+    n "Puedo distinguir el más leve indicio de sudor en sus cejas, aunque desaparece de la vista una vez que [ch_ren] arquea su columna y deja escapar un gemido entrecortado por una succión particularmente fuerte." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1080
 translate Paloslios day4_wahooscene_900ad8ff:
 
-    # r "You feel so good… Keep that up 'n I'll cum soon… A-Angel, I—" nointeract
-    r "Te sientes tan bien... Sigue así y me correré pronto... A-Ángel, yo—" nointeract
+    # r "You feel so good… Keep that up 'n I'll cum soon… A-Angel, I—" 
+    r "Te sientes tan bien... Sigue así y me correré pronto... A-Ángel, yo—" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1081
 translate Paloslios day4_wahooscene_04a484e1:
 
-    # r "Where do I— Where… Where do you want it?" nointeract
-    r "¿Dónde...? ¿Dónde...? ¿Dónde lo quieres?" nointeract
+    # r "Where do I— Where… Where do you want it?" 
+    r "¿Dónde...? ¿Dónde...? ¿Dónde lo quieres?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1082
 translate Paloslios day4_wahooscene_48546078:
 
-    # n "As if to answer, I wrap my lips tighter around his cock and give his thigh a soft squeeze." nointeract
-    n "Como para responder, envuelvo mis labios con más fuerza alrededor de su polla y le doy un suave apretón en el muslo." nointeract
+    # n "As if to answer, I wrap my lips tighter around his cock and give his thigh a soft squeeze." 
+    n "Como para responder, envuelvo mis labios con más fuerza alrededor de su polla y le doy un suave apretón en el muslo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1083
 translate Paloslios day4_wahooscene_330879c0:
 
-    # r "{i}Fuck.{/i}" nointeract
-    r "{i}Joder.{/i}" nointeract
+    # r "{i}Fuck.{/i}" 
+    r "{i}Joder.{/i}" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1084
 translate Paloslios day4_wahooscene_a6c0a0a6:
 
-    # n "Without any further warning, [ch_ren] doubles over as the feeling of something warm enters my mouth and coats my tongue in his sticky essence." nointeract
-    n "Sin más previo aviso, [ch_ren] se dobla cuando la sensación de algo cálido entra en mi boca y cubre mi lengua con su esencia pegajosa." nointeract
+    # n "Without any further warning, [ch_ren] doubles over as the feeling of something warm enters my mouth and coats my tongue in his sticky essence." 
+    n "Sin más previo aviso, [ch_ren] se dobla cuando la sensación de algo cálido entra en mi boca y cubre mi lengua con su esencia pegajosa." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1087
 translate Paloslios day4_wahooscene_25557c07:
 
-    # n "Not knowing what to do or whether I should spit out his cum somewhere, I end up swallowing it all with a faint moan of my own." nointeract
-    n "Sin saber qué hacer o si debería escupir su semen en alguna parte, termino tragándolo todo con un leve gemido." nointeract
+    # n "Not knowing what to do or whether I should spit out his cum somewhere, I end up swallowing it all with a faint moan of my own." 
+    n "Sin saber qué hacer o si debería escupir su semen en alguna parte, termino tragándolo todo con un leve gemido." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1088
 translate Paloslios day4_wahooscene_0872c393:
 
-    # n "The taste is slightly bitter, but I don't seem to mind it that much — especially when I get to see [ch_ren]'s blissed-out expression as he limply slides down to join me on the floor." nointeract
-    n "El sabor es ligeramente amargo, pero no parece importarme mucho, especialmente cuando veo la expresión de felicidad de [ch_ren] mientras se desliza sin fuerzas para unirse a mí en el suelo." nointeract
+    # n "The taste is slightly bitter, but I don't seem to mind it that much — especially when I get to see [ch_ren]'s blissed-out expression as he limply slides down to join me on the floor." 
+    n "El sabor es ligeramente amargo, pero no parece importarme mucho, especialmente cuando veo la expresión de felicidad de [ch_ren] mientras se desliza sin fuerzas para unirse a mí en el suelo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1089
 translate Paloslios day4_wahooscene_3c23e9aa:
 
-    # r "Th-Th… Thank… You…" nointeract
-    r "E-E... Gracias... Tú..." nointeract
+    # r "Th-Th… Thank… You…" 
+    r "E-E... Gracias... Tú..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1090
 translate Paloslios day4_wahooscene_4c332bd4:
 
-    # r "Felt so… s'good… Never came that hard before…" nointeract
-    r "Me sentí tan... bien... Nunca antes había sido tan difícil..." nointeract
+    # r "Felt so… s'good… Never came that hard before…" 
+    r "Me sentí tan... bien... Nunca antes había sido tan difícil..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1091
 translate Paloslios day4_wahooscene_1e8adc2e:
 
-    # n "His eyes were closed and he was panting like he had just run a marathon, though there was still something so innocent and ethereal about him." nointeract
-    n "Tenía los ojos cerrados y jadeaba como si acabara de correr una maratón, aunque todavía había algo tan inocente y etéreo en él." nointeract
+    # n "His eyes were closed and he was panting like he had just run a marathon, though there was still something so innocent and ethereal about him." 
+    n "Tenía los ojos cerrados y jadeaba como si acabara de correr una maratón, aunque todavía había algo tan inocente y etéreo en él." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1092
 translate Paloslios day4_wahooscene_d0a269e4:
 
-    # n "…How could he look so pretty after shooting his load inside my mouth?" nointeract
-    n "… ¿Cómo podía verse tan bonito después de disparar su carga dentro de mi boca?" nointeract
+    # n "…How could he look so pretty after shooting his load inside my mouth?" 
+    n "… ¿Cómo podía verse tan bonito después de disparar su carga dentro de mi boca?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1093
 translate Paloslios day4_wahooscene_615f3584:
 
-    # n "Before I have any time to dwell on it, the pink-haired man lets out another winded huff and tears me from my thoughts." nointeract
-    n "Antes de que tenga tiempo para pensar en ello, el hombre de cabello rosado deja escapar otro resoplido sin aliento y me saca de mis pensamientos." nointeract
+    # n "Before I have any time to dwell on it, the pink-haired man lets out another winded huff and tears me from my thoughts." 
+    n "Antes de que tenga tiempo para pensar en ello, el hombre de cabello rosado deja escapar otro resoplido sin aliento y me saca de mis pensamientos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1094
 translate Paloslios day4_wahooscene_a005ed53:
 
-    # n "Once his high finally dies down, [ch_ren] cracks open an eye — no doubt to look for me — as he lethargically extends an arm to pull me closer to his side." nointeract
-    n "Una vez que su efecto finalmente disminuye, [ch_ren] abre un ojo, sin duda para buscarme, mientras extiende letárgicamente un brazo para acercarme a su costado." nointeract
+    # n "Once his high finally dies down, [ch_ren] cracks open an eye — no doubt to look for me — as he lethargically extends an arm to pull me closer to his side." 
+    n "Una vez que su efecto finalmente disminuye, [ch_ren] abre un ojo, sin duda para buscarme, mientras extiende letárgicamente un brazo para acercarme a su costado." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1095
 translate Paloslios day4_wahooscene_c24b8bd1:
 
-    # n "In all honesty, I find it rather endearing to know how much of a cuddler he was after experiencing… {b}that{/b}. It was almost like I got my normal, shy [ch_ren] back." nointeract
-    n "Con toda honestidad, me resulta bastante entrañable saber hasta qué punto era un abrazador después de experimentar... {b}eso{/b}. Fue casi como si hubiera recuperado mi [ch_ren] tímido y normal." nointeract
+    # n "In all honesty, I find it rather endearing to know how much of a cuddler he was after experiencing… {b}that{/b}. It was almost like I got my normal, shy [ch_ren] back." 
+    n "Con toda honestidad, me resulta bastante entrañable saber hasta qué punto era un abrazador después de experimentar... {b}eso{/b}. Fue casi como si hubiera recuperado mi [ch_ren] tímido y normal." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1096
 translate Paloslios day4_wahooscene_ba6b074d:
 
-    # n "Wanting to indulge him for the moment, I meet [ch_ren] halfway and eagerly lean into his touch — only for him to scoot closer and cup my face once more." nointeract
-    n "Queriendo complacerlo por el momento, me encuentro con [ch_ren] a mitad de camino y con entusiasmo me inclino hacia su toque, solo para que él se acerque y acaricie mi cara una vez más." nointeract
+    # n "Wanting to indulge him for the moment, I meet [ch_ren] halfway and eagerly lean into his touch — only for him to scoot closer and cup my face once more." 
+    n "Queriendo complacerlo por el momento, me encuentro con [ch_ren] a mitad de camino y con entusiasmo me inclino hacia su toque, solo para que él se acerque y acaricie mi cara una vez más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1097
 translate Paloslios day4_wahooscene_464e9669:
 
-    # n "There's a look of pure, unbridled affection in his eyes as he tenderly brushes his thumb across my cheekbone — but it quickly gets replaced with something more mischievous once his fingers start to dip lower." nointeract
-    n "Hay una mirada de afecto puro y desenfrenado en sus ojos mientras pasa tiernamente su pulgar por mi pómulo, pero rápidamente es reemplazado por algo más travieso una vez que sus dedos comienzan a hundirse más." nointeract
+    # n "There's a look of pure, unbridled affection in his eyes as he tenderly brushes his thumb across my cheekbone — but it quickly gets replaced with something more mischievous once his fingers start to dip lower." 
+    n "Hay una mirada de afecto puro y desenfrenado en sus ojos mientras pasa tiernamente su pulgar por mi pómulo, pero rápidamente es reemplazado por algo más travieso una vez que sus dedos comienzan a hundirse más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1098
 translate Paloslios day4_wahooscene_fa5faad4:
 
-    # n "[ch_ren]'s thumb pushes and prods at my lower lip, and I send him a questioning glance to gauge his intentions." nointeract
-    n "El pulgar de [ch_ren] empuja y pincha mi labio inferior, y le envío una mirada inquisitiva para evaluar sus intenciones." nointeract
+    # n "[ch_ren]'s thumb pushes and prods at my lower lip, and I send him a questioning glance to gauge his intentions." 
+    n "El pulgar de [ch_ren] empuja y pincha mi labio inferior, y le envío una mirada inquisitiva para evaluar sus intenciones." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1099
 translate Paloslios day4_wahooscene_88b5d070:
 
-    # r "…Let me see? Please?" nointeract
-    r "…¿Déjeme ver? ¿Por favor?" nointeract
+    # r "…Let me see? Please?" 
+    r "…¿Déjeme ver? ¿Por favor?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1100
 translate Paloslios day4_wahooscene_160ebe83:
 
-    # n "Let him… See?" nointeract
-    n "Déjalo... ¿Ves?" nointeract
+    # n "Let him… See?" 
+    n "Déjalo... ¿Ves?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1101
 translate Paloslios day4_wahooscene_23fda02b:
 
-    # extend " {b}Oh.{/b}" nointeract
-    extend " {b}Oh.{/b}" nointeract
+    # extend " {b}Oh.{/b}" 
+    extend " {b}Oh.{/b}" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1102
 translate Paloslios day4_wahooscene_fa666122:
 
-    # n "When I open my mouth, [ch_ren] immediately takes notice of the fact that I swallowed {b}all{/b} of his cum and practically starts salivating at the sight. There's that same lovestruck look in his eyes, and I can't help but feed into it." nointeract
-    n "Cuando abro la boca, [ch_ren] inmediatamente se da cuenta del hecho de que tragué {b}todo{/b} de su semen y prácticamente comienza a salivar al verlo. Hay esa misma mirada enamorada en sus ojos, y no puedo evitar alimentarla." nointeract
+    # n "When I open my mouth, [ch_ren] immediately takes notice of the fact that I swallowed {b}all{/b} of his cum and practically starts salivating at the sight. There's that same lovestruck look in his eyes, and I can't help but feed into it." 
+    n "Cuando abro la boca, [ch_ren] inmediatamente se da cuenta del hecho de que tragué {b}todo{/b} de su semen y prácticamente comienza a salivar al verlo. Hay esa misma mirada enamorada en sus ojos, y no puedo evitar alimentarla." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1103
 translate Paloslios day4_wahooscene_78d356ff:
 
-    # n "But instead of taking things further like I initially expected, [ch_ren] takes me by surprise by leaning in to press a fervent kiss against my lips." nointeract
-    n "Pero en lugar de llevar las cosas más lejos como esperaba inicialmente, [ch_ren] me toma por sorpresa inclinándose para presionar un beso ferviente contra mis labios." nointeract
+    # n "But instead of taking things further like I initially expected, [ch_ren] takes me by surprise by leaning in to press a fervent kiss against my lips." 
+    n "Pero en lugar de llevar las cosas más lejos como esperaba inicialmente, [ch_ren] me toma por sorpresa inclinándose para presionar un beso ferviente contra mis labios." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1104
 translate Paloslios day4_wahooscene_85c9af37:
 
-    # y "Mmph!" nointeract
-    y "¡Mmph!" nointeract
+    # y "Mmph!" 
+    y "¡Mmph!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1105
 translate Paloslios day4_wahooscene_e6dcae43:
 
-    # n "I let out a faint hum as he guides me into a slow, ardent kiss — before he pulls away with dilated pupils and a dazed expression on his features." nointeract
-    n "Dejo escapar un leve zumbido mientras él me guía hacia un beso lento y ardiente, antes de que se aleje con las pupilas dilatadas y una expresión aturdida en sus rasgos." nointeract
+    # n "I let out a faint hum as he guides me into a slow, ardent kiss — before he pulls away with dilated pupils and a dazed expression on his features." 
+    n "Dejo escapar un leve zumbido mientras él me guía hacia un beso lento y ardiente, antes de que se aleje con las pupilas dilatadas y una expresión aturdida en sus rasgos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1106
 translate Paloslios day4_wahooscene_c418535f:
 
-    # n "There's an audible \"thump!\" as [ch_ren] leans against the shelf for the umpteenth time, and I can't resist the urge to perch myself in his lap and press him for answers." nointeract
-    n "¡Hay un \"golpe audible!\" mientras [ch_ren] se apoya en el estante por enésima vez, y no puedo resistir la tentación de sentarme en su regazo y presionarlo para obtener respuestas." nointeract
+    # n "There's an audible \"thump!\" as [ch_ren] leans against the shelf for the umpteenth time, and I can't resist the urge to perch myself in his lap and press him for answers." 
+    n "¡Hay un \"golpe audible!\" mientras [ch_ren] se apoya en el estante por enésima vez, y no puedo resistir la tentación de sentarme en su regazo y presionarlo para obtener respuestas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1107
 translate Paloslios day4_wahooscene_23151faf:
 
-    # y "So? How was it?" nointeract
-    y "¿Entonces? ¿Cómo fue?" nointeract
+    # y "So? How was it?" 
+    y "¿Entonces? ¿Cómo fue?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1108
 translate Paloslios day4_wahooscene_199e3bb7:
 
-    # r "Y-You must seriously be an angel… 'Swear you just took me to heaven." nointeract
-    r "En serio debes ser un ángel… 'Juro que me acabas de llevar al cielo." nointeract
+    # r "Y-You must seriously be an angel… 'Swear you just took me to heaven." 
+    r "En serio debes ser un ángel… 'Juro que me acabas de llevar al cielo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1109
 translate Paloslios day4_wahooscene_919d5f01:
 
-    # r "Here, lemme make {i}you{/i} feel good now. I can—" nointeract
-    r "Toma, déjame hacerte sentir bien {i}tú{/i} ahora. Puedo—" nointeract
+    # r "Here, lemme make {i}you{/i} feel good now. I can—" 
+    r "Toma, déjame hacerte sentir bien {i}tú{/i} ahora. Puedo—" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1110
 translate Paloslios day4_wahooscene_0f44dea8:
 
-    # n "I feel [ch_ren]'s hands travel down my sides and reach for my own unbuttoned bottoms, but I gently grab them and pull away." nointeract
-    n "Siento que las manos de [ch_ren] viajan por mis costados y alcanzan mis propios traseros desabotonados, pero los agarro suavemente y me alejo." nointeract
+    # n "I feel [ch_ren]'s hands travel down my sides and reach for my own unbuttoned bottoms, but I gently grab them and pull away." 
+    n "Siento que las manos de [ch_ren] viajan por mis costados y alcanzan mis propios traseros desabotonados, pero los agarro suavemente y me alejo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1111
 translate Paloslios day4_wahooscene_98e9781b:
 
-    # y "I-It's okay. This was more than enough for me." nointeract
-    y "E-está bien. Esto fue más que suficiente para mí." nointeract
+    # y "I-It's okay. This was more than enough for me." 
+    y "E-está bien. Esto fue más que suficiente para mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1112
 translate Paloslios day4_wahooscene_75a04b44:
 
-    # y "Besides, I think we should probably get out of here now. I'm surprised we've been in here for this long without getting interrupted." nointeract
-    y "Además, creo que probablemente deberíamos salir de aquí ahora. Me sorprende que hayamos estado aquí tanto tiempo sin que nos interrumpan." nointeract
+    # y "Besides, I think we should probably get out of here now. I'm surprised we've been in here for this long without getting interrupted." 
+    y "Además, creo que probablemente deberíamos salir de aquí ahora. Me sorprende que hayamos estado aquí tanto tiempo sin que nos interrumpan." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1113
 translate Paloslios day4_wahooscene_0a93eff5:
 
-    # r "Uh-huh…" nointeract
-    r "Ajá…" nointeract
+    # r "Uh-huh…" 
+    r "Ajá…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1114
 translate Paloslios day4_wahooscene_5ba073ca:
 
-    # n "Glancing up at [ch_ren], I notice how he {b}still{/b} seems dazed and boneless against the shelf as his eyes solely focus on my mouth." nointeract
-    n "Mirando a [ch_ren], noto cómo él {b}todavía{/b} parece aturdido y debilitado contra el estante mientras sus ojos se centran únicamente en mi boca." nointeract
+    # n "Glancing up at [ch_ren], I notice how he {b}still{/b} seems dazed and boneless against the shelf as his eyes solely focus on my mouth." 
+    n "Mirando a [ch_ren], noto cómo él {b}todavía{/b} parece aturdido y debilitado contra el estante mientras sus ojos se centran únicamente en mi boca." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1115
 translate Paloslios day4_wahooscene_9d741ecf:
 
-    # n "Holding back my laughter, I begin to tidy up my appearance and help [ch_ren] with his as well." nointeract
-    n "Conteniendo la risa, empiezo a arreglar mi apariencia y ayudo a [ch_ren] con la suya también." nointeract
+    # n "Holding back my laughter, I begin to tidy up my appearance and help [ch_ren] with his as well." 
+    n "Conteniendo la risa, empiezo a arreglar mi apariencia y ayudo a [ch_ren] con la suya también." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1130
 translate Paloslios day5_wahooscene_4a03334f:
 
-    # r "…Think I've got somethin' in mind." nointeract
-    r "…Creo que tengo algo en mente." nointeract
+    # r "…Think I've got somethin' in mind." 
+    r "…Creo que tengo algo en mente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1131
 translate Paloslios day5_wahooscene_c46c67ca:
 
-    # n "His voice startles me, and just as I'm about to respond, the thrilling sensation of [ch_ren]'s hands gliding down my sides halts my train of thought." nointeract
-    n "Su voz me sobresalta, y justo cuando estoy a punto de responder, la emocionante sensación de las manos de [ch_ren] deslizándose por mis costados detiene mi línea de pensamiento." nointeract
+    # n "His voice startles me, and just as I'm about to respond, the thrilling sensation of [ch_ren]'s hands gliding down my sides halts my train of thought." 
+    n "Su voz me sobresalta, y justo cuando estoy a punto de responder, la emocionante sensación de las manos de [ch_ren] deslizándose por mis costados detiene mi línea de pensamiento." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1132
 translate Paloslios day5_wahooscene_d722d64c:
 
-    # n "His touch alone is both addictive and electrifying, and the selfish parts of my mind keep screaming out for more." nointeract
-    n "Su toque por sí solo es adictivo y electrizante, y las partes egoístas de mi mente siguen gritando por más." nointeract
+    # n "His touch alone is both addictive and electrifying, and the selfish parts of my mind keep screaming out for more." 
+    n "Su toque por sí solo es adictivo y electrizante, y las partes egoístas de mi mente siguen gritando por más." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1133
 translate Paloslios day5_wahooscene_2d5c66fe:
 
-    # n "And just like I had attempted to do earlier, I feel [ch_ren]'s fingers inch closer and closer towards my core before they stop right at the opening of my bottoms — almost as if to tease me." nointeract
-    n "Y tal como había intentado hacer antes, siento los dedos de [ch_ren] cada vez más cerca de mi núcleo antes de detenerse justo en la apertura de mis nalgas, casi como para burlarse de mí." nointeract
+    # n "And just like I had attempted to do earlier, I feel [ch_ren]'s fingers inch closer and closer towards my core before they stop right at the opening of my bottoms — almost as if to tease me." 
+    n "Y tal como había intentado hacer antes, siento los dedos de [ch_ren] cada vez más cerca de mi núcleo antes de detenerse justo en la apertura de mis nalgas, casi como para burlarse de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1134
 translate Paloslios day5_wahooscene_bd380c3f:
 
-    # n "I can feel him lean {b}even closer{/b} now… Until all my senses are taken over by [ch_ren]." nointeract
-    n "Puedo sentirlo inclinarse {b}aún más cerca{/b} ahora... Hasta que todos mis sentidos sean tomados por [ch_ren]." nointeract
+    # n "I can feel him lean {b}even closer{/b} now… Until all my senses are taken over by [ch_ren]." 
+    n "Puedo sentirlo inclinarse {b}aún más cerca{/b} ahora... Hasta que todos mis sentidos sean tomados por [ch_ren]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1135
 translate Paloslios day5_wahooscene_ca003f87:
 
-    # r "Is this okay?" nointeract
-    r "¿Está bien?" nointeract
+    # r "Is this okay?" 
+    r "¿Está bien?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1136
 translate Paloslios day5_wahooscene_6847da19:
 
-    # n "Almost enthusiastically, I give him my consent by eagerly nodding my head — all while feeling my face heat up as I shamelessly guide his hand closer to where I need him the most." nointeract
-    n "Casi con entusiasmo, le doy mi consentimiento asintiendo con entusiasmo con la cabeza, mientras siento que mi cara se calienta mientras guío descaradamente su mano más cerca de donde más lo necesito." nointeract
+    # n "Almost enthusiastically, I give him my consent by eagerly nodding my head — all while feeling my face heat up as I shamelessly guide his hand closer to where I need him the most." 
+    n "Casi con entusiasmo, le doy mi consentimiento asintiendo con entusiasmo con la cabeza, mientras siento que mi cara se calienta mientras guío descaradamente su mano más cerca de donde más lo necesito." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1137
 translate Paloslios day5_wahooscene_b6561542:
 
-    # n "And without missing a beat, [ch_ren] responds with just as much enthusiasm as me; deftly undoing the constraints of my bottoms before slipping his hand into my underwear." nointeract
-    n "Y sin perder el ritmo, [ch_ren] responde con tanto entusiasmo como yo; Deshaciendo hábilmente las ataduras de mis nalgas antes de deslizar su mano en mi ropa interior." nointeract
+    # n "And without missing a beat, [ch_ren] responds with just as much enthusiasm as me; deftly undoing the constraints of my bottoms before slipping his hand into my underwear." 
+    n "Y sin perder el ritmo, [ch_ren] responde con tanto entusiasmo como yo; Deshaciendo hábilmente las ataduras de mis nalgas antes de deslizar su mano en mi ropa interior." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1139
 translate Paloslios day5_wahooscene_3de6960c:
 
-    # n "I have to stifle a moan once I feel the foreign sensation of his fingers running across my folds, and the next thing I know, he's pushing one of them inside and curling inwards." nointeract
-    n "Tengo que reprimir un gemido una vez que siento la extraña sensación de sus dedos recorriendo mis pliegues, y lo siguiente que sé es que está empujando uno de ellos hacia adentro y curvándose hacia adentro." nointeract
+    # n "I have to stifle a moan once I feel the foreign sensation of his fingers running across my folds, and the next thing I know, he's pushing one of them inside and curling inwards." 
+    n "Tengo que reprimir un gemido una vez que siento la extraña sensación de sus dedos recorriendo mis pliegues, y lo siguiente que sé es que está empujando uno de ellos hacia adentro y curvándose hacia adentro." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1140
 translate Paloslios day5_wahooscene_4f89b299:
 
-    # n "Another wave of pleasure wracks through me, and I cling onto [ch_ren]'s upper arm to stop myself from toppling over." nointeract
-    n "Otra ola de placer me atraviesa y me aferro a la parte superior del brazo de [ch_ren] para evitar caerme." nointeract
+    # n "Another wave of pleasure wracks through me, and I cling onto [ch_ren]'s upper arm to stop myself from toppling over." 
+    n "Otra ola de placer me atraviesa y me aferro a la parte superior del brazo de [ch_ren] para evitar caerme." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1142
 translate Paloslios day5_wahooscene_0be2080d:
 
-    # n "I have to stifle a moan once I feel the foreign sensation of his fingers brushing against my cock, and the next thing I know, he's grabbing it with one hand and giving the tip a small squeeze." nointeract
-    n "Tengo que reprimir un gemido una vez que siento la sensación extraña de sus dedos rozando mi polla, y lo siguiente que sé es que la está agarrando con una mano y apretando ligeramente la punta." nointeract
+    # n "I have to stifle a moan once I feel the foreign sensation of his fingers brushing against my cock, and the next thing I know, he's grabbing it with one hand and giving the tip a small squeeze." 
+    n "Tengo que reprimir un gemido una vez que siento la sensación extraña de sus dedos rozando mi polla, y lo siguiente que sé es que la está agarrando con una mano y apretando ligeramente la punta." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1143
 translate Paloslios day5_wahooscene_27faa9b3:
 
-    # n "The other hand swipes some of my precum to use as lube, before he uses a finger to push it inside of my hole." nointeract
-    n "La otra mano desliza un poco de mi líquido preseminal para usarlo como lubricante, antes de usar un dedo para empujarlo dentro de mi agujero." nointeract
+    # n "The other hand swipes some of my precum to use as lube, before he uses a finger to push it inside of my hole." 
+    n "La otra mano desliza un poco de mi líquido preseminal para usarlo como lubricante, antes de usar un dedo para empujarlo dentro de mi agujero." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1144
 translate Paloslios day5_wahooscene_4f89b299_1:
 
-    # n "Another wave of pleasure wracks through me, and I cling onto [ch_ren]'s upper arm to stop myself from toppling over." nointeract
-    n "Otra ola de placer me atraviesa y me aferro a la parte superior del brazo de [ch_ren] para evitar caerme." nointeract
+    # n "Another wave of pleasure wracks through me, and I cling onto [ch_ren]'s upper arm to stop myself from toppling over." 
+    n "Otra ola de placer me atraviesa y me aferro a la parte superior del brazo de [ch_ren] para evitar caerme." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1146
 translate Paloslios day5_wahooscene_e967ec2c:
 
-    # n "I have to stifle a moan once I feel the foreign sensation of his finger running across my hole and the next thing I know, he's pushing it inside and curling inwards." nointeract
-    n "Tengo que reprimir un gemido una vez que siento la extraña sensación de su dedo recorriendo mi agujero y lo siguiente que sé es que lo está empujando hacia adentro y curvándose hacia adentro." nointeract
+    # n "I have to stifle a moan once I feel the foreign sensation of his finger running across my hole and the next thing I know, he's pushing it inside and curling inwards." 
+    n "Tengo que reprimir un gemido una vez que siento la extraña sensación de su dedo recorriendo mi agujero y lo siguiente que sé es que lo está empujando hacia adentro y curvándose hacia adentro." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1147
 translate Paloslios day5_wahooscene_4f89b299_2:
 
-    # n "Another wave of pleasure wracks through me, and I cling onto [ch_ren]'s upper arm to stop myself from toppling over." nointeract
-    n "Otra ola de placer me atraviesa y me aferro a la parte superior del brazo de [ch_ren] para evitar caerme." nointeract
+    # n "Another wave of pleasure wracks through me, and I cling onto [ch_ren]'s upper arm to stop myself from toppling over." 
+    n "Otra ola de placer me atraviesa y me aferro a la parte superior del brazo de [ch_ren] para evitar caerme." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1148
 translate Paloslios day5_wahooscene_864805aa:
 
-    # r "Feeling good? You're practically leaking all over me, [ch_angel]." nointeract
-    r "¿Te sientes bien? Prácticamente estás goteando sobre mí, [ch_angel]." nointeract
+    # r "Feeling good? You're practically leaking all over me, [ch_angel]." 
+    r "¿Te sientes bien? Prácticamente estás goteando sobre mí, [ch_angel]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1149
 translate Paloslios day5_wahooscene_e1a2fc6a:
 
-    # r "'N I can feel the way you keep clenching down on my finger. Is that your body asking for more?" nointeract
-    r "'N Puedo sentir la forma en que sigues apretando mi dedo. ¿Es que tu cuerpo pide más?" nointeract
+    # r "'N I can feel the way you keep clenching down on my finger. Is that your body asking for more?" 
+    r "'N Puedo sentir la forma en que sigues apretando mi dedo. ¿Es que tu cuerpo pide más?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1150
 translate Paloslios day5_wahooscene_31b4587c:
 
-    # n "At that, [ch_ren] inserts {b}yet another{/b} long finger into me. Then another, before he starts pumping them in and out of me at a slow and torturous pace." nointeract
-    n "Ante eso, [ch_ren] inserta {b}otro{/b} dedo largo dentro de mí. Luego otro, antes de que empiece a bombearlos dentro y fuera de mí a un ritmo lento y tortuoso." nointeract
+    # n "At that, [ch_ren] inserts {b}yet another{/b} long finger into me. Then another, before he starts pumping them in and out of me at a slow and torturous pace." 
+    n "Ante eso, [ch_ren] inserta {b}otro{/b} dedo largo dentro de mí. Luego otro, antes de que empiece a bombearlos dentro y fuera de mí a un ritmo lento y tortuoso." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1151
 translate Paloslios day5_wahooscene_de8aec56:
 
-    # r "Heh, so greedy." nointeract
-    r "Je, qué codicioso." nointeract
+    # r "Heh, so greedy." 
+    r "Je, qué codicioso." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1152
 translate Paloslios day5_wahooscene_d5eb148b:
 
-    # n "There's an unmistakable tinge of mirth in [ch_ren]'s voice, indicating that he's clearly having the time of his life teasing me like this." nointeract
-    n "Hay un inconfundible matiz de alegría en la voz de [ch_ren], lo que indica que claramente se está divirtiendo como nunca burlándose de mí de esta manera." nointeract
+    # n "There's an unmistakable tinge of mirth in [ch_ren]'s voice, indicating that he's clearly having the time of his life teasing me like this." 
+    n "Hay un inconfundible matiz de alegría en la voz de [ch_ren], lo que indica que claramente se está divirtiendo como nunca burlándose de mí de esta manera." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1153
 translate Paloslios day5_wahooscene_8d987f75:
 
-    # r "Oh? Don't tell me you're still unsatisfied, even with three fingers inside of you?" nointeract
-    r "¿Oh? ¿No me digas que todavía estás insatisfecho, incluso con tres dedos dentro de ti?" nointeract
+    # r "Oh? Don't tell me you're still unsatisfied, even with three fingers inside of you?" 
+    r "¿Oh? ¿No me digas que todavía estás insatisfecho, incluso con tres dedos dentro de ti?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1154
 translate Paloslios day5_wahooscene_752233fc:
 
-    # r "Guess I'll have t'do something about this, huh?" nointeract
-    r "Supongo que tendré que hacer algo al respecto, ¿eh?" nointeract
+    # r "Guess I'll have t'do something about this, huh?" 
+    r "Supongo que tendré que hacer algo al respecto, ¿eh?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1155
 translate Paloslios day5_wahooscene_0e13b821:
 
-    # r "You need something… {i}bigger{/i} to fill you up, right?" nointeract
-    r "Necesitas algo... {i}más grande{/i} para llenarte, ¿verdad?" nointeract
+    # r "You need something… {i}bigger{/i} to fill you up, right?" 
+    r "Necesitas algo... {i}más grande{/i} para llenarte, ¿verdad?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1156
 translate Paloslios day5_wahooscene_fcbb5e34:
 
-    # n "Before I can respond, [ch_ren] cuts me off by lifting my hips to pull my bottoms all the way down." nointeract
-    n "Antes de que pueda responder, [ch_ren] me interrumpe levantando mis caderas para bajar mis nalgas por completo." nointeract
+    # n "Before I can respond, [ch_ren] cuts me off by lifting my hips to pull my bottoms all the way down." 
+    n "Antes de que pueda responder, [ch_ren] me interrumpe levantando mis caderas para bajar mis nalgas por completo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1157
 translate Paloslios day5_wahooscene_9b3d28c8:
 
-    # n "And had I not been so immersed in the way he was practically fingering me without a care in the world, I'm sure I would've felt even an inch of embarrassment for being so… exposed." nointeract
-    n "Y si no hubiera estado tan inmerso en la forma en que prácticamente me estaba tocando con los dedos sin ninguna preocupación en el mundo, estoy seguro de que habría sentido incluso una pulgada de vergüenza por estar tan… expuesto." nointeract
+    # n "And had I not been so immersed in the way he was practically fingering me without a care in the world, I'm sure I would've felt even an inch of embarrassment for being so… exposed." 
+    n "Y si no hubiera estado tan inmerso en la forma en que prácticamente me estaba tocando con los dedos sin ninguna preocupación en el mundo, estoy seguro de que habría sentido incluso una pulgada de vergüenza por estar tan… expuesto." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1158
 translate Paloslios day5_wahooscene_1ad58e88:
 
-    # n "Perhaps it's why I'm so thankful for the privacy the blanket around us provides — or for the fact that it easily muffles all the lewd sounds [ch_ren] was pulling from me." nointeract
-    n "Quizás es por eso que estoy tan agradecido por la privacidad que brinda la manta que nos rodea, o por el hecho de que amortigua fácilmente todos los sonidos lascivos que [ch_ren] me estaba sacando." nointeract
+    # n "Perhaps it's why I'm so thankful for the privacy the blanket around us provides — or for the fact that it easily muffles all the lewd sounds [ch_ren] was pulling from me." 
+    n "Quizás es por eso que estoy tan agradecido por la privacidad que brinda la manta que nos rodea, o por el hecho de que amortigua fácilmente todos los sonidos lascivos que [ch_ren] me estaba sacando." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1159
 translate Paloslios day5_wahooscene_dc2ec7e3:
 
-    # n "But still… I can't seem to comprehend how [ch_moth] still hasn't picked up on what we're doing yet." nointeract
-    n "Pero aún así… parece que no puedo comprender cómo [ch_moth] todavía no se ha dado cuenta de lo que estamos haciendo." nointeract
+    # n "But still… I can't seem to comprehend how [ch_moth] still hasn't picked up on what we're doing yet." 
+    n "Pero aún así… parece que no puedo comprender cómo [ch_moth] todavía no se ha dado cuenta de lo que estamos haciendo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1160
 translate Paloslios day5_wahooscene_dfd36c83:
 
-    # n "Not that I have much time to dwell on that thought, however, as I soon feel the tip of [ch_ren]'s cock prodding against my [hole]." nointeract
-    n "Sin embargo, no tengo mucho tiempo para pensar en ese pensamiento, ya que pronto siento la punta de la polla de [ch_ren] presionando contra mi [hole]." nointeract
+    # n "Not that I have much time to dwell on that thought, however, as I soon feel the tip of [ch_ren]'s cock prodding against my [hole!t]." 
+    n "Sin embargo, no tengo mucho tiempo para pensar en ese pensamiento, ya que pronto siento la punta de la polla de [ch_ren] presionando contra mi [hole!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1161
 translate Paloslios day5_wahooscene_0fa7003b:
 
-    # n "And yet… even after a heartbeat or two, he doesn't seem to go any further than that." nointeract
-    n "Y sin embargo... incluso después de uno o dos latidos, no parece ir más allá de eso." nointeract
+    # n "And yet… even after a heartbeat or two, he doesn't seem to go any further than that." 
+    n "Y sin embargo... incluso después de uno o dos latidos, no parece ir más allá de eso." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1162
 translate Paloslios day5_wahooscene_57ef9984:
 
-    # n "Before I can twist around to send [ch_ren] a questioning look, I feel a puff of warm air against the top of my head as he rests both of his hands atop my thighs." nointeract
-    n "Antes de que pueda girarme para enviarle a [ch_ren] una mirada inquisitiva, siento una bocanada de aire cálido contra la parte superior de mi cabeza mientras él apoya ambas manos sobre mis muslos." nointeract
+    # n "Before I can twist around to send [ch_ren] a questioning look, I feel a puff of warm air against the top of my head as he rests both of his hands atop my thighs." 
+    n "Antes de que pueda girarme para enviarle a [ch_ren] una mirada inquisitiva, siento una bocanada de aire cálido contra la parte superior de mi cabeza mientras él apoya ambas manos sobre mis muslos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1163
 translate Paloslios day5_wahooscene_600310a3:
 
-    # r "Only if you want to, [ch_angel]." nointeract
-    r "Sólo si quieres, [ch_angel]." nointeract
+    # r "Only if you want to, [ch_angel]." 
+    r "Sólo si quieres, [ch_angel]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1164
 translate Paloslios day5_wahooscene_b6afa687:
 
-    # r "If not… Just say the word, and we can stop." nointeract
-    r "Si no... Sólo di una palabra y podremos parar." nointeract
+    # r "If not… Just say the word, and we can stop." 
+    r "Si no... Sólo di una palabra y podremos parar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1165
 translate Paloslios day5_wahooscene_5043ec78:
 
-    # n "It's difficult to process [ch_ren]'s words with his hard length pressed against me in such an intimidating manner, but I try my best to ignore it and make sense of the words he's whispering to me." nointeract
-    n "Es difícil procesar las palabras de [ch_ren] con su dura longitud presionada contra mí de una manera tan intimidante, pero hago lo mejor que puedo para ignorarlo y darle sentido a las palabras que me susurra." nointeract
+    # n "It's difficult to process [ch_ren]'s words with his hard length pressed against me in such an intimidating manner, but I try my best to ignore it and make sense of the words he's whispering to me." 
+    n "Es difícil procesar las palabras de [ch_ren] con su dura longitud presionada contra mí de una manera tan intimidante, pero hago lo mejor que puedo para ignorarlo y darle sentido a las palabras que me susurra." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1166
 translate Paloslios day5_wahooscene_2cbd6cf7:
 
-    # y "…But what about you? I wouldn't want you to—" nointeract
-    y "… ¿Pero qué hay de ti? No quisiera que tú—" nointeract
+    # y "…But what about you? I wouldn't want you to—" 
+    y "… ¿Pero qué hay de ti? No quisiera que tú—" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1167
 translate Paloslios day5_wahooscene_160178dc:
 
-    # r "Don't worry about me. This is all about you and what {i}you{/i} want right now." nointeract
-    r "No te preocupes por mí. Todo esto se trata de ti y de lo que {i}tú{/i} quieres ahora mismo." nointeract
+    # r "Don't worry about me. This is all about you and what {i}you{/i} want right now." 
+    r "No te preocupes por mí. Todo esto se trata de ti y de lo que {i}tú{/i} quieres ahora mismo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1168
 translate Paloslios day5_wahooscene_afa7a192:
 
-    # r "Besides, I'm already more than satisfied with holding you in my arms like this." nointeract
-    r "Además, ya estoy más que satisfecho con tenerte en mis brazos así." nointeract
+    # r "Besides, I'm already more than satisfied with holding you in my arms like this." 
+    r "Además, ya estoy más que satisfecho con tenerte en mis brazos así." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1169
 translate Paloslios day5_wahooscene_fddf7475:
 
-    # r "As long as you're comfortable, I'm comfortable. We'll go as far as you want to go." nointeract
-    r "Mientras tú estés cómodo, yo estaré cómodo. Llegaremos tan lejos como quieras llegar." nointeract
+    # r "As long as you're comfortable, I'm comfortable. We'll go as far as you want to go." 
+    r "Mientras tú estés cómodo, yo estaré cómodo. Llegaremos tan lejos como quieras llegar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1170
 translate Paloslios day5_wahooscene_69b98ebe:
 
-    # n "[ch_ren]'s genuine concern and consideration for me pulls at my heartstrings and fills me with an all-too-familiar warmth. And so, with a newfound resolve, I give [ch_ren] my answer by rolling my hips and leaning further into his embrace." nointeract
-    n "La genuina preocupación y consideración de [ch_ren] por mí toca la fibra sensible de mi corazón y me llena de una calidez demasiado familiar. Y así, con una nueva resolución, le doy a [ch_ren] mi respuesta moviendo mis caderas e inclinándome más hacia su abrazo." nointeract
+    # n "[ch_ren]'s genuine concern and consideration for me pulls at my heartstrings and fills me with an all-too-familiar warmth. And so, with a newfound resolve, I give [ch_ren] my answer by rolling my hips and leaning further into his embrace." 
+    n "La genuina preocupación y consideración de [ch_ren] por mí toca la fibra sensible de mi corazón y me llena de una calidez demasiado familiar. Y así, con una nueva resolución, le doy a [ch_ren] mi respuesta moviendo mis caderas e inclinándome más hacia su abrazo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1171
 translate Paloslios day5_wahooscene_061b6d29:
 
-    # n "He seems to catch on quickly with the way his fingers {b}immediately{/b} inch further up my thighs, but I can tell that there's still the slightest hint of hesitation that's holding him back." nointeract
-    n "Parece darse cuenta rápidamente con la forma en que sus dedos {b}inmediatamente{/b} avanzan unos centímetros más hacia mis muslos, pero puedo decir que todavía hay un mínimo indicio de vacilación que lo está frenando." nointeract
+    # n "He seems to catch on quickly with the way his fingers {b}immediately{/b} inch further up my thighs, but I can tell that there's still the slightest hint of hesitation that's holding him back." 
+    n "Parece darse cuenta rápidamente con la forma en que sus dedos {b}inmediatamente{/b} avanzan unos centímetros más hacia mis muslos, pero puedo decir que todavía hay un mínimo indicio de vacilación que lo está frenando." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1172
 translate Paloslios day5_wahooscene_9982eec3:
 
-    # r "…You sure?" nointeract
-    r "…¿Seguro?" nointeract
+    # r "…You sure?" 
+    r "…¿Seguro?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1173
 translate Paloslios day5_wahooscene_d9295e3f:
 
-    # y "Positive. I wanna do this with you, [ch_ren]." nointeract
-    y "Positivo. Quiero hacer esto contigo, [ch_ren]." nointeract
+    # y "Positive. I wanna do this with you, [ch_ren]." 
+    y "Positivo. Quiero hacer esto contigo, [ch_ren]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1174
 translate Paloslios day5_wahooscene_39e28a9a:
 
-    # n "He lets out a breathy chuckle at my words before his head dips into the space between my shoulder and neck. I can feel him inhale slightly before his lips start to ghost along the sensitive patch of skin below my earlobe." nointeract
-    n "Deja escapar una risa entrecortada ante mis palabras antes de que su cabeza se sumerja en el espacio entre mi hombro y mi cuello. Puedo sentirlo inhalar ligeramente antes de que sus labios comiencen a recorrer el sensible parche de piel debajo del lóbulo de mi oreja." nointeract
+    # n "He lets out a breathy chuckle at my words before his head dips into the space between my shoulder and neck. I can feel him inhale slightly before his lips start to ghost along the sensitive patch of skin below my earlobe." 
+    n "Deja escapar una risa entrecortada ante mis palabras antes de que su cabeza se sumerja en el espacio entre mi hombro y mi cuello. Puedo sentirlo inhalar ligeramente antes de que sus labios comiencen a recorrer el sensible parche de piel debajo del lóbulo de mi oreja." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1179
 translate Paloslios day5_wahooscene_5a559fa2:
 
-    # y "Ah!" nointeract
-    y "¡Ah!" nointeract
+    # y "Ah!" 
+    y "¡Ah!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1180
 translate Paloslios day5_wahooscene_b1235351:
 
-    # r "Shh." nointeract
-    r "Shh." nointeract
+    # r "Shh." 
+    r "Shh." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1181
 translate Paloslios day5_wahooscene_483c02ab:
 
-    # n "As if to soothe me, [ch_ren] leans forward and places a gentle kiss against my cheek." nointeract
-    n "Como para calmarme, [ch_ren] se inclina hacia adelante y me da un suave beso en la mejilla." nointeract
+    # n "As if to soothe me, [ch_ren] leans forward and places a gentle kiss against my cheek." 
+    n "Como para calmarme, [ch_ren] se inclina hacia adelante y me da un suave beso en la mejilla." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1182
 translate Paloslios day5_wahooscene_3c9df695:
 
-    # n "But the chaste action seems a stark contrast to what he's currently doing underneath the blanket — which was to guide my hips lower and lower until I'm sinking down on his length and taking {b}every{/b} agonising inch of it inside me." nointeract
-    n "Pero la acción casta parece un marcado contraste con lo que él está haciendo actualmente debajo de la manta, que era guiar mis caderas cada vez más abajo hasta que me hundo en su longitud y tomo {b}cada{/b} centímetro agonizante dentro de mí." nointeract
+    # n "But the chaste action seems a stark contrast to what he's currently doing underneath the blanket — which was to guide my hips lower and lower until I'm sinking down on his length and taking {b}every{/b} agonising inch of it inside me." 
+    n "Pero la acción casta parece un marcado contraste con lo que él está haciendo actualmente debajo de la manta, que era guiar mis caderas cada vez más abajo hasta que me hundo en su longitud y tomo {b}cada{/b} centímetro agonizante dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1183
 translate Paloslios day5_wahooscene_e1997b37:
 
-    # n "There's an all too familiar burning sensation from the sheer size of him stretching out my walls, but I ignore it in favour of all the pleasure I feel from being so… full." nointeract
-    n "Hay una sensación de ardor muy familiar por el gran tamaño de él que se extiende por mis paredes, pero la ignoro en favor de todo el placer que siento por estar tan... lleno." nointeract
+    # n "There's an all too familiar burning sensation from the sheer size of him stretching out my walls, but I ignore it in favour of all the pleasure I feel from being so… full." 
+    n "Hay una sensación de ardor muy familiar por el gran tamaño de él que se extiende por mis paredes, pero la ignoro en favor de todo el placer que siento por estar tan... lleno." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1185
 translate Paloslios day5_wahooscene_20bcc779:
 
-    # n "At that, [ch_ren] carefully guides my hips lower and lower until I'm sinking down on his length and taking {b}every{/b} agonising inch of it inside me." nointeract
-    n "Ante eso, [ch_ren] guía cuidadosamente mis caderas cada vez más abajo hasta que me hundo en su longitud y tomo {b}cada{/b} centímetro agonizante dentro de mí." nointeract
+    # n "At that, [ch_ren] carefully guides my hips lower and lower until I'm sinking down on his length and taking {b}every{/b} agonising inch of it inside me." 
+    n "Ante eso, [ch_ren] guía cuidadosamente mis caderas cada vez más abajo hasta que me hundo en su longitud y tomo {b}cada{/b} centímetro agonizante dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1186
 translate Paloslios day5_wahooscene_671c29c6:
 
-    # n "There's an unfamiliar burning sensation from the sheer size of him stretching out my walls, but I ignore it in favour of all the pleasure I feel from being so… full." nointeract
-    n "Hay una sensación de ardor desconocida por el gran tamaño de él que se extiende por mis paredes, pero la ignoro en favor de todo el placer que siento por estar tan... lleno." nointeract
+    # n "There's an unfamiliar burning sensation from the sheer size of him stretching out my walls, but I ignore it in favour of all the pleasure I feel from being so… full." 
+    n "Hay una sensación de ardor desconocida por el gran tamaño de él que se extiende por mis paredes, pero la ignoro en favor de todo el placer que siento por estar tan... lleno." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1187
 translate Paloslios day5_wahooscene_ba769e25:
 
-    # r "Y-You feel better than anything I've ever imagined…" nointeract
-    r "T-Te sientes mejor que cualquier cosa que haya imaginado..." nointeract
+    # r "Y-You feel better than anything I've ever imagined…" 
+    r "T-Te sientes mejor que cualquier cosa que haya imaginado..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1188
 translate Paloslios day5_wahooscene_3982f8e5:
 
-    # r "Haa~ I can't believe we're actually doing this… I thought it would've happeed somewhere a bit more {i}private{/i}, but…" nointeract
-    r "Haa~ No puedo creer que estemos haciendo esto... Pensé que habría sucedido en algún lugar un poco más {i}privado{/i}, pero..." nointeract
+    # r "Haa~ I can't believe we're actually doing this… I thought it would've happeed somewhere a bit more {i}private{/i}, but…" 
+    r "Haa~ No puedo creer que estemos haciendo esto... Pensé que habría sucedido en algún lugar un poco más {i}privado{/i}, pero..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1189
 translate Paloslios day5_wahooscene_035f0b9a:
 
-    # r "Well, I'm not going to complain. You feel {i}amazing{/i}, Angel. I-I'm glad my first time is with you." nointeract
-    r "Bueno, no me voy a quejar. Te sientes {i}increíble{/i}, Ángel. Me alegro de que mi primera vez sea contigo." nointeract
+    # r "Well, I'm not going to complain. You feel {i}amazing{/i}, Angel. I-I'm glad my first time is with you." 
+    r "Bueno, no me voy a quejar. Te sientes {i}increíble{/i}, Ángel. Me alegro de que mi primera vez sea contigo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1190
 translate Paloslios day5_wahooscene_399f25b0:
 
-    # n "It's almost like a lifetime passes before [ch_ren] is fully sheathed inside of me, but just as I try to move, his hands hold me down and prevent me from squirming out of his reach." nointeract
-    n "Es casi como si pasara toda una vida antes de que [ch_ren] esté completamente enfundado dentro de mí, pero justo cuando intento moverme, sus manos me sujetan y evitan que me retuerza fuera de su alcance." nointeract
+    # n "It's almost like a lifetime passes before [ch_ren] is fully sheathed inside of me, but just as I try to move, his hands hold me down and prevent me from squirming out of his reach." 
+    n "Es casi como si pasara toda una vida antes de que [ch_ren] esté completamente enfundado dentro de mí, pero justo cuando intento moverme, sus manos me sujetan y evitan que me retuerza fuera de su alcance." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1191
 translate Paloslios day5_wahooscene_91053251:
 
-    # n "What was he…? Why didn't [ch_ren] want me to move? Was he still feeling sensitive?" nointeract
-    n "¿Qué era él...? ¿Por qué [ch_ren] no quería que me mudara? ¿Todavía se sentía sensible?" nointeract
+    # n "What was he…? Why didn't [ch_ren] want me to move? Was he still feeling sensitive?" 
+    n "¿Qué era él...? ¿Por qué [ch_ren] no quería que me mudara? ¿Todavía se sentía sensible?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1193
 translate Paloslios day5_wahooscene_7e617b8a:
 
-    # r "Uh-uh. You're not allowed to move yet. Consider this your punishment for all the teasing you did earlier." nointeract
-    r "Uh-uh. No tienes permitido moverte todavía. Considera esto como tu castigo por todas las burlas que hiciste antes." nointeract
+    # r "Uh-uh. You're not allowed to move yet. Consider this your punishment for all the teasing you did earlier." 
+    r "Uh-uh. No tienes permitido moverte todavía. Considera esto como tu castigo por todas las burlas que hiciste antes." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1194
 translate Paloslios day5_wahooscene_de74bcdd:
 
-    # y "[ch_ren], you can't be serious—" nointeract
-    y "[ch_ren], no puedes hablar en serio—" nointeract
+    # y "[ch_ren], you can't be serious—" 
+    y "[ch_ren], no puedes hablar en serio—" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1195
 translate Paloslios day5_wahooscene_a89206e1:
 
-    # r "Never been more serious in my entire life." nointeract
-    r "Nunca he sido más serio en toda mi vida." nointeract
+    # r "Never been more serious in my entire life." 
+    r "Nunca he sido más serio en toda mi vida." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1196
 translate Paloslios day5_wahooscene_94ddb697:
 
-    # r "In fact, maybe I should just stay like this for a little while longer. You wouldn't mind, right?" nointeract
-    r "De hecho, tal vez debería quedarme así un rato más. No te importaría, ¿verdad?" nointeract
+    # r "In fact, maybe I should just stay like this for a little while longer. You wouldn't mind, right?" 
+    r "De hecho, tal vez debería quedarme así un rato más. No te importaría, ¿verdad?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1198
 translate Paloslios day5_wahooscene_424c956c:
 
-    # r "As much as I want to consider this your punishment for all the teasing you did earlier…" nointeract
-    r "Por mucho que quiera considerar esto como tu castigo por todas las burlas que hiciste antes..." nointeract
+    # r "As much as I want to consider this your punishment for all the teasing you did earlier…" 
+    r "Por mucho que quiera considerar esto como tu castigo por todas las burlas que hiciste antes..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1199
 translate Paloslios day5_wahooscene_2125f4cc:
 
-    # r "This is still our first time together, and… I-I don't want to move too fast and hurt you." nointeract
-    r "Esta sigue siendo nuestra primera vez juntos, y... no quiero moverme demasiado rápido y lastimarte." nointeract
+    # r "This is still our first time together, and… I-I don't want to move too fast and hurt you." 
+    r "Esta sigue siendo nuestra primera vez juntos, y... no quiero moverme demasiado rápido y lastimarte." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1200
 translate Paloslios day5_wahooscene_4596121e:
 
-    # y "[ch_ren], it doesn't hurt that bad—" nointeract
-    y "[ch_ren], no duele tanto—" nointeract
+    # y "[ch_ren], it doesn't hurt that bad—" 
+    y "[ch_ren], no duele tanto—" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1201
 translate Paloslios day5_wahooscene_e62d9831:
 
-    # r "Then this is me making sure you're fully accustomed to my size before we go any further." nointeract
-    r "Entonces este soy yo, asegurándome de que estés completamente acostumbrado a mi tamaño antes de continuar." nointeract
+    # r "Then this is me making sure you're fully accustomed to my size before we go any further." 
+    r "Entonces este soy yo, asegurándome de que estés completamente acostumbrado a mi tamaño antes de continuar." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1202
 translate Paloslios day5_wahooscene_df3ae0bc:
 
-    # r "We don't have to rush this." nointeract
-    r "No tenemos que apresurarnos." nointeract
+    # r "We don't have to rush this." 
+    r "No tenemos que apresurarnos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1203
 translate Paloslios day5_wahooscene_ca51202e:
 
-    # r "Besides, I kind of want to keep you wrapped around me like this for a little while longer. You wouldn't mind, right?" nointeract
-    r "Además, quiero mantenerte a mi alrededor así por un rato más. No te importaría, ¿verdad?" nointeract
+    # r "Besides, I kind of want to keep you wrapped around me like this for a little while longer. You wouldn't mind, right?" 
+    r "Además, quiero mantenerte a mi alrededor así por un rato más. No te importaría, ¿verdad?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1204
 translate Paloslios day5_wahooscene_88e772c2:
 
-    # n "I {b}want{/b} to move, yet [ch_ren]'s hands remain firmly around my waist as he casually bucks up into me. All I'm able to do is grind against his dick while he lavishes my neck with endless kisses and love bites." nointeract
-    n "Yo {b}quiero{/b} moverme, pero las manos de [ch_ren] permanecen firmemente alrededor de mi cintura mientras casualmente se acerca a mí. Todo lo que puedo hacer es frotarme contra su polla mientras él prodiga mi cuello con interminables besos y mordiscos de amor." nointeract
+    # n "I {b}want{/b} to move, yet [ch_ren]'s hands remain firmly around my waist as he casually bucks up into me. All I'm able to do is grind against his dick while he lavishes my neck with endless kisses and love bites." 
+    n "Yo {b}quiero{/b} moverme, pero las manos de [ch_ren] permanecen firmemente alrededor de mi cintura mientras casualmente se acerca a mí. Todo lo que puedo hacer es frotarme contra su polla mientras él prodiga mi cuello con interminables besos y mordiscos de amor." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1205
 translate Paloslios day5_wahooscene_94a3911b:
 
-    # n "His hand doesn't stay idle for long either, as it eventually travels down my stomach to play with my [parts] and make me see stars." nointeract
-    n "Su mano tampoco permanece inactiva por mucho tiempo, ya que eventualmente baja por mi estómago para jugar con mi [parts] y hacerme ver estrellas." nointeract
+    # n "His hand doesn't stay idle for long either, as it eventually travels down my stomach to play with my [parts!t] and make me see stars." 
+    n "Su mano tampoco permanece inactiva por mucho tiempo, ya que eventualmente baja por mi estómago para jugar con mi [parts!t] y hacerme ver estrellas." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1206
 translate Paloslios day5_wahooscene_a9fa1d66:
 
-    # n "It soon reaches a point where I have to stifle every gasp and moan, lest I alert [ch_moth] and clue them into what we're currently doing." nointeract
-    n "Pronto llega un punto en el que tengo que reprimir cada jadeo y gemido, para no alertar a [ch_moth] y darles una pista de lo que estamos haciendo actualmente." nointeract
+    # n "It soon reaches a point where I have to stifle every gasp and moan, lest I alert [ch_moth] and clue them into what we're currently doing." 
+    n "Pronto llega un punto en el que tengo que reprimir cada jadeo y gemido, para no alertar a [ch_moth] y darles una pista de lo que estamos haciendo actualmente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1207
 translate Paloslios day5_wahooscene_9db0f140:
 
-    # n "But I can't seem to feel even an {b}ounce{/b} of embarrassment when [ch_ren] is languidly rolling his hips against mine and sending wave after wave of pleasure through my entire body." nointeract
-    n "Pero parece que no puedo sentir ni una {b}onza{/b} de vergüenza cuando [ch_ren] mueve lánguidamente sus caderas contra las mías y envía oleada tras oleada de placer por todo mi cuerpo." nointeract
+    # n "But I can't seem to feel even an {b}ounce{/b} of embarrassment when [ch_ren] is languidly rolling his hips against mine and sending wave after wave of pleasure through my entire body." 
+    n "Pero parece que no puedo sentir ni una {b}onza{/b} de vergüenza cuando [ch_ren] mueve lánguidamente sus caderas contra las mías y envía oleada tras oleada de placer por todo mi cuerpo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1208
 translate Paloslios day5_wahooscene_9a41308e:
 
-    # n "I've never felt so full in my life, and somehow, having [ch_ren] be this close to me felt oddly… intimate." nointeract
-    n "Nunca me había sentido tan plena en mi vida, y de alguna manera, tener a [ch_ren] tan cerca de mí me parecía extrañamente... íntimo." nointeract
+    # n "I've never felt so full in my life, and somehow, having [ch_ren] be this close to me felt oddly… intimate." 
+    n "Nunca me había sentido tan plena en mi vida, y de alguna manera, tener a [ch_ren] tan cerca de mí me parecía extrañamente... íntimo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1209
 translate Paloslios day5_wahooscene_c97db923:
 
-    # n "His chest is practically {b}glued{/b} to my backside as he leans over my shoulder to observe his ministrations, and having his free hand entwined with my own only makes the moment feel all the more tender." nointeract
-    n "Su pecho está prácticamente {b}pegado{/b} a mi trasero mientras se inclina sobre mi hombro para observar sus cuidados, y tener su mano libre entrelazada con la mía solo hace que el momento se sienta aún más tierno." nointeract
+    # n "His chest is practically {b}glued{/b} to my backside as he leans over my shoulder to observe his ministrations, and having his free hand entwined with my own only makes the moment feel all the more tender." 
+    n "Su pecho está prácticamente {b}pegado{/b} a mi trasero mientras se inclina sobre mi hombro para observar sus cuidados, y tener su mano libre entrelazada con la mía solo hace que el momento se sienta aún más tierno." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1210
 translate Paloslios day5_wahooscene_32b363f0:
 
-    # n "Without thinking — or perhaps it's because I'm too far gone in the hazy pleasure of it all — I let my head lull to the side and rest against his shoulder with a soft thump." nointeract
-    n "Sin pensar, o tal vez es porque estoy demasiado perdido en el confuso placer de todo esto, dejo que mi cabeza se incline hacia un lado y descanse contra su hombro con un suave golpe." nointeract
+    # n "Without thinking — or perhaps it's because I'm too far gone in the hazy pleasure of it all — I let my head lull to the side and rest against his shoulder with a soft thump." 
+    n "Sin pensar, o tal vez es porque estoy demasiado perdido en el confuso placer de todo esto, dejo que mi cabeza se incline hacia un lado y descanse contra su hombro con un suave golpe." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1212
 translate Paloslios day5_wahooscene_85a226d2:
 
-    # n "[ch_ren] wastes no time in turning his attention to the exposed shell of my ear once more, while his other hand goes back to pleasuring my [hole]." nointeract
-    n "[ch_ren] no pierde el tiempo en volver a centrar su atención en la cáscara expuesta de mi oreja, mientras su otra mano vuelve a complacer a mi [hole]." nointeract
+    # n "[ch_ren] wastes no time in turning his attention to the exposed shell of my ear once more, while his other hand goes back to pleasuring my [hole!t]." 
+    n "[ch_ren] no pierde el tiempo en volver a centrar su atención en la cáscara expuesta de mi oreja, mientras su otra mano vuelve a complacer a mi [hole!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1213
 translate Paloslios day5_wahooscene_3b27e8e7:
 
-    # n "His fingers feel so good, and I can't help but let out small moans every time he brushes against that sensitive spot inside me. At that, [ch_ren] {b}immediately{/b} perks up with a mischievous glint in his eyes." nointeract
-    n "Sus dedos se sienten tan bien, y no puedo evitar dejar escapar pequeños gemidos cada vez que roza ese punto sensible dentro de mí. Ante eso, [ch_ren]{b}inmediatamente{/b} se anima con un brillo travieso en sus ojos." nointeract
+    # n "His fingers feel so good, and I can't help but let out small moans every time he brushes against that sensitive spot inside me. At that, [ch_ren] {b}immediately{/b} perks up with a mischievous glint in his eyes." 
+    n "Sus dedos se sienten tan bien, y no puedo evitar dejar escapar pequeños gemidos cada vez que roza ese punto sensible dentro de mí. Ante eso, [ch_ren]{b}inmediatamente{/b} se anima con un brillo travieso en sus ojos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1215
 translate Paloslios day5_wahooscene_68c8a19e:
 
-    # n "[ch_ren] wastes no time in turning his attention to the exposed shell of my ear once more while his other hand goes back to fisting my [sex]." nointeract
-    n "[ch_ren] no pierde el tiempo en volver a centrar su atención en la cáscara expuesta de mi oreja mientras su otra mano vuelve a apretar mi [sex]." nointeract
+    # n "[ch_ren] wastes no time in turning his attention to the exposed shell of my ear once more while his other hand goes back to fisting my [sex!t]." 
+    n "[ch_ren] no pierde el tiempo en volver a centrar su atención en la cáscara expuesta de mi oreja mientras su otra mano vuelve a apretar mi [sex!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1216
 translate Paloslios day5_wahooscene_1573dc5d:
 
-    # n "His ministrations feel so good, and I can't help but let out small moans every time his thumb brushes against the tip. At that, [ch_ren] {b}immediately{/b} perks up with a mischievous glint in his eyes." nointeract
-    n "Sus cuidados se sienten tan bien, y no puedo evitar dejar escapar pequeños gemidos cada vez que su pulgar roza la punta. Ante eso, [ch_ren]{b}inmediatamente{/b} se anima con un brillo travieso en sus ojos." nointeract
+    # n "His ministrations feel so good, and I can't help but let out small moans every time his thumb brushes against the tip. At that, [ch_ren] {b}immediately{/b} perks up with a mischievous glint in his eyes." 
+    n "Sus cuidados se sienten tan bien, y no puedo evitar dejar escapar pequeños gemidos cada vez que su pulgar roza la punta. Ante eso, [ch_ren]{b}inmediatamente{/b} se anima con un brillo travieso en sus ojos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1218
 translate Paloslios day5_wahooscene_dfd02891:
 
-    # n "[ch_ren] wastes no time in turning his attention to the exposed shell of my ear once more while his other hand goes back to pleasuring my [hole]." nointeract
-    n "[ch_ren] no pierde el tiempo en volver a centrar su atención en la cáscara expuesta de mi oreja mientras su otra mano vuelve a complacer a mi [hole]." nointeract
+    # n "[ch_ren] wastes no time in turning his attention to the exposed shell of my ear once more while his other hand goes back to pleasuring my [hole!t]." 
+    n "[ch_ren] no pierde el tiempo en volver a centrar su atención en la cáscara expuesta de mi oreja mientras su otra mano vuelve a complacer a mi [hole!t]." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1219
 translate Paloslios day5_wahooscene_3b27e8e7_1:
 
-    # n "His fingers feel so good, and I can't help but let out small moans every time he brushes against that sensitive spot inside me. At that, [ch_ren] {b}immediately{/b} perks up with a mischievous glint in his eyes." nointeract
-    n "Sus dedos se sienten tan bien, y no puedo evitar dejar escapar pequeños gemidos cada vez que roza ese punto sensible dentro de mí. Ante eso, [ch_ren]{b}inmediatamente{/b} se anima con un brillo travieso en sus ojos." nointeract
+    # n "His fingers feel so good, and I can't help but let out small moans every time he brushes against that sensitive spot inside me. At that, [ch_ren] {b}immediately{/b} perks up with a mischievous glint in his eyes." 
+    n "Sus dedos se sienten tan bien, y no puedo evitar dejar escapar pequeños gemidos cada vez que roza ese punto sensible dentro de mí. Ante eso, [ch_ren]{b}inmediatamente{/b} se anima con un brillo travieso en sus ojos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1220
 translate Paloslios day5_wahooscene_a68744d1:
 
-    # r "Heh… I wonder if I can make you do that again. Though… Your friend would probably take notice, huh?" nointeract
-    r "Je… Me pregunto si puedo obligarte a hacer eso de nuevo. Aunque... Tu amigo probablemente se daría cuenta, ¿eh?" nointeract
+    # r "Heh… I wonder if I can make you do that again. Though… Your friend would probably take notice, huh?" 
+    r "Je… Me pregunto si puedo obligarte a hacer eso de nuevo. Aunque... Tu amigo probablemente se daría cuenta, ¿eh?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1221
 translate Paloslios day5_wahooscene_f3bb779e:
 
-    # r "I wouldn't mind that, actually." nointeract
-    r "En realidad, eso no me importaría." nointeract
+    # r "I wouldn't mind that, actually." 
+    r "En realidad, eso no me importaría." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1222
 translate Paloslios day5_wahooscene_2e2ce11a:
 
-    # r " There's something so… {i}thrilling{/i} about them catching us like this. You, in my lap while you cockwarm me." nointeract
-    r " Hay algo tan... {i}emocionante{/i} en que nos atrapen así. Tú, en mi regazo mientras me calientas la polla." nointeract
+    # r " There's something so… {i}thrilling{/i} about them catching us like this. You, in my lap while you cockwarm me." 
+    r " Hay algo tan... {i}emocionante{/i} en que nos atrapen así. Tú, en mi regazo mientras me calientas la polla." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1223
 translate Paloslios day5_wahooscene_2ff5ba43:
 
-    # r "At least then they'd understand that {i}I'm{/i} the only one who can make you feel this good." nointeract
-    r "Al menos entonces entenderían que {i}soy{/i} el único que puede hacerte sentir tan bien." nointeract
+    # r "At least then they'd understand that {i}I'm{/i} the only one who can make you feel this good." 
+    r "Al menos entonces entenderían que {i}soy{/i} el único que puede hacerte sentir tan bien." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1224
 translate Paloslios day5_wahooscene_671fc6aa:
 
-    # n "…It almost seems like [ch_ren] is rambling to {b}himself{/b} instead of me." nointeract
-    n "… Casi parece que [ch_ren] está divagando sobre {b}él mismo{/b} en lugar de mí." nointeract
+    # n "…It almost seems like [ch_ren] is rambling to {b}himself{/b} instead of me." 
+    n "… Casi parece que [ch_ren] está divagando sobre {b}él mismo{/b} en lugar de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1225
 translate Paloslios day5_wahooscene_477d8f1d:
 
-    # r "Must be gettin' hard for you to focus now, huh? Good, 'cause that's exactly what you do to me." nointeract
-    r "Debe resultarte difícil concentrarte ahora, ¿eh? Bien, porque eso es exactamente lo que me haces." nointeract
+    # r "Must be gettin' hard for you to focus now, huh? Good, 'cause that's exactly what you do to me." 
+    r "Debe resultarte difícil concentrarte ahora, ¿eh? Bien, porque eso es exactamente lo que me haces." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1226
 translate Paloslios day5_wahooscene_55dc3bda:
 
-    # r "Sometimes… Sometimes, I'd watch you while you worked at the library." nointeract
-    r "A veces… A veces, te observaba mientras trabajabas en la biblioteca." nointeract
+    # r "Sometimes… Sometimes, I'd watch you while you worked at the library." 
+    r "A veces… A veces, te observaba mientras trabajabas en la biblioteca." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1227
 translate Paloslios day5_wahooscene_fc10d0a3:
 
-    # r "It's always so hard f'me to focus on reading when you're constantly moving about. Y'know, bending down to pick up something or stretching upwards t'place a book on the shelf…" nointeract
-    r "Siempre me resulta muy difícil concentrarme en la lectura cuando estás en constante movimiento. Ya sabes, agacharte para recoger algo o estirarte hacia arriba para colocar un libro en el estante..." nointeract
+    # r "It's always so hard f'me to focus on reading when you're constantly moving about. Y'know, bending down to pick up something or stretching upwards t'place a book on the shelf…" 
+    r "Siempre me resulta muy difícil concentrarme en la lectura cuando estás en constante movimiento. Ya sabes, agacharte para recoger algo o estirarte hacia arriba para colocar un libro en el estante..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1228
 translate Paloslios day5_wahooscene_edfcf8fb:
 
-    # r "Sometimes I'd catch y'scent whenever you'd walk past the aisle I'm in, and then I'd have to resort to relieving myself in the—" nointeract
-    r "A veces captaba tu olor cada vez que pasabas por el pasillo en el que estoy, y luego tenía que recurrir a hacer mis necesidades en el..." nointeract
+    # r "Sometimes I'd catch y'scent whenever you'd walk past the aisle I'm in, and then I'd have to resort to relieving myself in the—" 
+    r "A veces captaba tu olor cada vez que pasabas por el pasillo en el que estoy, y luego tenía que recurrir a hacer mis necesidades en el..." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1229
 translate Paloslios day5_wahooscene_749689ad:
 
-    # r "Hey, are you listening to me?" nointeract
-    r "Oye, ¿me estás escuchando?" nointeract
+    # r "Hey, are you listening to me?" 
+    r "Oye, ¿me estás escuchando?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1231
 translate Paloslios day5_wahooscene_d276d064:
 
-    # n "It's extremely difficult to listen to {b}anything{/b} when all I can focus on is the way [ch_ren]'s hand expertly pumps my [sex] while his cock remains deep inside me." nointeract
-    n "Es extremadamente difícil escuchar {b}cualquier cosa{/b} cuando lo único en lo que puedo concentrarme es en la forma en que la mano de [ch_ren] bombea expertamente mi [sex] mientras su polla permanece profundamente dentro de mí." nointeract
+    # n "It's extremely difficult to listen to {b}anything{/b} when all I can focus on is the way [ch_ren]'s hand expertly pumps my [sex!t] while his cock remains deep inside me." 
+    n "Es extremadamente difícil escuchar {b}cualquier cosa{/b} cuando lo único en lo que puedo concentrarme es en la forma en que la mano de [ch_ren] bombea expertamente mi [sex!t] mientras su polla permanece profundamente dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1233
 translate Paloslios day5_wahooscene_717f1403:
 
-    # n "It's extremely difficult to listen to {b}anything{/b} when all I can focus on is the way [ch_ren]'s thick cock feels as it remains buried deep inside me." nointeract
-    n "Es extremadamente difícil escuchar {b} cualquier cosa {/b} cuando lo único en lo que puedo concentrarme es en cómo se siente la gruesa polla de [ch_ren] mientras permanece enterrada profundamente dentro de mí." nointeract
+    # n "It's extremely difficult to listen to {b}anything{/b} when all I can focus on is the way [ch_ren]'s thick cock feels as it remains buried deep inside me." 
+    n "Es extremadamente difícil escuchar {b} cualquier cosa {/b} cuando lo único en lo que puedo concentrarme es en cómo se siente la gruesa polla de [ch_ren] mientras permanece enterrada profundamente dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1234
 translate Paloslios day5_wahooscene_c124e0ce:
 
-    # r "Nothin' to say? Feels {i}that{/i} good, huh? Want more?" nointeract
-    r "¿Nada que decir? Se siente {i}ese{/i} bien, ¿eh? ¿Quieres más?" nointeract
+    # r "Nothin' to say? Feels {i}that{/i} good, huh? Want more?" 
+    r "¿Nada que decir? Se siente {i}ese{/i} bien, ¿eh? ¿Quieres más?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1235
 translate Paloslios day5_wahooscene_070beed8:
 
-    # y "P-Please." nointeract
-    y "P-Por favor." nointeract
+    # y "P-Please." 
+    y "P-Por favor." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1236
 translate Paloslios day5_wahooscene_5a639348:
 
-    # n "That alone seems to do the trick, as [ch_ren] moves one of his hands to my [bust] to play with a nipple." nointeract
-    n "Eso por sí solo parece funcionar, ya que [ch_ren] mueve una de sus manos hacia mi [bust] para jugar con un pezón." nointeract
+    # n "That alone seems to do the trick, as [ch_ren] moves one of his hands to my [bust!t] to play with a nipple." 
+    n "Eso por sí solo parece funcionar, ya que [ch_ren] mueve una de sus manos hacia mi [bust!t] para jugar con un pezón." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1237
 translate Paloslios day5_wahooscene_3b112065:
 
-    # n "I can't help but keen out as I feel him start to move his hips once more, before his soft lips return to the juncture between my shoulder and neck to plant {b}even more{/b} open-mouth kisses." nointeract
-    n "No puedo evitar gritar cuando siento que comienza a mover sus caderas una vez más, antes de que sus suaves labios regresen a la unión entre mi hombro y mi cuello para plantar {b}aún más{/b} besos con la boca abierta." nointeract
+    # n "I can't help but keen out as I feel him start to move his hips once more, before his soft lips return to the juncture between my shoulder and neck to plant {b}even more{/b} open-mouth kisses." 
+    n "No puedo evitar gritar cuando siento que comienza a mover sus caderas una vez más, antes de que sus suaves labios regresen a la unión entre mi hombro y mi cuello para plantar {b}aún más{/b} besos con la boca abierta." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1238
 translate Paloslios day5_wahooscene_52ca4d53:
 
-    # n "Hearing him groan so close to my ear sends goosebumps all over my body, and the brazen part of me silently hopes that he'd do it again." nointeract
-    n "Escucharlo gemir tan cerca de mi oído me pone la piel de gallina por todo el cuerpo, y la parte descarada de mí espera en silencio que lo vuelva a hacer." nointeract
+    # n "Hearing him groan so close to my ear sends goosebumps all over my body, and the brazen part of me silently hopes that he'd do it again." 
+    n "Escucharlo gemir tan cerca de mi oído me pone la piel de gallina por todo el cuerpo, y la parte descarada de mí espera en silencio que lo vuelva a hacer." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1239
 translate Paloslios day5_wahooscene_5c558e1b:
 
-    # r "Think you've been patient long enough. Time for your reward." nointeract
-    r "Piensa que has sido paciente lo suficiente. Es hora de tu recompensa." nointeract
+    # r "Think you've been patient long enough. Time for your reward." 
+    r "Piensa que has sido paciente lo suficiente. Es hora de tu recompensa." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1240
 translate Paloslios day5_wahooscene_da7737b8:
 
-    # y "Hnng!" nointeract
-    y "¡Mmm!" nointeract
+    # y "Hnng!" 
+    y "¡Mmm!" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1241
 translate Paloslios day5_wahooscene_5683b1f2:
 
-    # n "The next thing I know, [ch_ren] starts moving my hips {b}for real{/b} this time — almost like he was using me as his own personal fleshlight — before he bites down on my neck with a moan." nointeract
-    n "Lo siguiente que sé es que [ch_ren] comienza a mover mis caderas {b}de verdad{/b} esta vez, casi como si me estuviera usando como su propia luz personal, antes de morder mi cuello con un gemido." nointeract
+    # n "The next thing I know, [ch_ren] starts moving my hips {b}for real{/b} this time — almost like he was using me as his own personal fleshlight — before he bites down on my neck with a moan." 
+    n "Lo siguiente que sé es que [ch_ren] comienza a mover mis caderas {b}de verdad{/b} esta vez, casi como si me estuviera usando como su propia luz personal, antes de morder mi cuello con un gemido." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1242
 translate Paloslios day5_wahooscene_04ea81d1:
 
-    # n "The only things I can focus on are the way his cock pumps in and out of me, the feeling of his lips against my skin, and the lewd squelching sounds being muffled by the blanket." nointeract
-    n "Las únicas cosas en las que puedo concentrarme son la forma en que su polla entra y sale de mí, la sensación de sus labios contra mi piel y los sonidos lascivos amortiguados por la manta." nointeract
+    # n "The only things I can focus on are the way his cock pumps in and out of me, the feeling of his lips against my skin, and the lewd squelching sounds being muffled by the blanket." 
+    n "Las únicas cosas en las que puedo concentrarme son la forma en que su polla entra y sale de mí, la sensación de sus labios contra mi piel y los sonidos lascivos amortiguados por la manta." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1243
 translate Paloslios day5_wahooscene_1bfb66dd:
 
-    # n "And perhaps it's from the thrill of getting caught, but for some reason, I feel a rush of adrenaline course through me." nointeract
-    n "Y tal vez sea por la emoción de ser atrapado, pero por alguna razón, siento una descarga de adrenalina a través de mí." nointeract
+    # n "And perhaps it's from the thrill of getting caught, but for some reason, I feel a rush of adrenaline course through me." 
+    n "Y tal vez sea por la emoción de ser atrapado, pero por alguna razón, siento una descarga de adrenalina a través de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1245
 translate Paloslios day5_wahooscene_43aca612:
 
-    # n "It's so unlike anything else I've felt before — especially compared to the last time I'd gotten intimate with [ch_ren]. I mean, the very first time we'd done something like this, it was in the privacy of my own room. But this? This was completely different." nointeract
-    n "Es muy diferente a todo lo que he sentido antes, especialmente en comparación con la última vez que tuve intimidad con [ch_ren]. Quiero decir, la primera vez que hicimos algo como esto, fue en la privacidad de mi propia habitación. ¿Pero esto? Esto fue completamente diferente." nointeract
+    # n "It's so unlike anything else I've felt before — especially compared to the last time I'd gotten intimate with [ch_ren]. I mean, the very first time we'd done something like this, it was in the privacy of my own room. But this? This was completely different." 
+    n "Es muy diferente a todo lo que he sentido antes, especialmente en comparación con la última vez que tuve intimidad con [ch_ren]. Quiero decir, la primera vez que hicimos algo como esto, fue en la privacidad de mi propia habitación. ¿Pero esto? Esto fue completamente diferente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1246
 translate Paloslios day5_wahooscene_ed0f767a:
 
-    # n "And on a completely different level." nointeract
-    n "Y en un nivel completamente diferente." nointeract
+    # n "And on a completely different level." 
+    n "Y en un nivel completamente diferente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1248
 translate Paloslios day5_wahooscene_20cac567:
 
-    # n "This euphoric feeling [ch_ren] is currently giving me is so unlike anything else I've experienced before. And on a completely different level." nointeract
-    n "Este sentimiento de euforia que [ch_ren] me está dando actualmente no se parece a nada que haya experimentado antes. Y en un nivel completamente diferente." nointeract
+    # n "This euphoric feeling [ch_ren] is currently giving me is so unlike anything else I've experienced before. And on a completely different level." 
+    n "Este sentimiento de euforia que [ch_ren] me está dando actualmente no se parece a nada que haya experimentado antes. Y en un nivel completamente diferente." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1249
 translate Paloslios day5_wahooscene_859e991b:
 
-    # n "[ch_ren] must be on a similar wavelength as me, as every so often, I catch him sneaking glances in [ch_moth]'s direction with a familiar glint in his eyes." nointeract
-    n "[ch_ren] debe estar en una longitud de onda similar a la mía, ya que de vez en cuando, lo veo mirando furtivamente en dirección a [ch_moth] con un brillo familiar en sus ojos." nointeract
+    # n "[ch_ren] must be on a similar wavelength as me, as every so often, I catch him sneaking glances in [ch_moth]'s direction with a familiar glint in his eyes." 
+    n "[ch_ren] debe estar en una longitud de onda similar a la mía, ya que de vez en cuando, lo veo mirando furtivamente en dirección a [ch_moth] con un brillo familiar en sus ojos." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1250
 translate Paloslios day5_wahooscene_6877bf30:
 
-    # n "Was he making sure we wouldn't get caught, or…" nointeract
-    n "¿Se estaba asegurando de que no nos atraparan o...?" nointeract
+    # n "Was he making sure we wouldn't get caught, or…" 
+    n "¿Se estaba asegurando de que no nos atraparan o...?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1251
 translate Paloslios day5_wahooscene_3dde2081:
 
-    # n "Did he {b}want{/b} [ch_moth] to turn around and catch us in the act?" nointeract
-    n "¿Él {b}quería{/b}[ch_moth] darse la vuelta y atraparnos en el acto?" nointeract
+    # n "Did he {b}want{/b} [ch_moth] to turn around and catch us in the act?" 
+    n "¿Él {b}quería{/b}[ch_moth] darse la vuelta y atraparnos en el acto?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1252
 translate Paloslios day5_wahooscene_af9808c7:
 
-    # n "I wonder if—" nointeract
-    n "Me pregunto si—" nointeract
+    # n "I wonder if—" 
+    n "Me pregunto si—" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1253
 translate Paloslios day5_wahooscene_ddd4e4a9:
 
-    # r "Think they'd want photos of Haruko doing somethin' indecent like this?" nointeract
-    r "¿Crees que querrían fotos de Haruko haciendo algo indecente como esto?" nointeract
+    # r "Think they'd want photos of Haruko doing somethin' indecent like this?" 
+    r "¿Crees que querrían fotos de Haruko haciendo algo indecente como esto?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1254
 translate Paloslios day5_wahooscene_86b23068:
 
-    # r "I know I would. Seems fair, don't you think? I mean, you have all those photos of {i}me{/i} at the beach…" nointeract
-    r "Sé que lo haría. Parece justo, ¿no crees? Quiero decir, tienes todas esas fotos mías {i}{/i} en la playa…" nointeract
+    # r "I know I would. Seems fair, don't you think? I mean, you have all those photos of {i}me{/i} at the beach…" 
+    r "Sé que lo haría. Parece justo, ¿no crees? Quiero decir, tienes todas esas fotos mías {i}{/i} en la playa…" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1255
 translate Paloslios day5_wahooscene_a10d22b6:
 
-    # r "Shouldn't I have photos of {i}you{/i} like this? Spread out and bouncing on my cock like your life depends on it?" nointeract
-    r "¿No debería tener fotos tuyas {i}{/i} como esta? ¿Te extiendes y rebotas sobre mi polla como si tu vida dependiera de ello?" nointeract
+    # r "Shouldn't I have photos of {i}you{/i} like this? Spread out and bouncing on my cock like your life depends on it?" 
+    r "¿No debería tener fotos tuyas {i}{/i} como esta? ¿Te extiendes y rebotas sobre mi polla como si tu vida dependiera de ello?" 
 
 # game/14 Nights With You/14nightswithyou.rpy:1256
 translate Paloslios day5_wahooscene_054838d0:
 
-    # r "Hehe~ just kidding." nointeract
-    r "Jeje~ es broma." nointeract
+    # r "Hehe~ just kidding." 
+    r "Jeje~ es broma." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1257
 translate Paloslios day5_wahooscene_960a210f:
 
-    # r "Besides… Photos can't compare to having the real deal right in front of me." nointeract
-    r "Además... Las fotos no se pueden comparar con tener el verdadero negocio justo frente a mí." nointeract
+    # r "Besides… Photos can't compare to having the real deal right in front of me." 
+    r "Además... Las fotos no se pueden comparar con tener el verdadero negocio justo frente a mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1258
 translate Paloslios day5_wahooscene_7a81bf4c:
 
-    # r "Bein' able to fuck you like this {i}definitely{/i} beats doing it with my hand." nointeract
-    r "Ser capaz de follarte así {i}definitivamente{/i} es mejor que hacerlo con la mano." nointeract
+    # r "Bein' able to fuck you like this {i}definitely{/i} beats doing it with my hand." 
+    r "Ser capaz de follarte así {i}definitivamente{/i} es mejor que hacerlo con la mano." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1259
 translate Paloslios day5_wahooscene_49fe5bde:
 
-    # r "It's the same for you, right? D'you like doing it with me the most? You know you can come to me anytime. I'd never deny you." nointeract
-    r "A ti te pasa lo mismo ¿verdad? ¿Te gusta más hacerlo conmigo? Sabes que puedes venir a verme en cualquier momento. Nunca te lo negaría." nointeract
+    # r "It's the same for you, right? D'you like doing it with me the most? You know you can come to me anytime. I'd never deny you." 
+    r "A ti te pasa lo mismo ¿verdad? ¿Te gusta más hacerlo conmigo? Sabes que puedes venir a verme en cualquier momento. Nunca te lo negaría." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1260
 translate Paloslios day5_wahooscene_89e4fb17:
 
-    # n "As he says that, the tip of [ch_ren]'s length brushes against that sensitive spot inside of me, which has me throwing my head back as I keen out." nointeract
-    n "Mientras dice eso, la punta de la longitud de [ch_ren] roza ese punto sensible dentro de mí, lo que me hace echar la cabeza hacia atrás mientras salgo." nointeract
+    # n "As he says that, the tip of [ch_ren]'s length brushes against that sensitive spot inside of me, which has me throwing my head back as I keen out." 
+    n "Mientras dice eso, la punta de la longitud de [ch_ren] roza ese punto sensible dentro de mí, lo que me hace echar la cabeza hacia atrás mientras salgo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1261
 translate Paloslios day5_wahooscene_0ad279ea:
 
-    # n "My hips shamelessly move out of their own volition at this point, and I meet every single one of [ch_ren]'s thrusts as he bucks up into me with reckless abandon. Soon enough, I can feel myself slowly inching closer and closer to my peak." nointeract
-    n "Mis caderas se mueven descaradamente por su propia voluntad en este punto, y me encuentro con cada uno de los empujones de [ch_ren] mientras él se empuja hacia mí con imprudente abandono. Muy pronto, puedo sentir que me acerco cada vez más a mi punto máximo." nointeract
+    # n "My hips shamelessly move out of their own volition at this point, and I meet every single one of [ch_ren]'s thrusts as he bucks up into me with reckless abandon. Soon enough, I can feel myself slowly inching closer and closer to my peak." 
+    n "Mis caderas se mueven descaradamente por su propia voluntad en este punto, y me encuentro con cada uno de los empujones de [ch_ren] mientras él se empuja hacia mí con imprudente abandono. Muy pronto, puedo sentir que me acerco cada vez más a mi punto máximo." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1264
 translate Paloslios day5_wahooscene_b3fe7aea:
 
-    # n "My eyes squeeze shut the moment [ch_ren] pulls me down {b}fully{/b} onto his cock, and I begin to see stars the moment his thighs are flush against my own as he ruts his length inside of me." nointeract
-    n "Mis ojos se cierran con fuerza en el momento en que [ch_ren] me empuja hacia abajo {b}completamente{/b} sobre su polla, y empiezo a ver estrellas en el momento en que sus muslos están al ras contra los míos mientras se mete dentro de mí." nointeract
+    # n "My eyes squeeze shut the moment [ch_ren] pulls me down {b}fully{/b} onto his cock, and I begin to see stars the moment his thighs are flush against my own as he ruts his length inside of me." 
+    n "Mis ojos se cierran con fuerza en el momento en que [ch_ren] me empuja hacia abajo {b}completamente{/b} sobre su polla, y empiezo a ver estrellas en el momento en que sus muslos están al ras contra los míos mientras se mete dentro de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1265
 translate Paloslios day5_wahooscene_056e8a72:
 
-    # n "The next thing I know, the warmth of his seed spills inside of me as I find my own release shortly after." nointeract
-    n "Lo siguiente que sé es que el calor de su semilla se derrama dentro de mí mientras encuentro mi propia liberación poco después." nointeract
+    # n "The next thing I know, the warmth of his seed spills inside of me as I find my own release shortly after." 
+    n "Lo siguiente que sé es que el calor de su semilla se derrama dentro de mí mientras encuentro mi propia liberación poco después." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1266
 translate Paloslios day5_wahooscene_8ba4a800:
 
-    # n "With one final, satisfied sigh, my body languidly slumps against [ch_ren]'s embrace as I hear him chuckle from somewhere above me." nointeract
-    n "Con un último suspiro de satisfacción, mi cuerpo se desploma lánguidamente contra el abrazo de [ch_ren] mientras lo oigo reír desde algún lugar encima de mí." nointeract
+    # n "With one final, satisfied sigh, my body languidly slumps against [ch_ren]'s embrace as I hear him chuckle from somewhere above me." 
+    n "Con un último suspiro de satisfacción, mi cuerpo se desploma lánguidamente contra el abrazo de [ch_ren] mientras lo oigo reír desde algún lugar encima de mí." 
 
 # game/14 Nights With You/14nightswithyou.rpy:1267
 translate Paloslios day5_wahooscene_542aa5d6:
 
-    # n "My eyes feel droopy all of a sudden, and I end up drifting off in [ch_ren]'s arms." nointeract
-    n "Mis ojos se sienten caídos de repente y termino quedándome dormido en los brazos de [ch_ren]." nointeract
+    # n "My eyes feel droopy all of a sudden, and I end up drifting off in [ch_ren]'s arms." 
+    n "Mis ojos se sienten caídos de repente y termino quedándome dormido en los brazos de [ch_ren]." 
 
 # game/14 Nights With You/bonus.rpy:172
 translate Paloslios DLC_firsttime_penetrating_2dfe2987:
 
-    # n "As I fumble around for the strap-on I kept hidden away (for moments such as these) and start to prep for what's about to happen, [ch_ren] makes a sound and pulls away from me with an awkward laugh." nointeract
-    n "Mientras busco a tientas el cinturón que mantuve escondido (para momentos como este) y empiezo a prepararme para lo que está por suceder, [ch_ren] hace un sonido y se aleja de mí con una risa incómoda." nointeract
+    # n "As I fumble around for the strap-on I kept hidden away (for moments such as these) and start to prep for what's about to happen, [ch_ren] makes a sound and pulls away from me with an awkward laugh." 
+    n "Mientras busco a tientas el cinturón que mantuve escondido (para momentos como este) y empiezo a prepararme para lo que está por suceder, [ch_ren] hace un sonido y se aleja de mí con una risa incómoda." 
 
 # game/14 Nights With You/bonus.rpy:174
 translate Paloslios DLC_firsttime_penetrating_e9bc1774:
 
-    # n "As I start to prep for what's about to happen, [ch_ren] makes a sound and pulls away from me with an awkward laugh." nointeract
-    n "Mientras empiezo a prepararme para lo que está por suceder, [ch_ren] hace un sonido y se aleja de mí con una risa incómoda." nointeract
+    # n "As I start to prep for what's about to happen, [ch_ren] makes a sound and pulls away from me with an awkward laugh." 
+    n "Mientras empiezo a prepararme para lo que está por suceder, [ch_ren] hace un sonido y se aleja de mí con una risa incómoda." 
 
 # game/14 Nights With You/bonus.rpy:175
 translate Paloslios DLC_firsttime_penetrating_b2c6f153:
 
-    # r "Um— You should know that I've never had someone else put— I mean, I-I've never… {i}y'know{/i}… back there, before…" nointeract
-    r "Um... Deberías saber que nunca me han puesto a nadie más... Quiero decir, nunca he... {i}ya sabes{/i}... allá atrás, antes..." nointeract
+    # r "Um— You should know that I've never had someone else put— I mean, I-I've never… {i}y'know{/i}… back there, before…" 
+    r "Um... Deberías saber que nunca lo eh echo con nadie más... Quiero decir, nunca lo eh tenido... {i}ya sabes{/i}... allá atrás, antes..." 
 
 # game/14 Nights With You/bonus.rpy:176
 translate Paloslios DLC_firsttime_penetrating_1825bad3:
 
-    # r "I mean— Sure, I've {i}experimented{/i} with myself and stuff, but…" nointeract
-    r "Quiero decir... Claro, he {i}experimentado{/i} conmigo mismo y esas cosas, pero..." nointeract
+    # r "I mean— Sure, I've {i}experimented{/i} with myself and stuff, but…" 
+    r "Quiero decir... Claro, he {i}experimentado{/i} conmigo mismo y esas cosas, pero..." 
 
 # game/14 Nights With You/bonus.rpy:177
 translate Paloslios DLC_firsttime_penetrating_fd2467fc:
 
-    # r "W-Well, I've never— Not with another person before." nointeract
-    r "B-Bueno, nunca he... No con otra persona antes." nointeract
+    # r "W-Well, I've never— Not with another person before." 
+    r "B-Bueno, nunca he... No con otra persona antes." 
 
 # game/14 Nights With You/bonus.rpy:178
 translate Paloslios DLC_firsttime_penetrating_938c20eb:
 
-    # n "Wait, was he serious?" nointeract
-    n "Espera, ¿hablaba en serio?" nointeract
+    # n "Wait, was he serious?" 
+    n "Espera, ¿hablaba en serio?" 
 
 # game/14 Nights With You/bonus.rpy:179
 translate Paloslios DLC_firsttime_penetrating_98aa1618:
 
-    # n "Almost shyly, [ch_ren] tears his gaze from mine with a crooked smile and a faint dusting of red on his cheeks." nointeract
-    n "Casi con timidez, [ch_ren] aparta su mirada de la mía con una sonrisa torcida y una leve capa roja en sus mejillas." nointeract
+    # n "Almost shyly, [ch_ren] tears his gaze from mine with a crooked smile and a faint dusting of red on his cheeks." 
+    n "Casi con timidez, [ch_ren] aparta su mirada de la mía con una sonrisa torcida y una leve capa roja en sus mejillas." 
 
 # game/14 Nights With You/bonus.rpy:180
 translate Paloslios DLC_firsttime_penetrating_8a6e4e93:
 
-    # r "I just figured you should know." nointeract
-    r "Sólo pensé que deberías saberlo." nointeract
+    # r "I just figured you should know." 
+    r "Sólo pensé que deberías saberlo." 
 
 # game/14 Nights With You/bonus.rpy:185
 translate Paloslios DLC_firsttime_penetrating_e61d78b4:
 
-    # y "You know, it's actually my first time doing something like this, too." nointeract
-    y "Sabes, en realidad también es la primera vez que hago algo como esto." nointeract
+    # y "You know, it's actually my first time doing something like this, too." 
+    y "Sabes, en realidad también es la primera vez que hago algo como esto." 
 
 # game/14 Nights With You/bonus.rpy:186
 translate Paloslios DLC_firsttime_penetrating_2e8d4411:
 
-    # r "{size=+10}W-Wait, really?!{/size}" nointeract with vpunch
-    r "{size=+10}E-Espera, ¡¿en serio?!{/size}" nointeract with vpunch
+    # r "{size=+10}W-Wait, really?!{/size}"  with vpunch
+    r "{size=+10}E-Espera, ¡¿en serio?!{/size}"  with vpunch
 
 # game/14 Nights With You/bonus.rpy:187
 translate Paloslios DLC_firsttime_penetrating_5b655108:
 
-    # r "So then… I'm your first as well?" nointeract
-    r "Entonces… ¿soy tu primero también?" nointeract
+    # r "So then… I'm your first as well?" 
+    r "Entonces… ¿soy tu primero también?" 
 
 # game/14 Nights With You/bonus.rpy:188
 translate Paloslios DLC_firsttime_penetrating_3c9f34fa:
 
-    # n "[ch_ren] beams down at me with such a tender and loving expression as his hand shyly starts to travel towards my [length]." nointeract
-    n "[ch_ren] me sonríe con una expresión tan tierna y amorosa mientras su mano tímidamente comienza a viajar hacia mi [length]." nointeract
+    # n "[ch_ren] beams down at me with such a tender and loving expression as his hand shyly starts to travel towards my [length!t]." 
+    n "[ch_ren] me sonríe con una expresión tan tierna y amorosa mientras su mano tímidamente comienza a viajar hacia mi [length!t]." 
 
 # game/14 Nights With You/bonus.rpy:192
 translate Paloslios DLC_firsttime_penetrating_9866b8c1:
 
-    # y "Actually… I've done this before." nointeract
-    y "En realidad… he hecho esto antes." nointeract
+    # y "Actually… I've done this before." 
+    y "En realidad… he hecho esto antes." 
 
 # game/14 Nights With You/bonus.rpy:193
 translate Paloslios DLC_firsttime_penetrating_b2d6b058:
 
-    # n "For the briefest moment, a frown pulls at [ch_ren]'s features — before he masks it with that familiar, kind-hearted smile I've grown fond of." nointeract
-    n "Por un breve momento, un ceño fruncido dibuja las facciones de [ch_ren], antes de que lo enmascare con esa sonrisa familiar y de buen corazón que me ha gustado." nointeract
+    # n "For the briefest moment, a frown pulls at [ch_ren]'s features — before he masks it with that familiar, kind-hearted smile I've grown fond of." 
+    n "Por un breve momento, un ceño fruncido dibuja las facciones de [ch_ren], antes de que lo enmascare con esa sonrisa familiar y de buen corazón que me ha gustado." 
 
 # game/14 Nights With You/bonus.rpy:194
 translate Paloslios DLC_firsttime_penetrating_c21f39e6:
 
-    # r "I-I see." nointeract
-    r "Ya veo." nointeract
+    # r "I-I see." 
+    r "Ya veo." 
 
 # game/14 Nights With You/bonus.rpy:195
 translate Paloslios DLC_firsttime_penetrating_79ad776a:
 
-    # r "Then I'd better make this something you won't forget, huh?" nointeract
-    r "Entonces será mejor que haga de esto algo que no olvidarás, ¿eh?" nointeract
+    # r "Then I'd better make this something you won't forget, huh?" 
+    r "Entonces será mejor que haga de esto algo que no olvidarás, ¿eh?" 
 
 # game/14 Nights With You/bonus.rpy:196
 translate Paloslios DLC_firsttime_penetrating_b1cf4778:
 
-    # r "By the end of this, you won't even remember anyone who came before me." nointeract
-    r "Al final de esto, ni siquiera recordarás a nadie que haya estado antes que yo." nointeract
+    # r "By the end of this, you won't even remember anyone who came before me." 
+    r "Al final de esto, ni siquiera recordarás a nadie que haya estado antes que yo." 
 
 # game/14 Nights With You/bonus.rpy:197
 translate Paloslios DLC_firsttime_penetrating_5debf1fa:
 
-    # n "With a determined look on [ch_ren]'s face, he slowly reaches for my [length] and gives it an experimental squeeze." nointeract
-    n "Con una mirada decidida en el rostro de [ch_ren], lentamente alcanza mi [length] y le da un apretón experimental." nointeract
+    # n "With a determined look on [ch_ren]'s face, he slowly reaches for my [length!t] and gives it an experimental squeeze." 
+    n "Con una mirada decidida en el rostro de [ch_ren], lentamente alcanza mi [length!t] y le da un apretón experimental." 
 
 # game/14 Nights With You/bonus.rpy:201
 translate Paloslios DLC_firsttime_penetrating_33a14c08:
 
-    # y "Thanks for telling me. I'm happy I get to be your first, [ch_ren]." nointeract
-    y "Gracias por decírmelo. Estoy feliz de poder ser el primero, [ch_ren]." nointeract
+    # y "Thanks for telling me. I'm happy I get to be your first, [ch_ren]." 
+    y "Gracias por decírmelo. Estoy feliz de poder ser el primero, [ch_ren]." 
 
 # game/14 Nights With You/bonus.rpy:202
 translate Paloslios DLC_firsttime_penetrating_d6514a9e:
 
-    # r "…M-Me too! I'm glad I get to experience this with you, too!" nointeract
-    r "…¡M-Yo también! ¡Me alegro de poder experimentar esto contigo también!" nointeract
+    # r "…M-Me too! I'm glad I get to experience this with you, too!" 
+    r "…¡M-Yo también! ¡Me alegro de poder experimentar esto contigo también!" 
 
 # game/14 Nights With You/bonus.rpy:203
 translate Paloslios DLC_firsttime_penetrating_c0714203:
 
-    # n "With a bright smile on [ch_ren]'s features, he shyly reaches for my [length] and gives it a few experimental strokes." nointeract
-    n "Con una sonrisa brillante en las facciones de [ch_ren], tímidamente alcanza mi [length] y le da algunas caricias experimentales." nointeract
+    # n "With a bright smile on [ch_ren]'s features, he shyly reaches for my [length!t] and gives it a few experimental strokes." 
+    n "Con una sonrisa brillante en las facciones de [ch_ren], tímidamente alcanza mi [length!t] y le da algunas caricias experimentales." 
 
 # game/14 Nights With You/bonus.rpy:207
 translate Paloslios DLC_firsttime_penetrating_0c96f901:
 
-    # y "Right now, all I want to do is be inside of you, [ch_ren]." nointeract
-    y "Ahora mismo, todo lo que quiero hacer es estar dentro de ti, [ch_ren]." nointeract
+    # y "Right now, all I want to do is be inside of you, [ch_ren]." 
+    y "Ahora mismo, todo lo que quiero hacer es estar dentro de ti, [ch_ren]." 
 
 # game/14 Nights With You/bonus.rpy:208
 translate Paloslios DLC_firsttime_penetrating_f91b4ad9:
 
-    # r "R-Right! Yeah! O-Of course!" nointeract
-    r "R-¡Correcto! ¡Sí! O-¡Por supuesto!" nointeract
+    # r "R-Right! Yeah! O-Of course!" 
+    r "C-¡Correcto! ¡Sí! O-¡Por supuesto!" 
 
 # game/14 Nights With You/bonus.rpy:209
 translate Paloslios DLC_firsttime_penetrating_ee017405:
 
-    # r "I, um… I want that too. You have no idea how badly I've— I'll shut up now." nointeract
-    r "Yo, um… yo también quiero eso. No tienes idea de lo mal que lo he... Me callaré ahora." nointeract
+    # r "I, um… I want that too. You have no idea how badly I've— I'll shut up now." 
+    r "Yo, um… yo también quiero eso. No tienes idea de lo mal que lo he... Me callaré ahora." 
 
 # game/14 Nights With You/bonus.rpy:210
 translate Paloslios DLC_firsttime_penetrating_c592e168:
 
-    # n "[ch_ren] looks down at me with an embarrassed expression as his hand shyly starts to travel towards my [length]." nointeract
-    n "[ch_ren] me mira con una expresión avergonzada mientras su mano tímidamente comienza a viajar hacia mi [length]." nointeract
+    # n "[ch_ren] looks down at me with an embarrassed expression as his hand shyly starts to travel towards my [length!t]." 
+    n "[ch_ren] me mira con una expresión avergonzada mientras su mano tímidamente comienza a viajar hacia mi [length!t]." 
 
 # game/14 Nights With You/bonus.rpy:216
 translate Paloslios DLC_firsttime_giving_bca05a68:
 
-    # n "But before I can go any further, I tentatively look back at [ch_ren] with a certain gleam in my eyes." nointeract
-    n "Pero antes de que pueda continuar, miro tentativamente a [ch_ren] con cierto brillo en mis ojos." nointeract
+    # n "But before I can go any further, I tentatively look back at [ch_ren] with a certain gleam in my eyes." 
+    n "Pero antes de que pueda continuar, miro tentativamente a [ch_ren] con cierto brillo en mis ojos." 
 
 # game/14 Nights With You/bonus.rpy:221
 translate Paloslios DLC_firsttime_giving_d6e9c9e4:
 
-    # y "You should know… I've never actually gone down on someone before." nointeract
-    y "Deberías saber... nunca antes había caído sobre alguien." nointeract
+    # y "You should know… I've never actually gone down on someone before." 
+    y "Deberías saber... nunca antes había caído sobre alguien." 
 
 # game/14 Nights With You/bonus.rpy:222
 translate Paloslios DLC_firsttime_giving_a9ff72cc:
 
-    # r "R-Really? You've never…?" nointeract
-    r "R-¿En serio? ¿Nunca has…?" nointeract
+    # r "R-Really? You've never…?" 
+    r "E-¿En serio? ¿Nunca has…?" 
 
 # game/14 Nights With You/bonus.rpy:226
 translate Paloslios DLC_firsttime_giving_c9b1a678:
 
-    # r "Then… We're the same!" nointeract
-    r "Entonces… ¡Somos iguales!" nointeract
+    # r "Then… We're the same!" 
+    r "Entonces… ¡Somos iguales!" 
 
 # game/14 Nights With You/bonus.rpy:227
 translate Paloslios DLC_firsttime_giving_3aca4905:
 
-    # r "Haaaah~ I don't know why hearing that is making me feel so happy…" nointeract
-    r "Haaaah~ No sé por qué escuchar eso me hace sentir tan feliz..." nointeract
+    # r "Haaaah~ I don't know why hearing that is making me feel so happy…" 
+    r "Haaaah~ No sé por qué escuchar eso me hace sentir tan feliz..." 
 
 # game/14 Nights With You/bonus.rpy:228
 translate Paloslios DLC_firsttime_giving_ae1d0530:
 
-    # n "Seeing [ch_ren]'s tender smile gives me all the reassurance and motivation I need to continue." nointeract
-    n "Ver la tierna sonrisa de [ch_ren] me da toda la tranquilidad y motivación que necesito para continuar." nointeract
+    # n "Seeing [ch_ren]'s tender smile gives me all the reassurance and motivation I need to continue." 
+    n "Ver la tierna sonrisa de [ch_ren] me da toda la tranquilidad y motivación que necesito para continuar." 
 
 # game/14 Nights With You/bonus.rpy:231
 translate Paloslios DLC_firsttime_giving_1dfb5520:
 
-    # n "[ch_ren] seems to notice my sudden pause and immediately looks down at me with worry in his eyes." nointeract
-    n "[ch_ren] parece notar mi pausa repentina e inmediatamente me mira con preocupación en sus ojos." nointeract
+    # n "[ch_ren] seems to notice my sudden pause and immediately looks down at me with worry in his eyes." 
+    n "[ch_ren] parece notar mi pausa repentina e inmediatamente me mira con preocupación en sus ojos." 
 
 # game/14 Nights With You/bonus.rpy:232
 translate Paloslios DLC_firsttime_giving_58409683:
 
-    # r "…Is everything okay, Angel?" nointeract
-    r "…¿Está todo bien, Ángel?" nointeract
+    # r "…Is everything okay, Angel?" 
+    r "…¿Está todo bien, Ángel?" 
 
 # game/14 Nights With You/bonus.rpy:233
 translate Paloslios DLC_firsttime_giving_594eff26:
 
-    # y "Oh, yeah. Just fine. It's just… It's been a while since I done something like this." nointeract
-    y "Oh sí. Muy bien. Es solo que… Ha pasado un tiempo desde que hice algo como esto." nointeract
+    # y "Oh, yeah. Just fine. It's just… It's been a while since I done something like this." 
+    y "Oh sí. Muy bien. Es solo que… Ha pasado un tiempo desde que hice algo como esto." 
 
 # game/14 Nights With You/bonus.rpy:234
 translate Paloslios DLC_firsttime_giving_fbc41998:
 
-    # r "I-I see…" nointeract
-    r "Ya veo..." nointeract
+    # r "I-I see…" 
+    r "Ya veo..." 
 
 # game/14 Nights With You/bonus.rpy:235
 translate Paloslios DLC_firsttime_giving_4e02348c:
 
-    # n "An emotion I can't quite place seems to wash over [ch_ren] as I watch his brows pull into a frown — before they go back to normal." nointeract
-    n "Una emoción que no puedo ubicar parece invadir a [ch_ren] mientras veo cómo sus cejas se fruncen, antes de volver a la normalidad." nointeract
+    # n "An emotion I can't quite place seems to wash over [ch_ren] as I watch his brows pull into a frown — before they go back to normal." 
+    n "Una emoción que no puedo ubicar parece invadir a [ch_ren] mientras veo cómo sus cejas se fruncen, antes de volver a la normalidad." 
 
 # game/14 Nights With You/bonus.rpy:236
 translate Paloslios DLC_firsttime_giving_aa722183:
 
-    # r "Well, Still. I'm glad you {i}want{/i} to do something like this with me." nointeract
-    r "Bueno, aún así. Me alegra que {i}quieras{/i} hacer algo como esto conmigo." nointeract
+    # r "Well, Still. I'm glad you {i}want{/i} to do something like this with me." 
+    r "Bueno, aún así. Me alegra que {i}quieras{/i} hacer algo como esto conmigo." 
 
 # game/14 Nights With You/bonus.rpy:237
 translate Paloslios DLC_firsttime_giving_3a02b114:
 
-    # r "I've never… Y-You're the first person who's ever gone down on me, so I'm glad I get to experience it with you." nointeract
-    r "Nunca he... Eres la primera persona que me ha hecho sexo oral, así que me alegro de poder experimentarlo contigo." nointeract
+    # r "I've never… Y-You're the first person who's ever gone down on me, so I'm glad I get to experience it with you." 
+    r "Nunca he... Eres la primera persona que me ha hecho sexo oral, así que me alegro de poder experimentarlo contigo." 
 
 # game/14 Nights With You/bonus.rpy:238
 translate Paloslios DLC_firsttime_giving_1b5b392d:
 
-    # n "Wow, really? Was he being serious right now?" nointeract
-    n "Vaya, ¿en serio? ¿Estaba hablando en serio ahora mismo?" nointeract
+    # n "Wow, really? Was he being serious right now?" 
+    n "Vaya, ¿en serio? ¿Estaba hablando en serio ahora mismo?" 
 
 # game/14 Nights With You/bonus.rpy:239
 translate Paloslios DLC_firsttime_giving_a0104f55:
 
-    # n "All the more reason for me to make this an {b}extra{/b} memorable experience for him, I guess." nointeract
-    n "Supongo que es una razón de más para hacer de esta una experiencia {b}extra{/b} memorable para él." nointeract
+    # n "All the more reason for me to make this an {b}extra{/b} memorable experience for him, I guess." 
+    n "Supongo que es una razón de más para hacer de esta una experiencia {b}extra{/b} memorable para él." 
 
 # game/14 Nights With You/bonus.rpy:240
 translate Paloslios DLC_firsttime_giving_e793b714:
 
-    # n "[ch_ren]'s confession give me all the reassurance and motivation I need to continue." nointeract
-    n "La confesión de [ch_ren] me da toda la tranquilidad y motivación que necesito para continuar." nointeract
+    # n "[ch_ren]'s confession give me all the reassurance and motivation I need to continue." 
+    n "La confesión de [ch_ren] me da toda la tranquilidad y motivación que necesito para continuar." 
 
 # game/14 Nights With You/bonus.rpy:247
 translate Paloslios DLC_firsttime_receiving_a6d22dd4:
 
-    # n "But before [ch_ren] can go any further, I tentatively reach for him in an attempt to get his attention." nointeract
-    n "Pero antes de que [ch_ren] pueda continuar, tentativamente lo alcanzo en un intento de llamar su atención." nointeract
+    # n "But before [ch_ren] can go any further, I tentatively reach for him in an attempt to get his attention." 
+    n "Pero antes de que [ch_ren] pueda continuar, tentativamente lo alcanzo en un intento de llamar su atención." 
 
 # game/14 Nights With You/bonus.rpy:251
 translate Paloslios DLC_firsttime_receiving_64d90fc1:
 
-    # y "You should know… I've never had someone do {i}this{/i} to me before." nointeract
-    y "Deberías saber... Nunca antes alguien me había hecho {i}esto{/i}." nointeract
+    # y "You should know… I've never had someone do {i}this{/i} to me before." 
+    y "Deberías saber... Nunca antes alguien me había hecho {i}esto{/i}." 
 
 # game/14 Nights With You/bonus.rpy:252
 translate Paloslios DLC_firsttime_receiving_8032783d:
 
-    # n "At my words, [ch_ren] seems to halt his actions and look up at me with wide eyes." nointeract
-    n "Ante mis palabras, [ch_ren] parece detener sus acciones y mirarme con los ojos muy abiertos." nointeract
+    # n "At my words, [ch_ren] seems to halt his actions and look up at me with wide eyes." 
+    n "Ante mis palabras, [ch_ren] parece detener sus acciones y mirarme con los ojos muy abiertos." 
 
 # game/14 Nights With You/bonus.rpy:253
 translate Paloslios DLC_firsttime_receiving_6b9d3e04:
 
-    # r "…I-I'm the first person to go down on you like this? H-Haaah~" nointeract
-    r "…¿Soy la primera persona que te ataca así? H-Haaah ~" nointeract
+    # r "…I-I'm the first person to go down on you like this? H-Haaah~" 
+    r "…¿Soy la primera persona que te ataca así? H-Haaah ~" 
 
 # game/14 Nights With You/bonus.rpy:254
 translate Paloslios DLC_firsttime_receiving_b004e20b:
 
-    # n "His smile only seems to grow wider as he nuzzles his face closer to my body and presses soft, butterfly kisses against my skin." nointeract
-    n "Su sonrisa sólo parece hacerse más amplia mientras acerca su rostro a mi cuerpo y presiona suaves besos de mariposa contra mi piel." nointeract
+    # n "His smile only seems to grow wider as he nuzzles his face closer to my body and presses soft, butterfly kisses against my skin." 
+    n "Su sonrisa sólo parece hacerse más amplia mientras acerca su rostro a mi cuerpo y presiona suaves besos de mariposa contra mi piel." 
 
 # game/14 Nights With You/bonus.rpy:255
 translate Paloslios DLC_firsttime_receiving_6e9dda08:
 
-    # r "Don't worry, I promise I'll make you feel good! And…" nointeract
-    r "¡No te preocupes, te prometo que te haré sentir bien! Y…" nointeract
+    # r "Don't worry, I promise I'll make you feel good! And…" 
+    r "¡No te preocupes, te prometo que te haré sentir bien! Y…" 
 
 # game/14 Nights With You/bonus.rpy:256
 translate Paloslios DLC_firsttime_receiving_426d421d:
 
-    # r "Well, I've never actually done this before as well. S-So we're the same." nointeract
-    r "Bueno, en realidad nunca había hecho esto antes. S-Entonces somos iguales." nointeract
+    # r "Well, I've never actually done this before as well. S-So we're the same." 
+    r "Bueno, en realidad nunca había hecho esto antes. S-Entonces somos iguales." 
 
 # game/14 Nights With You/bonus.rpy:257
 translate Paloslios DLC_firsttime_receiving_47e0e7d8:
 
-    # r "Ahh~ This makes me so happy!" nointeract
-    r "Ahh~ ¡Esto me hace tan feliz!" nointeract
+    # r "Ahh~ This makes me so happy!" 
+    r "Ahh~ ¡Esto me hace tan feliz!" 
 
 # game/14 Nights With You/bonus.rpy:258
 translate Paloslios DLC_firsttime_receiving_d3fb90d3:
 
-    # n "With a tender smile blooming on [ch_ren]'s face, he picks up where he left off with newfound eagerness." nointeract
-    n "Con una tierna sonrisa floreciendo en el rostro de [ch_ren], continúa donde lo dejó con nuevo entusiasmo." nointeract
+    # n "With a tender smile blooming on [ch_ren]'s face, he picks up where he left off with newfound eagerness." 
+    n "Con una tierna sonrisa floreciendo en el rostro de [ch_ren], continúa donde lo dejó con nuevo entusiasmo." 
 
 # game/14 Nights With You/bonus.rpy:260
 translate Paloslios DLC_firsttime_receiving_f8539a61:
 
-    # n "[ch_ren]'s gaze immediately flickers to mine with a hint of concern in them." nointeract
-    n "La mirada de [ch_ren] inmediatamente se dirige a la mía con un toque de preocupación en ellos." nointeract
+    # n "[ch_ren]'s gaze immediately flickers to mine with a hint of concern in them." 
+    n "La mirada de [ch_ren] inmediatamente se dirige a la mía con un toque de preocupación en ellos." 
 
 # game/14 Nights With You/bonus.rpy:261
 translate Paloslios DLC_firsttime_receiving_d51333c8:
 
-    # r "…Angel?" nointeract
-    r "…¿Ángel?" nointeract
+    # r "…Angel?" 
+    r "…¿Ángel?" 
 
 # game/14 Nights With You/bonus.rpy:262
 translate Paloslios DLC_firsttime_receiving_1f7ff9e2:
 
-    # y "It's nothing, don't worry." nointeract
-    y "No es nada, no te preocupes." nointeract
+    # y "It's nothing, don't worry." 
+    y "No es nada, no te preocupes." 
 
 # game/14 Nights With You/bonus.rpy:263
 translate Paloslios DLC_firsttime_receiving_f595a9a0:
 
-    # r "I-If you say so…" nointeract
-    r "S-Si tú lo dices..." nointeract
+    # r "I-If you say so…" 
+    r "S-Si tú lo dices..." 
 
 # game/14 Nights With You/bonus.rpy:264
 translate Paloslios DLC_firsttime_receiving_4627a3a6:
 
-    # n "At that, [ch_ren] hesitantly goes back to what he was previously doing — but not before sending me one last worried look." nointeract
-    n "Ante eso, [ch_ren] vacilantemente vuelve a lo que estaba haciendo anteriormente, pero no sin antes enviarme una última mirada preocupada." nointeract
+    # n "At that, [ch_ren] hesitantly goes back to what he was previously doing — but not before sending me one last worried look." 
+    n "Ante eso, [ch_ren] vacilantemente vuelve a lo que estaba haciendo anteriormente, pero no sin antes enviarme una última mirada preocupada." 
 
 # game/14 Nights With You/bonus.rpy:265
 translate Paloslios DLC_firsttime_receiving_f8c0edaa:
 
-    # n "When I give him a reassuring smile in return, he takes that as a sign to pick up where he left off with newfound eagerness." nointeract
-    n "Cuando le devuelvo una sonrisa tranquilizadora, lo toma como una señal para continuar donde lo dejó con nuevo entusiasmo." nointeract
+    # n "When I give him a reassuring smile in return, he takes that as a sign to pick up where he left off with newfound eagerness." 
+    n "Cuando le devuelvo una sonrisa tranquilizadora, lo toma como una señal para continuar donde lo dejó con nuevo entusiasmo." 
 
 # game/14 Nights With You/bonus.rpy:271
 translate Paloslios DLC_day1_library_d70e3ea8:
 
-    # n "The way he's looking at me… It's almost as if he wants to take a bite out of me." nointeract
-    n "La forma en que me mira… Es casi como si quisiera darme un mordisco." nointeract
+    # n "The way he's looking at me… It's almost as if he wants to take a bite out of me." 
+    n "La forma en que me mira… Es casi como si quisiera darme un mordisco." 
 
 # game/14 Nights With You/bonus.rpy:272
 translate Paloslios DLC_day1_library_45ca10ac:
 
-    # n "There's an almost possessive gleam behind those blue eyes of his which makes it hard to look away — but it's even harder to miss the way they flicker towards my neck before they meet my gaze once more." nointeract
-    n "Hay un brillo casi posesivo detrás de esos ojos azules que hace que sea difícil apartar la mirada, pero es aún más difícil pasar por alto la forma en que parpadean hacia mi cuello antes de encontrar mi mirada una vez más." nointeract
+    # n "There's an almost possessive gleam behind those blue eyes of his which makes it hard to look away — but it's even harder to miss the way they flicker towards my neck before they meet my gaze once more." 
+    n "Hay un brillo casi posesivo detrás de esos ojos azules que hace que sea difícil apartar la mirada, pero es aún más difícil pasar por alto la forma en que parpadean hacia mi cuello antes de encontrar mi mirada una vez más." 
 
 # game/14 Nights With You/bonus.rpy:273
 translate Paloslios DLC_day1_library_b0110582:
 
-    # n "It's almost as if he was trying to map out and memorise every inch of my skin, and the thought alone ignites a flutter of excitement from within me." nointeract
-    n "Es casi como si estuviera tratando de trazar y memorizar cada centímetro de mi piel, y el solo pensamiento enciende un aleteo de excitación dentro de mí." nointeract
+    # n "It's almost as if he was trying to map out and memorise every inch of my skin, and the thought alone ignites a flutter of excitement from within me." 
+    n "Es casi como si estuviera tratando de trazar y memorizar cada centímetro de mi piel, y el solo pensamiento enciende un aleteo de excitación dentro de mí." 
 
 # game/14 Nights With You/bonus.rpy:274
 translate Paloslios DLC_day1_library_5cb9d526:
 
-    # n "Part of me feels tempted to take a step closer to this stranger just to see how he'd react, but then I remember where I am and what I was initially supposed to be doing." nointeract
-    n "Una parte de mí se siente tentada a dar un paso más hacia este extraño sólo para ver cómo reaccionaría, pero luego recuerdo dónde estoy y qué se suponía que debía hacer inicialmente." nointeract
+    # n "Part of me feels tempted to take a step closer to this stranger just to see how he'd react, but then I remember where I am and what I was initially supposed to be doing." 
+    n "Una parte de mí se siente tentada a dar un paso más hacia este extraño sólo para ver cómo reaccionaría, pero luego recuerdo dónde estoy y qué se suponía que debía hacer inicialmente." 
 
 # game/14 Nights With You/bonus.rpy:275
 translate Paloslios DLC_day1_library_b9fd863c:
 
-    # n "Focus, [ch_angel]. You're at work right now. You should be helping this person find a book, not awkwardly ogling them in silence." nointeract
-    n "Enfoque, [ch_angel]. Estás en el trabajo ahora mismo. Deberías ayudar a esta persona a encontrar un libro, no mirarla con los ojos torpemente en silencio." nointeract
+    # n "Focus, [ch_angel]. You're at work right now. You should be helping this person find a book, not awkwardly ogling them in silence." 
+    n "Enfoque, [ch_angel]. Estás en el trabajo ahora mismo. Deberías ayudar a esta persona a encontrar un libro, no mirarla con los ojos torpemente en silencio." 
 
 # game/14 Nights With You/bonus.rpy:277
 translate Paloslios DLC_day1_library_5c98348d:
 
-    # n "With the way this stranger keeps glancing at me — taking in every inch of me — I can't help but wonder if that was his way of subtly inviting me to come closer." nointeract
-    n "Con la forma en que este extraño sigue mirándome, observando cada centímetro de mí, no puedo evitar preguntarme si esa fue su forma de invitarme sutilmente a acercarme." nointeract
+    # n "With the way this stranger keeps glancing at me — taking in every inch of me — I can't help but wonder if that was his way of subtly inviting me to come closer." 
+    n "Con la forma en que este extraño sigue mirándome, observando cada centímetro de mí, no puedo evitar preguntarme si esa fue su forma de invitarme sutilmente a acercarme." 
 
 # game/14 Nights With You/bonus.rpy:278
 translate Paloslios DLC_day1_library_bd93f9af:
 
-    # n "As if to test the waters, I take a tentative step in his direction, and he reacts exactly how I expected him to." nointeract
-    n "Como para tantear el terreno, doy un paso vacilante en su dirección y él reacciona exactamente como esperaba." nointeract
+    # n "As if to test the waters, I take a tentative step in his direction, and he reacts exactly how I expected him to." 
+    n "Como para tantear el terreno, doy un paso vacilante en su dirección y él reacciona exactamente como esperaba." 
 
 # game/14 Nights With You/bonus.rpy:279
 translate Paloslios DLC_day1_library_1c64cec7:
 
-    # n "The stranger's eyes widen in surprise as he awkwardly leans against the shelf, and from the corner of my eye, I see his hand twitch in my direction. Was he holding himself back?" nointeract
-    n "Los ojos del extraño se abren con sorpresa mientras se apoya torpemente contra el estante, y por el rabillo del ojo, veo su mano moverse en mi dirección. ¿Se estaba conteniendo?" nointeract
+    # n "The stranger's eyes widen in surprise as he awkwardly leans against the shelf, and from the corner of my eye, I see his hand twitch in my direction. Was he holding himself back?" 
+    n "Los ojos del extraño se abren con sorpresa mientras se apoya torpemente contra el estante, y por el rabillo del ojo, veo su mano moverse en mi dirección. ¿Se estaba conteniendo?" 
 
 # game/14 Nights With You/bonus.rpy:280
 translate Paloslios DLC_day1_library_335a1223:
 
-    # n "But just as I'm about to comment on it, I remember where I am and what I was initially supposed to be doing." nointeract
-    n "Pero justo cuando estoy a punto de comentarlo, recuerdo dónde estoy y qué se suponía que debía hacer inicialmente." nointeract
+    # n "But just as I'm about to comment on it, I remember where I am and what I was initially supposed to be doing." 
+    n "Pero justo cuando estoy a punto de comentarlo, recuerdo dónde estoy y qué se suponía que debía hacer inicialmente." 
 
 # game/14 Nights With You/bonus.rpy:281
 translate Paloslios DLC_day1_library_b9fd863c_1:
 
-    # n "Focus, [ch_angel]. You're at work right now. You should be helping this person find a book, not awkwardly ogling them in silence." nointeract
-    n "Enfoque, [ch_angel]. Estás en el trabajo ahora mismo. Deberías ayudar a esta persona a encontrar un libro, no mirarla con los ojos torpemente en silencio." nointeract
+    # n "Focus, [ch_angel]. You're at work right now. You should be helping this person find a book, not awkwardly ogling them in silence." 
+    n "Enfoque, [ch_angel]. Estás en el trabajo ahora mismo. Deberías ayudar a esta persona a encontrar un libro, no mirarla con los ojos torpemente en silencio." 
 
 # game/14 Nights With You/bonus.rpy:283
 translate Paloslios DLC_day1_library_6257fd2c:
 
-    # n "There's an unmistakable gleam behind those blue eyes of his, one that speaks louder than words." nointeract
-    n "Hay un brillo inconfundible detrás de esos ojos azules, uno que habla más que las palabras." nointeract
+    # n "There's an unmistakable gleam behind those blue eyes of his, one that speaks louder than words." 
+    n "Hay un brillo inconfundible detrás de esos ojos azules, uno que habla más que las palabras." 
 
 # game/14 Nights With You/bonus.rpy:284
 translate Paloslios DLC_day1_library_55082461:
 
-    # n "And if the half-lidded look wasn't enough, the twitch in his hand as it reaches for me speaks volumes. But just before the stranger tries to do anything, he abruptly withdraws and goes back to awkwardly picking at the ends of his sleeves." nointeract
-    n "Y si la mirada entrecerrada no fuera suficiente, el tic en su mano cuando me alcanza lo dice todo. Pero justo antes de que el extraño intente hacer algo, se retira abruptamente y vuelve a hurgar torpemente en los extremos de sus mangas." nointeract
+    # n "And if the half-lidded look wasn't enough, the twitch in his hand as it reaches for me speaks volumes. But just before the stranger tries to do anything, he abruptly withdraws and goes back to awkwardly picking at the ends of his sleeves." 
+    n "Y si la mirada entrecerrada no fuera suficiente, el tic en su mano cuando me alcanza lo dice todo. Pero justo antes de que el extraño intente hacer algo, se retira abruptamente y vuelve a hurgar torpemente en los extremos de sus mangas." 
 
 # game/14 Nights With You/bonus.rpy:285
 translate Paloslios DLC_day1_library_5aeffc6f:
 
-    # n "The pink-haired stranger can barely meet my gaze now, and his cheeks reveal his embarrassment by turning a deep shade of red — one that reaches all the way to his ears." nointeract
-    n "El extraño de cabello rosado apenas puede mirarme a los ojos ahora, y sus mejillas revelan su vergüenza al tornarse de un tono rojo profundo, uno que llega hasta sus orejas." nointeract
+    # n "The pink-haired stranger can barely meet my gaze now, and his cheeks reveal his embarrassment by turning a deep shade of red — one that reaches all the way to his ears." 
+    n "El extraño de cabello rosado apenas puede mirarme a los ojos ahora, y sus mejillas revelan su vergüenza al tornarse de un tono rojo profundo, uno que llega hasta sus orejas." 
 
 # game/14 Nights With You/bonus.rpy:286
 translate Paloslios DLC_day1_library_dc7f41b2:
 
-    # n "I almost want to comment on them, but then I remember where I am and what I was initially supposed to be doing." nointeract
-    n "Casi quiero comentarlos, pero luego recuerdo dónde estoy y qué se suponía que debía hacer inicialmente." nointeract
+    # n "I almost want to comment on them, but then I remember where I am and what I was initially supposed to be doing." 
+    n "Casi quiero comentarlos, pero luego recuerdo dónde estoy y qué se suponía que debía hacer inicialmente." 
 
 # game/14 Nights With You/bonus.rpy:287
 translate Paloslios DLC_day1_library_b9fd863c_2:
 
-    # n "Focus, [ch_angel]. You're at work right now. You should be helping this person find a book, not awkwardly ogling them in silence." nointeract
-    n "Enfoque, [ch_angel]. Estás en el trabajo ahora mismo. Deberías ayudar a esta persona a encontrar un libro, no mirarla con los ojos torpemente en silencio." nointeract
+    # n "Focus, [ch_angel]. You're at work right now. You should be helping this person find a book, not awkwardly ogling them in silence." 
+    n "Enfoque, [ch_angel]. Estás en el trabajo ahora mismo. Deberías ayudar a esta persona a encontrar un libro, no mirarla con los ojos torpemente en silencio." 
 
 # game/14 Nights With You/bonus.rpy:289
 translate Paloslios DLC_day1_library_2ab07404:
 
-    # n "What was I thinking? Besides, I'm at work right now — this was hardly appropriate. From that thought alone, I remember where exactly I am and what I was initially supposed to be doing." nointeract
-    n "¿Qué estaba pensando? Además, ahora mismo estoy en el trabajo; esto no era apropiado. Sólo con ese pensamiento recuerdo dónde estoy exactamente y qué se suponía que debía hacer inicialmente." nointeract
+    # n "What was I thinking? Besides, I'm at work right now — this was hardly appropriate. From that thought alone, I remember where exactly I am and what I was initially supposed to be doing." 
+    n "¿Qué estaba pensando? Además, ahora mismo estoy en el trabajo; esto no era apropiado. Sólo con ese pensamiento recuerdo dónde estoy exactamente y qué se suponía que debía hacer inicialmente." 
 
 # game/14 Nights With You/bonus.rpy:290
 translate Paloslios DLC_day1_library_2150d1cb:
 
-    # n "When I glance back at the stranger with an apologetic look, I notice that his attention has already shifted. Curious, I follow his gaze and suddenly remember what I'm holding in my hands." nointeract
-    n "Cuando miro al extraño con una mirada de disculpa, noto que su atención ya ha cambiado. Curiosa, sigo su mirada y de repente recuerdo lo que tengo en mis manos." nointeract
+    # n "When I glance back at the stranger with an apologetic look, I notice that his attention has already shifted. Curious, I follow his gaze and suddenly remember what I'm holding in my hands." 
+    n "Cuando miro al extraño con una mirada de disculpa, noto que su atención ya ha cambiado. Curiosa, sigo su mirada y de repente recuerdo lo que tengo en mis manos." 
 
 # game/14 Nights With You/bonus.rpy:291
 translate Paloslios DLC_day1_library_9d65cde0:
 
-    # n "Jeez, how could I forget so easily? But more importantly… Why was he looking at it so intently?" nointeract
-    n "Dios, ¿cómo pude olvidarlo tan fácilmente? Pero lo más importante… ¿Por qué lo miraba con tanta atención?" nointeract
+    # n "Jeez, how could I forget so easily? But more importantly… Why was he looking at it so intently?" 
+    n "Dios, ¿cómo pude olvidarlo tan fácilmente? Pero lo más importante… ¿Por qué lo miraba con tanta atención?" 
 
 # game/14 Nights With You/bonus.rpy:294
 translate Paloslios DLC_day1_text_a3bbab60:
 
-    # rt ".:GKJ" nointeract with vpunch
-    rt ".:GKJ" nointeract with vpunch
+    # rt ".:GKJ"  with vpunch
+    rt ".:GKJ"  with vpunch
 
 # game/14 Nights With You/bonus.rpy:295
 translate Paloslios DLC_day1_text_4aeb8599:
 
-    # rt "I ACCIDENTSLLY HIT SEND ARGHKS SRRY OH GOD SORRY I'M SO SORRY" nointeract
-    rt "Accidentalmente presioné ENVIAR ARGHKS SRRY OH DIOS LO SIENTO, LO SIENTO MUCHO" nointeract
+    # rt "I ACCIDENTSLLY HIT SEND ARGHKS SRRY OH GOD SORRY I'M SO SORRY" 
+    rt "Accidentalmente presioné ENVIAR ARGHKS SRRY OH DIOS LO SIENTO, LO SIENTO MUCHO" 
 
 # game/14 Nights With You/bonus.rpy:296
 translate Paloslios DLC_day1_text_9babecd2:
 
-    # n "There's a very, very, {b}very{/b} long pause before [ch_ren] replies." nointeract
-    n "Hay una pausa muy, muy, {b}muy{/b} larga antes de que [ch_ren] responda." nointeract
+    # n "There's a very, very, {b}very{/b} long pause before [ch_ren] replies." 
+    n "Hay una pausa muy, muy, {b}muy{/b} larga antes de que [ch_ren] responda." 
 
 # game/14 Nights With You/bonus.rpy:297
 translate Paloslios DLC_day1_text_ee26c614:
 
-    # rt "…did u mean to send me that? >///<" nointeract
-    rt "…¿Querías enviarme eso?>///<" nointeract
+    # rt "…did u mean to send me that? >///<" 
+    rt "…¿Querías enviarme eso?>///<" 
 
 # game/14 Nights With You/bonus.rpy:298
 translate Paloslios DLC_day1_text_0b90a235:
 
-    # rt "um. if u want i can send a photo? would u like that?" nointeract
-    rt "mmm. si quieres puedo enviar una foto? ¿Te gustaría eso?" nointeract
+    # rt "um. if u want i can send a photo? would u like that?" 
+    rt "mmm. si quieres puedo enviar una foto? ¿Te gustaría eso?" 
 
 # game/14 Nights With You/bonus.rpy:299
 translate Paloslios DLC_day1_text_1d93f945:
 
-    # rt "ahhh but it's rlly dark in my room right now TT_TT besides! i wanted to ask u something actually :3" nointeract
-    rt "ahhh pero está muy oscuro en mi habitación ahora mismo ¡TT_TT además! En realidad quería preguntarte algo :3" nointeract
+    # rt "ahhh but it's rlly dark in my room right now TT_TT besides! i wanted to ask u something actually :3" 
+    rt "ahhh pero está muy oscuro en mi habitación ahora mismo ¡TT_TT además! En realidad quería preguntarte algo :3" 
 
 # game/14 Nights With You/bonus.rpy:300
 translate Paloslios DLC_day1_text_a31e2932:
 
-    # rt "u see… i was wonderinf if u were free tomorrow? i still wanted to thank u for helping me find that book" nointeract
-    rt "Ya ves... me preguntaba si estarías libre mañana. Todavía quería agradecerte por ayudarme a encontrar ese libro." nointeract
+    # rt "u see… i was wonderinf if u were free tomorrow? i still wanted to thank u for helping me find that book" 
+    rt "Ya ves... me preguntaba si estarías libre mañana. Todavía quería agradecerte por ayudarme a encontrar ese libro." 
 
 # game/14 Nights With You/bonus.rpy:303
 translate Paloslios DLC_day1_call_479075f1:
 
-    # rcall "{size=+10}S-S-S-Sorry?!{/size}" nointeract with vpunch
-    rcall "{size=+10}¡¿S-S-S-Lo siento?!{/size}" nointeract with vpunch
+    # rcall "{size=+10}S-S-S-Sorry?!{/size}"  with vpunch
+    rcall "{size=+10}¡¿S-S-S-Lo siento?!{/size}"  with vpunch
 
 # game/14 Nights With You/bonus.rpy:304
 translate Paloslios DLC_day1_call_d70f1fa6:
 
-    # rcall "I… Um… W-Well! Ahah… I'm still wearing the same outfit from earlier." nointeract
-    rcall "Yo... Um... ¡B-Bueno! Ahah... todavía estoy usando el mismo traje de antes." nointeract
+    # rcall "I… Um… W-Well! Ahah… I'm still wearing the same outfit from earlier." 
+    rcall "Yo... Um... ¡B-Bueno! Ahah... todavía estoy usando el mismo traje de antes." 
 
 # game/14 Nights With You/bonus.rpy:305
 translate Paloslios DLC_day1_call_c7fadf74:
 
-    # rcall "Oh! But I took off one of my sweaters because it was getting a bit stuffy in y— My… room." nointeract
-    rcall "¡Oh! Pero me quité uno de mis suéteres porque se estaba poniendo un poco sofocante en tu... Mi... habitación." nointeract
+    # rcall "Oh! But I took off one of my sweaters because it was getting a bit stuffy in y— My… room." 
+    rcall "¡Oh! Pero me quité uno de mis suéteres porque se estaba poniendo un poco sofocante en tu... Mi... habitación." 
 
 # game/14 Nights With You/bonus.rpy:306
 translate Paloslios DLC_day1_call_422cf5e1:
 
-    # n "I was about to ask if the late autumn air didn't bother him — especially at this time of night — but [ch_ren] cuts me off with yet another response." nointeract
-    n "Estaba a punto de preguntarle si el aire de finales de otoño no le molestaba, especialmente a esta hora de la noche, pero [ch_ren] me interrumpe con otra respuesta." nointeract
+    # n "I was about to ask if the late autumn air didn't bother him — especially at this time of night — but [ch_ren] cuts me off with yet another response." 
+    n "Estaba a punto de preguntarle si el aire de finales de otoño no le molestaba, especialmente a esta hora de la noche, pero [ch_ren] me interrumpe con otra respuesta." 
 
 # game/14 Nights With You/bonus.rpy:307
 translate Paloslios DLC_day1_call_19b22687:
 
-    # rcall "B-But that's not really an appealing answer, is it?" nointeract
-    rcall "P-Pero esa no es realmente una respuesta atractiva, ¿verdad?" nointeract
+    # rcall "B-But that's not really an appealing answer, is it?" 
+    rcall "P-Pero esa no es realmente una respuesta atractiva, ¿verdad?" 
 
 # game/14 Nights With You/bonus.rpy:308
 translate Paloslios DLC_day1_call_8fe5c582:
 
-    # rcall "Or… Wait. Were you referring to what I'm wearing {i}underneath{/i} my clothes? Because…" nointeract
-    rcall "O… Espera. ¿Te referías a lo que llevo {i}debajo{/i} de mi ropa? Porque…" nointeract
+    # rcall "Or… Wait. Were you referring to what I'm wearing {i}underneath{/i} my clothes? Because…" 
+    rcall "O… Espera. ¿Te referías a lo que llevo {i}debajo{/i} de mi ropa? Porque…" 
 
 # game/14 Nights With You/bonus.rpy:309
 translate Paloslios DLC_day1_call_6abec336:
 
-    # rcall "Well, I don't think I can say without feeling embarrassed, ahaha~" nointeract
-    rcall "Bueno, no creo que pueda decirlo sin sentirme avergonzado, ajaja~" nointeract
+    # rcall "Well, I don't think I can say without feeling embarrassed, ahaha~" 
+    rcall "Bueno, no creo que pueda decirlo sin sentirme avergonzado, ajaja~" 
 
 # game/14 Nights With You/bonus.rpy:310
 translate Paloslios DLC_day1_call_a01f0bce:
 
-    # rcall "S-Sorry." nointeract
-    rcall "Lo siento." nointeract
+    # rcall "S-Sorry." 
+    rcall "Lo siento." 
 
 # game/14 Nights With You/bonus.rpy:313
 translate Paloslios DLC_day2_cafe_ad5adf1e:
 
-    # n "[ch_ren]'s cheeks are still scarlet red — and he seems almost {b}fidgety{/b} with how his leg keeps bouncing under the table — so I take this opportunity to tease him a bit." nointeract
-    n "Las mejillas de [ch_ren] todavía están de color rojo escarlata, y parece casi {b}inquieto{/b} por cómo su pierna sigue rebotando debajo de la mesa, así que aprovecho esta oportunidad para burlarme un poco de él." nointeract
+    # n "[ch_ren]'s cheeks are still scarlet red — and he seems almost {b}fidgety{/b} with how his leg keeps bouncing under the table — so I take this opportunity to tease him a bit." 
+    n "Las mejillas de [ch_ren] todavía están de color rojo escarlata, y parece casi {b}inquieto{/b} por cómo su pierna sigue rebotando debajo de la mesa, así que aprovecho esta oportunidad para burlarme un poco de él." 
 
 # game/14 Nights With You/bonus.rpy:314
 translate Paloslios DLC_day2_cafe_9bca8b98:
 
-    # n "After all, [ch_ren] doesn't seem to notice the stray pieces of crumbs clinging to his bottom lip yet, which gives me a few mischevious ideas." nointeract
-    n "Después de todo, [ch_ren] no parece darse cuenta todavía de los trozos de migajas que se aferran a su labio inferior, lo que me da algunas ideas traviesas." nointeract
+    # n "After all, [ch_ren] doesn't seem to notice the stray pieces of crumbs clinging to his bottom lip yet, which gives me a few mischevious ideas." 
+    n "Después de todo, [ch_ren] no parece darse cuenta todavía de los trozos de migajas que se aferran a su labio inferior, lo que me da algunas ideas traviesas." 
 
 # game/14 Nights With You/bonus.rpy:318
 translate Paloslios DLC_day2_cafe_e5337d5e:
 
-    # r "{size=+10}A-A-Ah!{/size}" nointeract with vpunch
-    r "{size=+10}¡A-A-Ah!{/size}" nointeract with vpunch
+    # r "{size=+10}A-A-Ah!{/size}"  with vpunch
+    r "{size=+10}¡A-A-Ah!{/size}"  with vpunch
 
 # game/14 Nights With You/bonus.rpy:320
 translate Paloslios DLC_day2_cafe_c08853ae:
 
-    # r "Y-Y-Y-You—!" nointeract
-    r "¡Y-Y-Y-Tú—!" nointeract
+    # r "Y-Y-Y-You—!" 
+    r "¡Y-Y-Y-Tú—!" 
 
 # game/14 Nights With You/bonus.rpy:321
 translate Paloslios DLC_day2_cafe_bf82229d:
 
-    # y "You had some crumbs on your face. I just wanted to help get them off." nointeract
-    y "Tenías algunas migas en la cara. Sólo quería ayudar a quitárselos." nointeract
+    # y "You had some crumbs on your face. I just wanted to help get them off." 
+    y "Tenías algunas migas en la cara. Sólo quería ayudar a quitárselos." 
 
 # game/14 Nights With You/bonus.rpy:323
 translate Paloslios DLC_day2_cafe_d492a961:
 
-    # r "You just licked me… Your tongue touched my—" nointeract
-    r "Acabas de lamerme... Tu lengua tocó mi..." nointeract
+    # r "You just licked me… Your tongue touched my—" 
+    r "Acabas de lamerme... Tu lengua tocó mi..." 
 
 # game/14 Nights With You/bonus.rpy:325
 translate Paloslios DLC_day2_cafe_db2177a4:
 
-    # r "…Hahahah~" nointeract
-    r "…Jajajaja~" nointeract
+    # r "…Hahahah~" 
+    r "…Jajajaja~" 
 
 # game/14 Nights With You/bonus.rpy:326
 translate Paloslios DLC_day2_cafe_7a78a93b:
 
-    # n "Almost immediately, [ch_ren] covers his mouth with the sleeve of his cardigan as his cheeks somehow grow an even {b}darker{/b} shade of red." nointeract
-    n "Casi de inmediato, [ch_ren] se cubre la boca con la manga de su cárdigan mientras sus mejillas de alguna manera adquieren un tono de rojo aún {b}más oscuro{/b}." nointeract
+    # n "Almost immediately, [ch_ren] covers his mouth with the sleeve of his cardigan as his cheeks somehow grow an even {b}darker{/b} shade of red." 
+    n "Casi de inmediato, [ch_ren] se cubre la boca con la manga de su cárdigan mientras sus mejillas de alguna manera adquieren un tono de rojo aún {b}más oscuro{/b}." 
 
 # game/14 Nights With You/bonus.rpy:327
 translate Paloslios DLC_day2_cafe_f03f80b4:
 
-    # n "He isn't really subtle with the way he crosses his legs underneath the table, nor the way he clumisly reaches for his drink in an attempt to distract himself with a sip." nointeract
-    n "No es realmente sutil con la forma en que cruza las piernas debajo de la mesa, ni con la forma en que torpemente alcanza su bebida en un intento de distraerse con un sorbo." nointeract
+    # n "He isn't really subtle with the way he crosses his legs underneath the table, nor the way he clumisly reaches for his drink in an attempt to distract himself with a sip." 
+    n "No es realmente sutil con la forma en que cruza las piernas debajo de la mesa, ni con la forma en que torpemente alcanza su bebida en un intento de distraerse con un sorbo." 
 
 # game/14 Nights With You/bonus.rpy:328
 translate Paloslios DLC_day2_cafe_82f690df:
 
-    # n "Satisfied with my teasing, I leave [ch_ren] alone and focus my attention back on the plate in front of me." nointeract
-    n "Satisfecho con mis burlas, dejo a [ch_ren] en paz y vuelvo a centrar mi atención en el plato que tengo delante." nointeract
+    # n "Satisfied with my teasing, I leave [ch_ren] alone and focus my attention back on the plate in front of me." 
+    n "Satisfecho con mis burlas, dejo a [ch_ren] en paz y vuelvo a centrar mi atención en el plato que tengo delante." 
 
 # game/14 Nights With You/bonus.rpy:331
 translate Paloslios DLC_day2_cafe_f587f03b:
 
-    # r "—Mn!" nointeract
-    r "-¡Minnesota!" nointeract
+    # r "—Mn!" 
+    r "-¡Minnesota!" 
 
 # game/14 Nights With You/bonus.rpy:332
 translate Paloslios DLC_day2_cafe_da42c080:
 
-    # n "Just as I anticipated, [ch_ren] tenses up the moment my lips touch his — almost as if he wasn't expecting me to do that — before his eyelids flutter closed and he lets out a dreamy sigh." nointeract
-    n "Tal como lo anticipé, [ch_ren] se tensa en el momento en que mis labios tocan los suyos, casi como si no esperara que hiciera eso, antes de que sus párpados se cierren y deje escapar un suspiro de ensueño." nointeract
+    # n "Just as I anticipated, [ch_ren] tenses up the moment my lips touch his — almost as if he wasn't expecting me to do that — before his eyelids flutter closed and he lets out a dreamy sigh." 
+    n "Tal como lo anticipé, [ch_ren] se tensa en el momento en que mis labios tocan los suyos, casi como si no esperara que hiciera eso, antes de que sus párpados se cierren y deje escapar un suspiro de ensueño." 
 
 # game/14 Nights With You/bonus.rpy:333
 translate Paloslios DLC_day2_cafe_71c76f98:
 
-    # n "But before the kiss can deepen, I pull away with a satisfied glint in my eyes." nointeract
-    n "Pero antes de que el beso pueda profundizarse, me alejo con un brillo de satisfacción en mis ojos." nointeract
+    # n "But before the kiss can deepen, I pull away with a satisfied glint in my eyes." 
+    n "Pero antes de que el beso pueda profundizarse, me alejo con un brillo de satisfacción en mis ojos." 
 
 # game/14 Nights With You/bonus.rpy:334
 translate Paloslios DLC_day2_cafe_bf82229d_1:
 
-    # y "You had some crumbs on your face. I just wanted to help get them off." nointeract
-    y "Tenías algunas migas en la cara. Sólo quería ayudar a quitárselos." nointeract
+    # y "You had some crumbs on your face. I just wanted to help get them off." 
+    y "Tenías algunas migas en la cara. Sólo quería ayudar a quitárselos." 
 
 # game/14 Nights With You/bonus.rpy:336
 translate Paloslios DLC_day2_cafe_3cf261a3:
 
-    # r "S-So you… kissed me? Then in that case…" nointeract
-    r "S-Entonces tú… ¿me besaste? Entonces en ese caso..." nointeract
+    # r "S-So you… kissed me? Then in that case…" 
+    r "S-Entonces tú… ¿me besaste? Entonces en ese caso..." 
 
 # game/14 Nights With You/bonus.rpy:338
 translate Paloslios DLC_day2_cafe_43acbe18:
 
-    # r "Looks like y'got some food on your face, too. Here." nointeract
-    r "Parece que también tienes algo de comida en la cara. Aquí." nointeract
+    # r "Looks like y'got some food on your face, too. Here." 
+    r "Parece que también tienes algo de comida en la cara. Aquí." 
 
 # game/14 Nights With You/bonus.rpy:339
 translate Paloslios DLC_day2_cafe_5dd5da1d:
 
-    # n "Before I can respond, [ch_ren] leans in once more and gives me yet another kiss." nointeract
-    n "Antes de que pueda responder, [ch_ren] se inclina una vez más y me da otro beso." nointeract
+    # n "Before I can respond, [ch_ren] leans in once more and gives me yet another kiss." 
+    n "Antes de que pueda responder, [ch_ren] se inclina una vez más y me da otro beso." 
 
 # game/14 Nights With You/bonus.rpy:340
 translate Paloslios DLC_day2_cafe_3a3be916:
 
-    # n "There's hardly anything soft or gentle about this one, and just as I feel his tongue start to curiously prod against my bottom lip, I hear a nearby customer clear their throat in an exasperated manner." nointeract
-    n "Casi no hay nada suave o gentil en este, y justo cuando siento que su lengua comienza a pinchar con curiosidad mi labio inferior, escucho a un cliente cercano aclararse la garganta de manera exasperada." nointeract
+    # n "There's hardly anything soft or gentle about this one, and just as I feel his tongue start to curiously prod against my bottom lip, I hear a nearby customer clear their throat in an exasperated manner." 
+    n "Casi no hay nada suave o gentil en este, y justo cuando siento que su lengua comienza a pinchar con curiosidad mi labio inferior, escucho a un cliente cercano aclararse la garganta de manera exasperada." 
 
 # game/14 Nights With You/bonus.rpy:341
 translate Paloslios DLC_day2_cafe_fde1a4e0:
 
-    # n "Ignoring their gaze, I pull away from [ch_ren] with a sheepish smile and watch as he awkwardly shifts in his seat… Before he crosses his legs and pulls the bottom of his cardigan over his lap." nointeract
-    n "Ignorando su mirada, me alejo de [ch_ren] con una sonrisa tímida y observo cómo se mueve torpemente en su asiento… antes de cruzar las piernas y colocar la parte inferior de su cárdigan sobre su regazo." nointeract
+    # n "Ignoring their gaze, I pull away from [ch_ren] with a sheepish smile and watch as he awkwardly shifts in his seat… Before he crosses his legs and pulls the bottom of his cardigan over his lap." 
+    n "Ignorando su mirada, me alejo de [ch_ren] con una sonrisa tímida y observo cómo se mueve torpemente en su asiento… antes de cruzar las piernas y colocar la parte inferior de su cárdigan sobre su regazo." 
 
 # game/14 Nights With You/bonus.rpy:344
 translate Paloslios DLC_day2_cafe_ab70f225:
 
-    # r "…" nointeract
-    r "…" nointeract
+    # r "…" 
+    r "…" 
 
 # game/14 Nights With You/bonus.rpy:345
 translate Paloslios DLC_day2_cafe_c6d31bca:
 
-    # n "Just as I wipe the pieces of cake from his lips, his tongue peeks out and brushes against the tip of my thumb." nointeract
-    n "Justo cuando limpio los trozos de pastel de sus labios, su lengua se asoma y roza la punta de mi pulgar." nointeract
+    # n "Just as I wipe the pieces of cake from his lips, his tongue peeks out and brushes against the tip of my thumb." 
+    n "Justo cuando limpio los trozos de pastel de sus labios, su lengua se asoma y roza la punta de mi pulgar." 
 
 # game/14 Nights With You/bonus.rpy:346
 translate Paloslios DLC_day2_cafe_07ccf01a:
 
-    # n "A faux innocent smile is all I get in response, so I decide to amp up my teasing by leaving my finger there and seeing what else [ch_ren] would do." nointeract
-    n "Una falsa sonrisa inocente es todo lo que recibo como respuesta, así que decido intensificar mis burlas dejando mi dedo ahí y viendo qué más haría [ch_ren]." nointeract
+    # n "A faux innocent smile is all I get in response, so I decide to amp up my teasing by leaving my finger there and seeing what else [ch_ren] would do." 
+    n "Una falsa sonrisa inocente es todo lo que recibo como respuesta, así que decido intensificar mis burlas dejando mi dedo ahí y viendo qué más haría [ch_ren]." 
 
 # game/14 Nights With You/bonus.rpy:347
 translate Paloslios DLC_day2_cafe_6a369ab4:
 
-    # n "Almost immediately, his hand wraps around my wrist as he opens his mouth to suck on my thumb." nointeract
-    n "Casi de inmediato, su mano rodea mi muñeca mientras abre la boca para chuparme el pulgar." nointeract
+    # n "Almost immediately, his hand wraps around my wrist as he opens his mouth to suck on my thumb." 
+    n "Casi de inmediato, su mano rodea mi muñeca mientras abre la boca para chuparme el pulgar." 
 
 # game/14 Nights With You/bonus.rpy:349
 translate Paloslios DLC_day2_cafe_56ee6bf2:
 
-    # r "Don't wanna waste any food." nointeract
-    r "No quiero desperdiciar comida." nointeract
+    # r "Don't wanna waste any food." 
+    r "No quiero desperdiciar comida." 
 
 # game/14 Nights With You/bonus.rpy:350
 translate Paloslios DLC_day2_cafe_27af79a8:
 
-    # y "S-Sure." nointeract
-    y "S-Claro." nointeract
+    # y "S-Sure." 
+    y "S-Claro." 
 
 # game/14 Nights With You/bonus.rpy:351
 translate Paloslios DLC_day2_cafe_dc1a5f82:
 
-    # n "How is that {b}I'm{/b} the one who ended up flustered? With a bewildered look on my face, [ch_ren] pretends nothing happened and goes back to enjoying his cake — though he isn't subtle with the way he shifts in his seat and adjusts his pants." nointeract
-    n "¿Cómo es que {b}soy{/b} el que terminó nervioso? Con una mirada desconcertada en mi rostro, [ch_ren] finge que no pasó nada y vuelve a disfrutar de su pastel, aunque no es sutil con la forma en que se mueve en su asiento y se ajusta los pantalones." nointeract
+    # n "How is that {b}I'm{/b} the one who ended up flustered? With a bewildered look on my face, [ch_ren] pretends nothing happened and goes back to enjoying his cake — though he isn't subtle with the way he shifts in his seat and adjusts his pants." 
+    n "¿Cómo es que {b}soy{/b} el que terminó nervioso? Con una mirada desconcertada en mi rostro, [ch_ren] finge que no pasó nada y vuelve a disfrutar de su pastel, aunque no es sutil con la forma en que se mueve en su asiento y se ajusta los pantalones." 
 
 # game/14 Nights With You/bonus.rpy:352
 translate Paloslios DLC_day2_cafe_469d6b41:
 
-    # n "Ah. I see." nointeract
-    n "Ah. Veo." nointeract
+    # n "Ah. I see." 
+    n "Ah. Veo." 
 
 # game/14 Nights With You/bonus.rpy:355
 translate Paloslios DLC_day2_cafe_56e044fc:
 
-    # r "Something wrong?" nointeract
-    r "¿Ocurre algo?" nointeract
+    # r "Something wrong?" 
+    r "¿Ocurre algo?" 
 
 # game/14 Nights With You/bonus.rpy:356
 translate Paloslios DLC_day2_cafe_2649d5f8:
 
-    # n "As if noticing what I've been staring at, [ch_ren] brushes his fingers across his face and notices the crumbs." nointeract
-    n "Como si se diera cuenta de lo que he estado mirando, [ch_ren] se pasa los dedos por la cara y nota las migajas." nointeract
+    # n "As if noticing what I've been staring at, [ch_ren] brushes his fingers across his face and notices the crumbs." 
+    n "Como si se diera cuenta de lo que he estado mirando, [ch_ren] se pasa los dedos por la cara y nota las migajas." 
 
 # game/14 Nights With You/bonus.rpy:358
 translate Paloslios DLC_day2_cafe_830fde8c:
 
-    # r "O-Oh. Heh, how embarassing." nointeract
-    r "Oh. Je, que vergonzoso." nointeract
+    # r "O-Oh. Heh, how embarassing." 
+    r "Oh. Je, que vergonzoso." 
 
 # game/14 Nights With You/bonus.rpy:360
 translate Paloslios DLC_day2_cafe_f6b2d0e5:
 
-    # r "All gone now?" nointeract
-    r "¿Ya se fue todo?" nointeract
+    # r "All gone now?" 
+    r "¿Ya se fue todo?" 
 
 # game/14 Nights With You/bonus.rpy:361
 translate Paloslios DLC_day2_cafe_e136d212:
 
-    # n "He looks at me for confirmation, and when I give it, he goes back to eating — but not before attempting to hide his flushed cheeks with the sleeve of his cardigan." nointeract
-    n "Me mira en busca de confirmación y, cuando se la doy, vuelve a comer, no sin antes intentar ocultar sus mejillas sonrojadas con la manga de su cárdigan." nointeract
+    # n "He looks at me for confirmation, and when I give it, he goes back to eating — but not before attempting to hide his flushed cheeks with the sleeve of his cardigan." 
+    n "Me mira en busca de confirmación y, cuando se la doy, vuelve a comer, no sin antes intentar ocultar sus mejillas sonrojadas con la manga de su cárdigan." 
 
 # game/14 Nights With You/bonus.rpy:364
 translate Paloslios DLC_day2_rain_b7e1995d:
 
-    # r "It's really pouring, huh? Here, let's stand over here instead." nointeract
-    r "Está lloviendo a cántaros, ¿eh? Aquí, mejor quedémonos aquí." nointeract
+    # r "It's really pouring, huh? Here, let's stand over here instead." 
+    r "Está lloviendo a cántaros, ¿eh? Aquí, mejor quedémonos aquí." 
 
 # game/14 Nights With You/bonus.rpy:365
 translate Paloslios DLC_day2_rain_22a4a79b:
 
-    # n "At that, [ch_ren] gently ushers me into the dark alleyway between two buildings." nointeract
-    n "Ante eso, [ch_ren] me lleva suavemente al callejón oscuro entre dos edificios." nointeract
+    # n "At that, [ch_ren] gently ushers me into the dark alleyway between two buildings." 
+    n "Ante eso, [ch_ren] me lleva suavemente al callejón oscuro entre dos edificios." 
 
 # game/14 Nights With You/bonus.rpy:373
 translate Paloslios DLC_day2_rain_0ce669cb:
 
-    # n "He's quick to press himself against me, likely in an attempt to shield my body from the rain." nointeract
-    n "Rápidamente se presiona contra mí, probablemente en un intento de proteger mi cuerpo de la lluvia." nointeract
+    # n "He's quick to press himself against me, likely in an attempt to shield my body from the rain." 
+    n "Rápidamente se presiona contra mí, probablemente en un intento de proteger mi cuerpo de la lluvia." 
 
 # game/14 Nights With You/bonus.rpy:374
 translate Paloslios DLC_day2_rain_ca154e54:
 
-    # n "Or perhaps he was just looking for an excuse to be close to me? Either way, [ch_ren]'s actions — and his sudden closesness — got me thinking…" nointeract
-    n "¿O tal vez sólo buscaba una excusa para estar cerca de mí? De cualquier manera, las acciones de [ch_ren] (y su repentina cercanía) me hicieron pensar..." nointeract
+    # n "Or perhaps he was just looking for an excuse to be close to me? Either way, [ch_ren]'s actions — and his sudden closesness — got me thinking…" 
+    n "¿O tal vez sólo buscaba una excusa para estar cerca de mí? De cualquier manera, las acciones de [ch_ren] (y su repentina cercanía) me hicieron pensar..." 
 
 # game/14 Nights With You/bonus.rpy:378
 translate Paloslios DLC_day2_rain_609d50c1:
 
-    # n "I'm not sure what comes over me in that moment, but I find myself leaning closer to [ch_ren] and placing a kiss on the exposed spot between the underside of his jaw and neck." nointeract
-    n "No estoy seguro de qué me pasa en ese momento, pero me inclino más cerca de [ch_ren] y le doy un beso en el punto expuesto entre la parte inferior de su mandíbula y su cuello." nointeract
+    # n "I'm not sure what comes over me in that moment, but I find myself leaning closer to [ch_ren] and placing a kiss on the exposed spot between the underside of his jaw and neck." 
+    n "No estoy seguro de qué me pasa en ese momento, pero me inclino más cerca de [ch_ren] y le doy un beso en el punto expuesto entre la parte inferior de su mandíbula y su cuello." 
 
 # game/14 Nights With You/bonus.rpy:379
 translate Paloslios DLC_day2_rain_e3359aab:
 
-    # r "Ah! Fu—" nointeract
-    r "¡Ah! Fu—" nointeract
+    # r "Ah! Fu—" 
+    r "¡Ah! Fu—" 
 
 # game/14 Nights With You/bonus.rpy:380
 translate Paloslios DLC_day2_rain_bd433593:
 
-    # r "Wh-What are you doing…" nointeract
-    r "¿Q-Qué estás haciendo...?" nointeract
+    # r "Wh-What are you doing…" 
+    r "¿Q-Qué estás haciendo...?" 
 
 # game/14 Nights With You/bonus.rpy:381
 translate Paloslios DLC_day2_rain_902393d9:
 
-    # n "As if he's acting purely on impulse, [ch_ren] pulls my body {b}even closer{/b} to his own as his large arms wrap around my waist. Hot puffs of air ghost across my shoulder as he tries his best to calm his breathing, but it ultimately seems futile." nointeract
-    n "Como si estuviera actuando puramente por impulso, [ch_ren] acerca mi cuerpo {b}aún más{/b} al suyo mientras sus grandes brazos rodean mi cintura. Soplos de aire caliente cruzan mi hombro mientras él hace todo lo posible por calmar su respiración, pero al final parece inútil." nointeract
+    # n "As if he's acting purely on impulse, [ch_ren] pulls my body {b}even closer{/b} to his own as his large arms wrap around my waist. Hot puffs of air ghost across my shoulder as he tries his best to calm his breathing, but it ultimately seems futile." 
+    n "Como si estuviera actuando puramente por impulso, [ch_ren] acerca mi cuerpo {b}aún más{/b} al suyo mientras sus grandes brazos rodean mi cintura. Soplos de aire caliente cruzan mi hombro mientras él hace todo lo posible por calmar su respiración, pero al final parece inútil." 
 
 # game/14 Nights With You/bonus.rpy:382
 translate Paloslios DLC_day2_rain_9cb49a51:
 
-    # n "Feeling particularly devious, I place another kiss against the juncture below [ch_ren]'s earlobe, and his reaction is immediate." nointeract
-    n "Sintiéndome particularmente tortuoso, le doy otro beso en la unión debajo del lóbulo de la oreja de [ch_ren] y su reacción es inmediata." nointeract
+    # n "Feeling particularly devious, I place another kiss against the juncture below [ch_ren]'s earlobe, and his reaction is immediate." 
+    n "Sintiéndome particularmente tortuoso, le doy otro beso en la unión debajo del lóbulo de la oreja de [ch_ren] y su reacción es inmediata." 
 
 # game/14 Nights With You/bonus.rpy:383
 translate Paloslios DLC_day2_rain_5209f783:
 
-    # n "One of his hands squeezes my sides tighter, while the other moves to my leg to lift it up and rest it against his thigh." nointeract
-    n "Una de sus manos aprieta mis costados con más fuerza, mientras que la otra se mueve hacia mi pierna para levantarla y apoyarla contra su muslo." nointeract
+    # n "One of his hands squeezes my sides tighter, while the other moves to my leg to lift it up and rest it against his thigh." 
+    n "Una de sus manos aprieta mis costados con más fuerza, mientras que la otra se mueve hacia mi pierna para levantarla y apoyarla contra su muslo." 
 
 # game/14 Nights With You/bonus.rpy:384
 translate Paloslios DLC_day2_rain_aa3ec572:
 
-    # n "[ch_ren]'s own thigh soon takes up the empty space, and I can feel him not-so-subtly rut himself against me." nointeract
-    n "El propio muslo de [ch_ren] pronto ocupa el espacio vacío, y puedo sentirlo no tan sutilmente frotándose contra mí." nointeract
+    # n "[ch_ren]'s own thigh soon takes up the empty space, and I can feel him not-so-subtly rut himself against me." 
+    n "El propio muslo de [ch_ren] pronto ocupa el espacio vacío, y puedo sentirlo no tan sutilmente frotándose contra mí." 
 
 # game/14 Nights With You/bonus.rpy:385
 translate Paloslios DLC_day2_rain_d54e777a:
 
-    # n "I won't lie, the friction from his jeans feels {b}amazing{/b} — but before I can do anything in return, [ch_ren] cuts me off with a low and husky tone." nointeract
-    n "No mentiré, la fricción de sus jeans se siente {b}increíble{/b}, pero antes de que pueda hacer algo a cambio, [ch_ren] me interrumpe con un tono bajo y ronco." nointeract
+    # n "I won't lie, the friction from his jeans feels {b}amazing{/b} — but before I can do anything in return, [ch_ren] cuts me off with a low and husky tone." 
+    n "No mentiré, la fricción de sus jeans se siente {b}increíble{/b}, pero antes de que pueda hacer algo a cambio, [ch_ren] me interrumpe con un tono bajo y ronco." 
 
 # game/14 Nights With You/bonus.rpy:386
 translate Paloslios DLC_day2_rain_a21e685c:
 
-    # r "…We really shouldn't be doin' somethin' like this out here." nointeract
-    r "…Realmente no deberíamos estar haciendo algo como esto aquí." nointeract
+    # r "…We really shouldn't be doin' somethin' like this out here." 
+    r "…Realmente no deberíamos estar haciendo algo como esto aquí." 
 
 # game/14 Nights With You/bonus.rpy:387
 translate Paloslios DLC_day2_rain_45d0ceeb:
 
-    # y "{i}You're{/i} the one rubbing yourself against me without a care in the world." nointeract
-    y "{i}Tú {/i} eres el que se frota contra mí sin ninguna preocupación en el mundo." nointeract
+    # y "{i}You're{/i} the one rubbing yourself against me without a care in the world." 
+    y "{i}Tú {/i} eres el que se frota contra mí sin ninguna preocupación en el mundo." 
 
 # game/14 Nights With You/bonus.rpy:388
 translate Paloslios DLC_day2_rain_ab70f225:
 
-    # r "…" nointeract
-    r "…" nointeract
+    # r "…" 
+    r "…" 
 
 # game/14 Nights With You/bonus.rpy:389
 translate Paloslios DLC_day2_rain_0a513051:
 
-    # n "[ch_ren] takes in a deep inhale before he presses a kiss of his own against my shoulder and pulls away." nointeract
-    n "[ch_ren] inhala profundamente antes de dejar un beso en mi hombro y alejarse." nointeract
+    # n "[ch_ren] takes in a deep inhale before he presses a kiss of his own against my shoulder and pulls away." 
+    n "[ch_ren] inhala profundamente antes de dejar un beso en mi hombro y alejarse." 
 
 # game/14 Nights With You/bonus.rpy:391
 translate Paloslios DLC_day2_rain_134f4984:
 
-    # r "You're right. This isn't the place for that. 'N you're soaking wet, Angel." nointeract
-    r "Tienes razón. Este no es el lugar para eso. Y estás empapado, Ángel." nointeract
+    # r "You're right. This isn't the place for that. 'N you're soaking wet, Angel." 
+    r "Tienes razón. Este no es el lugar para eso. Y estás empapado, Ángel." 
 
 # game/14 Nights With You/bonus.rpy:392
 translate Paloslios DLC_day2_rain_b4a4d59d:
 
-    # y "…From the rain, right?" nointeract
-    y "…De la lluvia, ¿verdad?" nointeract
+    # y "…From the rain, right?" 
+    y "…De la lluvia, ¿verdad?" 
 
 # game/14 Nights With You/bonus.rpy:393
 translate Paloslios DLC_day2_rain_d93dd128:
 
-    # n "Even though it's hard to see in this dark alleyway, I still make out the way his eyes narrow as his lips pull into a sly smile." nointeract
-    n "Aunque es difícil ver en este callejón oscuro, todavía distingo la forma en que sus ojos se estrechan mientras sus labios se dibujan en una sonrisa maliciosa." nointeract
+    # n "Even though it's hard to see in this dark alleyway, I still make out the way his eyes narrow as his lips pull into a sly smile." 
+    n "Aunque es difícil ver en este callejón oscuro, todavía distingo la forma en que sus ojos se estrechan mientras sus labios se dibujan en una sonrisa maliciosa." 
 
 # game/14 Nights With You/bonus.rpy:394
 translate Paloslios DLC_day2_rain_26c4a631:
 
-    # n "As if to tease me even {b}more{/b}, [ch_ren] angles his thigh and purposefully brushes his knee against my core." nointeract
-    n "Como para burlarse de mí aún {b}más{/b}, [ch_ren] inclina su muslo y deliberadamente roza su rodilla contra mi centro." nointeract
+    # n "As if to tease me even {b}more{/b}, [ch_ren] angles his thigh and purposefully brushes his knee against my core." 
+    n "Como para burlarse de mí aún {b}más{/b}, [ch_ren] inclina su muslo y deliberadamente roza su rodilla contra mi centro." 
 
 # game/14 Nights With You/bonus.rpy:395
 translate Paloslios DLC_day2_rain_0346ad45:
 
-    # r "Hmm… Maybe I should check?" nointeract
-    r "Hmm… ¿Quizás debería comprobarlo?" nointeract
+    # r "Hmm… Maybe I should check?" 
+    r "Hmm… ¿Quizás debería comprobarlo?" 
 
 # game/14 Nights With You/bonus.rpy:397
 translate Paloslios DLC_day2_rain_682dcb25:
 
-    # r "You're right. This isn't the place for that. Besides, you're probably all wet and sticky right now, aren't you?" nointeract
-    r "Tienes razón. Este no es el lugar para eso. Además, probablemente estés todo mojado y pegajoso ahora mismo, ¿no?" nointeract
+    # r "You're right. This isn't the place for that. Besides, you're probably all wet and sticky right now, aren't you?" 
+    r "Tienes razón. Este no es el lugar para eso. Además, probablemente estés todo mojado y pegajoso ahora mismo, ¿no?" 
 
 # game/14 Nights With You/bonus.rpy:398
 translate Paloslios DLC_day2_rain_ccec056d:
 
-    # r "We should continue this at another time. I'd rather you didn't catch a cold." nointeract
-    r "Deberíamos continuar con esto en otro momento. Preferiría que no te resfriaras." nointeract
+    # r "We should continue this at another time. I'd rather you didn't catch a cold." 
+    r "Deberíamos continuar con esto en otro momento. Preferiría que no te resfriaras." 
 
 # game/14 Nights With You/bonus.rpy:399
 translate Paloslios DLC_day2_rain_b4a4d59d_1:
 
-    # y "…From the rain, right?" nointeract
-    y "…De la lluvia, ¿verdad?" nointeract
+    # y "…From the rain, right?" 
+    y "…De la lluvia, ¿verdad?" 
 
 # game/14 Nights With You/bonus.rpy:400
 translate Paloslios DLC_day2_rain_5ffbca56:
 
-    # n "Even in the dark alleyway, I can see his eyes narrow as his lips pull into a sly smile." nointeract
-    n "Incluso en el callejón oscuro, puedo ver sus ojos entrecerrarse mientras sus labios se dibujan en una sonrisa maliciosa." nointeract
+    # n "Even in the dark alleyway, I can see his eyes narrow as his lips pull into a sly smile." 
+    n "Incluso en el callejón oscuro, puedo ver sus ojos entrecerrarse mientras sus labios se dibujan en una sonrisa maliciosa." 
 
 # game/14 Nights With You/bonus.rpy:401
 translate Paloslios DLC_day2_rain_09996d6a:
 
-    # n "As if to tease me even {b}more{/b}, [ch_ren] angles his thigh and purposefully brushes it against my growing hard-on." nointeract
-    n "Como para burlarse de mí aún {b}más{/b}, [ch_ren] inclina su muslo y lo roza deliberadamente contra mi creciente erección." nointeract
+    # n "As if to tease me even {b}more{/b}, [ch_ren] angles his thigh and purposefully brushes it against my growing hard-on." 
+    n "Como para burlarse de mí aún {b}más{/b}, [ch_ren] inclina su muslo y lo roza deliberadamente contra mi creciente erección." 
 
 # game/14 Nights With You/bonus.rpy:402
 translate Paloslios DLC_day2_rain_0346ad45_1:
 
-    # r "Hmm… Maybe I should check?" nointeract
-    r "Hmm… ¿Quizás debería comprobarlo?" nointeract
+    # r "Hmm… Maybe I should check?" 
+    r "Hmm… ¿Quizás debería comprobarlo?" 
 
 # game/14 Nights With You/bonus.rpy:404
 translate Paloslios DLC_day2_rain_682dcb25_1:
 
-    # r "You're right. This isn't the place for that. Besides, you're probably all wet and sticky right now, aren't you?" nointeract
-    r "Tienes razón. Este no es el lugar para eso. Además, probablemente estés todo mojado y pegajoso ahora mismo, ¿no?" nointeract
+    # r "You're right. This isn't the place for that. Besides, you're probably all wet and sticky right now, aren't you?" 
+    r "Tienes razón. Este no es el lugar para eso. Además, probablemente estés todo mojado y pegajoso ahora mismo, ¿no?" 
 
 # game/14 Nights With You/bonus.rpy:405
 translate Paloslios DLC_day2_rain_b4a4d59d_2:
 
-    # y "…From the rain, right?" nointeract
-    y "…De la lluvia, ¿verdad?" nointeract
+    # y "…From the rain, right?" 
+    y "…De la lluvia, ¿verdad?" 
 
 # game/14 Nights With You/bonus.rpy:406
 translate Paloslios DLC_day2_rain_5ffbca56_1:
 
-    # n "Even in the dark alleyway, I can see his eyes narrow as his lips pull into a sly smile." nointeract
-    n "Incluso en el callejón oscuro, puedo ver sus ojos entrecerrarse mientras sus labios se dibujan en una sonrisa maliciosa." nointeract
+    # n "Even in the dark alleyway, I can see his eyes narrow as his lips pull into a sly smile." 
+    n "Incluso en el callejón oscuro, puedo ver sus ojos entrecerrarse mientras sus labios se dibujan en una sonrisa maliciosa." 
 
 # game/14 Nights With You/bonus.rpy:407
 translate Paloslios DLC_day2_rain_54fbda07:
 
-    # n "His thigh moves once more, and I feel him press against the spot that's practically {b}aching{/b} to be touched." nointeract
-    n "Su muslo se mueve una vez más, y lo siento presionar contra el lugar que prácticamente {b}duele{/b} al ser tocado." nointeract
+    # n "His thigh moves once more, and I feel him press against the spot that's practically {b}aching{/b} to be touched." 
+    n "Su muslo se mueve una vez más, y lo siento presionar contra el lugar que prácticamente {b}duele{/b} al ser tocado." 
 
 # game/14 Nights With You/bonus.rpy:408
 translate Paloslios DLC_day2_rain_0346ad45_2:
 
-    # r "Hmm… Maybe I should check?" nointeract
-    r "Hmm… ¿Quizás debería comprobarlo?" nointeract
+    # r "Hmm… Maybe I should check?" 
+    r "Hmm… ¿Quizás debería comprobarlo?" 
 
 # game/14 Nights With You/bonus.rpy:409
 translate Paloslios DLC_day2_rain_b452dc19:
 
-    # n "One of [ch_ren]'s hands starts to move towards my bottoms to undo them, but he seems to hold himself back from going any further." nointeract
-    n "Una de las manos de [ch_ren] comienza a moverse hacia mis nalgas para deshacerlas, pero parece contenerse para no ir más lejos." nointeract
+    # n "One of [ch_ren]'s hands starts to move towards my bottoms to undo them, but he seems to hold himself back from going any further." 
+    n "Una de las manos de [ch_ren] comienza a moverse hacia mis nalgas para deshacerlas, pero parece contenerse para no ir más lejos." 
 
 # game/14 Nights With You/bonus.rpy:410
 translate Paloslios DLC_day2_rain_fb8bb8ff:
 
-    # n "His half-lidded eyes find mine in the dark, and when I wordlessly nod my head to give him permission to continue, he doesn't waste a second." nointeract
-    n "Sus ojos entrecerrados encuentran los míos en la oscuridad, y cuando asiento sin decir nada con la cabeza para darle permiso para continuar, no pierde ni un segundo." nointeract
+    # n "His half-lidded eyes find mine in the dark, and when I wordlessly nod my head to give him permission to continue, he doesn't waste a second." 
+    n "Sus ojos entrecerrados encuentran los míos en la oscuridad, y cuando asiento sin decir nada con la cabeza para darle permiso para continuar, no pierde ni un segundo." 
 
 # game/14 Nights With You/bonus.rpy:411
 translate Paloslios DLC_day2_rain_8d6505c1:
 
-    # n "[ch_ren] fumbles — but only for a moment — before I feel the cold touch of his fingers slide against my skin and push past the elastic of my underwear." nointeract
-    n "[ch_ren] busca a tientas, pero sólo por un momento, antes de sentir el toque frío de sus dedos deslizarse contra mi piel y empujar más allá del elástico de mi ropa interior." nointeract
+    # n "[ch_ren] fumbles — but only for a moment — before I feel the cold touch of his fingers slide against my skin and push past the elastic of my underwear." 
+    n "[ch_ren] busca a tientas, pero sólo por un momento, antes de sentir el toque frío de sus dedos deslizarse contra mi piel y empujar más allá del elástico de mi ropa interior." 
 
 # game/14 Nights With You/bonus.rpy:413
 translate Paloslios DLC_day2_rain_8eb9058c:
 
-    # n "Almost immediately, he brushes past my folds and collects my wetness with two of his slender fingers." nointeract
-    n "Casi de inmediato, pasa por mis pliegues y recoge mi humedad con dos de sus delgados dedos." nointeract
+    # n "Almost immediately, he brushes past my folds and collects my wetness with two of his slender fingers." 
+    n "Casi de inmediato, pasa por mis pliegues y recoge mi humedad con dos de sus delgados dedos." 
 
 # game/14 Nights With You/bonus.rpy:415
 translate Paloslios DLC_day2_rain_24ac1051:
 
-    # n "Almost immediately, his hand brushes against my dick and wraps around the base before giving it a squeeze." nointeract
-    n "Casi de inmediato, su mano roza mi polla y envuelve la base antes de apretarla." nointeract
+    # n "Almost immediately, his hand brushes against my dick and wraps around the base before giving it a squeeze." 
+    n "Casi de inmediato, su mano roza mi polla y envuelve la base antes de apretarla." 
 
 # game/14 Nights With You/bonus.rpy:417
 translate Paloslios DLC_day2_rain_648e42be:
 
-    # n "Almost immediately, his hand brushes against the sensitive part of me that's aching the most." nointeract
-    n "Casi de inmediato, su mano roza la parte sensible de mí que más me duele." nointeract
+    # n "Almost immediately, his hand brushes against the sensitive part of me that's aching the most." 
+    n "Casi de inmediato, su mano roza la parte sensible de mí que más me duele." 
 
 # game/14 Nights With You/bonus.rpy:418
 translate Paloslios DLC_day2_rain_4579b1f4:
 
-    # y "{i}Ah—!{/i}" nointeract
-    y "{i}¡Ah—!{/i}" nointeract
+    # y "{i}Ah—!{/i}" 
+    y "{i}¡Ah—!{/i}" 
 
 # game/14 Nights With You/bonus.rpy:419
 translate Paloslios DLC_day2_rain_62f09455:
 
-    # n "My voice get muffled by the fabric of [ch_ren]'s cardigan as he leans closer to bury his face in the crook of my neck." nointeract
-    n "Mi voz queda amortiguada por la tela del cárdigan de [ch_ren] mientras se inclina más cerca para enterrar su rostro en el hueco de mi cuello." nointeract
+    # n "My voice get muffled by the fabric of [ch_ren]'s cardigan as he leans closer to bury his face in the crook of my neck." 
+    n "Mi voz queda amortiguada por la tela del cárdigan de [ch_ren] mientras se inclina más cerca para enterrar su rostro en el hueco de mi cuello." 
 
 # game/14 Nights With You/bonus.rpy:420
 translate Paloslios DLC_day2_rain_4b4e2fcb:
 
-    # r "…Definitely wet." nointeract
-    r "…Definitivamente mojado." nointeract
+    # r "…Definitely wet." 
+    r "…Definitivamente mojado." 
 
 # game/14 Nights With You/bonus.rpy:421
 translate Paloslios DLC_day2_rain_1c0622ca:
 
-    # n "His breath is hot against my skin, and it causes goosebumps to form all over my body. Soon enough, I find myself shamelessly arching into his touch in an attempt to feel more." nointeract
-    n "Su aliento es caliente contra mi piel y hace que se me ponga la piel de gallina por todo el cuerpo. Muy pronto, me encuentro arqueándome descaradamente ante su toque en un intento de sentir más." nointeract
+    # n "His breath is hot against my skin, and it causes goosebumps to form all over my body. Soon enough, I find myself shamelessly arching into his touch in an attempt to feel more." 
+    n "Su aliento es caliente contra mi piel y hace que se me ponga la piel de gallina por todo el cuerpo. Muy pronto, me encuentro arqueándome descaradamente ante su toque en un intento de sentir más." 
 
 # game/14 Nights With You/bonus.rpy:422
 translate Paloslios DLC_day2_rain_9157904b:
 
-    # n "A multitude of sighs fall from my lips each time [ch_ren] repeats his actions, and whenever I try to close my thighs to stave off the waves of overwhelming pleasure, he simply nudges them apart with a smug chuckle." nointeract
-    n "Una multitud de suspiros salen de mis labios cada vez que [ch_ren] repite sus acciones, y cada vez que intento cerrar mis muslos para evitar las olas de placer abrumador, él simplemente los separa con una risa engreída." nointeract
+    # n "A multitude of sighs fall from my lips each time [ch_ren] repeats his actions, and whenever I try to close my thighs to stave off the waves of overwhelming pleasure, he simply nudges them apart with a smug chuckle." 
+    n "Una multitud de suspiros salen de mis labios cada vez que [ch_ren] repite sus acciones, y cada vez que intento cerrar mis muslos para evitar las olas de placer abrumador, él simplemente los separa con una risa engreída." 
 
 # game/14 Nights With You/bonus.rpy:423
 translate Paloslios DLC_day2_rain_1cf1783d:
 
-    # r "[ch_angel]…" nointeract
-    r "[ch_angel]…" nointeract
+    # r "[ch_angel]…" 
+    r "[ch_angel]…" 
 
 # game/14 Nights With You/bonus.rpy:424
 translate Paloslios DLC_day2_rain_75f1a9a4:
 
-    # n "The way [ch_ren] speaks my name with such… {b}tenderness{/b} seems far too innocent compared to the lewd mess he's creating between my legs." nointeract
-    n "La forma en que [ch_ren] pronuncia mi nombre con tanta... {b}ternura{/b} parece demasiado inocente en comparación con el lío lascivo que está creando entre mis piernas." nointeract
+    # n "The way [ch_ren] speaks my name with such… {b}tenderness{/b} seems far too innocent compared to the lewd mess he's creating between my legs." 
+    n "La forma en que [ch_ren] pronuncia mi nombre con tanta... {b}ternura{/b} parece demasiado inocente en comparación con el lío lascivo que está creando entre mis piernas." 
 
 # game/14 Nights With You/bonus.rpy:426
 translate Paloslios DLC_day2_rain_1f8eb48e:
 
-    # n "It does little to stop me from gripping onto his cardigan every time his fingers brush against my clit and makes me tremble with excitement." nointeract
-    n "Eso hace poco para evitar que agarre su cárdigan cada vez que sus dedos rozan mi clítoris y me hacen temblar de emoción." nointeract
+    # n "It does little to stop me from gripping onto his cardigan every time his fingers brush against my clit and makes me tremble with excitement." 
+    n "Eso hace poco para evitar que agarre su cárdigan cada vez que sus dedos rozan mi clítoris y me hacen temblar de emoción." 
 
 # game/14 Nights With You/bonus.rpy:428
 translate Paloslios DLC_day2_rain_8a332692:
 
-    # n "It does little to stop me from gripping onto his cardigan every time his thumb brushes over the tip and makes me tremble with excitement." nointeract
-    n "Eso hace poco para evitar que agarre su cárdigan cada vez que su pulgar roza la punta y me hace temblar de emoción." nointeract
+    # n "It does little to stop me from gripping onto his cardigan every time his thumb brushes over the tip and makes me tremble with excitement." 
+    n "Eso hace poco para evitar que agarre su cárdigan cada vez que su pulgar roza la punta y me hace temblar de emoción." 
 
 # game/14 Nights With You/bonus.rpy:430
 translate Paloslios DLC_day2_rain_e30a08b5:
 
-    # n "It does little to stop me from gripping onto his cardigan as each thrum of excitement pulses through my entire body and makes me tremble with excitement." nointeract
-    n "Hace poco para evitar que agarre su cárdigan mientras cada latido de excitación recorre todo mi cuerpo y me hace temblar de emoción." nointeract
+    # n "It does little to stop me from gripping onto his cardigan as each thrum of excitement pulses through my entire body and makes me tremble with excitement." 
+    n "Hace poco para evitar que agarre su cárdigan mientras cada latido de excitación recorre todo mi cuerpo y me hace temblar de emoción." 
 
 # game/14 Nights With You/bonus.rpy:431
 translate Paloslios DLC_day2_rain_9810bc07:
 
-    # n "And [ch_ren] — observant as ever — immediately picks up on my reactions and responds with a know-it-all grin on his features." nointeract
-    n "Y [ch_ren], observador como siempre, inmediatamente capta mis reacciones y responde con una sonrisa de sabelotodo en sus rasgos." nointeract
+    # n "And [ch_ren] — observant as ever — immediately picks up on my reactions and responds with a know-it-all grin on his features." 
+    n "Y [ch_ren], observador como siempre, inmediatamente capta mis reacciones y responde con una sonrisa de sabelotodo en sus rasgos." 
 
 # game/14 Nights With You/bonus.rpy:432
 translate Paloslios DLC_day2_rain_fface8e6:
 
-    # r "Are you shaking because it feels good? Or is it the rain?" nointeract
-    r "¿Estás temblando porque te sientes bien? ¿O es la lluvia?" nointeract
+    # r "Are you shaking because it feels good? Or is it the rain?" 
+    r "¿Estás temblando porque te sientes bien? ¿O es la lluvia?" 
 
 # game/14 Nights With You/bonus.rpy:433
 translate Paloslios DLC_day2_rain_282ada76:
 
-    # y "…" nointeract
-    y "…" nointeract
+    # y "…" 
+    y "…" 
 
 # game/14 Nights With You/bonus.rpy:434
 translate Paloslios DLC_day2_rain_ef263e61:
 
-    # n "Too caught up in everything, I barely have it in me to muster a response." nointeract
-    n "Demasiado atrapado en todo, apenas tengo fuerzas para reunir una respuesta." nointeract
+    # n "Too caught up in everything, I barely have it in me to muster a response." 
+    n "Demasiado atrapado en todo, apenas tengo fuerzas para reunir una respuesta." 
 
 # game/14 Nights With You/bonus.rpy:435
 translate Paloslios DLC_day2_rain_3aa59ce7:
 
-    # n "Yet [ch_ren] seems to take my silence as something to be {b}concerned{/b} about, as he soon draws back and searches for my gaze in the dark. When he notices just how much I've been trembling, a frown pulls at his lips." nointeract
-    n "Sin embargo, [ch_ren] parece tomar mi silencio como algo de qué {b}preocuparse{/b}, ya que pronto retrocede y busca mi mirada en la oscuridad. Cuando se da cuenta de lo mucho que he estado temblando, frunce el ceño en sus labios." nointeract
+    # n "Yet [ch_ren] seems to take my silence as something to be {b}concerned{/b} about, as he soon draws back and searches for my gaze in the dark. When he notices just how much I've been trembling, a frown pulls at his lips." 
+    n "Sin embargo, [ch_ren] parece tomar mi silencio como algo de qué {b}preocuparse{/b}, ya que pronto retrocede y busca mi mirada en la oscuridad. Cuando se da cuenta de lo mucho que he estado temblando, frunce el ceño en sus labios." 
 
 # game/14 Nights With You/bonus.rpy:436
 translate Paloslios DLC_day2_rain_a65898d5:
 
-    # r "Actually… M-Maybe we shouldn't be doing this here. I wouldn't want you to catch a cold." nointeract
-    r "En realidad... M-Tal vez no deberíamos estar haciendo esto aquí. No me gustaría que te resfriaras." nointeract
+    # r "Actually… M-Maybe we shouldn't be doing this here. I wouldn't want you to catch a cold." 
+    r "En realidad... M-Tal vez no deberíamos estar haciendo esto aquí. No me gustaría que te resfriaras." 
 
 # game/14 Nights With You/bonus.rpy:437
 translate Paloslios DLC_day2_rain_3879a4ec:
 
-    # y "Wha— Are you serious? I'm not shaking because of the rain—" nointeract
-    y "¿Qué...? ¿Hablas en serio? No estoy temblando por la lluvia." nointeract
+    # y "Wha— Are you serious? I'm not shaking because of the rain—" 
+    y "¿Qué...? ¿Hablas en serio? No estoy temblando por la lluvia." 
 
 # game/14 Nights With You/bonus.rpy:438
 translate Paloslios DLC_day2_rain_4e4dbf6c:
 
-    # r "Here, don't worry." nointeract
-    r "Toma, no te preocupes." nointeract
+    # r "Here, don't worry." 
+    r "Toma, no te preocupes." 
 
 # game/14 Nights With You/bonus.rpy:440
 translate Paloslios DLC_day2_rain_cee91fbd:
 
-    # n "[ch_ren] cuts me off once again, but I can barely feel annoyed when one of his fingers casually slips past my folds." nointeract
-    n "[ch_ren] me interrumpe una vez más, pero apenas puedo sentirme molesto cuando uno de sus dedos se desliza casualmente entre mis pliegues." nointeract
+    # n "[ch_ren] cuts me off once again, but I can barely feel annoyed when one of his fingers casually slips past my folds." 
+    n "[ch_ren] me interrumpe una vez más, pero apenas puedo sentirme molesto cuando uno de sus dedos se desliza casualmente entre mis pliegues." 
 
 # game/14 Nights With You/bonus.rpy:442
 translate Paloslios DLC_day2_rain_7dd6aae2:
 
-    # n "[ch_ren] cuts me off once again, but I can barely feel annoyed when his hand is still casually stroking my cock." nointeract
-    n "[ch_ren] me interrumpe una vez más, pero apenas puedo sentirme molesto cuando su mano todavía acaricia casualmente mi polla." nointeract
+    # n "[ch_ren] cuts me off once again, but I can barely feel annoyed when his hand is still casually stroking my cock." 
+    n "[ch_ren] me interrumpe una vez más, pero apenas puedo sentirme molesto cuando su mano todavía acaricia casualmente mi polla." 
 
 # game/14 Nights With You/bonus.rpy:444
 translate Paloslios DLC_day2_rain_1fb658d4:
 
-    # n "[ch_ren] cuts me off once again, but I can barely feel annoyed when his hand is still casually rubbing against my sex." nointeract
-    n "[ch_ren] me interrumpe una vez más, pero apenas puedo sentirme molesto cuando su mano todavía frota casualmente mi sexo." nointeract
+    # n "[ch_ren] cuts me off once again, but I can barely feel annoyed when his hand is still casually rubbing against my sex." 
+    n "[ch_ren] me interrumpe una vez más, pero apenas puedo sentirme molesto cuando su mano todavía frota casualmente mi sexo." 
 
 # game/14 Nights With You/bonus.rpy:446
 translate Paloslios DLC_day2_rain_fac151a5:
 
-    # r "If y'come back to my place, I promise I'll take good care of you. And if you be good f'me, I'll use more than just my hands." nointeract
-    r "Si vuelves a mi casa, te prometo que te cuidaré bien. Y si eres bueno conmigo, usaré algo más que mis manos." nointeract
+    # r "If y'come back to my place, I promise I'll take good care of you. And if you be good f'me, I'll use more than just my hands." 
+    r "Si vuelves a mi casa, te prometo que te cuidaré bien. Y si eres bueno conmigo, usaré algo más que mis manos." 
 
 # game/14 Nights With You/bonus.rpy:447
 translate Paloslios DLC_day2_rain_ece030a5:
 
-    # r "D'you want that? Think you can behave for that long?" nointeract
-    r "¿Quieres eso? ¿Crees que podrás comportarte por tanto tiempo?" nointeract
+    # r "D'you want that? Think you can behave for that long?" 
+    r "¿Quieres eso? ¿Crees que podrás comportarte por tanto tiempo?" 
 
 # game/14 Nights With You/bonus.rpy:449
 translate Paloslios DLC_day2_rain_25a04189:
 
-    # r "If… I-If you want to come over and stay at my place for the night, I'll make it up to you, I swear." nointeract
-    r "Si... Si quieres venir y pasar la noche en mi casa, te lo compensaré, lo juro." nointeract
+    # r "If… I-If you want to come over and stay at my place for the night, I'll make it up to you, I swear." 
+    r "Si... Si quieres venir y pasar la noche en mi casa, te lo compensaré, lo juro." 
 
 # game/14 Nights With You/bonus.rpy:450
 translate Paloslios DLC_day2_rain_bf672a07:
 
-    # r "I-I promise I'll be good for you." nointeract
-    r "Te prometo que seré bueno para ti." nointeract
+    # r "I-I promise I'll be good for you." 
+    r "Te prometo que seré bueno para ti." 
 
 # game/14 Nights With You/bonus.rpy:451
 translate Paloslios DLC_day2_rain_302e39a4:
 
-    # r "And I'll make {i}you{/i} feel good, too. Promise!" nointeract
-    r "Y haré que {i}tú{/i} también te sientas bien. ¡Promesa!" nointeract
+    # r "And I'll make {i}you{/i} feel good, too. Promise!" 
+    r "Y haré que {i}tú{/i} también te sientas bien. ¡Promesa!" 
 
 # game/14 Nights With You/bonus.rpy:452
 translate Paloslios DLC_day2_rain_46acae3d:
 
-    # r "But first… we should probably find a way to stay dry, huh?" nointeract
-    r "Pero primero… probablemente deberíamos encontrar una manera de mantenernos secos, ¿eh?" nointeract
+    # r "But first… we should probably find a way to stay dry, huh?" 
+    r "Pero primero… probablemente deberíamos encontrar una manera de mantenernos secos, ¿eh?" 
 
 # game/14 Nights With You/bonus.rpy:453
 translate Paloslios DLC_day2_rain_56845e52:
 
-    # n "Before I can say anything, [ch_ren] removes his hand, fixes my bottoms, and gives me one final, lingering kiss before pulling away fully." nointeract
-    n "Antes de que pueda decir algo, [ch_ren] retira su mano, arregla mis nalgas y me da un beso final y prolongado antes de alejarse por completo." nointeract
+    # n "Before I can say anything, [ch_ren] removes his hand, fixes my bottoms, and gives me one final, lingering kiss before pulling away fully." 
+    n "Antes de que pueda decir algo, [ch_ren] retira su mano, arregla mis nalgas y me da un beso final y prolongado antes de alejarse por completo." 
 
 # game/14 Nights With You/bonus.rpy:455
 translate Paloslios DLC_day2_rain_54ab20ff:
 
-    # n "I watch as Ren looks over his shoulder and scans the area around him." nointeract
-    n "Observo cómo Ren mira por encima del hombro y escanea el área a su alrededor." nointeract
+    # n "I watch as Ren looks over his shoulder and scans the area around him." 
+    n "Observo cómo Ren mira por encima del hombro y escanea el área a su alrededor." 
 
 # game/14 Nights With You/bonus.rpy:460
 translate Paloslios DLC_day3_kitchen_a74b9ecb:
 
-    # n "Quietly sneaking up behind [ch_ren], I wait until he's occupied with his phone once more before I reach for his shirt and slide my hands underneath the soft material." nointeract
-    n "Acercándome silenciosamente detrás de [ch_ren], espero hasta que esté ocupado con su teléfono una vez más antes de alcanzar su camisa y deslizar mis manos debajo del material suave." nointeract
+    # n "Quietly sneaking up behind [ch_ren], I wait until he's occupied with his phone once more before I reach for his shirt and slide my hands underneath the soft material." 
+    n "Acercándome silenciosamente detrás de [ch_ren], espero hasta que esté ocupado con su teléfono una vez más antes de alcanzar su camisa y deslizar mis manos debajo del material suave." 
 
 # game/14 Nights With You/bonus.rpy:462
 translate Paloslios DLC_day3_kitchen_a968d018:
 
-    # n "He {b}immediately{/b} lets out a sharp breath from the sudden surprise, but… doesn't seem to stop me. Instead, [ch_ren] sets his phone down on the counter and subconsciously leans into my touch." nointeract
-    n "Él {b}inmediatamente{/b} deja escapar un suspiro por la repentina sorpresa, pero… no parece detenerme. En cambio, [ch_ren] deja su teléfono sobre el mostrador y inconscientemente se inclina hacia mi toque." nointeract
+    # n "He {b}immediately{/b} lets out a sharp breath from the sudden surprise, but… doesn't seem to stop me. Instead, [ch_ren] sets his phone down on the counter and subconsciously leans into my touch." 
+    n "Él {b}inmediatamente{/b} deja escapar un suspiro por la repentina sorpresa, pero… no parece detenerme. En cambio, [ch_ren] deja su teléfono sobre el mostrador y inconscientemente se inclina hacia mi toque." 
 
 # game/14 Nights With You/bonus.rpy:463
 translate Paloslios DLC_day3_kitchen_774277bf:
 
-    # n "A shaky sigh soon follows, and I feel the outlines and grooves of his muscles tense up whenever my fingers brush across them." nointeract
-    n "Pronto sigue un suspiro tembloroso y siento que los contornos y surcos de sus músculos se tensan cada vez que mis dedos los rozan." nointeract
+    # n "A shaky sigh soon follows, and I feel the outlines and grooves of his muscles tense up whenever my fingers brush across them." 
+    n "Pronto sigue un suspiro tembloroso y siento que los contornos y surcos de sus músculos se tensan cada vez que mis dedos los rozan." 
 
 # game/14 Nights With You/bonus.rpy:464
 translate Paloslios DLC_day3_kitchen_b6a8c500:
 
-    # n "My hands casually roam against his skin — cold at first, though not as cold as his hands — before they wrap around his torso and soak in the warmth it emits." nointeract
-    n "Mis manos vagan casualmente sobre su piel (frías al principio, aunque no tanto como las suyas) antes de envolver su torso y empaparse del calor que emite." nointeract
+    # n "My hands casually roam against his skin — cold at first, though not as cold as his hands — before they wrap around his torso and soak in the warmth it emits." 
+    n "Mis manos vagan casualmente sobre su piel (frías al principio, aunque no tanto como las suyas) antes de envolver su torso y empaparse del calor que emite." 
 
 # game/14 Nights With You/bonus.rpy:465
 translate Paloslios DLC_day3_kitchen_a2cb3ab9:
 
-    # n "Seeing just how far [ch_ren] would let me take this, I glide my fingers upwards across the large expanse of his chest and over his erratic heartbeat… and the next thing I know, they stumble upon something cool, round, and metallic." nointeract
-    n "Viendo hasta dónde [ch_ren] me permitiría llegar con esto, deslizo mis dedos hacia arriba a través de la gran extensión de su pecho y sobre los erráticos latidos de su corazón... y lo siguiente que sé es que tropiezan con algo fresco, redondo y metálico." nointeract
+    # n "Seeing just how far [ch_ren] would let me take this, I glide my fingers upwards across the large expanse of his chest and over his erratic heartbeat… and the next thing I know, they stumble upon something cool, round, and metallic." 
+    n "Viendo hasta dónde [ch_ren] me permitiría llegar con esto, deslizo mis dedos hacia arriba a través de la gran extensión de su pecho y sobre los erráticos latidos de su corazón... y lo siguiente que sé es que tropiezan con algo fresco, redondo y metálico." 
 
 # game/14 Nights With You/bonus.rpy:466
 translate Paloslios DLC_day3_kitchen_ec11548d:
 
-    # n "No way— Were those… Did [ch_ren] have…" nointeract
-    n "De ninguna manera... ¿Eran esos...? ¿[ch_ren] tenía...?" nointeract
+    # n "No way— Were those… Did [ch_ren] have…" 
+    n "De ninguna manera... ¿Eran esos...? ¿[ch_ren] tenía...?" 
 
 # game/14 Nights With You/bonus.rpy:468
 translate Paloslios DLC_day3_kitchen_4f5c438a:
 
-    # r "A-Ahem!" nointeract
-    r "¡Ejem!" nointeract
+    # r "A-Ahem!" 
+    r "¡Ejem!" 
 
 # game/14 Nights With You/bonus.rpy:469
 translate Paloslios DLC_day3_kitchen_34915681:
 
-    # n "With bright red cheeks, [ch_ren] reaches for both my wrists and gently pulls my hands from underneath his shirt. Barely a second passes before he turns to me with a flushed smile, and places a few kisses on each of my knuckles." nointeract
-    n "Con las mejillas de un rojo brillante, [ch_ren] alcanza mis muñecas y suavemente saca mis manos de debajo de su camisa. Apenas pasa un segundo antes de que se gire hacia mí con una sonrisa sonrojada y deposite unos besos en cada uno de mis nudillos." nointeract
+    # n "With bright red cheeks, [ch_ren] reaches for both my wrists and gently pulls my hands from underneath his shirt. Barely a second passes before he turns to me with a flushed smile, and places a few kisses on each of my knuckles." 
+    n "Con las mejillas de un rojo brillante, [ch_ren] alcanza mis muñecas y suavemente saca mis manos de debajo de su camisa. Apenas pasa un segundo antes de que se gire hacia mí con una sonrisa sonrojada y deposite unos besos en cada uno de mis nudillos." 
 
 # game/14 Nights With You/bonus.rpy:471
 translate Paloslios DLC_day3_kitchen_82834599:
 
-    # r "I-I— Um! I wasn't expecting you to do that so early in the morning." nointeract
-    r "Yo-yo... ¡Um! No esperaba que hicieras eso tan temprano en la mañana." nointeract
+    # r "I-I— Um! I wasn't expecting you to do that so early in the morning." 
+    r "Yo-yo... ¡Um! No esperaba que hicieras eso tan temprano en la mañana." 
 
 # game/14 Nights With You/bonus.rpy:473
 translate Paloslios DLC_day3_kitchen_25136095:
 
-    # r "But— Well… A-Anyway!" nointeract
-    r "Pero... Bueno... ¡D-De todos modos!" nointeract
+    # r "But— Well… A-Anyway!" 
+    r "Pero... Bueno... ¡D-De todos modos!" 
 
 # game/14 Nights With You/bonus.rpy:477
 translate Paloslios DLC_day3_olivia_7652af86:
 
-    # o "W-What? You're lying!" nointeract with vpunch
-    o "¿Q-qué? ¡Estás mintiendo!" nointeract with vpunch
+    # o "W-What? You're lying!"  with vpunch
+    o "¿Q-qué? ¡Estás mintiendo!"  with vpunch
 
 # game/14 Nights With You/bonus.rpy:479
 translate Paloslios DLC_day3_olivia_b531525b:
 
-    # o "There's absolutely {i}no way{/i} someone like him would ever—" nointeract
-    o "No hay absolutamente {i}ninguna manera{/i} de que alguien como él alguna vez..." nointeract
+    # o "There's absolutely {i}no way{/i} someone like him would ever—" 
+    o "No hay absolutamente {i}ninguna manera{/i} de que alguien como él alguna vez..." 
 
 # game/14 Nights With You/bonus.rpy:481
 translate Paloslios DLC_day3_olivia_16cfb0cb:
 
-    # o "Unless {i}you're{/i} the one who we used to— But you can't be…" nointeract
-    o "A menos que {i}seas{/i} el que solíamos... Pero no puedes ser..." nointeract
+    # o "Unless {i}you're{/i} the one who we used to— But you can't be…" 
+    o "A menos que {i}seas{/i} el que solíamos... Pero no puedes ser..." 
 
 # game/14 Nights With You/bonus.rpy:482
 translate Paloslios DLC_day3_olivia_59ee0002:
 
-    # y "Sounds like someone is jealous." nointeract
-    y "Parece que alguien está celoso." nointeract
+    # y "Sounds like someone is jealous." 
+    y "Parece que alguien está celoso." 
 
 # game/14 Nights With You/bonus.rpy:483
 translate Paloslios DLC_day3_olivia_6a21b01e:
 
-    # n "After the way [ch_olivia] carelessly treated me and my feelings the other day, I can't help but let that line slip. Oops." nointeract
-    n "Después de la forma en que [ch_olivia] me trató descuidadamente a mí y a mis sentimientos el otro día, no puedo evitar dejar escapar esa línea. Ups." nointeract
+    # n "After the way [ch_olivia] carelessly treated me and my feelings the other day, I can't help but let that line slip. Oops." 
+    n "Después de la forma en que [ch_olivia] me trató descuidadamente a mí y a mis sentimientos el otro día, no puedo evitar dejar escapar esa línea. Ups." 
 
 # game/14 Nights With You/bonus.rpy:485
 translate Paloslios DLC_day3_olivia_b96fc30b:
 
-    # o "Why would I be jealous?!" nointeract with vpunch
-    o "¡¿Por qué estaría celoso?!" nointeract with vpunch
+    # o "Why would I be jealous?!"  with vpunch
+    o "¡¿Por qué estaría celoso?!"  with vpunch
 
 # game/14 Nights With You/bonus.rpy:487
 translate Paloslios DLC_day3_olivia_34adb551:
 
-    # o "I already have {i}the{/i} Teo Alvarado and an indie-rock drummer wrapped around my finger, what's there for me to be jealous about?" nointeract
-    o "Ya tengo {i}al{/i} Teo Alvarado y un baterista de indie-rock en mis manos, ¿de qué tengo celos?" nointeract
+    # o "I already have {i}the{/i} Teo Alvarado and an indie-rock drummer wrapped around my finger, what's there for me to be jealous about?" 
+    o "Ya tengo {i}al{/i} Teo Alvarado y un baterista de indie-rock en mis manos, ¿de qué tengo celos?" 
 
 # game/14 Nights With You/bonus.rpy:489
 translate Paloslios DLC_day3_olivia_132dba0e:
 
-    # o "Well, whatever!" nointeract
-    o "Bueno, ¡lo que sea!" nointeract
+    # o "Well, whatever!" 
+    o "Bueno, ¡lo que sea!" 
 
 # game/14 Nights With You/bonus.rpy:493
 translate Paloslios DLC_day3_inviteren_521041f2:
 
-    # r "H-Huh?!" nointeract with vpunch
-    r "¡¿E-Eh?!" nointeract with vpunch
+    # r "H-Huh?!"  with vpunch
+    r "¡¿E-Eh?!"  with vpunch
 
 # game/14 Nights With You/bonus.rpy:494
 translate Paloslios DLC_day3_inviteren_2e45cfe8:
 
-    # n "Almost immediately, [ch_ren] turns his back to me — whether it's out of privacy or embarrassment — and looks down at his pants." nointeract
-    n "Casi de inmediato, [ch_ren] me da la espalda, ya sea por privacidad o por vergüenza, y se mira los pantalones." nointeract
+    # n "Almost immediately, [ch_ren] turns his back to me — whether it's out of privacy or embarrassment — and looks down at his pants." 
+    n "Casi de inmediato, [ch_ren] me da la espalda, ya sea por privacidad o por vergüenza, y se mira los pantalones." 
 
 # game/14 Nights With You/bonus.rpy:495
 translate Paloslios DLC_day3_inviteren_b0c0a5ad:
 
-    # n "Amused at how quickly he fell for my bluff, I kick my feet up onto the couch and watch his reactions with a smile on my face." nointeract
-    n "Divertida por lo rápido que se enamoró de mi farol, levanto los pies en el sofá y observo sus reacciones con una sonrisa en mi rostro." nointeract
+    # n "Amused at how quickly he fell for my bluff, I kick my feet up onto the couch and watch his reactions with a smile on my face." 
+    n "Divertida por lo rápido que se enamoró de mi farol, levanto los pies en el sofá y observo sus reacciones con una sonrisa en mi rostro." 
 
 # game/14 Nights With You/bonus.rpy:496
 translate Paloslios DLC_day3_inviteren_438b1de3:
 
-    # n "He lifts his outer cardigan up a few times — almost as if he wants to be absolutely certain — before he stands up with a huff and repeats the process all over again." nointeract
-    n "Se levanta el cárdigan exterior unas cuantas veces, casi como si quisiera estar absolutamente seguro, antes de levantarse con un resoplido y repetir el proceso de nuevo." nointeract
+    # n "He lifts his outer cardigan up a few times — almost as if he wants to be absolutely certain — before he stands up with a huff and repeats the process all over again." 
+    n "Se levanta el cárdigan exterior unas cuantas veces, casi como si quisiera estar absolutamente seguro, antes de levantarse con un resoplido y repetir el proceso de nuevo." 
 
 # game/14 Nights With You/bonus.rpy:497
 translate Paloslios DLC_day3_inviteren_74672215:
 
-    # n "But when [ch_ren]'s search ends up fruitless, he turns to me with a faux look of betrayal in his eyes." nointeract
-    n "Pero cuando la búsqueda de [ch_ren] termina infructuosa, se vuelve hacia mí con una falsa mirada de traición en sus ojos." nointeract
+    # n "But when [ch_ren]'s search ends up fruitless, he turns to me with a faux look of betrayal in his eyes." 
+    n "Pero cuando la búsqueda de [ch_ren] termina infructuosa, se vuelve hacia mí con una falsa mirada de traición en sus ojos." 
 
 # game/14 Nights With You/bonus.rpy:499
 translate Paloslios DLC_day3_inviteren_7f91347c:
 
-    # r "Wait… I-It's not…" nointeract
-    r "Espera... N-No lo es..." nointeract
+    # r "Wait… I-It's not…" 
+    r "Espera... N-No lo es..." 
 
 # game/14 Nights With You/bonus.rpy:501
 translate Paloslios DLC_day3_inviteren_6a4e88e8:
 
-    # n "He plops himself back onto the couch, crosses his arms, and offers me nothing more than a pout." nointeract
-    n "Se deja caer en el sofá, se cruza de brazos y no me ofrece nada más que un puchero." nointeract
+    # n "He plops himself back onto the couch, crosses his arms, and offers me nothing more than a pout." 
+    n "Se deja caer en el sofá, se cruza de brazos y no me ofrece nada más que un puchero." 
 
 # game/14 Nights With You/bonus.rpy:502
 translate Paloslios DLC_day3_inviteren_4ce0b782:
 
-    # y "Relaaaax. I just wanted to tease you a little bit." nointeract
-    y "Relájate. Sólo quería burlarme un poco de ti." nointeract
+    # y "Relaaaax. I just wanted to tease you a little bit." 
+    y "Relájate. Sólo quería burlarme un poco de ti." 
 
 # game/14 Nights With You/bonus.rpy:503
 translate Paloslios DLC_day3_inviteren_c58dbe75:
 
-    # y "You know, you're {i}especially{/i} cute with those blushy cheeks and pouting expression of yours." nointeract
-    y "Sabes, eres {i}especialmente{/i} linda con esas mejillas sonrojadas y esa expresión tuya de puchero." nointeract
+    # y "You know, you're {i}especially{/i} cute with those blushy cheeks and pouting expression of yours." 
+    y "Sabes, eres {i}especialmente{/i} linda con esas mejillas sonrojadas y esa expresión tuya de puchero." 
 
 # game/14 Nights With You/bonus.rpy:504
 translate Paloslios DLC_day3_inviteren_dd7674b9:
 
-    # y "And it's… honestly kind of amusing watching you get riled up over something so small." nointeract
-    y "Y es... honestamente, algo divertido ver cómo te enojas por algo tan pequeño." nointeract
+    # y "And it's… honestly kind of amusing watching you get riled up over something so small." 
+    y "Y es... honestamente, algo divertido ver cómo te enojas por algo tan pequeño." 
 
 # game/14 Nights With You/bonus.rpy:506
 translate Paloslios DLC_day3_inviteren_ab70f225:
 
-    # r "…" nointeract
-    r "…" nointeract
+    # r "…" 
+    r "…" 
 
 # game/14 Nights With You/bonus.rpy:508
 translate Paloslios DLC_day3_inviteren_fca80617:
 
-    # r "Blushy cheeks? …P-Pouting expression?" nointeract
-    r "¿Mejillas sonrojadas? … ¿P-Expresión de puchero?" nointeract
+    # r "Blushy cheeks? …P-Pouting expression?" 
+    r "¿Mejillas sonrojadas? … ¿P-Expresión de puchero?" 
 
 # game/14 Nights With You/bonus.rpy:510
 translate Paloslios DLC_day3_inviteren_ab70f225_1:
 
-    # r "…" nointeract
-    r "…" nointeract
+    # r "…" 
+    r "…" 
 
 # game/14 Nights With You/bonus.rpy:512
 translate Paloslios DLC_day3_inviteren_c735ddf0:
 
-    # r "Hm. Just wait til I get {i}you{/i} riled up." nointeract
-    r "Mmm. Sólo espera hasta que te enoje {i}{/i}." nointeract
+    # r "Hm. Just wait til I get {i}you{/i} riled up." 
+    r "Mmm. Sólo espera hasta que te enoje {i}{/i}." 
 
 # game/14 Nights With You/bonus.rpy:515
 translate Paloslios DLC_day3_inviteren_d0f7f487:
 
-    # n "The next thing I know, [ch_ren] places one of his large hands on the back of the couch for support and leans over me. Because of the close proximity, I can feel the heat radiating from his body and the faint puffs of air that leave his lips." nointeract
-    n "Lo siguiente que sé es que [ch_ren] coloca una de sus grandes manos en el respaldo del sofá para apoyarse y se inclina sobre mí. Debido a la proximidad, puedo sentir el calor que irradia su cuerpo y las débiles bocanadas de aire que salen de sus labios." nointeract
+    # n "The next thing I know, [ch_ren] places one of his large hands on the back of the couch for support and leans over me. Because of the close proximity, I can feel the heat radiating from his body and the faint puffs of air that leave his lips." 
+    n "Lo siguiente que sé es que [ch_ren] coloca una de sus grandes manos en el respaldo del sofá para apoyarse y se inclina sobre mí. Debido a la proximidad, puedo sentir el calor que irradia su cuerpo y las débiles bocanadas de aire que salen de sus labios." 
 
 # game/14 Nights With You/bonus.rpy:516
 translate Paloslios DLC_day3_inviteren_bf35e4d0:
 
-    # n "His fingers cup my chin as he gently guides my face to look up at him. There's a smug look plastered all over his features, and when he starts to lean even closer, I'm quick to follow." nointeract
-    n "Sus dedos acarician mi barbilla mientras guía suavemente mi rostro para mirarlo. Hay una mirada engreída plasmada en todas sus facciones, y cuando comienza a inclinarse aún más cerca, rápidamente lo sigo." nointeract
+    # n "His fingers cup my chin as he gently guides my face to look up at him. There's a smug look plastered all over his features, and when he starts to lean even closer, I'm quick to follow." 
+    n "Sus dedos acarician mi barbilla mientras guía suavemente mi rostro para mirarlo. Hay una mirada engreída plasmada en todas sus facciones, y cuando comienza a inclinarse aún más cerca, rápidamente lo sigo." 
 
 # game/14 Nights With You/bonus.rpy:517
 translate Paloslios DLC_day3_inviteren_19bfcc55:
 
-    # n "But just before our lips could touch, [ch_ren]'s pulling away and reaching for his fork." nointeract
-    n "Pero justo antes de que nuestros labios pudieran tocarse, [ch_ren] se aleja y alcanza su tenedor." nointeract
+    # n "But just before our lips could touch, [ch_ren]'s pulling away and reaching for his fork." 
+    n "Pero justo antes de que nuestros labios pudieran tocarse, [ch_ren] se aleja y alcanza su tenedor." 
 
 # game/14 Nights With You/bonus.rpy:520
 translate Paloslios DLC_day3_inviteren_0cbee935:
 
-    # r "You're not hungry?" nointeract
-    r "¿No tienes hambre?" nointeract
+    # r "You're not hungry?" 
+    r "¿No tienes hambre?" 
 
 # game/14 Nights With You/bonus.rpy:521
 translate Paloslios DLC_day3_inviteren_a832f6b5:
 
-    # y "…Wh-What?" nointeract
-    y "… ¿Q-Qué?" nointeract
+    # y "…Wh-What?" 
+    y "… ¿Q-Qué?" 
 
 # game/14 Nights With You/bonus.rpy:523
 translate Paloslios DLC_day3_inviteren_4f259504:
 
-    # r "The food. You don't want to eat?" nointeract
-    r "La comida. ¿No quieres comer?" nointeract
+    # r "The food. You don't want to eat?" 
+    r "La comida. ¿No quieres comer?" 
 
 # game/14 Nights With You/bonus.rpy:524
 translate Paloslios DLC_day3_inviteren_00a60d40:
 
-    # n "Why did he pull away?!" nointeract
-    n "¡¿Por qué se alejó?!" nointeract
+    # n "Why did he pull away?!" 
+    n "¡¿Por qué se alejó?!" 
 
 # game/14 Nights With You/bonus.rpy:525
 translate Paloslios DLC_day3_inviteren_dd16dd8a:
 
-    # n "As if sensing my bewilderment, [ch_ren] looks back at me with that same smug look from before." nointeract
-    n "Como si sintiera mi desconcierto, [ch_ren] me mira con la misma mirada engreída de antes." nointeract
+    # n "As if sensing my bewilderment, [ch_ren] looks back at me with that same smug look from before." 
+    n "Como si sintiera mi desconcierto, [ch_ren] me mira con la misma mirada engreída de antes." 
 
 # game/14 Nights With You/bonus.rpy:527
 translate Paloslios DLC_day3_inviteren_053a3bd2:
 
-    # r "What? Y'can dish it but y'can't take it? Heh…" nointeract
-    r "¿Qué? ¿Puedes servirlo pero no tomarlo? Je…" nointeract
+    # r "What? Y'can dish it but y'can't take it? Heh…" 
+    r "¿Qué? ¿Puedes servirlo pero no tomarlo? Je…" 
 
 # game/14 Nights With You/bonus.rpy:529
 translate Paloslios DLC_day3_inviteren_4c589528:
 
-    # r "Y'know, I think you're just as cute with that flushed expression of yours." nointeract
-    r "Ya sabes, creo que eres igual de lindo con esa expresión sonrojada tuya." nointeract
+    # r "Y'know, I think you're just as cute with that flushed expression of yours." 
+    r "Ya sabes, creo que eres igual de lindo con esa expresión sonrojada tuya." 
 
 # game/14 Nights With You/bonus.rpy:531
 translate Paloslios DLC_day3_inviteren_eb404053:
 
-    # r "Maybe I'll try and see just how much {i}more{/i} flushed and breathless I can make you later. Seeing you pressed against the couch like that has given me a few ideas…" nointeract
-    r "Tal vez intente ver cuánto {i}más{/i} sonrojado y sin aliento puedo hacerte más tarde. Verte presionado así contra el sofá me ha dado algunas ideas..." nointeract
+    # r "Maybe I'll try and see just how much {i}more{/i} flushed and breathless I can make you later. Seeing you pressed against the couch like that has given me a few ideas…" 
+    r "Tal vez intente ver cuánto {i}más{/i} sonrojado y sin aliento puedo hacerte más tarde. Verte presionado así contra el sofá me ha dado algunas ideas..." 
 
 # game/14 Nights With You/bonus.rpy:532
 translate Paloslios DLC_day3_inviteren_70c665f7:
 
-    # n "At that, [ch_ren] seems to move the conversation along as if nothing happened." nointeract
-    n "Ante eso, [ch_ren] parece hacer avanzar la conversación como si nada hubiera pasado." nointeract
+    # n "At that, [ch_ren] seems to move the conversation along as if nothing happened." 
+    n "Ante eso, [ch_ren] parece hacer avanzar la conversación como si nada hubiera pasado." 
 
 # game/14 Nights With You/bonus.rpy:536
 translate Paloslios DLC_day4_teo_786fc7c7:
 
-    # n "But before I can fumble around in the dark to check, I feel a pair of large hands snake around my waist and pull me into its owner's chest." nointeract
-    n "Pero antes de que pueda buscar a tientas en la oscuridad para comprobarlo, siento un par de manos grandes serpentear alrededor de mi cintura y tirarme hacia el pecho de su dueño." nointeract
+    # n "But before I can fumble around in the dark to check, I feel a pair of large hands snake around my waist and pull me into its owner's chest." 
+    n "Pero antes de que pueda buscar a tientas en la oscuridad para comprobarlo, siento un par de manos grandes serpentear alrededor de mi cintura y tirarme hacia el pecho de su dueño." 
 
 # game/14 Nights With You/bonus.rpy:537
 translate Paloslios DLC_day4_teo_6c0ce8f4:
 
-    # y "What the {i}fuck{/i} are you doing?" nointeract
-    y "¿Qué carajo {i}{/i} estás haciendo?" nointeract
+    # y "What the {i}fuck{/i} are you doing?" 
+    y "¿Qué carajo {i}{/i} estás haciendo?" 
 
 # game/14 Nights With You/bonus.rpy:538
 translate Paloslios DLC_day4_teo_74a80332:
 
-    # t "What does it look like?" nointeract
-    t "¿Cómo se ve?" nointeract
+    # t "What does it look like?" 
+    t "¿Cómo se ve?" 
 
 # game/14 Nights With You/bonus.rpy:539
 translate Paloslios DLC_day4_teo_8bb0a84a:
 
-    # y "I thought you said we weren't going to do anything!" nointeract
-    y "¡Pensé que habías dicho que no íbamos a hacer nada!" nointeract
+    # y "I thought you said we weren't going to do anything!" 
+    y "¡Pensé que habías dicho que no íbamos a hacer nada!" 
 
 # game/14 Nights With You/bonus.rpy:540
 translate Paloslios DLC_day4_teo_107e0fe8:
 
-    # t "We're not. I'm just making sure you're not standing in any fish slime." nointeract
-    t "No lo somos. Sólo me aseguro de que no estés parado sobre baba de pescado." nointeract
+    # t "We're not. I'm just making sure you're not standing in any fish slime." 
+    t "No lo somos. Sólo me aseguro de que no estés parado sobre baba de pescado." 
 
 # game/14 Nights With You/bonus.rpy:541
 translate Paloslios DLC_day4_teo_c613af21:
 
-    # y "…What? I doubt that's a real thing. And even if it is, why would it be in a {i}closet{/i} of all places— Wait! That's not the point!" nointeract
-    y "…¿Qué? Dudo que eso sea algo real. E incluso si lo fuera, ¿por qué estaría en un {i}armario{/i} de todos los lugares? ¡Espera! ¡Ese no es el punto!" nointeract
+    # y "…What? I doubt that's a real thing. And even if it is, why would it be in a {i}closet{/i} of all places— Wait! That's not the point!" 
+    y "…¿Qué? Dudo que eso sea algo real. E incluso si lo fuera, ¿por qué estaría en un {i}armario{/i} de todos los lugares? ¡Espera! ¡Ese no es el punto!" 
 
 # game/14 Nights With You/bonus.rpy:542
 translate Paloslios DLC_day4_teo_64abd8e1:
 
-    # y "I know what you're trying to do, Teodore." nointeract
-    y "Sé lo que intentas hacer, Teodore." nointeract
+    # y "I know what you're trying to do, Teodore." 
+    y "Sé lo que intentas hacer, Teodore." 
 
 # game/14 Nights With You/bonus.rpy:543
 translate Paloslios DLC_day4_teo_0f334d11:
 
-    # t "Damn. Not the full name." nointeract
-    t "Maldición. No el nombre completo." nointeract
+    # t "Damn. Not the full name." 
+    t "Maldición. No el nombre completo." 
 
 # game/14 Nights With You/bonus.rpy:544
 translate Paloslios DLC_day4_teo_f6244754:
 
-    # n "Regardless of my stern tone, Teo continues to press his thumbs into the fabric of my shirt and casually squeeze my sides." nointeract
-    n "Independientemente de mi tono severo, Teo continúa presionando sus pulgares en la tela de mi camisa y apretando casualmente mis costados." nointeract
+    # n "Regardless of my stern tone, Teo continues to press his thumbs into the fabric of my shirt and casually squeeze my sides." 
+    n "Independientemente de mi tono severo, Teo continúa presionando sus pulgares en la tela de mi camisa y apretando casualmente mis costados." 
 
 # game/14 Nights With You/bonus.rpy:545
 translate Paloslios DLC_day4_teo_69b20578:
 
-    # t "I've missed hearing you say it." nointeract
-    t "Extrañé escucharte decirlo." nointeract
+    # t "I've missed hearing you say it." 
+    t "Extrañé escucharte decirlo." 
 
 # game/14 Nights With You/bonus.rpy:546
 translate Paloslios DLC_day4_teo_48c15efc:
 
-    # t "Can't forget the way you looked underneath me, either. So desperate and needy for my attention… Moaning out my name like it was going to earn you some kind of reward…" nointeract
-    t "Tampoco puedo olvidar la forma en que mirabas debajo de mí. Tan desesperada y necesitada de mi atención... Gimiendo mi nombre como si fuera a ganarte algún tipo de recompensa..." nointeract
+    # t "Can't forget the way you looked underneath me, either. So desperate and needy for my attention… Moaning out my name like it was going to earn you some kind of reward…" 
+    t "Tampoco puedo olvidar la forma en que mirabas debajo de mí. Tan desesperada y necesitada de mi atención... Gimiendo mi nombre como si fuera a ganarte algún tipo de recompensa..." 
 
 # game/14 Nights With You/bonus.rpy:547
 translate Paloslios DLC_day4_teo_1b9da528:
 
-    # t "Wanna take a walk down memory lane?" nointeract
-    t "¿Quieres dar un paseo por el camino de los recuerdos?" nointeract
+    # t "Wanna take a walk down memory lane?" 
+    t "¿Quieres dar un paseo por el camino de los recuerdos?" 
 
 # game/14 Nights With You/bonus.rpy:548
 translate Paloslios DLC_day4_teo_2483c4ad:
 
-    # y "{i}Teo.{/i} I swear—" nointeract
-    y "{i}Teo.{/i}Te lo juro—" nointeract
+    # y "{i}Teo.{/i} I swear—" 
+    y "{i}Teo.{/i}Te lo juro—" 
 
 # game/14 Nights With You/bonus.rpy:549
 translate Paloslios DLC_day4_teo_388a51e7:
 
-    # t "Aw, you mad, Dollface?" nointeract
-    t "¿Estás enojada, Dollface?" nointeract
+    # t "Aw, you mad, Dollface?" 
+    t "¿Estás enojada, Dollface?" 
 
 # game/14 Nights With You/bonus.rpy:553
 translate Paloslios DLC_day4_teo_5ca007a5:
 
-    # t "Need a {i}hand{/i}, do you? Cute." nointeract
-    t "Necesitas una mano {i}{/i}, ¿verdad? Lindo." nointeract
+    # t "Need a {i}hand{/i}, do you? Cute." 
+    t "Necesitas una mano {i}{/i}, ¿verdad? Lindo." 
 
 # game/14 Nights With You/bonus.rpy:554
 translate Paloslios DLC_day4_teo_5176bbf8:
 
-    # t "Unfortunately for you, I'm not feeling all that generous today, Doll. Especially after experiencing that bratty attitude of yours." nointeract
-    t "Desafortunadamente para ti, hoy no me siento tan generoso, Doll. Especialmente después de experimentar esa actitud malcriada tuya." nointeract
+    # t "Unfortunately for you, I'm not feeling all that generous today, Doll. Especially after experiencing that bratty attitude of yours." 
+    t "Desafortunadamente para ti, hoy no me siento tan generoso, Doll. Especialmente después de experimentar esa actitud malcriada tuya." 
 
 # game/14 Nights With You/bonus.rpy:555
 translate Paloslios DLC_day4_teo_fcc8ff13:
 
-    # n "At that, Teo nudges one of his legs between my thighs and presses upwards. The feeling alone has me taking in a sharp intake of air — and threading my fingers in the material of his shirt with a soft moan." nointeract
-    n "Ante eso, Teo empuja una de sus piernas entre mis muslos y presiona hacia arriba. La sensación por sí sola me hace tomar una fuerte bocanada de aire y entrelazar mis dedos en la tela de su camisa con un suave gemido." nointeract
+    # n "At that, Teo nudges one of his legs between my thighs and presses upwards. The feeling alone has me taking in a sharp intake of air — and threading my fingers in the material of his shirt with a soft moan." 
+    n "Ante eso, Teo empuja una de sus piernas entre mis muslos y presiona hacia arriba. La sensación por sí sola me hace tomar una fuerte bocanada de aire y entrelazar mis dedos en la tela de su camisa con un suave gemido." 
 
 # game/14 Nights With You/bonus.rpy:556
 translate Paloslios DLC_day4_teo_bd7c5107:
 
-    # t "If you want more than this, then you're gonna have to beg me." nointeract
-    t "Si quieres más que esto, tendrás que rogarme." nointeract
+    # t "If you want more than this, then you're gonna have to beg me." 
+    t "Si quieres más que esto, tendrás que rogarme." 
 
 # game/14 Nights With You/bonus.rpy:557
 translate Paloslios DLC_day4_teo_ed8966d4:
 
-    # t "Make sure to say my name real sweetly, too." nointeract
-    t "Asegúrate de decir mi nombre también con mucha dulzura." nointeract
+    # t "Make sure to say my name real sweetly, too." 
+    t "Asegúrate de decir mi nombre también con mucha dulzura." 
 
 # game/14 Nights With You/bonus.rpy:558
 translate Paloslios DLC_day4_teo_4f5adbe4:
 
-    # n "Even within the darkness of the closet, I hope Teo can see the venomous scowl I'm sending him." nointeract
-    n "Incluso en la oscuridad del armario, espero que Teo pueda ver el ceño venenoso que le estoy enviando." nointeract
+    # n "Even within the darkness of the closet, I hope Teo can see the venomous scowl I'm sending him." 
+    n "Incluso en la oscuridad del armario, espero que Teo pueda ver el ceño venenoso que le estoy enviando." 
 
 # game/14 Nights With You/bonus.rpy:559
 translate Paloslios DLC_day4_teo_08e2fdd7:
 
-    # n "But it doesn't last long, because soon he's guiding my hips into a slow rocking motion and sending waves of pleasure through my body." nointeract
-    n "Pero no dura mucho, porque pronto guía mis caderas en un lento movimiento de balanceo y envía ondas de placer a través de mi cuerpo." nointeract
+    # n "But it doesn't last long, because soon he's guiding my hips into a slow rocking motion and sending waves of pleasure through my body." 
+    n "Pero no dura mucho, porque pronto guía mis caderas en un lento movimiento de balanceo y envía ondas de placer a través de mi cuerpo." 
 
 # game/14 Nights With You/bonus.rpy:560
 translate Paloslios DLC_day4_teo_84b5158f:
 
-    # n "Teo's voice comes out low and sultry, and I can feel him press his lips against the shell of my ear before he bites down." nointeract
-    n "La voz de Teo sale baja y sensual, y puedo sentirlo presionar sus labios contra la cáscara de mi oreja antes de morderla." nointeract
+    # n "Teo's voice comes out low and sultry, and I can feel him press his lips against the shell of my ear before he bites down." 
+    n "La voz de Teo sale baja y sensual, y puedo sentirlo presionar sus labios contra la cáscara de mi oreja antes de morderla." 
 
 # game/14 Nights With You/bonus.rpy:561
 translate Paloslios DLC_day4_teo_e28fc13a:
 
-    # t "C'mon, try it. Say {i}'Please, [ch_teo]. Please make me feel good'{/i}, just the way I like it." nointeract
-    t "Vamos, inténtalo. Diga {i}'Por favor, [ch_teo]. Por favor, hazme sentir bien'{/i}, tal como a mí me gusta." nointeract
+    # t "C'mon, try it. Say {i}'Please, [ch_teo]. Please make me feel good'{/i}, just the way I like it." 
+    t "Vamos, inténtalo. Diga {i}'Por favor, [ch_teo]. Por favor, hazme sentir bien'{/i}, tal como a mí me gusta." 
 
 # game/14 Nights With You/bonus.rpy:563
 translate Paloslios DLC_day4_teo_8ce0524e:
 
-    # t "The way you {i}always{/i} do whenever you're desperate to put your dick inside me." nointeract
-    t "Como lo haces {i}siempre{/i} cuando estás desesperado por meter tu polla dentro de mí." nointeract
+    # t "The way you {i}always{/i} do whenever you're desperate to put your dick inside me." 
+    t "Como lo haces {i}siempre{/i} cuando estás desesperado por meter tu polla dentro de mí." 
 
 # game/14 Nights With You/bonus.rpy:565
 translate Paloslios DLC_day4_teo_d81e1cea:
 
-    # t "The way you {i}always{/i} do whenever you're aching to be filled with my cock." nointeract
-    t "Como tú {i}siempre haces{/i} cuando anhelas que te llene mi polla." nointeract
+    # t "The way you {i}always{/i} do whenever you're aching to be filled with my cock." 
+    t "Como tú {i}siempre haces{/i} cuando anhelas que te llene mi polla." 
 
 # game/14 Nights With You/bonus.rpy:567
 translate Paloslios DLC_day4_teo_bf1a71da:
 
-    # t "The way you {i}always{/i} do whenever you're hungry for my cock." nointeract
-    t "Como tú {i}siempre haces{/i} cuando tienes hambre de mi polla." nointeract
+    # t "The way you {i}always{/i} do whenever you're hungry for my cock." 
+    t "Como tú {i}siempre haces{/i} cuando tienes hambre de mi polla." 
 
 # game/14 Nights With You/bonus.rpy:568
 translate Paloslios DLC_day4_teo_2a71b36d:
 
-    # y "N-Not a chance." nointeract
-    y "N-No hay posibilidad." nointeract
+    # y "N-Not a chance." 
+    y "N-No hay posibilidad." 
 
 # game/14 Nights With You/bonus.rpy:569
 translate Paloslios DLC_day4_teo_963f79d1:
 
-    # t "…You sure?" nointeract
-    t "…¿Seguro?" nointeract
+    # t "…You sure?" 
+    t "…¿Seguro?" 
 
 # game/14 Nights With You/bonus.rpy:570
 translate Paloslios DLC_day4_teo_89559faf:
 
-    # n "Just as Teo says that, he abruptly pulls away from me with a mocking snicker. All of a sudden, the closet is far too cold and spacious again, and I find myself all alone." nointeract
-    n "Justo cuando Teo dice eso, abruptamente se aleja de mí con una risita burlona. De repente, el armario vuelve a estar demasiado frío y espacioso, y me encuentro completamente sola." nointeract
+    # n "Just as Teo says that, he abruptly pulls away from me with a mocking snicker. All of a sudden, the closet is far too cold and spacious again, and I find myself all alone." 
+    n "Justo cuando Teo dice eso, abruptamente se aleja de mí con una risita burlona. De repente, el armario vuelve a estar demasiado frío y espacioso, y me encuentro completamente sola." 
 
 # game/14 Nights With You/bonus.rpy:571
 translate Paloslios DLC_day4_teo_c0706d74:
 
-    # y "You asshole—" nointeract
-    y "Eres un idiota—" nointeract
+    # y "You asshole—" 
+    y "Eres un idiota—" 
 
 # game/14 Nights With You/bonus.rpy:572
 translate Paloslios DLC_day4_teo_614f98c2:
 
-    # n "As I take a step back to gather my bearings, I almost end up slipping on something wet." nointeract
-    n "Cuando doy un paso atrás para orientarme, casi termino resbalándome con algo mojado." nointeract
+    # n "As I take a step back to gather my bearings, I almost end up slipping on something wet." 
+    n "Cuando doy un paso atrás para orientarme, casi termino resbalándome con algo mojado." 
 
 # game/14 Nights With You/bonus.rpy:573
 translate Paloslios DLC_day4_teo_22b0cd35:
 
-    # n "What the…?" nointeract
-    n "¿Qué…?" nointeract
+    # n "What the…?" 
+    n "¿Qué…?" 
 
 # game/14 Nights With You/bonus.rpy:575
 translate Paloslios DLC_day4_teo_40e1a6bd:
 
-    # t "Ouch." nointeract
-    t "Ay." nointeract
+    # t "Ouch." 
+    t "Ay." 
 
 # game/14 Nights With You/bonus.rpy:576
 translate Paloslios DLC_day4_teo_3ddcce07:
 
-    # n "Even in the dark, I don't need to see Teo's expression to know that he's smirking right now; I can practically hear the smug drawl in his voice." nointeract
-    n "Incluso en la oscuridad, no necesito ver la expresión de Teo para saber que está sonriendo en este momento; Prácticamente puedo escuchar el acento presumido en su voz." nointeract
+    # n "Even in the dark, I don't need to see Teo's expression to know that he's smirking right now; I can practically hear the smug drawl in his voice." 
+    n "Incluso en la oscuridad, no necesito ver la expresión de Teo para saber que está sonriendo en este momento; Prácticamente puedo escuchar el acento presumido en su voz." 
 
 # game/14 Nights With You/bonus.rpy:577
 translate Paloslios DLC_day4_teo_bf6469d8:
 
-    # n "But my message seems to be clear, as he immediately removes his hands from my body and takes a step back. When I do the same, I almost end up slipping on something wet." nointeract
-    n "Pero mi mensaje parece ser claro, ya que inmediatamente retira sus manos de mi cuerpo y da un paso atrás. Cuando hago lo mismo, casi termino resbalándome con algo mojado." nointeract
+    # n "But my message seems to be clear, as he immediately removes his hands from my body and takes a step back. When I do the same, I almost end up slipping on something wet." 
+    n "Pero mi mensaje parece ser claro, ya que inmediatamente retira sus manos de mi cuerpo y da un paso atrás. Cuando hago lo mismo, casi termino resbalándome con algo mojado." 
 
 # game/14 Nights With You/bonus.rpy:578
 translate Paloslios DLC_day4_teo_22b0cd35_1:
 
-    # n "What the…?" nointeract
-    n "¿Qué…?" nointeract
+    # n "What the…?" 
+    n "¿Qué…?" 
 
 # game/14 Nights With You/bonus.rpy:584
 translate Paloslios DLC_day4_ren_5f1c6116:
 
-    # y "You always seem to be on my mind. When I'm with my friends, when I'm at work, when I'm dreaming…" nointeract
-    y "Siempre pareces estar en mi mente. Cuando estoy con mis amigos, cuando estoy en el trabajo, cuando estoy soñando..." nointeract
+    # y "You always seem to be on my mind. When I'm with my friends, when I'm at work, when I'm dreaming…" 
+    y "Siempre pareces estar en mi mente. Cuando estoy con mis amigos, cuando estoy en el trabajo, cuando estoy soñando..." 
 
 # game/14 Nights With You/bonus.rpy:585
 translate Paloslios DLC_day4_ren_07513a02:
 
-    # y "Even late at night, when I'm feeling a little pent up and lonely…" nointeract
-    y "Incluso a altas horas de la noche, cuando me siento un poco reprimido y solo..." nointeract
+    # y "Even late at night, when I'm feeling a little pent up and lonely…" 
+    y "Incluso a altas horas de la noche, cuando me siento un poco reprimido y solo..." 
 
 # game/14 Nights With You/bonus.rpy:586
 translate Paloslios DLC_day4_ren_676a1c6b:
 
-    # n "I hope [ch_ren] doesn't notice the way my cheeks grow warm as I confess my deepest, darkest secrets with him." nointeract
-    n "Espero que [ch_ren] no note la forma en que mis mejillas se calientan mientras le confieso mis secretos más profundos y oscuros con él." nointeract
+    # n "I hope [ch_ren] doesn't notice the way my cheeks grow warm as I confess my deepest, darkest secrets with him." 
+    n "Espero que [ch_ren] no note la forma en que mis mejillas se calientan mientras le confieso mis secretos más profundos y oscuros con él." 
 
 # game/14 Nights With You/bonus.rpy:587
 translate Paloslios DLC_day4_ren_46973aa4:
 
-    # y "{i}You{/i} are all I think about during those times." nointeract
-    y "{i}Tú{/i} eres todo en lo que pienso durante esos momentos." nointeract
+    # y "{i}You{/i} are all I think about during those times." 
+    y "{i}Tú{/i} eres todo en lo que pienso durante esos momentos." 
 
 # game/14 Nights With You/bonus.rpy:589
 translate Paloslios DLC_day4_ren_ab70f225:
 
-    # r "…" nointeract
-    r "…" nointeract
+    # r "…" 
+    r "…" 
 
 # game/14 Nights With You/bonus.rpy:591
 translate Paloslios DLC_day4_ren_8f641fa8:
 
-    # r "M-M-Me too! You're all I think about, too!" nointeract
-    r "¡M-M-Yo también! ¡Tú también eres todo en lo que pienso!" nointeract
+    # r "M-M-Me too! You're all I think about, too!" 
+    r "¡M-M-Yo también! ¡Tú también eres todo en lo que pienso!" 
 
 # game/14 Nights With You/bonus.rpy:593
 translate Paloslios DLC_day4_ren_dbe46939:
 
-    # r "Sometimes… I can't help it. I could be reading a book or watching anime, and all I'll see is you." nointeract
-    r "A veces… no puedo evitarlo. Podría estar leyendo un libro o viendo anime y todo lo que veré serás a ti." nointeract
+    # r "Sometimes… I can't help it. I could be reading a book or watching anime, and all I'll see is you." 
+    r "A veces… no puedo evitarlo. Podría estar leyendo un libro o viendo anime y todo lo que veré serás a ti." 
 
 # game/14 Nights With You/bonus.rpy:595
 translate Paloslios DLC_day4_ren_b1eb9cb9:
 
-    # r "Then the next thing I know, my mind starts to wander, and here I am thinking about all kinds of indecent… {i}things{/i}." nointeract
-    r "Entonces lo siguiente que sé es que mi mente comienza a divagar y aquí estoy, pensando en todo tipo de cosas indecentes... {i}{/i}." nointeract
+    # r "Then the next thing I know, my mind starts to wander, and here I am thinking about all kinds of indecent… {i}things{/i}." 
+    r "Entonces lo siguiente que sé es que mi mente comienza a divagar y aquí estoy, pensando en todo tipo de cosas indecentes... {i}{/i}." 
 
 # game/14 Nights With You/bonus.rpy:599
 translate Paloslios DLC_day4_ren_443818b0:
 
-    # r "Like… The way you'd look above me while I'm going down on you in the shower… O-Or pressing me against a library shelf while you have your way with me…" nointeract
-    r "Como... La forma en que miras por encima de mí mientras te estoy bajando en la ducha... O-O presionarme contra un estante de la biblioteca mientras te sales con la tuya conmigo..." nointeract
+    # r "Like… The way you'd look above me while I'm going down on you in the shower… O-Or pressing me against a library shelf while you have your way with me…" 
+    r "Como... La forma en que miras por encima de mí mientras te estoy bajando en la ducha... O-O presionarme contra un estante de la biblioteca mientras te sales con la tuya conmigo..." 
 
 # game/14 Nights With You/bonus.rpy:601
 translate Paloslios DLC_day4_ren_581370ca:
 
-    # r "Like… The way you'd look on your knees for me while we're in the shower… O-Or pressed against a library shelf with your head thrown back…" nointeract
-    r "Como... La forma en que te verías de rodillas mientras estamos en la ducha... O-O presionado contra un estante de la biblioteca con la cabeza echada hacia atrás..." nointeract
+    # r "Like… The way you'd look on your knees for me while we're in the shower… O-Or pressed against a library shelf with your head thrown back…" 
+    r "Como... La forma en que te verías de rodillas mientras estamos en la ducha... O-O presionado contra un estante de la biblioteca con la cabeza echada hacia atrás..." 
 
 # game/14 Nights With You/bonus.rpy:603
 translate Paloslios DLC_day4_ren_b93afb11:
 
-    # r "Like… The way you'd look on your knees for me while we're in the shower… O-Or pressing me against a library shelf while you have your way with me…" nointeract
-    r "Como... La forma en que me verías de rodillas mientras estamos en la ducha... O-O presionarme contra un estante de la biblioteca mientras te sales con la tuya conmigo..." nointeract
+    # r "Like… The way you'd look on your knees for me while we're in the shower… O-Or pressing me against a library shelf while you have your way with me…" 
+    r "Como... La forma en que me verías de rodillas mientras estamos en la ducha... O-O presionarme contra un estante de la biblioteca mientras te sales con la tuya conmigo..." 
 
 # game/14 Nights With You/bonus.rpy:605
 translate Paloslios DLC_day4_ren_a6b0a2be:
 
-    # r "Haa…" nointeract
-    r "Jaja..." nointeract
+    # r "Haa…" 
+    r "Jaja..." 
 
 # game/14 Nights With You/bonus.rpy:607
 translate Paloslios DLC_day4_ren_22ff2dd7:
 
-    # r "S-Sometimes I wish you were near so I wouldn't have to use my hand all the time. It doesn't feel the same, and—" nointeract
-    r "S-A veces desearía que estuvieras cerca para no tener que usar mi mano todo el tiempo. No se siente lo mismo, y..." nointeract
+    # r "S-Sometimes I wish you were near so I wouldn't have to use my hand all the time. It doesn't feel the same, and—" 
+    r "S-A veces desearía que estuvieras cerca para no tener que usar mi mano todo el tiempo. No se siente lo mismo, y..." 
 
 # game/14 Nights With You/bonus.rpy:609
 translate Paloslios DLC_day4_ren_4220f037:
 
-    # r "{size=-6}The thought of you touching my— {i}Ugh.{/i}{/size}" nointeract
-    r "{size=-6}La idea de que toques mi... {i}Ugh.{/i}{/size}" nointeract
+    # r "{size=-6}The thought of you touching my— {i}Ugh.{/i}{/size}" 
+    r "{size=-6}La idea de que toques mi... {i}Ugh.{/i}{/size}" 
 
 # game/14 Nights With You/bonus.rpy:610
 translate Paloslios DLC_day4_ren_c6a22039:
 
-    # n "[ch_ren] cuts himself off by pressing his forehead against my shoulder." nointeract
-    n "[ch_ren] se interrumpe presionando su frente contra mi hombro." nointeract
+    # n "[ch_ren] cuts himself off by pressing his forehead against my shoulder." 
+    n "[ch_ren] se interrumpe presionando su frente contra mi hombro." 
 
 # game/14 Nights With You/bonus.rpy:612
 translate Paloslios DLC_day4_ren_ddf536b8:
 
-    # r "But just as things start to get good, something {i}always{/i} seems to get in the way and ruin it all. And right now, it's that green-haired loser…" nointeract
-    r "Pero justo cuando las cosas empiezan a mejorar, algo {i}siempre{/i} parece interponerse en el camino y arruinarlo todo. Y ahora mismo, es ese perdedor de pelo verde..." nointeract
+    # r "But just as things start to get good, something {i}always{/i} seems to get in the way and ruin it all. And right now, it's that green-haired loser…" 
+    r "Pero justo cuando las cosas empiezan a mejorar, algo {i}siempre{/i} parece interponerse en el camino y arruinarlo todo. Y ahora mismo, es ese perdedor de pelo verde..." 
 
 # game/14 Nights With You/bonus.rpy:615
 translate Paloslios DLC_day4_ren_ddf536b8_1:
 
-    # r "But just as things start to get good, something {i}always{/i} seems to get in the way and ruin it all. And right now, it's that green-haired loser…" nointeract
-    r "Pero justo cuando las cosas empiezan a mejorar, algo {i}siempre{/i} parece interponerse en el camino y arruinarlo todo. Y ahora mismo, es ese perdedor de pelo verde..." nointeract
+    # r "But just as things start to get good, something {i}always{/i} seems to get in the way and ruin it all. And right now, it's that green-haired loser…" 
+    r "Pero justo cuando las cosas empiezan a mejorar, algo {i}siempre{/i} parece interponerse en el camino y arruinarlo todo. Y ahora mismo, es ese perdedor de pelo verde..." 
 
 # game/14 Nights With You/bonus.rpy:620
 translate Paloslios DLC_day4_renapartment_81a675fe:
 
-    # n "Without thinking, I make my way towards [ch_ren] and pull him into a deep kiss." nointeract
-    n "Sin pensar, me acerco a [ch_ren] y le doy un beso profundo." nointeract
+    # n "Without thinking, I make my way towards [ch_ren] and pull him into a deep kiss." 
+    n "Sin pensar, me acerco a [ch_ren] y le doy un beso profundo." 
 
 # game/14 Nights With You/bonus.rpy:621
 translate Paloslios DLC_day4_renapartment_01e6c2dd:
 
-    # n "His calloused hands move to my face as one of his thumbs gently caresses my cheek, and I soon find myself melting from all his affection." nointeract
-    n "Sus manos callosas se mueven hacia mi rostro mientras uno de sus pulgares acaricia suavemente mi mejilla, y pronto me encuentro derritiéndome por todo su afecto." nointeract
+    # n "His calloused hands move to my face as one of his thumbs gently caresses my cheek, and I soon find myself melting from all his affection." 
+    n "Sus manos callosas se mueven hacia mi rostro mientras uno de sus pulgares acaricia suavemente mi mejilla, y pronto me encuentro derritiéndome por todo su afecto." 
 
 # game/14 Nights With You/bonus.rpy:625
 translate Paloslios DLC_day4_renapartment_6975e178:
 
-    # n "Before I know what's happening, I feel the welcome intrusion of [ch_ren]'s tongue against my lips, and I eagerly close my eyes and give him access." nointeract
-    n "Antes de darme cuenta de lo que está pasando, siento la bienvenida intrusión de la lengua de [ch_ren] contra mis labios, y cierro los ojos con entusiasmo y le doy acceso." nointeract
+    # n "Before I know what's happening, I feel the welcome intrusion of [ch_ren]'s tongue against my lips, and I eagerly close my eyes and give him access." 
+    n "Antes de darme cuenta de lo que está pasando, siento la bienvenida intrusión de la lengua de [ch_ren] contra mis labios, y cierro los ojos con entusiasmo y le doy acceso." 
 
 # game/14 Nights With You/bonus.rpy:626
 translate Paloslios DLC_day4_renapartment_6d169d64:
 
-    # n "Without breaking the kiss, I feel him gently usher me backwards — until my back hits the counter and I'm boxed in by his arms on either side." nointeract
-    n "Sin romper el beso, siento que me empuja suavemente hacia atrás, hasta que mi espalda golpea el mostrador y sus brazos a ambos lados me atrapan." nointeract
+    # n "Without breaking the kiss, I feel him gently usher me backwards — until my back hits the counter and I'm boxed in by his arms on either side." 
+    n "Sin romper el beso, siento que me empuja suavemente hacia atrás, hasta que mi espalda golpea el mostrador y sus brazos a ambos lados me atrapan." 
 
 # game/14 Nights With You/bonus.rpy:627
 translate Paloslios DLC_day4_renapartment_cbdcd629:
 
-    # n "[ch_ren]'s hands soon move towards my waist and underneath my shirt, but just as he starts to trail them upwards at an agonisingly slow pace, he pulls back with a knowing look on his features." nointeract
-    n "Las manos de [ch_ren] pronto se mueven hacia mi cintura y debajo de mi camisa, pero justo cuando comienza a arrastrarlas hacia arriba a un ritmo agonizantemente lento, se retira con una mirada de complicidad en sus rasgos." nointeract
+    # n "[ch_ren]'s hands soon move towards my waist and underneath my shirt, but just as he starts to trail them upwards at an agonisingly slow pace, he pulls back with a knowing look on his features." 
+    n "Las manos de [ch_ren] pronto se mueven hacia mi cintura y debajo de mi camisa, pero justo cuando comienza a arrastrarlas hacia arriba a un ritmo agonizantemente lento, se retira con una mirada de complicidad en sus rasgos." 
 
 # game/14 Nights With You/bonus.rpy:628
 translate Paloslios DLC_day4_renapartment_d1f22351:
 
-    # n "When I fully snap out of my daze, I notice that [ch_ren] had already moved back to his previous spot by the sink, but his eyes are still lingering on my body." nointeract
-    n "Cuando salgo completamente de mi aturdimiento, noto que [ch_ren] ya había regresado a su lugar anterior junto al fregadero, pero sus ojos aún permanecen en mi cuerpo." nointeract
+    # n "When I fully snap out of my daze, I notice that [ch_ren] had already moved back to his previous spot by the sink, but his eyes are still lingering on my body." 
+    n "Cuando salgo completamente de mi aturdimiento, noto que [ch_ren] ya había regresado a su lugar anterior junto al fregadero, pero sus ojos aún permanecen en mi cuerpo." 
 
 # game/14 Nights With You/bonus.rpy:633
 translate Paloslios DLC_day4_renapartment_dbaa00c2:
 
-    # r "Don't get me wrong, I love how forward you are, [ch_angel]. But you don't typically do… {i}this{/i} kind of stuff without a reason." nointeract
-    r "No me malinterpretes, me encanta lo atrevido que eres, [ch_angel]. Pero normalmente no haces... {i}este{/i} tipo de cosas sin una razón." nointeract
+    # r "Don't get me wrong, I love how forward you are, [ch_angel]. But you don't typically do… {i}this{/i} kind of stuff without a reason." 
+    r "No me malinterpretes, me encanta lo atrevido que eres, [ch_angel]. Pero normalmente no haces... {i}este{/i} tipo de cosas sin una razón." 
 
 # game/14 Nights With You/bonus.rpy:634
 translate Paloslios DLC_day4_renapartment_530bca86:
 
-    # n "Damn. He saw right through me." nointeract
-    n "Maldición. Él vio a través de mí." nointeract
+    # n "Damn. He saw right through me." 
+    n "Maldición. Él vio a través de mí." 
 
 # game/14 Nights With You/bonus.rpy:635
 translate Paloslios DLC_day4_renapartment_5fbc5d70:
 
-    # n "Ah, forget it; maybe it was some form of righteousness, but I find myself confessing the truth." nointeract
-    n "Ah, olvídalo; tal vez fue alguna forma de rectitud, pero me encuentro confesando la verdad." nointeract
+    # n "Ah, forget it; maybe it was some form of righteousness, but I find myself confessing the truth." 
+    n "Ah, olvídalo; tal vez fue alguna forma de rectitud, pero me encuentro confesando la verdad." 
 
 # game/14 Nights With You/bonus.rpy:638
 translate Paloslios DLC_day4_angelapartment_cc93a45f:
 
-    # n "Raising a brow in [ch_ren]'s direction, I give him a look." nointeract
-    n "Levantando una ceja en dirección a [ch_ren], le doy una mirada." nointeract
+    # n "Raising a brow in [ch_ren]'s direction, I give him a look." 
+    n "Levantando una ceja en dirección a [ch_ren], le doy una mirada." 
 
 # game/14 Nights With You/bonus.rpy:642
 translate Paloslios DLC_day4_angelapartment_bf0ce19d:
 
-    # r "Hm? O-Oh! Uhh… Yes! Here, want me to get it off?" nointeract
-    r "¿Mmm? ¡Oh! Eh… ¡Sí! Toma, ¿quieres que te lo quite?" nointeract
+    # r "Hm? O-Oh! Uhh… Yes! Here, want me to get it off?" 
+    r "¿Mmm? ¡Oh! Eh… ¡Sí! Toma, ¿quieres que te lo quite?" 
 
 # game/14 Nights With You/bonus.rpy:645
 translate Paloslios DLC_day4_angelapartment_f2e7de6f:
 
-    # n "Nodding, I lean closer so that [ch_ren] can remove whatever it is on my face." nointeract
-    n "Asintiendo, me inclino más cerca para que [ch_ren] pueda quitar lo que sea que tenga en la cara." nointeract
+    # n "Nodding, I lean closer so that [ch_ren] can remove whatever it is on my face." 
+    n "Asintiendo, me inclino más cerca para que [ch_ren] pueda quitar lo que sea que tenga en la cara." 
 
 # game/14 Nights With You/bonus.rpy:646
 translate Paloslios DLC_day4_angelapartment_f12a7e1a:
 
-    # n "Almost hesitantly, he reaches out and hovers just above my left cheek. But… He doesn't seem to move until I do first — almost as if he's afraid that touching me would scare me off." nointeract
-    n "Casi vacilante, extiende la mano y se cierne justo encima de mi mejilla izquierda. Pero... Él no parece moverse hasta que yo lo hago primero, casi como si tuviera miedo de que tocarme me asustara." nointeract
+    # n "Almost hesitantly, he reaches out and hovers just above my left cheek. But… He doesn't seem to move until I do first — almost as if he's afraid that touching me would scare me off." 
+    n "Casi vacilante, extiende la mano y se cierne justo encima de mi mejilla izquierda. Pero... Él no parece moverse hasta que yo lo hago primero, casi como si tuviera miedo de que tocarme me asustara." 
 
 # game/14 Nights With You/bonus.rpy:647
 translate Paloslios DLC_day4_angelapartment_6e84b36c:
 
-    # n "Once I lean into his touch to let him know that it's okay to do so, [ch_ren]'s thumb carefully brushes against my skin in a soothing pattern. But all too quickly, his ghost-like touch turns into him cupping my face entirely." nointeract
-    n "Una vez que me inclino hacia su toque para hacerle saber que está bien hacerlo, el pulgar de [ch_ren] roza cuidadosamente mi piel en un patrón relajante. Pero muy rápidamente, su toque fantasmal se convierte en él agarrando mi cara por completo." nointeract
+    # n "Once I lean into his touch to let him know that it's okay to do so, [ch_ren]'s thumb carefully brushes against my skin in a soothing pattern. But all too quickly, his ghost-like touch turns into him cupping my face entirely." 
+    n "Una vez que me inclino hacia su toque para hacerle saber que está bien hacerlo, el pulgar de [ch_ren] roza cuidadosamente mi piel en un patrón relajante. Pero muy rápidamente, su toque fantasmal se convierte en él agarrando mi cara por completo." 
 
 # game/14 Nights With You/bonus.rpy:648
 translate Paloslios DLC_day4_angelapartment_5a7481a5:
 
-    # n "His thumb soon drops to my lips, and I feel him gently part them as his breathing starts to pick up." nointeract
-    n "Su pulgar pronto cae sobre mis labios y siento que los separa suavemente mientras su respiración comienza a acelerarse." nointeract
+    # n "His thumb soon drops to my lips, and I feel him gently part them as his breathing starts to pick up." 
+    n "Su pulgar pronto cae sobre mis labios y siento que los separa suavemente mientras su respiración comienza a acelerarse." 
 
 # game/14 Nights With You/bonus.rpy:650
 translate Paloslios DLC_day4_angelapartment_e3ac8c54:
 
-    # n "[ch_ren] is staring intently at my mouth now — almost like he's in a trance — and it's {b}then{/b} that I finally understand what's happening." nointeract
-    n "[ch_ren] está mirando fijamente mi boca ahora, casi como si estuviera en trance, y es {b}entonces{/b} cuando finalmente entiendo lo que está pasando." nointeract
+    # n "[ch_ren] is staring intently at my mouth now — almost like he's in a trance — and it's {b}then{/b} that I finally understand what's happening." 
+    n "[ch_ren] está mirando fijamente mi boca ahora, casi como si estuviera en trance, y es {b}entonces{/b} cuando finalmente entiendo lo que está pasando." 
 
 # game/14 Nights With You/bonus.rpy:651
 translate Paloslios DLC_day4_angelapartment_01c7fc36:
 
-    # y "There's… nothing on my face, is there?" nointeract
-    y "No hay... nada en mi cara, ¿verdad?" nointeract
+    # y "There's… nothing on my face, is there?" 
+    y "No hay... nada en mi cara, ¿verdad?" 
 
 # game/14 Nights With You/bonus.rpy:653
 translate Paloslios DLC_day4_angelapartment_00226e84:
 
-    # r "…Huh?" nointeract
-    r "…¿Eh?" nointeract
+    # r "…Huh?" 
+    r "…¿Eh?" 
 
 # game/14 Nights With You/bonus.rpy:655
 translate Paloslios DLC_day4_angelapartment_67a707de:
 
-    # r "No, I-I mean—! I think I got it, actually! Yep! All gone! Ahahah!" nointeract
-    r "¡No, quiero decir...! ¡Creo que lo entendí, de hecho! ¡Sí! ¡Todo se ha ido! ¡Jajaja!" nointeract
+    # r "No, I-I mean—! I think I got it, actually! Yep! All gone! Ahahah!" 
+    r "¡No, quiero decir...! ¡Creo que lo entendí, de hecho! ¡Sí! ¡Todo se ha ido! ¡Jajaja!" 
 
 # game/14 Nights With You/bonus.rpy:658
 translate Paloslios DLC_day4_angelapartment_93c671c2:
 
-    # n "He awkwardly pulls away and immediately busies himself with the cameras set out on the table." nointeract
-    n "Se aleja torpemente e inmediatamente se ocupa de las cámaras colocadas sobre la mesa." nointeract
+    # n "He awkwardly pulls away and immediately busies himself with the cameras set out on the table." 
+    n "Se aleja torpemente e inmediatamente se ocupa de las cámaras colocadas sobre la mesa." 
 
 # game/14 Nights With You/bonus.rpy:659
 translate Paloslios DLC_day4_angelapartment_a7b659e6:
 
-    # n "With a knowing look, I leave him be… For now." nointeract
-    n "Con una mirada cómplice, lo dejo en paz... Por ahora." nointeract
+    # n "With a knowing look, I leave him be… For now." 
+    n "Con una mirada cómplice, lo dejo en paz... Por ahora." 
 
 # game/14 Nights With You/bonus.rpy:660
 translate Paloslios DLC_day4_angelapartment_db8281d6:
 
-    # n "A comfortable silence soon follows, but it's short-lived the moment he clears his throat and speaks once more." nointeract
-    n "Pronto sigue un cómodo silencio, pero dura poco en el momento en que se aclara la garganta y habla una vez más." nointeract
+    # n "A comfortable silence soon follows, but it's short-lived the moment he clears his throat and speaks once more." 
+    n "Pronto sigue un cómodo silencio, pero dura poco en el momento en que se aclara la garganta y habla una vez más." 
 
 # game/14 Nights With You/bonus.rpy:662
 translate Paloslios DLC_day4_angelapartment_5a07cac6:
 
-    # r "Actually… Now that I'm thinking about it…" nointeract
-    r "En realidad… ahora que lo estoy pensando…" nointeract
+    # r "Actually… Now that I'm thinking about it…" 
+    r "En realidad… ahora que lo estoy pensando…" 
 
 # game/14 Nights With You/bonus.rpy:666
 translate Paloslios DLC_day4_angelapartment_9fbdfcc1:
 
-    # n "Subtly, I part my thighs ever-so-slightly to get my intentions across." nointeract
-    n "Sutilmente, separo mis muslos ligeramente para expresar mis intenciones." nointeract
+    # n "Subtly, I part my thighs ever-so-slightly to get my intentions across." 
+    n "Sutilmente, separo mis muslos ligeramente para expresar mis intenciones." 
 
 # game/14 Nights With You/bonus.rpy:667
 translate Paloslios DLC_day4_angelapartment_8f82811f:
 
-    # n "In all honesty, I didn't think [ch_ren] would understand my meaning, but with the way he straightens up and casts a sideward glance in my direction, something tells me he knew what I meant." nointeract
-    n "Honestamente, no pensé que [ch_ren] entendería lo que quería decir, pero con la forma en que se endereza y lanza una mirada de reojo en mi dirección, algo me dice que sabía lo que quería decir." nointeract
+    # n "In all honesty, I didn't think [ch_ren] would understand my meaning, but with the way he straightens up and casts a sideward glance in my direction, something tells me he knew what I meant." 
+    n "Honestamente, no pensé que [ch_ren] entendería lo que quería decir, pero con la forma en que se endereza y lanza una mirada de reojo en mi dirección, algo me dice que sabía lo que quería decir." 
 
 # game/14 Nights With You/bonus.rpy:669
 translate Paloslios DLC_day4_angelapartment_ab70f225:
 
-    # r "…" nointeract
-    r "…" nointeract
+    # r "…" 
+    r "…" 
 
 # game/14 Nights With You/bonus.rpy:671
 translate Paloslios DLC_day4_angelapartment_9390a459:
 
-    # r "Don't tempt me." nointeract
-    r "No me tientes." nointeract
+    # r "Don't tempt me." 
+    r "No me tientes." 
 
 # game/14 Nights With You/bonus.rpy:672
 translate Paloslios DLC_day4_angelapartment_48853a1c:
 
-    # n "He runs a hand up my leg and across my upper thigh — so close to where I'm aching to be touched — before he gives my skin a soft squeeze and pulls away." nointeract
-    n "Pasa una mano por mi pierna y por la parte superior de mi muslo, tan cerca de donde me duele que me toquen, antes de darle un suave apretón a mi piel y alejarse." nointeract
+    # n "He runs a hand up my leg and across my upper thigh — so close to where I'm aching to be touched — before he gives my skin a soft squeeze and pulls away." 
+    n "Pasa una mano por mi pierna y por la parte superior de mi muslo, tan cerca de donde me duele que me toquen, antes de darle un suave apretón a mi piel y alejarse." 
 
 # game/14 Nights With You/bonus.rpy:674
 translate Paloslios DLC_day4_angelapartment_bcc6651f:
 
-    # r "I'd rather you be safe from intruders {i}first{/i} before we take things any further." nointeract
-    r "Preferiría que estuvieras a salvo de los intrusos {i}primero{/i} antes de que llevemos las cosas más lejos." nointeract
+    # r "I'd rather you be safe from intruders {i}first{/i} before we take things any further." 
+    r "Preferiría que estuvieras a salvo de los intrusos {i}primero{/i} antes de que llevemos las cosas más lejos." 
 
 # game/14 Nights With You/bonus.rpy:676
 translate Paloslios DLC_day4_angelapartment_6018c382:
 
-    # r "Besides… Maybe we can test if the cameras work by filming some… {i}stuff{/i}, later." nointeract
-    r "Además… Tal vez podamos probar si las cámaras funcionan filmando algunas… {i}cosas{/i}, más tarde." nointeract
+    # r "Besides… Maybe we can test if the cameras work by filming some… {i}stuff{/i}, later." 
+    r "Además… Tal vez podamos probar si las cámaras funcionan filmando algunas… {i}cosas{/i}, más tarde." 
 
 # game/14 Nights With You/bonus.rpy:678
 translate Paloslios DLC_day4_angelapartment_ca59bd6c:
 
-    # r "We gotta make sure it's covering all angles of your apartment 'n all. Wouldn't want a single hiding spot t'go unseen." nointeract
-    r "Tenemos que asegurarnos de que cubra todos los ángulos de su apartamento. No quisiera que un solo escondite pasara desapercibido." nointeract
+    # r "We gotta make sure it's covering all angles of your apartment 'n all. Wouldn't want a single hiding spot t'go unseen." 
+    r "Tenemos que asegurarnos de que cubra todos los ángulos de su apartamento. No quisiera que un solo escondite pasara desapercibido." 
 
 # game/14 Nights With You/bonus.rpy:680
 translate Paloslios DLC_day4_angelapartment_6715e007:
 
-    # r "…Or flat surface." nointeract
-    r "…O superficie plana." nointeract
+    # r "…Or flat surface." 
+    r "…O superficie plana." 
 
 # game/14 Nights With You/bonus.rpy:681
 translate Paloslios DLC_day4_angelapartment_3e9ed06e:
 
-    # n "Wait. Did he just suggest—" nointeract
-    n "Esperar. ¿Acaba de sugerir...?" nointeract
+    # n "Wait. Did he just suggest—" 
+    n "Esperar. ¿Acaba de sugerir...?" 
 
 # game/14 Nights With You/bonus.rpy:683
 translate Paloslios DLC_day4_angelapartment_14b3649c:
 
-    # r "Just kidding!" nointeract
-    r "¡Es broma!" nointeract
+    # r "Just kidding!" 
+    r "¡Es broma!" 
 
 # game/14 Nights With You/bonus.rpy:684
 translate Paloslios DLC_day4_angelapartment_b458222c:
 
-    # n "At that, [ch_ren] goes back to the task at hand as if nothing just happened." nointeract
-    n "Ante eso, [ch_ren] vuelve a la tarea en cuestión como si nada hubiera pasado." nointeract
+    # n "At that, [ch_ren] goes back to the task at hand as if nothing just happened." 
+    n "Ante eso, [ch_ren] vuelve a la tarea en cuestión como si nada hubiera pasado." 
 
 # game/14 Nights With You/bonus.rpy:685
 translate Paloslios DLC_day4_angelapartment_db8281d6_1:
 
-    # n "A comfortable silence soon follows, but it's short-lived the moment he clears his throat and speaks once more." nointeract
-    n "Pronto sigue un cómodo silencio, pero dura poco en el momento en que se aclara la garganta y habla una vez más." nointeract
+    # n "A comfortable silence soon follows, but it's short-lived the moment he clears his throat and speaks once more." 
+    n "Pronto sigue un cómodo silencio, pero dura poco en el momento en que se aclara la garganta y habla una vez más." 
 
 # game/14 Nights With You/bonus.rpy:687
 translate Paloslios DLC_day4_angelapartment_5a07cac6_1:
 
-    # r "Actually… Now that I'm thinking about it…" nointeract
-    r "En realidad… ahora que lo estoy pensando…" nointeract
+    # r "Actually… Now that I'm thinking about it…" 
+    r "En realidad… ahora que lo estoy pensando…" 
 
 # game/14 Nights With You/bonus.rpy:690
 translate Paloslios DLC_day4_angelapartment_706bfb18:
 
-    # n "Without wasting another second, I crawl across the couch, situate myself between [ch_ren]'s thighs, and casually rest my arms over his shoulders." nointeract
-    n "Sin perder un segundo más, me arrastro por el sofá, me coloco entre los muslos de [ch_ren] y casualmente apoyo mis brazos sobre sus hombros." nointeract
+    # n "Without wasting another second, I crawl across the couch, situate myself between [ch_ren]'s thighs, and casually rest my arms over his shoulders." 
+    n "Sin perder un segundo más, me arrastro por el sofá, me coloco entre los muslos de [ch_ren] y casualmente apoyo mis brazos sobre sus hombros." 
 
 # game/14 Nights With You/bonus.rpy:693
 translate Paloslios DLC_day4_angelapartment_483321a2:
 
-    # r "U-Um! Hi…" nointeract
-    r "¡U-um! Hola…" nointeract
+    # r "U-Um! Hi…" 
+    r "¡U-um! Hola…" 
 
 # game/14 Nights With You/bonus.rpy:694
 translate Paloslios DLC_day4_angelapartment_b63a1d47:
 
-    # y "Keep doing what you're doing. Don't mind me." nointeract
-    y "Sigue haciendo lo que estás haciendo. No me hagas caso." nointeract
+    # y "Keep doing what you're doing. Don't mind me." 
+    y "Sigue haciendo lo que estás haciendo. No me hagas caso." 
 
 # game/14 Nights With You/bonus.rpy:696
 translate Paloslios DLC_day4_angelapartment_c8d8d65b:
 
-    # r "I-It's kinda hard {i}not to{/i} when you're sitting on my… Uhh… Y'know—" nointeract
-    r "E-Es un poco difícil {i}no hacerlo{/i} cuando estás sentado en mi... Uhh... Ya sabes—" nointeract
+    # r "I-It's kinda hard {i}not to{/i} when you're sitting on my… Uhh… Y'know—" 
+    r "E-Es un poco difícil {i}no hacerlo{/i} cuando estás sentado en mi... Uhh... Ya sabes—" 
 
 # game/14 Nights With You/bonus.rpy:697
 translate Paloslios DLC_day4_angelapartment_f8db13b5:
 
-    # y "Oh, is {i}that{/i} what that is? I see. I thought you were just hiding a remote in your pocket, or something." nointeract
-    y "Oh, ¿{i}eso{/i} es lo que es? Veo. Pensé que simplemente estabas escondiendo un control remoto en tu bolsillo o algo así." nointeract
+    # y "Oh, is {i}that{/i} what that is? I see. I thought you were just hiding a remote in your pocket, or something." 
+    y "Oh, ¿{i}eso{/i} es lo que es? Veo. Pensé que simplemente estabas escondiendo un control remoto en tu bolsillo o algo así." 
 
 # game/14 Nights With You/bonus.rpy:699
 translate Paloslios DLC_day4_angelapartment_250303ca:
 
-    # r "Wh-Why would I possibly be hiding a—?!" nointeract
-    r "¡¿Por qué podría estar escondiendo un...?!" nointeract
+    # r "Wh-Why would I possibly be hiding a—?!" 
+    r "¡¿Por qué podría estar escondiendo un...?!" 
 
 # game/14 Nights With You/bonus.rpy:701
 translate Paloslios DLC_day4_angelapartment_91a9064f:
 
-    # r "Who does that…? {i}Why{/i} would someone do that? N-Nevermind…" nointeract
-    r "¿Quién hace eso…? {i}¿Por qué{/i} alguien haría eso? N-No importa..." nointeract
+    # r "Who does that…? {i}Why{/i} would someone do that? N-Nevermind…" 
+    r "¿Quién hace eso…? {i}¿Por qué{/i} alguien haría eso? N-No importa..." 
 
 # game/14 Nights With You/bonus.rpy:704
 translate Paloslios DLC_day4_angelapartment_2152810f:
 
-    # n "Deciding to give [ch_ren] {i}a bit{/i} of breathing room, I lean back so I'm not {b}entirely{/b} all up in his business." nointeract
-    n "Decidiendo darle a [ch_ren]{i}un poco{/i} de espacio para respirar, me recuesto para no estar {b}completamente{/b} metido en sus asuntos." nointeract
+    # n "Deciding to give [ch_ren] {i}a bit{/i} of breathing room, I lean back so I'm not {b}entirely{/b} all up in his business." 
+    n "Decidiendo darle a [ch_ren]{i}un poco{/i} de espacio para respirar, me recuesto para no estar {b}completamente{/b} metido en sus asuntos." 
 
 # game/14 Nights With You/bonus.rpy:705
 translate Paloslios DLC_day4_angelapartment_67b2b756:
 
-    # n "I'm still nestled — rather smugly — in his lap, though, and he's able to easily reach around me to continue working on setting up the security cameras." nointeract
-    n "Sin embargo, todavía estoy acurrucada, bastante con aire de suficiencia, en su regazo, y él puede rodearme fácilmente para continuar trabajando en la instalación de las cámaras de seguridad." nointeract
+    # n "I'm still nestled — rather smugly — in his lap, though, and he's able to easily reach around me to continue working on setting up the security cameras." 
+    n "Sin embargo, todavía estoy acurrucada, bastante con aire de suficiencia, en su regazo, y él puede rodearme fácilmente para continuar trabajando en la instalación de las cámaras de seguridad." 
 
 # game/14 Nights With You/bonus.rpy:706
 translate Paloslios DLC_day4_angelapartment_44468e83:
 
-    # n "A comfortable silence soon follows, but it's short-lived the moment [ch_ren] clears his throat and speaks once more." nointeract
-    n "Pronto sigue un cómodo silencio, pero dura poco en el momento en que [ch_ren] se aclara la garganta y habla una vez más." nointeract
+    # n "A comfortable silence soon follows, but it's short-lived the moment [ch_ren] clears his throat and speaks once more." 
+    n "Pronto sigue un cómodo silencio, pero dura poco en el momento en que [ch_ren] se aclara la garganta y habla una vez más." 
 
 # game/14 Nights With You/bonus.rpy:709
 translate Paloslios DLC_day4_angelapartment_1aecb56d:
 
-    # n "He seems to pick up on my confusion and further explains his intentions." nointeract
-    n "Parece darse cuenta de mi confusión y explica con más detalle sus intenciones." nointeract
+    # n "He seems to pick up on my confusion and further explains his intentions." 
+    n "Parece darse cuenta de mi confusión y explica con más detalle sus intenciones." 
 
 # game/14 Nights With You/bonus.rpy:713
 translate Paloslios DLC_day5_bed_568edfdd:
 
-    # m "{size=+10}HELLO?!{/size}" nointeract with hpunch
-    m "{size=+10}¡¿HOLA?!{/size}" nointeract with hpunch
+    # m "{size=+10}HELLO?!{/size}"  with hpunch
+    m "{size=+10}¡¿HOLA?!{/size}"  with hpunch
 
 # game/14 Nights With You/bonus.rpy:715
 translate Paloslios DLC_day5_bed_5d00b05a:
 
-    # m "And he looks just like Haruko, too?!" nointeract
-    m "¡¿Y él también se parece a Haruko?!" nointeract
+    # m "And he looks just like Haruko, too?!" 
+    m "¡¿Y él también se parece a Haruko?!" 
 
 # game/14 Nights With You/bonus.rpy:717
 translate Paloslios DLC_day5_bed_eac1d122:
 
-    # m "Wait… Is he actually…" nointeract
-    m "Espera... ¿Es él realmente...?" nointeract
+    # m "Wait… Is he actually…" 
+    m "Espera... ¿Es él realmente...?" 
 
 # game/14 Nights With You/bonus.rpy:718
 translate Paloslios DLC_day5_bed_ead701f5:
 
-    # y "Submissive and breedable?" nointeract
-    y "¿Sumiso y reproducible?" nointeract
+    # y "Submissive and breedable?" 
+    y "¿Sumiso y reproducible?" 
 
 # game/14 Nights With You/bonus.rpy:720
 translate Paloslios DLC_day5_bed_2d21ccc0:
 
-    # m "I was going to say {i}'Haruko'{/i}, but now I've got to know." nointeract
-    m "Iba a decir {i}'Haruko'{/i}, pero ahora tengo que saberlo." nointeract
+    # m "I was going to say {i}'Haruko'{/i}, but now I've got to know." 
+    m "Iba a decir {i}'Haruko'{/i}, pero ahora tengo que saberlo." 
 
 # game/14 Nights With You/bonus.rpy:722
 translate Paloslios DLC_day5_bed_7bab4914:
 
-    # r "Am I… wh-what?" nointeract
-    r "¿Soy… qué-qué?" nointeract
+    # r "Am I… wh-what?" 
+    r "¿Soy… qué-qué?" 
 
 # game/14 Nights With You/bonus.rpy:724
 translate Paloslios DLC_day5_bed_9155333f:
 
-    # r "Well… I-I guess I am, but biologically speaking, I don't think I'm able to be bred—" nointeract
-    r "Bueno... supongo que sí, pero biológicamente hablando, no creo que pueda ser criado..." nointeract
+    # r "Well… I-I guess I am, but biologically speaking, I don't think I'm able to be bred—" 
+    r "Bueno... supongo que sí, pero biológicamente hablando, no creo que pueda ser criado..." 
 
 # game/14 Nights With You/bonus.rpy:726
 translate Paloslios DLC_day5_bed_25e3237a:
 
-    # m "Not with that attitude. Or is [ch_angel] not trying hard enough?" nointeract
-    m "No con esa actitud. ¿O [ch_angel] no se está esforzando lo suficiente?" nointeract
+    # m "Not with that attitude. Or is [ch_angel] not trying hard enough?" 
+    m "No con esa actitud. ¿O [ch_angel] no se está esforzando lo suficiente?" 
 
 # game/14 Nights With You/bonus.rpy:727
 translate Paloslios DLC_day5_bed_cf4afe53:
 
-    # y "[ch_moth]!" nointeract
-    y "[ch_moth]!" nointeract
+    # y "[ch_moth]!" 
+    y "[ch_moth]!" 
 
 # game/14 Nights With You/bonus.rpy:734
 translate Paloslios DLC_day5_stall_f5d2bcdb:
 
-    # n "At that, [ch_ren]'s cheeks practically glow bright red." nointeract
-    n "Ante eso, las mejillas de [ch_ren] prácticamente brillan de un rojo brillante." nointeract
+    # n "At that, [ch_ren]'s cheeks practically glow bright red." 
+    n "Ante eso, las mejillas de [ch_ren] prácticamente brillan de un rojo brillante." 
 
 # game/14 Nights With You/bonus.rpy:736
 translate Paloslios DLC_day5_stall_00c4740e:
 
-    # r "B-But you're already changed…" nointeract
-    r "P-Pero ya estás cambiado..." nointeract
+    # r "B-But you're already changed…" 
+    r "P-Pero ya estás cambiado..." 
 
 # game/14 Nights With You/bonus.rpy:737
 translate Paloslios DLC_day5_stall_2ea83912:
 
-    # y "Why do you sound so disappointed, you pervert?" nointeract
-    y "¿Por qué suenas tan decepcionado, pervertido?" nointeract
+    # y "Why do you sound so disappointed, you pervert?" 
+    y "¿Por qué suenas tan decepcionado, pervertido?" 
 
 # game/14 Nights With You/bonus.rpy:739
 translate Paloslios DLC_day5_stall_fbd7aec8:
 
-    # r "{size=+10}…!{/size}" nointeract with vpunch
-    r "{size=+10}…!{/size}" nointeract with vpunch
+    # r "{size=+10}…!{/size}"  with vpunch
+    r "{size=+10}…!{/size}"  with vpunch
 
 # game/14 Nights With You/bonus.rpy:741
 translate Paloslios DLC_day5_stall_b809bf20:
 
-    # r "N-N-N-NO! No, I didn't— I wasn't— I just meant…" nointeract
-    r "¡N-N-N-NO! No, no... no estaba... solo quise decir..." nointeract
+    # r "N-N-N-NO! No, I didn't— I wasn't— I just meant…" 
+    r "¡N-N-N-NO! No, no... no estaba... solo quise decir..." 
 
 # game/14 Nights With You/bonus.rpy:743
 translate Paloslios DLC_day5_stall_eb466a61:
 
-    # r "{size=-6}Ughhh… What I would give to have the ground swallow me up right now.{/size}" nointeract
-    r "{size=-6}Ughhh… Lo que daría por que la tierra me tragara ahora mismo.{/size}" nointeract
+    # r "{size=-6}Ughhh… What I would give to have the ground swallow me up right now.{/size}" 
+    r "{size=-6}Ughhh… Lo que daría por que la tierra me tragara ahora mismo.{/size}" 
 
 # game/14 Nights With You/bonus.rpy:745
 translate Paloslios DLC_day5_stall_ad21e11b:
 
-    # r "I-I take back what I said. I didn't mean to—" nointeract
-    r "Retiro lo que dije. No fue mi intención—" nointeract
+    # r "I-I take back what I said. I didn't mean to—" 
+    r "Retiro lo que dije. No fue mi intención—" 
 
 # game/14 Nights With You/bonus.rpy:746
 translate Paloslios DLC_day5_stall_6e8395f2:
 
-    # y "Relax, [ch_ren]. I'm only teasing you." nointeract
-    y "Relájate, [ch_ren]. Sólo te estoy tomando el pelo." nointeract
+    # y "Relax, [ch_ren]. I'm only teasing you." 
+    y "Relájate, [ch_ren]. Sólo te estoy tomando el pelo." 
 
 # game/14 Nights With You/bonus.rpy:748
 translate Paloslios DLC_day5_stall_a1cf8718:
 
-    # r "…Oh. Ahah~" nointeract
-    r "…Oh. Ahh~" nointeract
+    # r "…Oh. Ahah~" 
+    r "…Oh. Ahh~" 
 
 # game/14 Nights With You/bonus.rpy:750
 translate Paloslios DLC_day5_stall_ab70f225:
 
-    # r "…" nointeract
-    r "…" nointeract
+    # r "…" 
+    r "…" 
 
 # game/14 Nights With You/bonus.rpy:752
 translate Paloslios DLC_day5_stall_aad29926:
 
-    # r "But if you {i}wanted{/i} to get undressed, I wouldn't m—" nointeract
-    r "Pero si {i} quisieras {/i} desvestirte, yo no m—" nointeract
+    # r "But if you {i}wanted{/i} to get undressed, I wouldn't m—" 
+    r "Pero si {i} quisieras {/i} desvestirte, yo no m—" 
 
 # game/14 Nights With You/bonus.rpy:757
 translate Paloslios DLC_day5_stall_8bab4644:
 
-    # n "Almost immediately, [ch_ren]'s head snaps up and he almost drops his bag. He nearly slams himself into the wall behind him as well, but manages to catch his footing just in time." nointeract
-    n "Casi de inmediato, la cabeza de [ch_ren] se levanta y casi deja caer su bolso. Casi se estrella contra la pared detrás de él también, pero logra recuperar el equilibrio justo a tiempo." nointeract
+    # n "Almost immediately, [ch_ren]'s head snaps up and he almost drops his bag. He nearly slams himself into the wall behind him as well, but manages to catch his footing just in time." 
+    n "Casi de inmediato, la cabeza de [ch_ren] se levanta y casi deja caer su bolso. Casi se estrella contra la pared detrás de él también, pero logra recuperar el equilibrio justo a tiempo." 
 
 # game/14 Nights With You/bonus.rpy:759
 translate Paloslios DLC_day5_stall_98756619:
 
-    # r "Y-Y-Y-Y-You want to—?! I mean— But that's—!" nointeract
-    r "¡¿Y-Y-Y-Y-Quieres—?! Quiero decir... ¡Pero eso es...!" nointeract
+    # r "Y-Y-Y-Y-You want to—?! I mean— But that's—!" 
+    r "¡¿Y-Y-Y-Y-Quieres—?! Quiero decir... ¡Pero eso es...!" 
 
 # game/14 Nights With You/bonus.rpy:760
 translate Paloslios DLC_day5_stall_9b011a5e:
 
-    # y "Is that a no?" nointeract
-    y "¿Eso es un no?" nointeract
+    # y "Is that a no?" 
+    y "¿Eso es un no?" 
 
 # game/14 Nights With You/bonus.rpy:762
 translate Paloslios DLC_day5_stall_8f872e09:
 
-    # r "I don't mind, but… Well, you see, no one's really seen me without a shirt on before, and… And—" nointeract
-    r "No me importa, pero... Bueno, verás, nadie me ha visto realmente sin camiseta antes, y... Y..." nointeract
+    # r "I don't mind, but… Well, you see, no one's really seen me without a shirt on before, and… And—" 
+    r "No me importa, pero... Bueno, verás, nadie me ha visto realmente sin camiseta antes, y... Y..." 
 
 # game/14 Nights With You/bonus.rpy:763
 translate Paloslios DLC_day5_stall_3df0c4f0:
 
-    # n "I can practically see the steam rising from [ch_ren]'s head as he tries to come up with something to say. Taking pity on him, I decide to put him out of his misery." nointeract
-    n "Prácticamente puedo ver el vapor saliendo de la cabeza de [ch_ren] mientras intenta pensar en algo que decir. Compadeciéndome de él, decido sacarlo de su miseria." nointeract
+    # n "I can practically see the steam rising from [ch_ren]'s head as he tries to come up with something to say. Taking pity on him, I decide to put him out of his misery." 
+    n "Prácticamente puedo ver el vapor saliendo de la cabeza de [ch_ren] mientras intenta pensar en algo que decir. Compadeciéndome de él, decido sacarlo de su miseria." 
 
 # game/14 Nights With You/bonus.rpy:764
 translate Paloslios DLC_day5_stall_b5121853:
 
-    # y "Hey, it's okay. I'm only teasing." nointeract
-    y "Oye, está bien. Sólo estoy bromeando." nointeract
+    # y "Hey, it's okay. I'm only teasing." 
+    y "Oye, está bien. Sólo estoy bromeando." 
 
 # game/14 Nights With You/bonus.rpy:766
 translate Paloslios DLC_day5_stall_a1cf8718_1:
 
-    # r "…Oh. Ahah~" nointeract
-    r "…Oh. Ahh~" nointeract
+    # r "…Oh. Ahah~" 
+    r "…Oh. Ahh~" 
 
 # game/14 Nights With You/bonus.rpy:768
 translate Paloslios DLC_day5_stall_ab70f225_1:
 
-    # r "…" nointeract
-    r "…" nointeract
+    # r "…" 
+    r "…" 
 
 # game/14 Nights With You/bonus.rpy:770
 translate Paloslios DLC_day5_stall_459b912c:
 
-    # r "Y'know, I was going to suggest watching me take my pants off instead, but…" nointeract
-    r "Ya sabes, iba a sugerir que me vieras quitarme los pantalones, pero..." nointeract
+    # r "Y'know, I was going to suggest watching me take my pants off instead, but…" 
+    r "Ya sabes, iba a sugerir que me vieras quitarme los pantalones, pero..." 
 
 # game/14 Nights With You/bonus.rpy:771
 translate Paloslios DLC_day5_stall_6b4c8280:
 
-    # y "Wait. Are you serious—" nointeract
-    y "Espera. Hablas en serio-" nointeract
+    # y "Wait. Are you serious—" 
+    y "Espera. Hablas en serio-" 
 
 # game/14 Nights With You/bonus.rpy:774
 translate Paloslios DLC_day5_stall_92e4f406:
 
-    # r "…!" nointeract
-    r "…!" nointeract
+    # r "…!" 
+    r "…!" 
 
 # game/14 Nights With You/bonus.rpy:776
 translate Paloslios DLC_day5_stall_24e26eb1:
 
-    # r "N-N-No! …Maybe?" nointeract
-    r "¡N-N-No! …¿Tal vez?" nointeract
+    # r "N-N-No! …Maybe?" 
+    r "¡N-N-No! …¿Tal vez?" 
 
 # game/14 Nights With You/bonus.rpy:777
 translate Paloslios DLC_day5_stall_c9e6af92:
 
-    # y "I'll be the judge of that." nointeract
-    y "Seré el juez de eso." nointeract
+    # y "I'll be the judge of that." 
+    y "Seré el juez de eso." 
 
 # game/14 Nights With You/bonus.rpy:778
 translate Paloslios DLC_day5_stall_f2c161ef:
 
-    # n "Stumbling my way through the dimly lit area, I reach out towards [ch_ren] and cup his face with my hands. His own immediately reach for my wrists — not to pull them away — but to hold onto." nointeract
-    n "Avanzando a trompicones por el área poco iluminada, extiendo la mano hacia [ch_ren] y tomo su rostro con mis manos. Los suyos inmediatamente alcanzan mis muñecas, no para alejarlas, sino para sujetarlas." nointeract
+    # n "Stumbling my way through the dimly lit area, I reach out towards [ch_ren] and cup his face with my hands. His own immediately reach for my wrists — not to pull them away — but to hold onto." 
+    n "Avanzando a trompicones por el área poco iluminada, extiendo la mano hacia [ch_ren] y tomo su rostro con mis manos. Los suyos inmediatamente alcanzan mis muñecas, no para alejarlas, sino para sujetarlas." 
 
 # game/14 Nights With You/bonus.rpy:779
 translate Paloslios DLC_day5_stall_d882796b:
 
-    # y "Yeah, they're warm, alright. That's about a nine on the [ch_ren]-blush-o-meter." nointeract
-    y "Sí, están calientes, está bien. Eso es aproximadamente un nueve en el ruborómetro [ch_ren]." nointeract
+    # y "Yeah, they're warm, alright. That's about a nine on the [ch_ren]-blush-o-meter." 
+    y "Sí, están calientes, está bien. Eso es aproximadamente un nueve en el ruborómetro [ch_ren]." 
 
 # game/14 Nights With You/bonus.rpy:781
 translate Paloslios DLC_day5_stall_d932afaf:
 
-    # r "You have a scale for that?" nointeract
-    r "¿Tienes una escala para eso?" nointeract
+    # r "You have a scale for that?" 
+    r "¿Tienes una escala para eso?" 
 
 # game/14 Nights With You/bonus.rpy:782
 translate Paloslios DLC_day5_stall_6effbf48:
 
-    # y "Mhm! Exclusive to you." nointeract
-    y "¡Mmm! Exclusivo para ti." nointeract
+    # y "Mhm! Exclusive to you." 
+    y "¡Mmm! Exclusivo para ti." 
 
 # game/14 Nights With You/bonus.rpy:784
 translate Paloslios DLC_day5_stall_6f5c8073:
 
-    # r "So… No one else has a scale? Just me?" nointeract
-    r "Entonces… ¿Nadie más tiene una báscula? ¿Sólo yo?" nointeract
+    # r "So… No one else has a scale? Just me?" 
+    r "Entonces… ¿Nadie más tiene una báscula? ¿Sólo yo?" 
 
 # game/14 Nights With You/bonus.rpy:785
 translate Paloslios DLC_day5_stall_dd3b7391:
 
-    # y "Yes?" nointeract
-    y "¿Sí?" nointeract
+    # y "Yes?" 
+    y "¿Sí?" 
 
 # game/14 Nights With You/bonus.rpy:787
 translate Paloslios DLC_day5_stall_ab70f225_2:
 
-    # r "…" nointeract
-    r "…" nointeract
+    # r "…" 
+    r "…" 
 
 # game/14 Nights With You/bonus.rpy:789
 translate Paloslios DLC_day5_stall_6eabdda2:
 
-    # r "Hey, d'you think you could touch me a little lower—" nointeract
-    r "Oye, ¿crees que podrías tocarme un poco más abajo?" nointeract
+    # r "Hey, d'you think you could touch me a little lower—" 
+    r "Oye, ¿crees que podrías tocarme un poco más abajo?" 
 
 # game/14 Nights With You/bonus.rpy:792
 translate Paloslios DLC_day5_stall_73c8c198:
 
-    # r "Mm! Of course!" nointeract
-    r "¡Mmm! ¡Por supuesto!" nointeract
+    # r "Mm! Of course!" 
+    r "¡Mmm! ¡Por supuesto!" 
 
 # game/14 Nights With You/bonus.rpy:794
 translate Paloslios DLC_day5_stall_f74324be:
 
-    # r "If you want, I can—" nointeract
-    r "Si quieres, puedo—" nointeract
+    # r "If you want, I can—" 
+    r "Si quieres, puedo—" 
 
 # game/14 Nights With You/bonus.rpy:798
 translate Paloslios DLC_day5_kitchen_c4ed9175:
 
-    # n "I don't know what compels me to do this, but I reach for [ch_ren]'s belt and pull him closer to me." nointeract
-    n "No sé qué me obliga a hacer esto, pero alcanzo el cinturón de [ch_ren] y lo acerco más a mí." nointeract
+    # n "I don't know what compels me to do this, but I reach for [ch_ren]'s belt and pull him closer to me." 
+    n "No sé qué me obliga a hacer esto, pero alcanzo el cinturón de [ch_ren] y lo acerco más a mí." 
 
 # game/14 Nights With You/bonus.rpy:799
 translate Paloslios DLC_day5_kitchen_c300d4e8:
 
-    # n "He doesn't seem to mind at all — in fact, it's as though all his sadness washes away the moment I reach for him, and instead gets replaced with something more tender." nointeract
-    n "No parece importarle en absoluto; de hecho, es como si toda su tristeza desapareciera en el momento en que lo alcanzo y, en cambio, fuera reemplazada por algo más tierno." nointeract
+    # n "He doesn't seem to mind at all — in fact, it's as though all his sadness washes away the moment I reach for him, and instead gets replaced with something more tender." 
+    n "No parece importarle en absoluto; de hecho, es como si toda su tristeza desapareciera en el momento en que lo alcanzo y, en cambio, fuera reemplazada por algo más tierno." 
 
 # game/14 Nights With You/bonus.rpy:801
 translate Paloslios DLC_day5_kitchen_d51333c8:
 
-    # r "…Angel?" nointeract
-    r "…¿Ángel?" nointeract
+    # r "…Angel?" 
+    r "…¿Ángel?" 
 
 # game/14 Nights With You/bonus.rpy:803
 translate Paloslios DLC_day5_kitchen_423e9691:
 
-    # r "You know your friend is standing nearby, right?" nointeract
-    r "Sabes que tu amigo está cerca, ¿verdad?" nointeract
+    # r "You know your friend is standing nearby, right?" 
+    r "Sabes que tu amigo está cerca, ¿verdad?" 
 
 # game/14 Nights With You/bonus.rpy:805
 translate Paloslios DLC_day5_kitchen_0ed0f736:
 
-    # r "And they're looking at you like you've just done something crazy." nointeract
-    r "Y te miran como si acabaras de hacer una locura." nointeract
+    # r "And they're looking at you like you've just done something crazy." 
+    r "Y te miran como si acabaras de hacer una locura." 
 
 # game/14 Nights With You/bonus.rpy:806
 translate Paloslios DLC_day5_kitchen_5f6e4092:
 
-    # y "I {i}did{/i} just reach for your crotch area…" nointeract
-    y "Yo {i}{/i} solo alcancé el área de tu entrepierna..." nointeract
+    # y "I {i}did{/i} just reach for your crotch area…" 
+    y "Yo {i}{/i} solo alcancé el área de tu entrepierna..." 
 
 # game/14 Nights With You/bonus.rpy:807
 translate Paloslios DLC_day5_kitchen_dca05a21:
 
-    # n "[ch_ren] only seems to let out an amused laugh at my words before leaning closer." nointeract
-    n "[ch_ren] solo parece dejar escapar una risa divertida ante mis palabras antes de acercarse." nointeract
+    # n "[ch_ren] only seems to let out an amused laugh at my words before leaning closer." 
+    n "[ch_ren] solo parece dejar escapar una risa divertida ante mis palabras antes de acercarse." 
 
 # game/14 Nights With You/bonus.rpy:809
 translate Paloslios DLC_day5_kitchen_3e871a8b:
 
-    # r "You're so insatiable. I s'pose it's a good thing that I'm into it, huh?" nointeract
-    r "Eres tan insaciable. Supongo que es bueno que me guste, ¿eh?" nointeract
+    # r "You're so insatiable. I s'pose it's a good thing that I'm into it, huh?" 
+    r "Eres tan insaciable. Supongo que es bueno que me guste, ¿eh?" 
 
 # game/14 Nights With You/bonus.rpy:812
 translate Paloslios dlc_14nwy_d1_t1_f32f531d:
 
-    # n "Hearing him swear sends a wave of pleasure through my body." nointeract
-    n "Escucharlo maldecir envía una ola de placer a través de mi cuerpo." nointeract
+    # n "Hearing him swear sends a wave of pleasure through my body." 
+    n "Escucharlo maldecir envía una ola de placer a través de mi cuerpo." 
 
 # game/14 Nights With You/bonus.rpy:813
 translate Paloslios dlc_14nwy_d1_t1_bb6daefb:
 
-    # n "And as if [ch_ren] could sense my neediness, I feel him reach below to experimentally play with my [parts]." nointeract
-    n "Y como si [ch_ren] pudiera sentir mi necesidad, siento que se acerca hacia abajo para jugar experimentalmente con mi [parts]." nointeract
+    # n "And as if [ch_ren] could sense my neediness, I feel him reach below to experimentally play with my [parts!t]." 
+    n "Y como si [ch_ren] pudiera sentir mi necesidad, siento que se acerca hacia abajo para jugar experimentalmente con mi [parts!t]." 
 
 # game/14 Nights With You/bonus.rpy:814
 translate Paloslios dlc_14nwy_d1_t1_d2cb1769:
 
-    # n "He gently runs his fingers across before he applies more pressure. My breath hitches in my throat as I throw my head back, once again arching into his addictive touch." nointeract
-    n "Pasa suavemente los dedos antes de aplicar más presión. Mi respiración se corta en mi garganta mientras echo la cabeza hacia atrás, arqueándome una vez más ante su adictivo toque." nointeract
+    # n "He gently runs his fingers across before he applies more pressure. My breath hitches in my throat as I throw my head back, once again arching into his addictive touch." 
+    n "Pasa suavemente los dedos antes de aplicar más presión. Mi respiración se corta en mi garganta mientras echo la cabeza hacia atrás, arqueándome una vez más ante su adictivo toque." 
 
 # game/14 Nights With You/bonus.rpy:817
 translate Paloslios dlc_14nwy_d1_t2_259c16cb:
 
-    # n "I don't miss the small bottle of lube in one of [ch_ren]'s hands once he returns — no doubt something he fished from his pockets — but it soon becomes an afterthought the moment he leans closer and gives me a slow kiss." nointeract
-    n "No extraño la pequeña botella de lubricante en una de las manos de [ch_ren] una vez que regresa, sin duda algo que sacó de sus bolsillos, pero pronto se convierte en una ocurrencia tardía en el momento en que se inclina más cerca y me da un beso lento." nointeract
+    # n "I don't miss the small bottle of lube in one of [ch_ren]'s hands once he returns — no doubt something he fished from his pockets — but it soon becomes an afterthought the moment he leans closer and gives me a slow kiss." 
+    n "Sin extrañarme de la pequeña botella de lubricante en una de las manos de [ch_ren] una vez que regresa, sin duda algo que sacó de sus bolsillos, pero pronto se convierte en una ocurrencia tardía en el momento en que se inclina más cerca y me da un beso lento." 
 
 # game/14 Nights With You/bonus.rpy:818
 translate Paloslios dlc_14nwy_d1_t2_bb5b2da7:
 
-    # n "While he busies himself with opening the lid and smearing some of the liquid onto his fingers, I take it upon myself to make {b}him{/b} feel good as well." nointeract
-    n "Mientras él se ocupa de abrir la tapa y untar un poco del líquido en sus dedos, yo me encargo de hacer que {b}él{/b} se sienta bien también." nointeract
+    # n "While he busies himself with opening the lid and smearing some of the liquid onto his fingers, I take it upon myself to make {b}him{/b} feel good as well." 
+    n "Mientras él se ocupa de abrir la tapa y untar un poco del líquido en sus dedos, yo me encargo de hacer que {b}él{/b} se sienta bien también." 
 
 # game/14 Nights With You/bonus.rpy:821
 translate Paloslios dlc_14nwy_d1_t3_85e1a00f:
 
-    # r "…Just like that. Use me to pleasure yourself." nointeract
-    r "…Así. Úsame para darte placer." nointeract
+    # r "…Just like that. Use me to pleasure yourself." 
+    r "…Así. Úsame para darte placer." 
 
 # game/14 Nights With You/bonus.rpy:824
 translate Paloslios dlc_14nwy_d1_t4_cad9dedc:
 
-    # n "He quickens his pace, and suddenly, my vision goes white. My toes curl as [ch_ren] continues to tease my [parts] and [sex], and I come with his name on my tongue." nointeract
-    n "Acelera el paso y, de repente, mi visión se vuelve blanca. Los dedos de mis pies se curvan mientras [ch_ren] continúa provocando a mi [parts] y a [sex], y me corro con su nombre en mi lengua." nointeract
+    # n "He quickens his pace, and suddenly, my vision goes white. My toes curl as [ch_ren] continues to tease my [parts!t] and [sex!t], and I come with his name on my tongue." 
+    n "Acelera el paso y, de repente, mi visión se vuelve blanca. Los dedos de mis pies se curvan mientras [ch_ren] continúa provocando a mi [parts!t] y a [sex!t], y me corro con su nombre en mi lengua." 
 
 # game/14 Nights With You/bonus.rpy:827
 translate Paloslios dlc_14nwy_d1_t5_380c8ebb:
 
-    # n "But during my hazed-out state, I came to the realisation that [ch_ren] was {b}still{/b} hard — if his \"subtle\" grinding against my side had anything to do with it. So I nudge his thighs apart and beckon him closer." nointeract
-    n "Pero durante mi estado de confusión, me di cuenta de que [ch_ren] era {b}todavía{/b} duro, si su \"sutil\" moler contra mi costado tenía algo que ver con eso. Así que le separo los muslos y le hago señas para que se acerque." nointeract
+    # n "But during my hazed-out state, I came to the realisation that [ch_ren] was {b}still{/b} hard — if his \"subtle\" grinding against my side had anything to do with it. So I nudge his thighs apart and beckon him closer." 
+    n "Pero durante mi estado de confusión, me di cuenta de que [ch_ren] era {b}todavía{/b} duro, si su \"sutil\" rose contra mi costado tenía algo que ver con eso. Así que le separo los muslos y le hago señas para que se acerque." 
 
 # game/14 Nights With You/bonus.rpy:830
 translate Paloslios dlc_14nwy_d1_t6_b14f9966:
 
-    # n "Apparently, that was all it took to have him back on me once more, with his hungry mouth on mine as his hand moves to line up my [length] with his lubed hole." nointeract
-    n "Aparentemente, eso fue todo lo que hizo falta para tenerlo de vuelta sobre mí una vez más, con su boca hambrienta sobre la mía mientras su mano se mueve para alinear mi [length] con su agujero lubricado." nointeract
+    # n "Apparently, that was all it took to have him back on me once more, with his hungry mouth on mine as his hand moves to line up my [length!t] with his lubed hole." 
+    n "Aparentemente, eso fue todo lo que hizo falta para tenerlo de vuelta sobre mí una vez más, con su boca hambrienta sobre la mía mientras su mano se mueve para alinear mi [length!t] con su agujero lubricado." 
 
 # game/14 Nights With You/bonus.rpy:833
 translate Paloslios dlc_14nwy_d1_t7_a381c9fb:
 
-    # n "Considering how [ch_ren] has apparently never done something like this before, he decides to take things nice and slow." nointeract
-    n "Teniendo en cuenta que [ch_ren] aparentemente nunca antes había hecho algo como esto, decide tomar las cosas con calma." nointeract
+    # n "Considering how [ch_ren] has apparently never done something like this before, he decides to take things nice and slow." 
+    n "Teniendo en cuenta que [ch_ren] aparentemente nunca antes había hecho algo como esto, decide tomar las cosas con calma." 
 
 # game/14 Nights With You/bonus.rpy:834
 translate Paloslios dlc_14nwy_d1_t7_da37aaa1:
 
-    # n "I watch in awe as he tries to take every inch inside of his tight hole with a blissed out look on his face." nointeract
-    n "Observo con asombro cómo intenta meter cada centímetro dentro de su estrecho agujero con una expresión de felicidad en su rostro." nointeract
+    # n "I watch in awe as he tries to take every inch inside of his tight hole with a blissed out look on his face." 
+    n "Observo con asombro cómo intenta meter cada centímetro dentro de su estrecho agujero con una expresión de felicidad en su rostro." 
 
 # game/14 Nights With You/bonus.rpy:836
 translate Paloslios dlc_14nwy_d1_t7_7358c0c0:
 
-    # n "I almost forget to breathe as the base of my strap-on deliciously rubs against one spot in particular, and I unconsciously latch onto his thighs to anchor myself." nointeract
-    n "Casi me olvido de respirar cuando la base de mi cinturón frota deliciosamente contra un lugar en particular, e inconscientemente me aferro a sus muslos para anclarme." nointeract
+    # n "I almost forget to breathe as the base of my strap-on deliciously rubs against one spot in particular, and I unconsciously latch onto his thighs to anchor myself." 
+    n "Casi me olvido de respirar cuando la base de mi cinturón frota deliciosamente contra un lugar en particular, e inconscientemente me aferro a sus muslos para anclarme." 
 
 # game/14 Nights With You/bonus.rpy:837
 translate Paloslios dlc_14nwy_d1_t7_089fb6d7:
 
-    # r "A-Ah… I haven't taken anything as big as this before…" nointeract
-    r "A-Ah… nunca antes había tomado algo tan grande como esto…" nointeract
+    # r "A-Ah… I haven't taken anything as big as this before…" 
+    r "A-Ah… nunca antes había tomado algo tan grande como esto…" 
 
 # game/14 Nights With You/bonus.rpy:839
 translate Paloslios dlc_14nwy_d1_t7_2c9f8434:
 
-    # n "I almost forget to breathe as I feel his walls clench around my [length], and I unconsciously latch onto his thighs to anchor myself." nointeract
-    n "Casi me olvido de respirar cuando siento sus paredes apretarse alrededor de mi [length], e inconscientemente me aferro a sus muslos para anclarme." nointeract
+    # n "I almost forget to breathe as I feel his walls clench around my [length!t], and I unconsciously latch onto his thighs to anchor myself." 
+    n "Casi me olvido de respirar cuando siento sus paredes apretarse alrededor de mi [length!t], e inconscientemente me aferro a sus muslos para anclarme." 
 
 # game/14 Nights With You/bonus.rpy:840
 translate Paloslios dlc_14nwy_d1_t7_bbcc2051:
 
-    # r "A-Ah… I haven't taken anything as big as you before…" nointeract
-    r "A-Ah... nunca he tomado nada tan grande como tú antes..." nointeract
+    # r "A-Ah… I haven't taken anything as big as you before…" 
+    r "A-Ah... nunca he tomado nada tan grande como tú antes..." 
 
 # game/14 Nights With You/bonus.rpy:841
 translate Paloslios dlc_14nwy_d1_t7_b612a5c1:
 
-    # n "What felt like hours seemed to pass before [ch_ren] {b}finally{/b} bottoms out on my [length], and he almost seems to double over once more from the sheer pleasure of it all." nointeract
-    n "Lo que parecieron horas parecieron pasar antes de que [ch_ren]{b}finalmente{/b} toque fondo a mi [length], y casi parece doblarse una vez más por el puro placer de todo." nointeract
+    # n "What felt like hours seemed to pass before [ch_ren] {b}finally{/b} bottoms out on my [length!t], and he almost seems to double over once more from the sheer pleasure of it all." 
+    n "Lo que parecieron horas parecieron pasar antes de que [ch_ren]{b}finalmente{/b} toque fondo a mi [length!t], y casi parece doblarse una vez más por el puro placer de todo." 
 
 # game/14 Nights With You/bonus.rpy:842
 translate Paloslios dlc_14nwy_d1_t7_6700758a:
 
-    # n "He looks down at me once more with those soft blue eyes of his, and the entire exchange suddenly feels {b}far more{/b} intimate than actually having me inside of him." nointeract
-    n "Me mira una vez más con esos suaves ojos azules suyos, y todo el intercambio de repente se siente {b}mucho más{/b} íntimo que tenerme dentro de él." nointeract
+    # n "He looks down at me once more with those soft blue eyes of his, and the entire exchange suddenly feels {b}far more{/b} intimate than actually having me inside of him." 
+    n "Me mira una vez más con esos suaves ojos azules suyos, y todo el intercambio de repente se siente {b}mucho más{/b} íntimo que tenerme dentro de él." 
 
 # game/14 Nights With You/bonus.rpy:843
 translate Paloslios dlc_14nwy_d1_t7_e30c8eef:
 
-    # n "[ch_ren]'s hand moves to tenderly cup my cheek, before he bends down to give me a chaste kiss on the forehead." nointeract
-    n "La mano de [ch_ren] se mueve para acariciar tiernamente mi mejilla, antes de inclinarse para darme un casto beso en la frente." nointeract
+    # n "[ch_ren]'s hand moves to tenderly cup my cheek, before he bends down to give me a chaste kiss on the forehead." 
+    n "La mano de [ch_ren] se mueve para acariciar tiernamente mi mejilla, antes de inclinarse para darme un casto beso en la frente." 
 
 # game/14 Nights With You/bonus.rpy:846
 translate Paloslios dlc_14nwy_d1_t8_4f46cea2:
 
-    # r "Hah— Look~ You're finally inside me… You feel {i}amazing{/i}, Angel." nointeract
-    r "Ja— Mira ~ Finalmente estás dentro de mí… Te sientes {i}increíble{/i}, Ángel." nointeract
+    # r "Hah— Look~ You're finally inside me… You feel {i}amazing{/i}, Angel." 
+    r "Ja— Mira ~ Finalmente estás dentro de mí… Te sientes {i}increíble{/i}, Ángel." 
 
 # game/14 Nights With You/bonus.rpy:849
 translate Paloslios dlc_14nwy_d1_t9_865a2d23:
 
-    # n "Despite [ch_ren]'s tender words, the sudden movement of his hips takes me off guard as he starts to ride my length." nointeract
-    n "A pesar de las tiernas palabras de [ch_ren], el movimiento repentino de sus caderas me toma por sorpresa cuando comienza a recorrer mi longitud." nointeract
+    # n "Despite [ch_ren]'s tender words, the sudden movement of his hips takes me off guard as he starts to ride my length." 
+    n "A pesar de las tiernas palabras de [ch_ren], el movimiento repentino de sus caderas me toma por sorpresa cuando comienza a recorrer mi longitud." 
 
 # game/14 Nights With You/bonus.rpy:850
 translate Paloslios dlc_14nwy_d1_t9_637e6ae2:
 
-    # n "But my pleasure isn't far from his thoughts, it seems, as he's quick to reach down and play with my [parts], which sends a wave of excitement throughout my entire body." nointeract
-    n "Pero mi placer no está lejos de sus pensamientos, al parecer, ya que rápidamente se agacha y juega con mi [parts], lo que envía una ola de excitación por todo mi cuerpo." nointeract
+    # n "But my pleasure isn't far from his thoughts, it seems, as he's quick to reach down and play with my [parts!t], which sends a wave of excitement throughout my entire body." 
+    n "Pero mi placer no está lejos de sus pensamientos, al parecer, ya que rápidamente se agacha y juega con mi [parts!t], lo que envía una ola de excitación por todo mi cuerpo." 
 
 # game/14 Nights With You/bonus.rpy:851
 translate Paloslios dlc_14nwy_d1_t9_1acead58:
 
-    # r "Y-You're making such a {i}mess{/i} out of me…" nointeract
-    r "Estás haciendo un {i}lío{/i} conmigo..." nointeract
+    # r "Y-You're making such a {i}mess{/i} out of me…" 
+    r "Estás haciendo un {i}lío{/i} conmigo..." 
 
 # game/14 Nights With You/bonus.rpy:854
 translate Paloslios dlc_14nwy_d1_t10_cf693ad8:
 
-    # n "[ch_ren] doesn't lift his hips yet, instead choosing to look down at me with soft eyes as he adjusts to having something inside him for the first time." nointeract
-    n "[ch_ren] aún no levanta las caderas, sino que elige mirarme con ojos suaves mientras se adapta a tener algo dentro de él por primera vez." nointeract
+    # n "[ch_ren] doesn't lift his hips yet, instead choosing to look down at me with soft eyes as he adjusts to having something inside him for the first time." 
+    n "[ch_ren] aún no levanta las caderas, sino que elige mirarme con ojos suaves mientras se adapta a tener algo dentro de él por primera vez." 
 
 # game/14 Nights With You/bonus.rpy:855
 translate Paloslios dlc_14nwy_d1_t10_7a1920a1:
 
-    # r "I-Is it uncomfortable? Let me know if anything hurts, okay? Just say the word, and we can stop." nointeract
-    r "¿E-es incómodo? Avísame si te duele algo, ¿vale? Sólo di una palabra y podremos parar." nointeract
+    # r "I-Is it uncomfortable? Let me know if anything hurts, okay? Just say the word, and we can stop." 
+    r "¿E-es incómodo? Avísame si te duele algo, ¿vale? Sólo di una palabra y podremos parar." 
 
 # game/14 Nights With You/bonus.rpy:856
 translate Paloslios dlc_14nwy_d1_t10_5d46c12e:
 
-    # n "His sincerity touches me as he tries to remain still atop of me, but I can tell from his rough expression that he's trying to hold himself back." nointeract
-    n "Su sinceridad me conmueve mientras intenta permanecer quieto encima de mí, pero puedo decir por su expresión áspera que está tratando de contenerse." nointeract
+    # n "His sincerity touches me as he tries to remain still atop of me, but I can tell from his rough expression that he's trying to hold himself back." 
+    n "Su sinceridad me conmueve mientras intenta permanecer quieto encima de mí, pero puedo decir por su expresión áspera que está tratando de contenerse." 
 
 # game/14 Nights With You/bonus.rpy:857
 translate Paloslios dlc_14nwy_d1_t10_316e2fa4:
 
-    # n "[ch_ren] seems to be in the {b}slightest{/b} bit of pain — judging by the sweat that forms near his brows — so I reassure him by running my hands along his thighs and pulling him closer." nointeract
-    n "[ch_ren] parece sentir el más mínimo dolor{b}{/b}, a juzgar por el sudor que se forma cerca de sus cejas, así que lo tranquilizo pasando mis manos por sus muslos y acercándolo." nointeract
+    # n "[ch_ren] seems to be in the {b}slightest{/b} bit of pain — judging by the sweat that forms near his brows — so I reassure him by running my hands along his thighs and pulling him closer." 
+    n "[ch_ren] parece sentir el más mínimo dolor{b}{/b}, a juzgar por el sudor que se forma cerca de sus cejas, así que lo tranquilizo pasando mis manos por sus muslos y acercándolo." 
 
 # game/14 Nights With You/bonus.rpy:858
 translate Paloslios dlc_14nwy_d1_t10_84f3f43a:
 
-    # n "At that, [ch_ren] seemingly finds enough confidence to move." nointeract
-    n "Ante eso, [ch_ren] aparentemente encuentra suficiente confianza para moverse." nointeract
+    # n "At that, [ch_ren] seemingly finds enough confidence to move." 
+    n "Ante eso, [ch_ren] aparentemente encuentra suficiente confianza para moverse." 
 
 # game/14 Nights With You/bonus.rpy:859
 translate Paloslios dlc_14nwy_d1_t10_a9ba063a:
 
-    # n "But my pleasure isn't far from his thoughts, it seems, as he's quick to reach down and play with my [parts] — which sends a wave of excitement throughout my entire body." nointeract
-    n "Pero mi placer no está lejos de sus pensamientos, al parecer, ya que rápidamente se agacha y juega con mi [parts], lo que envía una ola de excitación por todo mi cuerpo." nointeract
+    # n "But my pleasure isn't far from his thoughts, it seems, as he's quick to reach down and play with my [parts!t] — which sends a wave of excitement throughout my entire body." 
+    n "Pero mi placer no está lejos de sus pensamientos, al parecer, ya que rápidamente se agacha y juega con mi [parts!t], lo que envía una ola de excitación por todo mi cuerpo." 
 
 # game/14 Nights With You/bonus.rpy:860
 translate Paloslios dlc_14nwy_d1_t10_62b7479d:
 
-    # n "His tentative pace soon changes as he experimentally grinds himself on my [length], and the hand that brushed against my skin soon comes to interlock with one of my own." nointeract
-    n "Su ritmo vacilante pronto cambia mientras se muele experimentalmente en mi [length], y la mano que rozó mi piel pronto se entrelaza con una de las mías." nointeract
+    # n "His tentative pace soon changes as he experimentally grinds himself on my [length!t], and the hand that brushed against my skin soon comes to interlock with one of my own." 
+    n "Su ritmo vacilante pronto cambia mientras se muele experimentalmente en mi [length!t], y la mano que rozó mi piel pronto se entrelaza con una de las mías." 
 
 # game/14 Nights With You/bonus.rpy:863
 translate Paloslios dlc_14nwy_d1_t11_18ceb725:
 
-    # r "Look at you, laying there with such a lewd expression on your face. {i}Fuck.{/i} You're making me feel so good right now…!" nointeract
-    r "Mírate, recostado ahí con una expresión tan lasciva en tu rostro. {i}Joder.{/i} ¡Me estás haciendo sentir tan bien ahora mismo…!" nointeract
+    # r "Look at you, laying there with such a lewd expression on your face. {i}Fuck.{/i} You're making me feel so good right now…!" 
+    r "Mírate, recostado ahí con una expresión tan lasciva en tu rostro. {i}Joder.{/i} ¡Me estás haciendo sentir tan bien ahora mismo…!" 
 
 # game/14 Nights With You/bonus.rpy:866
 translate Paloslios dlc_14nwy_d1_t12_a8787472:
 
-    # n "His expression does little to stifle the sensation slowly building between my legs, and I unconsciously thrust my hips upwards. [ch_ren] lets out another shaky moan before he effortlessly reaches for my [parts] to stimulate me further." nointeract
-    n "Su expresión hace poco para sofocar la sensación que se acumula lentamente entre mis piernas, e inconscientemente empujé mis caderas hacia arriba. [ch_ren] deja escapar otro gemido tembloroso antes de alcanzar sin esfuerzo mi [parts] para estimularme más." nointeract
+    # n "His expression does little to stifle the sensation slowly building between my legs, and I unconsciously thrust my hips upwards. [ch_ren] lets out another shaky moan before he effortlessly reaches for my [parts!t] to stimulate me further." 
+    n "Su expresión hace poco para sofocar la sensación que se acumula lentamente entre mis piernas, e inconscientemente empujé mis caderas hacia arriba. [ch_ren] deja escapar otro gemido tembloroso antes de alcanzar sin esfuerzo mi [parts!t] para estimularme más." 
 
 # game/14 Nights With You/bonus.rpy:867
 translate Paloslios dlc_14nwy_d1_t12_dac011d5:
 
-    # n "The sensation has me seeing stars, and sends my eyes rolling into the back of my head." nointeract
-    n "La sensación me hace ver estrellas y hace que mis ojos se pongan en blanco." nointeract
+    # n "The sensation has me seeing stars, and sends my eyes rolling into the back of my head." 
+    n "La sensación me hace ver estrellas y hace que mis ojos se pongan en blanco." 
 
 # game/14 Nights With You/bonus.rpy:870
 translate Paloslios dlc_14nwy_d1_t13_22132a95:
 
-    # n "My praise only seems to spur him on as his hand {b}and{/b} hips start to move more fervently, and [ch_ren] practically starts to lose himself to the pleasure." nointeract
-    n "Mis elogios sólo parecen estimularlo mientras su mano {b} y {/b} caderas comienzan a moverse con más fervor, y [ch_ren] prácticamente comienza a perderse en el placer." nointeract
+    # n "My praise only seems to spur him on as his hand {b}and{/b} hips start to move more fervently, and [ch_ren] practically starts to lose himself to the pleasure." 
+    n "Mis elogios sólo parecen estimularlo mientras su mano {b} y {/b} caderas comienzan a moverse con más fervor, y [ch_ren] prácticamente comienza a perderse en el placer." 
 
 # game/14 Nights With You/bonus.rpy:874
 translate Paloslios dlc_14nwy_d1_t14_a973c2eb:
 
-    # n "Hearing him cry out my name with such {b}neediness{/b} is what finally sends me over the edge once more, and I come inside [ch_ren] with his own name on my lips." nointeract
-    n "Escucharlo gritar mi nombre con tal {b}necesidad{/b} es lo que finalmente me lleva al límite una vez más, y entro [ch_ren] con su propio nombre en mis labios." nointeract
+    # n "Hearing him cry out my name with such {b}neediness{/b} is what finally sends me over the edge once more, and I come inside [ch_ren] with his own name on my lips." 
+    n "Escucharlo gritar mi nombre con tal {b}necesidad{/b} es lo que finalmente me lleva al límite una vez más, y entro [ch_ren] con su propio nombre en mis labios." 
 
 # game/14 Nights With You/bonus.rpy:876
 translate Paloslios dlc_14nwy_d1_t14_c1fefe01:
 
-    # n "Hearing him cry out my name with such {b}neediness{/b} is what finally sends me over the edge once more, and I come undone with [ch_ren]'s own name on my lips." nointeract
-    n "Escucharlo gritar mi nombre con tal {b}necesidad{/b} es lo que finalmente me lleva al límite una vez más, y me deshago con el propio nombre de [ch_ren] en mis labios." nointeract
+    # n "Hearing him cry out my name with such {b}neediness{/b} is what finally sends me over the edge once more, and I come undone with [ch_ren]'s own name on my lips." 
+    n "Escucharlo gritar mi nombre con tal {b}necesidad{/b} es lo que finalmente me lleva al límite una vez más, y me deshago con el propio nombre de [ch_ren] en mis labios." 
 
 # game/14 Nights With You/bonus.rpy:877
 translate Paloslios dlc_14nwy_d1_t14_7a3b7d42:
 
-    # n "[ch_ren] isn't far off, it seems, as it only takes him a few more seconds of shamelessly riding my [length] before he reaches his peak." nointeract
-    n "[ch_ren] no está muy lejos, al parecer, ya que solo le toma unos segundos más montar descaradamente mi [length] antes de alcanzar su punto máximo." nointeract
+    # n "[ch_ren] isn't far off, it seems, as it only takes him a few more seconds of shamelessly riding my [length!t] before he reaches his peak." 
+    n "[ch_ren] no está muy lejos, al parecer, ya que solo le toma unos segundos más montar descaradamente mi [length!t] antes de alcanzar su punto máximo." 
 
 # game/14 Nights With You/bonus.rpy:878
 translate Paloslios dlc_14nwy_d1_t14_6d56e8df:
 
-    # n "One of his hands grip my bedsheets in a crushing hold as he cries out my own name as well." nointeract
-    n "Una de sus manos agarra mis sábanas con fuerza mientras grita mi propio nombre también." nointeract
+    # n "One of his hands grip my bedsheets in a crushing hold as he cries out my own name as well." 
+    n "Una de sus manos agarra mis sábanas con fuerza mientras grita mi propio nombre también." 
 
 # game/14 Nights With You/bonus.rpy:881
 translate Paloslios dlc_14nwy_d3_t1_4e6c21a3:
 
-    # r "I-I already applied some lube earlier, but if you need me to, I can—" nointeract
-    r "Ya apliqué un poco de lubricante antes, pero si lo necesitas, puedo—" nointeract
+    # r "I-I already applied some lube earlier, but if you need me to, I can—" 
+    r "Ya apliqué un poco de lubricante antes, pero si lo necesitas, puedo—" 
 
 # game/14 Nights With You/bonus.rpy:882
 translate Paloslios dlc_14nwy_d3_t1_96dc4680:
 
-    # r "That is— U-Um…" nointeract
-    r "Eso es... U-Um..." nointeract
+    # r "That is— U-Um…" 
+    r "Eso es... U-Um..." 
 
 # game/14 Nights With You/bonus.rpy:883
 translate Paloslios dlc_14nwy_d3_t1_d8ad3fc3:
 
-    # r "Do you want me to suck you off before I— Before {i}we{/i}—" nointeract
-    r "¿Quieres que te la chupe antes de... Antes de que {i}nosotros{/i}—" nointeract
+    # r "Do you want me to suck you off before I— Before {i}we{/i}—" 
+    r "¿Quieres que te la chupe antes de... Antes de que {i}nosotros{/i}—" 
 
 # game/14 Nights With You/bonus.rpy:884
 translate Paloslios dlc_14nwy_d3_t1_61815823:
 
-    # n "[ch_ren] can't seem to concentrate with the way his words come out slurred and needy, so I decide to put him out of his misery by reaching for my [length] instead and lining it up with his hole." nointeract
-    n "[ch_ren] parece no poder concentrarse por la forma en que sus palabras salen confusas y necesitadas, así que decido sacarlo de su miseria alcanzando mi [length] y alineándolo con su agujero." nointeract
+    # n "[ch_ren] can't seem to concentrate with the way his words come out slurred and needy, so I decide to put him out of his misery by reaching for my [length!t] instead and lining it up with his hole." 
+    n "[ch_ren] parece no poder concentrarse por la forma en que sus palabras salen confusas y necesitadas, así que decido sacarlo de su miseria alcanzando mi [length!t] y alineándolo con su agujero." 
 
 # game/14 Nights With You/bonus.rpy:885
 translate Paloslios dlc_14nwy_d3_t1_8b199319:
 
-    # n "He immediately catches on — lifting his hips and spreading his thighs further. I almost miss the warmth of his body on mine, but the sudden sensation of [ch_ren] hovering over my tip draws my attention away." nointeract
-    n "Inmediatamente se da cuenta: levanta las caderas y abre aún más los muslos. Casi extraño el calor de su cuerpo sobre el mío, pero la repentina sensación de [ch_ren] flotando sobre mi punta desvía mi atención." nointeract
+    # n "He immediately catches on — lifting his hips and spreading his thighs further. I almost miss the warmth of his body on mine, but the sudden sensation of [ch_ren] hovering over my tip draws my attention away." 
+    n "Inmediatamente se da cuenta: levanta las caderas y abre aún más los muslos. Casi extraño el calor de su cuerpo sobre el mío, pero la repentina sensación de [ch_ren] flotando sobre mi punta desvía mi atención." 
 
 # game/14 Nights With You/bonus.rpy:887
 translate Paloslios dlc_14nwy_d3_t1_737d5ecb:
 
-    # n "With slow, deliberate movements, [ch_ren] gently lowers himself, and I can barely hold back the sounds of my voice as the base of my [length] rubs against my sex." nointeract
-    n "Con movimientos lentos y deliberados, [ch_ren] baja suavemente y apenas puedo contener los sonidos de mi voz mientras la base de mi [length] se frota contra mi sexo." nointeract
+    # n "With slow, deliberate movements, [ch_ren] gently lowers himself, and I can barely hold back the sounds of my voice as the base of my [length!t] rubs against my sex." 
+    n "Con movimientos lentos y deliberados, [ch_ren] baja suavemente y apenas puedo contener los sonidos de mi voz mientras la base de mi [length!t] se frota contra mi sexo." 
 
 # game/14 Nights With You/bonus.rpy:889
 translate Paloslios dlc_14nwy_d3_t1_48956824:
 
-    # n "With slow, deliberate movements, [ch_ren] gently lowers himself, and I can barely hold back the sounds of my voice as his walls squeeze around [length]." nointeract
-    n "Con movimientos lentos y deliberados, [ch_ren] desciende suavemente y apenas puedo contener el sonido de mi voz mientras sus paredes se aprietan alrededor de [length]." nointeract
+    # n "With slow, deliberate movements, [ch_ren] gently lowers himself, and I can barely hold back the sounds of my voice as his walls squeeze around [length!t]." 
+    n "Con movimientos lentos y deliberados, [ch_ren] desciende suavemente y apenas puedo contener el sonido de mi voz mientras sus paredes se aprietan alrededor de [length!t]." 
 
 # game/14 Nights With You/bonus.rpy:893
 translate Paloslios dlc_14nwy_d3_t2_863586f0:
 
-    # r "Missed this… Missed having you inside me…" nointeract
-    r "Extrañaba esto… Extrañaba tenerte dentro de mí…" nointeract
+    # r "Missed this… Missed having you inside me…" 
+    r "Extrañaba esto… Extrañaba tenerte dentro de mí…" 
 
 # game/14 Nights With You/bonus.rpy:895
 translate Paloslios dlc_14nwy_d3_t2_ab597e5f:
 
-    # r "Missed this… Missed doing this with you…" nointeract
-    r "Me perdí esto... Extrañé hacer esto contigo..." nointeract
+    # r "Missed this… Missed doing this with you…" 
+    r "Me perdí esto... Extrañé hacer esto contigo..." 
 
 # game/14 Nights With You/bonus.rpy:899
 translate Paloslios dlc_14nwy_d3_t3_347ab16c:
 
-    # n "The pleasurable feeling coming from the inner side of my [length] practically steals the air from my lungs, and I can't help but lift my hips off of the couch and buck into [ch_ren] for even {b}more{/b} friction." nointeract
-    n "La sensación de placer que viene del lado interno de mi [length] prácticamente me roba el aire de los pulmones, y no puedo evitar levantar mis caderas del sofá y moverme hacia [ch_ren] para obtener aún {b}más{/b} fricción." nointeract
+    # n "The pleasurable feeling coming from the inner side of my [length!t] practically steals the air from my lungs, and I can't help but lift my hips off of the couch and buck into [ch_ren] for even {b}more{/b} friction." 
+    n "La sensación de placer que viene del lado interno de mi [length!t] prácticamente me roba el aire de los pulmones, y no puedo evitar levantar mis caderas del sofá y moverme hacia [ch_ren] para obtener aún {b}más{/b} fricción." 
 
 # game/14 Nights With You/bonus.rpy:901
 translate Paloslios dlc_14nwy_d3_t3_8d6c4577:
 
-    # n "The pleasurable feeling of his walls squeezing around my [length] practically steals the air from my lungs, and I can't help but lift my hips off of the couch and buck into [ch_ren]." nointeract
-    n "La placentera sensación de sus paredes apretando alrededor de mi [length] prácticamente me roba el aire de los pulmones, y no puedo evitar levantar mis caderas del sofá y meterme en [ch_ren]." nointeract
+    # n "The pleasurable feeling of his walls squeezing around my [length!t] practically steals the air from my lungs, and I can't help but lift my hips off of the couch and buck into [ch_ren]." 
+    n "La placentera sensación de sus paredes apretando alrededor de mi [length!t] prácticamente me roba el aire de los pulmones, y no puedo evitar levantar mis caderas del sofá y meterme en [ch_ren]." 
 
 # game/14 Nights With You/bonus.rpy:904
 translate Paloslios dlc_14nwy_d3_t4_f34cb8c0:
 
-    # r "…You haven't done this with anyone else since last time, right? Only me?" nointeract
-    r "…No has hecho esto con nadie más desde la última vez, ¿verdad? ¿Solo yo?" nointeract
+    # r "…You haven't done this with anyone else since last time, right? Only me?" 
+    r "…No has hecho esto con nadie más desde la última vez, ¿verdad? ¿Solo yo?" 
 
 # game/14 Nights With You/bonus.rpy:905
 translate Paloslios dlc_14nwy_d3_t4_b4df0ee7:
 
-    # r "Doesn't really matter anyway. Gonna make sure {i}I'm{/i} the only one y'wanna fuck from now on." nointeract
-    r "Realmente no importa de todos modos. Me aseguraré de que {i}soy{/i} el único con quien quieres follar de ahora en adelante." nointeract
+    # r "Doesn't really matter anyway. Gonna make sure {i}I'm{/i} the only one y'wanna fuck from now on." 
+    r "Realmente no importa de todos modos. Me aseguraré de que {i}soy{/i} el único con quien quieres follar de ahora en adelante." 
 
 # game/14 Nights With You/bonus.rpy:908
 translate Paloslios dlc_14nwy_d3_t5_b4df0ee7:
 
-    # r "Doesn't really matter anyway. Gonna make sure {i}I'm{/i} the only one y'wanna fuck from now on." nointeract
-    r "Realmente no importa de todos modos. Me aseguraré de que {i}soy{/i} el único con quien quieres follar de ahora en adelante." nointeract
+    # r "Doesn't really matter anyway. Gonna make sure {i}I'm{/i} the only one y'wanna fuck from now on." 
+    r "Realmente no importa de todos modos. Me aseguraré de que {i}soy{/i} el único con quien quieres follar de ahora en adelante." 
 
 # game/14 Nights With You/bonus.rpy:911
 translate Paloslios dlc_14nwy_d3_t6_0ec83cb8:
 
-    # n "The next thing I know, [ch_ren]'s hungry mouth and body are on mine once more as he reaches down to play with my [parts]." nointeract
-    n "Lo siguiente que sé es que la boca y el cuerpo hambrientos de [ch_ren] están sobre el mío una vez más mientras se agacha para jugar con mi [parts]." nointeract
+    # n "The next thing I know, [ch_ren]'s hungry mouth and body are on mine once more as he reaches down to play with my [parts!t]." 
+    n "Lo siguiente que sé es que la boca y el cuerpo hambrientos de [ch_ren] están sobre el mío una vez más mientras se agacha para jugar con mi [parts!t]." 
 
 # game/14 Nights With You/bonus.rpy:914
 translate Paloslios dlc_14nwy_d3_t7_2916d65e:
 
-    # n "Leaving another hickey, no doubt — and had I not been fucking [ch_ren] within an inch of his life — I would've fully noticed the possessive undertones of his actions." nointeract
-    n "Dejando otro chupetón, sin duda, y si no hubiera estado jodidamente [ch_ren] a un centímetro de su vida, habría notado plenamente el trasfondo posesivo de sus acciones." nointeract
+    # n "Leaving another hickey, no doubt — and had I not been fucking [ch_ren] within an inch of his life — I would've fully noticed the possessive undertones of his actions." 
+    n "Dejando otro chupetón, sin duda, y si no hubiera estado jodidamente [ch_ren] a un centímetro de su vida, habría notado plenamente el trasfondo posesivo de sus acciones." 
 
 # game/14 Nights With You/bonus.rpy:917
 translate Paloslios dlc_14nwy_d3_t8_aff1dfae:
 
-    # n "Before I can respond, [ch_ren] {b}fully{/b} sheaths my [length] inside of his tight hole and starts to grind his hips. But just as he lets out a moan from the friction, he starts to move once more." nointeract
-    n "Antes de que pueda responder, [ch_ren]{b}completamente{/b} envuelve mi [length] dentro de su estrecho agujero y comienza a mover sus caderas. Pero justo cuando deja escapar un gemido por la fricción, comienza a moverse una vez más." nointeract
+    # n "Before I can respond, [ch_ren] {b}fully{/b} sheaths my [length!t] inside of his tight hole and starts to grind his hips. But just as he lets out a moan from the friction, he starts to move once more." 
+    n "Antes de que pueda responder, [ch_ren]{b}completamente{/b} envuelve mi [length!t] dentro de su estrecho agujero y comienza a mover sus caderas. Pero justo cuando deja escapar un gemido por la fricción, comienza a moverse una vez más." 
 
 # game/14 Nights With You/bonus.rpy:918
 translate Paloslios dlc_14nwy_d3_t8_7f2942b8:
 
-    # n "[ch_ren] sets a brutal pace now, and all I could do was latch onto the throw pillows above my head and let him ride me to completion." nointeract
-    n "[ch_ren] marca un ritmo brutal ahora, y todo lo que pude hacer fue agarrarme a los cojines sobre mi cabeza y dejar que me cabalgara hasta completarlo." nointeract
+    # n "[ch_ren] sets a brutal pace now, and all I could do was latch onto the throw pillows above my head and let him ride me to completion." 
+    n "[ch_ren] marca un ritmo brutal ahora, y todo lo que pude hacer fue agarrarme a los cojines sobre mi cabeza y dejar que me cabalgara hasta completarlo." 
 
 # game/14 Nights With You/bonus.rpy:919
 translate Paloslios dlc_14nwy_d3_t8_8a858920:
 
-    # r "No one else could ever compare to you…" nointeract
-    r "Nadie más podría compararse contigo..." nointeract
+    # r "No one else could ever compare to you…" 
+    r "Nadie más podría compararse contigo..." 
 
 # game/14 Nights With You/bonus.rpy:920
 translate Paloslios dlc_14nwy_d3_t8_5037dff1:
 
-    # r "Y'feel so good too, filling me up 'n leaving me full." nointeract
-    r "Tú también te sientes muy bien, llenándome y dejándome lleno." nointeract
+    # r "Y'feel so good too, filling me up 'n leaving me full." 
+    r "Tú también te sientes muy bien, llenándome y dejándome lleno." 
 
 # game/14 Nights With You/bonus.rpy:921
 translate Paloslios dlc_14nwy_d3_t8_06b58054:
 
-    # n "[ch_ren] spreads his thighs even more before he returns his attention back towards my [bust], which has me seeing stars." nointeract
-    n "[ch_ren] abre sus muslos aún más antes de devolver su atención a mi [bust], lo que me hace ver estrellas." nointeract
+    # n "[ch_ren] spreads his thighs even more before he returns his attention back towards my [bust!t], which has me seeing stars." 
+    n "[ch_ren] abre sus muslos aún más antes de devolver su atención a mi [bust!t], lo que me hace ver estrellas." 
 
 # game/14 Nights With You/bonus.rpy:922
 translate Paloslios dlc_14nwy_d3_t8_f47e1d18:
 
-    # n "I can feel his hole squeeze around my [length], and once my tip hits that particular spot inside of him, [ch_ren] can't help but cry out and reach for my [parts] once more." nointeract
-    n "Puedo sentir su agujero apretarse alrededor de mi [length], y una vez que mi punta golpea ese punto particular dentro de él, [ch_ren] no puede evitar gritar y alcanzar mi [parts] una vez más." nointeract
+    # n "I can feel his hole squeeze around my [length!t], and once my tip hits that particular spot inside of him, [ch_ren] can't help but cry out and reach for my [parts!t] once more." 
+    n "Puedo sentir su agujero apretarse alrededor de mi [length!t], y una vez que mi punta golpea ese punto particular dentro de él, [ch_ren] no puede evitar gritar y alcanzar mi [parts!t] una vez más." 
 
 # game/14 Nights With You/bonus.rpy:925
 translate Paloslios dlc_14nwy_d3_t9_1e8624db:
 
-    # n "[ch_ren]'s voice does little to hide his desire and hunger for me, and he makes it known by bouncing on my [length] with reckless abandon." nointeract
-    n "La voz de [ch_ren] hace poco para ocultar su deseo y hambre por mí, y lo hace saber saltando sobre mi [length] con imprudente abandono." nointeract
+    # n "[ch_ren]'s voice does little to hide his desire and hunger for me, and he makes it known by bouncing on my [length!t] with reckless abandon." 
+    n "La voz de [ch_ren] hace poco para ocultar su deseo y hambre por mí, y lo hace saber saltando sobre mi [length!t] con imprudente abandono." 
 
 # game/14 Nights With You/bonus.rpy:928
 translate Paloslios dlc_14nwy_d3_t10_c4279fbc:
 
-    # r "Nobody else will make you feel as good as me." nointeract
-    r "Nadie más te hará sentir tan bien como yo." nointeract
+    # r "Nobody else will make you feel as good as me." 
+    r "Nadie más te hará sentir tan bien como yo." 
 
 # game/14 Nights With You/bonus.rpy:930
 translate Paloslios dlc_14nwy_d3_t10_41b7d1b2:
 
-    # r "And there's nobody else who can take you as well as I can." nointeract
-    r "Y no hay nadie más que pueda llevarte tan bien como yo." nointeract
+    # r "And there's nobody else who can take you as well as I can." 
+    r "Y no hay nadie más que pueda llevarte tan bien como yo." 
 
 # game/14 Nights With You/bonus.rpy:931
 translate Paloslios dlc_14nwy_d3_t10_ac0ef7f7:
 
-    # r "Though it's not like they'll even get the chance to try." nointeract
-    r "Aunque ni siquiera tendrán la oportunidad de intentarlo." nointeract
+    # r "Though it's not like they'll even get the chance to try." 
+    r "Aunque ni siquiera tendrán la oportunidad de intentarlo." 
 
 # game/14 Nights With You/bonus.rpy:933
 translate Paloslios dlc_14nwy_d3_t10_95e26183:
 
-    # r "Try as much as you want, but it's {i}my{/i} hole that your [length] will crave." nointeract
-    r "Prueba todo lo que quieras, pero es {i}mi{/i} agujero lo que tu [length] anhelará." nointeract
+    # r "Try as much as you want, but it's {i}my{/i} hole that your [length!t] will crave." 
+    r "Prueba todo lo que quieras, pero es {i}mi{/i} agujero lo que tu [length!t] anhelará." 
 
 # game/14 Nights With You/bonus.rpy:934
 translate Paloslios dlc_14nwy_d3_t10_119b32c9:
 
-    # r "Nobody else can take you as well as I can. They won't even get the chance to try." nointeract
-    r "Nadie más puede aceptarte tan bien como yo. Ni siquiera tendrán la oportunidad de intentarlo." nointeract
+    # r "Nobody else can take you as well as I can. They won't even get the chance to try." 
+    r "Nadie más puede aceptarte tan bien como yo. Ni siquiera tendrán la oportunidad de intentarlo." 
 
 # game/14 Nights With You/bonus.rpy:938
 translate Paloslios dlc_14nwy_d3_t11_2442251a:
 
-    # n "The pleasure is almost too much to bear, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — continues to rubs circles against my clit instead." nointeract
-    n "El placer es casi insoportable y echo la cabeza hacia atrás en un éxtasis extático. Y [ch_ren], siempre atento a mis necesidades, continúa frotando círculos contra mi clítoris." nointeract
+    # n "The pleasure is almost too much to bear, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — continues to rubs circles against my clit instead." 
+    n "El placer es casi insoportable y echo la cabeza hacia atrás en un éxtasis extático. Y [ch_ren], siempre atento a mis necesidades, continúa frotando círculos contra mi clítoris." 
 
 # game/14 Nights With You/bonus.rpy:940
 translate Paloslios dlc_14nwy_d3_t11_c7ab278a:
 
-    # n "His length is going deeper than ever now, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — moves one of his hands from my [bust] to stroke my weeping cock instead." nointeract
-    n "Su longitud es cada vez más profunda que nunca, y echo la cabeza hacia atrás en éxtasis. Y [ch_ren], siempre atento a mis necesidades, mueve una de sus manos de mi [bust] para acariciar mi polla llorosa." nointeract
+    # n "His length is going deeper than ever now, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — moves one of his hands from my [bust!t] to stroke my weeping cock instead." 
+    n "Su longitud es cada vez más profunda que nunca, y echo la cabeza hacia atrás en éxtasis. Y [ch_ren], siempre atento a mis necesidades, mueve una de sus manos de mi [bust!t] para acariciar mi polla llorosa." 
 
 # game/14 Nights With You/bonus.rpy:942
 translate Paloslios dlc_14nwy_d3_t11_6e8896ce:
 
-    # n "His length is going deeper than ever now, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — moves one of his hands from my [bust] to stimulate my sex instead." nointeract
-    n "Su longitud es cada vez más profunda que nunca, y echo la cabeza hacia atrás en éxtasis. Y [ch_ren], siempre atento a mis necesidades, mueve una de sus manos de mi [bust] para estimular mi sexo." nointeract
+    # n "His length is going deeper than ever now, and I throw my head back in ecstatic bliss. And [ch_ren] — ever attentive to my needs — moves one of his hands from my [bust!t] to stimulate my sex instead." 
+    n "Su longitud es cada vez más profunda que nunca, y echo la cabeza hacia atrás en éxtasis. Y [ch_ren], siempre atento a mis necesidades, mueve una de sus manos de mi [bust!t] para estimular mi sexo." 
 
 # game/14 Nights With You/bonus.rpy:946
 translate Paloslios dlc_14nwy_d3_t12_613a20bf:
 
-    # r "That's it. Give it to me. Be good f'me and come inside my ass." nointeract
-    r "Eso es todo. Dámelo. Sé bueno conmigo y ven dentro de mi culo." nointeract
+    # r "That's it. Give it to me. Be good f'me and come inside my ass." 
+    r "Eso es todo. Dámelo. Sé bueno conmigo y ven dentro de mi culo." 
 
 # game/14 Nights With You/bonus.rpy:948
 translate Paloslios dlc_14nwy_d3_t12_649103fc:
 
-    # r "That's it. Give it to me. Be good f'me and come as hard as you can." nointeract
-    r "Eso es todo. Dámelo. Sé bueno conmigo y ven lo más fuerte que puedas." nointeract
+    # r "That's it. Give it to me. Be good f'me and come as hard as you can." 
+    r "Eso es todo. Dámelo. Sé bueno conmigo y ven lo más fuerte que puedas." 
 
 # game/14 Nights With You/bonus.rpy:949
 translate Paloslios dlc_14nwy_d3_t12_b75e834b:
 
-    # r "C'mon, [ch_angel]. Show me who I belong to, who makes you feel this good." nointeract
-    r "Vamos, [ch_angel]. Muéstrame a quién pertenezco, quién te hace sentir tan bien." nointeract
+    # r "C'mon, [ch_angel]. Show me who I belong to, who makes you feel this good." 
+    r "Vamos, [ch_angel]. Muéstrame a quién pertenezco, quién te hace sentir tan bien." 
 
 # game/14 Nights With You/bonus.rpy:952
 translate Paloslios dlc_14nwy_d3_t13_fe6280c8:
 
-    # n "Something rough and textured brushes against my fingertips, but I pay it no mind as as I feel [ch_ren]'s teeth on my shoulder and come." nointeract
-    n "Algo áspero y con textura roza las yemas de mis dedos, pero no le presto atención cuando siento los dientes de [ch_ren] en mi hombro y me corro." nointeract
+    # n "Something rough and textured brushes against my fingertips, but I pay it no mind as as I feel [ch_ren]'s teeth on my shoulder and come." 
+    n "Algo áspero y con textura roza las yemas de mis dedos, pero no le presto atención cuando siento los dientes de [ch_ren] en mi hombro y me corro." 
 
 # game/14 Nights With You/bonus.rpy:953
 translate Paloslios dlc_14nwy_d3_t13_63983a31:
 
-    # n "[ch_ren] seems to have other plans, though, as his hips start to stutter — and before I know it, his strained voice is whimpering into my neck once more as he spills himself on both our stomachs." nointeract
-    n "Sin embargo, [ch_ren] parece tener otros planes, ya que sus caderas comienzan a tartamudear y, antes de que me dé cuenta, su voz tensa gime en mi cuello una vez más mientras se derrama sobre nuestros estómagos." nointeract
+    # n "[ch_ren] seems to have other plans, though, as his hips start to stutter — and before I know it, his strained voice is whimpering into my neck once more as he spills himself on both our stomachs." 
+    n "Sin embargo, [ch_ren] parece tener otros planes, ya que sus caderas comienzan a tartamudear y, antes de que me dé cuenta, su voz tensa gime en mi cuello una vez más mientras se derrama sobre nuestros estómagos." 
 
 # game/14 Nights With You/bonus.rpy:957
 translate Paloslios dlc_14nwy_d3_t14_236de644:
 
-    # n "He doesn't seem to remove himself from my [length] though — and much like last time — I remain balls deep inside him as we both melt into the couch." nointeract
-    n "Sin embargo, no parece separarse de mi [length], y al igual que la última vez, sigo con las pelotas dentro de él mientras ambos nos derretimos en el sofá." nointeract
+    # n "He doesn't seem to remove himself from my [length!t] though — and much like last time — I remain balls deep inside him as we both melt into the couch." 
+    n "Sin embargo, no parece separarse de mi [length!t], y al igual que la última vez, sigo con las pelotas dentro de él mientras ambos nos derretimos en el sofá." 
 
 # game/14 Nights With You/bonus.rpy:959
 translate Paloslios dlc_14nwy_d3_t14_ec897aa8:
 
-    # n "He doesn't seem to detach himself from me though — and much like last time — we both remain as close as possible while [ch_ren] pulls me closer into the couch." nointeract
-    n "Sin embargo, no parece separarse de mí, y al igual que la última vez, ambos permanecemos lo más cerca posible mientras [ch_ren] me acerca al sofá." nointeract
+    # n "He doesn't seem to detach himself from me though — and much like last time — we both remain as close as possible while [ch_ren] pulls me closer into the couch." 
+    n "Sin embargo, no parece separarse de mí, y al igual que la última vez, ambos permanecemos lo más cerca posible mientras [ch_ren] me acerca al sofá." 
 
 # game/14 Nights With You/bonus.rpy:963
 translate Paloslios dlc_14nwy_d3_t15_7a895522:
 
-    # n "He doesn't seem to remove himself from my [length] though, and I remain balls deep inside him as we both melt into the couch." nointeract
-    n "Sin embargo, él no parece separarse de mi [length], y sigo profundamente dentro de él mientras ambos nos derretimos en el sofá." nointeract
+    # n "He doesn't seem to remove himself from my [length!t] though, and I remain balls deep inside him as we both melt into the couch." 
+    n "Sin embargo, él no parece separarse de mi [length!t], y sigo profundamente dentro de él mientras ambos nos derretimos en el sofá." 
 
 # game/14 Nights With You/bonus.rpy:965
 translate Paloslios dlc_14nwy_d3_t15_295892a5:
 
-    # n "He doesn't seem to remove himself from my [length] though, so we both remain as close as possible while [ch_ren] pulls me closer into the couch." nointeract
-    n "Sin embargo, no parece separarse de mi [length], así que ambos permanecemos lo más cerca posible mientras [ch_ren] me acerca al sofá." nointeract
+    # n "He doesn't seem to remove himself from my [length!t] though, so we both remain as close as possible while [ch_ren] pulls me closer into the couch." 
+    n "Sin embargo, no parece separarse de mi [length!t], así que ambos permanecemos lo más cerca posible mientras [ch_ren] me acerca al sofá." 
 
 # game/scripts/days/day 0.rpy:5
 translate Paloslios deadend1_a9a32b0d:
@@ -9085,8 +9085,8 @@ translate Paloslios monsterpupeasteregg_a38ff62a:
 # game/scripts/days/day 0.rpy:667
 translate Paloslios monsterpupeasteregg_bffba036:
 
-    # na "It'd been [pissing] down buckets for almost four weeks straight, and Maple {i}hates{/i} the ocean, so—"
-    na "Había estado [pissing] sumergido durante casi cuatro semanas seguidas, y Maple {i}odia{/i} el océano, así que—"
+    # na "It'd been [pissing!t] down buckets for almost four weeks straight, and Maple {i}hates{/i} the ocean, so—"
+    na "Había estado [pissing!t] sumergido durante casi cuatro semanas seguidas, y Maple {i}odia{/i} el océano, así que—"
 
 # game/scripts/days/day 0.rpy:669
 translate Paloslios monsterpupeasteregg_5790822f:
@@ -9865,8 +9865,8 @@ translate Paloslios day1_6daf2279:
 # game/scripts/days/day 1.rpy:136
 translate Paloslios day1_130da2d5:
 
-    # y "[shit!c]!"
-    y "[shit!c]!"
+    # y "[shit!c!t]!"
+    y "[shit!c!t]!"
 
 # game/scripts/days/day 1.rpy:137
 translate Paloslios day1_169a0c44:
@@ -10927,8 +10927,8 @@ translate Paloslios day1_meetren_b2a25b16:
 # game/scripts/days/day 1.rpy:543
 translate Paloslios day1_meetren_ab39caba:
 
-    # n "Seriously, [ch_angel]? That was the best you could come up with? [dammit!c]. Now he probably thinks {i}I'm{/i} the weird one."
-    n "¿En serio, [ch_angel]? ¿Eso fue lo mejor que se te ocurrió? [dammit!c]. Ahora probablemente piensa {i}Yo soy{/i} el raro."
+    # n "Seriously, [ch_angel]? That was the best you could come up with? [dammit!c!t]. Now he probably thinks {i}I'm{/i} the weird one."
+    n "¿En serio, [ch_angel]? ¿Eso fue lo mejor que se te ocurrió? [dammit!c!t]. Ahora probablemente piensa {i}Yo soy{/i} el raro."
 
 # game/scripts/days/day 1.rpy:545
 translate Paloslios day1_meetren_951af63c:
@@ -11545,7 +11545,7 @@ translate Paloslios reninterrupt_4f972975:
 # game/scripts/days/day 1.rpy:746
 translate Paloslios reninterrupt_ad5ff27d:
 
-    # e "{size=-6}…Where [are] [they]? [ch_angel]?{/size} {i}Ah-!{/i}"
+    # e "{size=-6}…Where  [they!t]? [ch_angel]?{/size} {i}Ah-!{/i}"
     e "{size=-6}…¿Dónde esta [they!t]? [ch_angel]?{/size}{i}¡Ah-!{/i}"
 
 # game/scripts/days/day 1.rpy:754
@@ -12061,8 +12061,8 @@ translate Paloslios meet_jaeleon_79f0dea0:
 # game/scripts/days/day 1.rpy:937
 translate Paloslios meet_jaeleon_2c90aec7:
 
-    # l "Oh, same as [ch_angel]? I'm pretty sure [they] moved back here like… what? Two months ago, right?"
-    l "Oh, ¿lo mismo que [ch_angel]? Estoy bastante seguro de que [they] regresó aquí como... ¿qué? Hace dos meses, ¿verdad?"
+    # l "Oh, same as [ch_angel]? I'm pretty sure [they!t] moved back here like… what? Two months ago, right?"
+    l "Oh, ¿lo mismo que [ch_angel]? Estoy bastante seguro de que [they!t] regresó aquí como... ¿qué? Hace dos meses, ¿verdad?"
 
 # game/scripts/days/day 1.rpy:938
 translate Paloslios meet_jaeleon_51daa6a7:
@@ -12097,8 +12097,8 @@ translate Paloslios meet_jaeleon_8e6ae504:
 # game/scripts/days/day 1.rpy:950
 translate Paloslios meet_jaeleon_3fc05635:
 
-    # l "Oi! I don't mind paying for [them], but who said anything about paying for you?"
-    l "¡Oye! No me importa pagar por [them], pero ¿quién dijo algo sobre pagar por ti?"
+    # l "Oi! I don't mind paying for [them!t], but who said anything about paying for you?"
+    l "¡Oye! No me importa pagar por [them!t], pero ¿quién dijo algo sobre pagar por ti?"
 
 # game/scripts/days/day 1.rpy:952
 translate Paloslios meet_jaeleon_00055b67:
@@ -12415,8 +12415,8 @@ translate Paloslios day1_inviteren_d7869b48:
 # game/scripts/days/day 1.rpy:1075
 translate Paloslios day1_inviteren_d2f1ecee:
 
-    # r "But don't worry, [they] [are] safe in my hands."
-    r "Pero no te preocupes, [they][are] a salvo en mis manos."
+    # r "But don't worry, [they!t]  safe in my hands."
+    r "Pero no te preocupes, [they!t] a salvo en mis manos."
 
 # game/scripts/days/day 1.rpy:1077
 translate Paloslios day1_inviteren_6fc095c9:
@@ -12577,8 +12577,8 @@ translate Paloslios day1_inviteren_6ac44124:
 # game/scripts/days/day 1.rpy:1129
 translate Paloslios day1_inviteren_d4ef04c1:
 
-    # n "[dammit!c], it was hard to think straight when he was standing so close to me and wafting his {b}stupidly{/b} strong scent of mint and fresh linen in my direction."
-    n "[dammit!c], era difícil pensar con claridad cuando estaba parado tan cerca de mí y lanzando su {b}estúpidamente{/b} fuerte aroma a menta y lino fresco en mi dirección."
+    # n "[dammit!c!t], it was hard to think straight when he was standing so close to me and wafting his {b}stupidly{/b} strong scent of mint and fresh linen in my direction."
+    n "[dammit!c!t], era difícil pensar con claridad cuando estaba parado tan cerca de mí y lanzando su {b}estúpidamente{/b} fuerte aroma a menta y lino fresco en mi dirección."
 
 # game/scripts/days/day 1.rpy:1130
 translate Paloslios day1_inviteren_69dff1ba:
@@ -13117,8 +13117,8 @@ translate Paloslios sleeping_0c836bb9:
 # game/scripts/days/day 1.rpy:1305
 translate Paloslios sleeping_176e0aab:
 
-    # n "Those [damn] rats! I swear, if I had the chance to move apartments, I'd take it in a heartbeat. But until then, I'll continue to send complaint after complaint to that good-for-nothing landlord."
-    n "¡Esas [damn] ratas! Lo juro, si tuviera la oportunidad de mudarme de apartamento, lo haría sin dudarlo. Pero hasta entonces, seguiré enviando queja tras queja a ese propietario inútil."
+    # n "Those [damn!t] rats! I swear, if I had the chance to move apartments, I'd take it in a heartbeat. But until then, I'll continue to send complaint after complaint to that good-for-nothing landlord."
+    n "¡Esas [damn!t] ratas! Lo juro, si tuviera la oportunidad de mudarme de apartamento, lo haría sin dudarlo. Pero hasta entonces, seguiré enviando queja tras queja a ese propietario inútil."
 
 # game/scripts/days/day 1.rpy:1307
 translate Paloslios sleeping_ac7ed376:
@@ -13850,7 +13850,7 @@ translate Paloslios saynothing_cd99cab1_1:
 translate Paloslios saynothing_1faf36b3:
 
     # r "Y-You do?"
-    r "¿Y-tú sí?"
+    r "¿T-tu en verdad?"
 
 # game/scripts/days/day 1.rpy:1570
 translate Paloslios saynothing_3491e7ab:
@@ -14071,8 +14071,8 @@ translate Paloslios mothaltintro_d621c1c1:
 # game/scripts/days/day 1.rpy:1669
 translate Paloslios mothaltintro_05077d25:
 
-    # mcall "*ahem*… {size=+5}Attention everyone! [they!c] [are] eager as hell!{/size}" with vpunch
-    mcall "*ejem*… {size=+5}¡Atención a todos! [they!c][are] ¡con muchas ganas!{/size}" with vpunch
+    # mcall "*ahem*… {size=+5}Attention everyone! [they!c]  eager as hell!{/size}" with vpunch
+    mcall "*ejem*… {size=+5}¡Atención a todos! [they!c] ¡con muchas ganas!{/size}" with vpunch
 
 # game/scripts/days/day 1.rpy:1672
 translate Paloslios mothaltintro_248ef461:
@@ -14107,8 +14107,8 @@ translate Paloslios mothaltintro_85a28269:
 # game/scripts/days/day 1.rpy:1679
 translate Paloslios mothaltintro_15c9d1fd:
 
-    # n "[dammit!c], their laughter was contagious."
-    n "[dammit!c], su risa era contagiosa."
+    # n "[dammit!c!t], their laughter was contagious."
+    n "[dammit!c!t], su risa era contagiosa."
 
 # game/scripts/days/day 1.rpy:1681
 translate Paloslios mothaltintro_3749a190:
@@ -16111,8 +16111,8 @@ translate Paloslios day2_pierdate_2b5457bf:
 # game/scripts/days/day 2.rpy:390
 translate Paloslios day2_pierdate_9aade9b6:
 
-    # l "Take good care of [them] for me, won't ya, bud?"
-    l "Cuida bien de [them] por mí, ¿no, amigo?"
+    # l "Take good care of [them!t] for me, won't ya, bud?"
+    l "Cuida bien de [them!t] por mí, ¿no, amigo?"
 
 # game/scripts/days/day 2.rpy:392
 translate Paloslios day2_pierdate_634a6e5c:
@@ -16567,8 +16567,8 @@ translate Paloslios day2_teocont_99cdf89a:
 # game/scripts/days/day 2.rpy:544
 translate Paloslios day2_teocont_806c8e1b:
 
-    # t "Aw [shit], sorry about that. I'm not sure how I missed such a brightly-coloured children's mascot."
-    t "Ay [shit], lo siento. No estoy seguro de cómo me perdí una mascota infantil de colores tan brillantes."
+    # t "Aw [shit!t], sorry about that. I'm not sure how I missed such a brightly-coloured children's mascot."
+    t "Ay [shit!t], lo siento. No estoy seguro de cómo me perdí una mascota infantil de colores tan brillantes."
 
 # game/scripts/days/day 2.rpy:546
 translate Paloslios day2_teocont_5b94990d:
@@ -16735,8 +16735,8 @@ translate Paloslios day2_teocont_0b8262ec:
 # game/scripts/days/day 2.rpy:617
 translate Paloslios day2_teocont_652331db:
 
-    # r "{size=-6}…What a complete [asshole].{/size}"
-    r "{size=-6}…Qué completo [asshole].{/size}"
+    # r "{size=-6}…What a complete [asshole!t].{/size}"
+    r "{size=-6}…Qué completo [asshole!t].{/size}"
 
 # game/scripts/days/day 2.rpy:619
 translate Paloslios day2_teocont_b7c907ae:
@@ -18091,14 +18091,14 @@ translate Paloslios day2_meetolivia_10f35e8f:
 # game/scripts/days/day 2.rpy:1123
 translate Paloslios day2_meetolivia_8d631878:
 
-    # r "{size=-6}If [they] weren't sta— {i}*mumble*{/i} —right now, I would've s— {i}*mumble*{/i} —down this stair— {i}*mumble*{/i} —without a— {i}*mumble*{/i} —thought.{/size}"
-    r "{size=-6}Si [they] no estuviera esta— {i}*mumble*{/i} —ahora mismo, habría s— {i}*mumble*{/i} —por esta escalera— {i}*mumble*{/i} —sin un— {i}*mumble*{/i} —pensamiento.{/size}"
+    # r "{size=-6}If [they!t] weren't sta— {i}*mumble*{/i} —right now, I would've s— {i}*mumble*{/i} —down this stair— {i}*mumble*{/i} —without a— {i}*mumble*{/i} —thought.{/size}"
+    r "{size=-6}Si [they!t] no estuviera esta— {i}*mumble*{/i} —ahora mismo, habría s— {i}*mumble*{/i} —por esta escalera— {i}*mumble*{/i} —sin un— {i}*mumble*{/i} —pensamiento.{/size}"
 
 # game/scripts/days/day 2.rpy:1126
 translate Paloslios day2_meetolivia_8ef8a74a:
 
-    # r "{size=-6}If [they] wasn't sta— {i}*mumble*{/i} —right now, I would've s— {i}*mumble*{/i} —down this stair— {i}*mumble*{/i} —without a— {i}*mumble*{/i} —thought.{/size}"
-    r "{size=-6}Si [they] no estuviera esta— {i}*mumble*{/i} —ahora mismo, habría s— {i}*mumble*{/i} —por esta escalera— {i}*mumble*{/i} —sin un— {i}*mumble*{/i} —pensamiento.{/size}"
+    # r "{size=-6}If [they!t] wasn't sta— {i}*mumble*{/i} —right now, I would've s— {i}*mumble*{/i} —down this stair— {i}*mumble*{/i} —without a— {i}*mumble*{/i} —thought.{/size}"
+    r "{size=-6}Si [they!t] no estuviera esta— {i}*mumble*{/i} —ahora mismo, habría s— {i}*mumble*{/i} —por esta escalera— {i}*mumble*{/i} —sin un— {i}*mumble*{/i} —pensamiento.{/size}"
 
 # game/scripts/days/day 2.rpy:1131
 translate Paloslios day2_meetolivia_ca068882:
@@ -18781,7 +18781,7 @@ translate Paloslios day2_rainscene_464c2f5e:
 # game/scripts/days/day 2.rpy:1336
 translate Paloslios day2_rainscene_4acaacf3:
 
-    # n "Just as I psyched myself up to sprint towards the next overhanging roof across the street, a cold hand wraps around my wrist and scares the absolute [shit] out of me."
+    # n "Just as I psyched myself up to sprint towards the next overhanging roof across the street, a cold hand wraps around my wrist and scares the absolute [shit!t] out of me."
     n "Justo cuando me preparaba para correr hacia el siguiente techo que sobresalía al otro lado de la calle, una mano fría envuelve mi muñeca y me asusta muchísimo."
 
 # game/scripts/days/day 2.rpy:1337
@@ -19279,8 +19279,8 @@ translate Paloslios day2_renapartment_6936e893:
 # game/scripts/days/day 2.rpy:1542
 translate Paloslios day2_renapartment_99783820:
 
-    # n "Yes. {b}Foyer{/b}. He had a whole [damn] foyer in his apartment."
-    n "Sí. {b}Vestíbulo{/b}. Tenía todo un [damn] vestíbulo en su apartamento."
+    # n "Yes. {b}Foyer{/b}. He had a whole [damn!t] foyer in his apartment."
+    n "Sí. {b}Vestíbulo{/b}. Tenía todo un [damn!t] vestíbulo en su apartamento."
 
 # game/scripts/days/day 2.rpy:1543
 translate Paloslios day2_renapartment_f8900f6f:
@@ -19291,8 +19291,8 @@ translate Paloslios day2_renapartment_f8900f6f:
 # game/scripts/days/day 2.rpy:1544
 translate Paloslios day2_renapartment_40c51aa4:
 
-    # y "Holy [shit], [ch_ren]…"
-    y "Santo [shit], [ch_ren]…"
+    # y "Holy [shit!t], [ch_ren]…"
+    y "Santo [shit!t], [ch_ren]…"
 
 # game/scripts/days/day 2.rpy:1547
 translate Paloslios day2_renapartment_9d136448:
@@ -21103,8 +21103,8 @@ translate Paloslios day2_leaveren_b371fced:
 # game/scripts/days/day 2.rpy:2166
 translate Paloslios day2_leaveren_ef196621:
 
-    # y "[damn!c], I really wanted to know more…"
-    y "[damn!c], realmente quería saber más…"
+    # y "[damn!c!t], I really wanted to know more…"
+    y "[damn!c!t], realmente quería saber más…"
 
 # game/scripts/days/day 2.rpy:2167
 translate Paloslios day2_leaveren_0340f1ee:
@@ -21523,8 +21523,8 @@ translate Paloslios day3_renmorning_0b80080b:
 # game/scripts/days/day 3.rpy:165
 translate Paloslios day3_renmorning_bb7d1bf8:
 
-    # r "[shit!c]. Y'can't be serious."
-    r "[shit!c]. No puedes hablar en serio."
+    # r "[shit!c!t]. Y'can't be serious."
+    r "[shit!c!t]. No puedes hablar en serio."
 
 # game/scripts/days/day 3.rpy:168
 translate Paloslios day3_renmorning_45c22452:
@@ -22003,8 +22003,8 @@ translate Paloslios day3_alonemorning_4f24ae59:
 # game/scripts/days/day 3.rpy:316
 translate Paloslios day3_libraryscene_e6339d0d:
 
-    # n "Turns out, [ch_ren] didn't actually own a car like I expected. He owned a [damn] {b}sports motorcycle.{/b}"
-    n "Resulta que [ch_ren] en realidad no tenía un auto como esperaba. Era dueño de una [damn]{b}motocicleta deportiva.{/b}"
+    # n "Turns out, [ch_ren] didn't actually own a car like I expected. He owned a [damn!t] {b}sports motorcycle.{/b}"
+    n "Resulta que [ch_ren] en realidad no tenía un auto como esperaba. Era dueño de una [damn!t]{b}motocicleta deportiva.{/b}"
 
 # game/scripts/days/day 3.rpy:318
 translate Paloslios day3_libraryscene_c57f4c4a:
@@ -22495,8 +22495,8 @@ translate Paloslios day3_meetingkiara_ad9277ed:
 # game/scripts/days/day 3.rpy:460
 translate Paloslios day3_meetingkiara_26d642c5:
 
-    # n "I was as plain as they come, and if some [asshole] really did break into my house, they left empty-handed."
-    n "Fui tan sencillo como parece, y si algún [asshole] realmente irrumpió en mi casa, se fue con las manos vacías."
+    # n "I was as plain as they come, and if some [asshole!t] really did break into my house, they left empty-handed."
+    n "Fui tan sencillo como parece, y si algún [asshole!t] realmente irrumpió en mi casa, se fue con las manos vacías."
 
 # game/scripts/days/day 3.rpy:461
 translate Paloslios day3_meetingkiara_37f6ee99:
@@ -22843,8 +22843,8 @@ translate Paloslios day3_planningdate_cc39961e:
 # game/scripts/days/day 3.rpy:604
 translate Paloslios day3_planningdate_8c81f2c3:
 
-    # t "[damn!c]. Who're they?"
-    t "[damn!c]. ¿Quiénes son?"
+    # t "[damn!c!t]. Who're they?"
+    t "[damn!c!t]. ¿Quiénes son?"
 
 # game/scripts/days/day 3.rpy:605
 translate Paloslios day3_planningdate_b3c71fc2:
@@ -23239,8 +23239,8 @@ translate Paloslios day3_planningdate_74fb6ce5:
 # game/scripts/days/day 3.rpy:772
 translate Paloslios day3_planningdate_f2b74ae9:
 
-    # t "Atta [baby]. Knew you weren't gonna chicken out on us."
-    t "Atta [baby]. Sabía que no te ibas a acobardar con nosotros."
+    # t "Atta [baby!t]. Knew you weren't gonna chicken out on us."
+    t "Atta [baby!t]. Sabía que no te ibas a acobardar con nosotros."
 
 # game/scripts/days/day 3.rpy:775
 translate Paloslios day3_planningdate_c1f6f6b1:
@@ -23665,8 +23665,8 @@ translate Paloslios day3_leonscene_4de10cf7:
 # game/scripts/days/day 3.rpy:960
 translate Paloslios day3_leonscene_d768ebdc:
 
-    # l "Well, here's hoping the weather will be more lenient tomorrow. It was [pissing] down buckets yesterday, wasn't it?"
-    l "Bueno, esperemos que el clima sea más indulgente mañana. Fue [pissing] ayer, ¿no?"
+    # l "Well, here's hoping the weather will be more lenient tomorrow. It was [pissing!t] down buckets yesterday, wasn't it?"
+    l "Bueno, esperemos que el clima sea más indulgente mañana. Fue [pissing!t] ayer, ¿no?"
 
 # game/scripts/days/day 3.rpy:962
 translate Paloslios day3_leonscene_022872eb:
@@ -24487,8 +24487,8 @@ translate Paloslios day3_meetinglandlord_6e5be1be:
 # game/scripts/days/day 3.rpy:1271
 translate Paloslios day3_meetinglandlord_4acd56fd:
 
-    # npc "Huh? What [are] [they] talking about?"
-    npc "¿Eh? ¿De qué está hablando [are][they]?"
+    # npc "Huh? What  [they!t] talking about?"
+    npc "¿Eh? ¿De qué está hablando [they!t]?"
 
 # game/scripts/days/day 3.rpy:1273
 translate Paloslios day3_meetinglandlord_b8ff9265:
@@ -26743,8 +26743,8 @@ translate Paloslios day3_invitemoth_09a838af:
 # game/scripts/days/day 3.rpy:1960
 translate Paloslios day3_invitemoth_a931c75d:
 
-    # n "[damn!c]. Curse their horrible wifi."
-    n "[damn!c]. Maldita sea su horrible wifi."
+    # n "[damn!c!t]. Curse their horrible wifi."
+    n "[damn!c!t]. Maldita sea su horrible wifi."
 
 # game/scripts/days/day 3.rpy:1961
 translate Paloslios day3_invitemoth_89e8474f:
@@ -28489,8 +28489,8 @@ translate Paloslios day3_inviteolivia_2a15836f:
 # game/scripts/days/day 3.rpy:2400
 translate Paloslios day3_inviteolivia_21a3a8fd:
 
-    # ocall "I'm sure [they] would've treated me much more nicely! Hmph, I bet you {i}wished{/i} you accepted my offer now, huh?"
-    ocall "¡Estoy seguro de que [they] me habría tratado mucho mejor! Hmph, apuesto a que {i}deseabas{/i} aceptar mi oferta ahora, ¿eh?"
+    # ocall "I'm sure [they!t] would've treated me much more nicely! Hmph, I bet you {i}wished{/i} you accepted my offer now, huh?"
+    ocall "¡Estoy seguro de que [they!t] me habría tratado mucho mejor! Hmph, apuesto a que {i}deseabas{/i} aceptar mi oferta ahora, ¿eh?"
 
 # game/scripts/days/day 3.rpy:2401
 translate Paloslios day3_inviteolivia_6be5ee94:
@@ -28513,8 +28513,8 @@ translate Paloslios day3_inviteolivia_bd90be02:
 # game/scripts/days/day 3.rpy:2406
 translate Paloslios day3_inviteolivia_58511f5e:
 
-    # n "[shit!c], I didn't mean to reveal that."
-    n "[shit!c], no quise revelar eso."
+    # n "[shit!c!t], I didn't mean to reveal that."
+    n "[shit!c!t], no quise revelar eso."
 
 # game/scripts/days/day 3.rpy:2407
 translate Paloslios day3_inviteolivia_7f759209:
@@ -29023,8 +29023,8 @@ translate Paloslios day3_homealone_58942766:
 # game/scripts/days/day 3.rpy:2526
 translate Paloslios day3_homealone_6bcf1d5f:
 
-    # n "[shit!c]. I was spacing out on [ch_leon] again."
-    n "[shit!c]. Estaba distraído en [ch_leon] otra vez."
+    # n "[shit!c!t]. I was spacing out on [ch_leon] again."
+    n "[shit!c!t]. Estaba distraído en [ch_leon] otra vez."
 
 # game/scripts/days/day 3.rpy:2527
 translate Paloslios day3_homealone_03c59c7d:
@@ -29653,8 +29653,8 @@ translate Paloslios day4_morningcont_44e30560:
 # game/scripts/days/day 4.rpy:180
 translate Paloslios day4_morningcont_2c260477:
 
-    # n "…What the hell? Was this somehow tied to that [asshole] who broke into my apartment a few days ago? Or was it someone else entirely?"
-    n "…¿Qué demonios? ¿Estaba esto relacionado de alguna manera con ese [asshole] que irrumpió en mi apartamento hace unos días? ¿O fue alguien completamente distinto?"
+    # n "…What the hell? Was this somehow tied to that [asshole!t] who broke into my apartment a few days ago? Or was it someone else entirely?"
+    n "…¿Qué demonios? ¿Estaba esto relacionado de alguna manera con ese [asshole!t] que irrumpió en mi apartamento hace unos días? ¿O fue alguien completamente distinto?"
 
 # game/scripts/days/day 4.rpy:183
 translate Paloslios day4_morningcont_dc7c6b5e:
@@ -29701,8 +29701,8 @@ translate Paloslios day4_morningcont_5421f5ab:
 # game/scripts/days/day 4.rpy:190
 translate Paloslios day4_morningcont_066e09a3:
 
-    # n "And what's worse is that after denying my own paranoia for so long, {b}this{/b} was all it took to convince me that my potential intruder {b}really was{/b} real after all. [shit!c], maybe [ch_violet] was right."
-    n "Y lo que es peor es que después de negar mi propia paranoia durante tanto tiempo, {b}esto{/b} fue todo lo que necesité para convencerme de que mi potencial intruso {b}realmente era{/b} real después de todo. [shit!c], tal vez [ch_violet] tenía razón."
+    # n "And what's worse is that after denying my own paranoia for so long, {b}this{/b} was all it took to convince me that my potential intruder {b}really was{/b} real after all. [shit!c!t], maybe [ch_violet] was right."
+    n "Y lo que es peor es que después de negar mi propia paranoia durante tanto tiempo, {b}esto{/b} fue todo lo que necesité para convencerme de que mi potencial intruso {b}realmente era{/b} real después de todo. [shit!c!t], tal vez [ch_violet] tenía razón."
 
 # game/scripts/days/day 4.rpy:191
 translate Paloslios day4_morningcont_268a01c3:
@@ -29755,8 +29755,8 @@ translate Paloslios day4_morningcont_e35adc16:
 # game/scripts/days/day 4.rpy:206
 translate Paloslios day4_morningcont_f389b715:
 
-    # y "[shit!c]! [shit!c], [shit], [shit]!"
-    y "[shit!c]! [shit!c], [shit], [shit]!"
+    # y "[shit!c!t]! [shit!c!t], [shit!t], [shit!t]!"
+    y "[shit!c!t]! [shit!c!t], [shit!t], [shit!t]!"
 
 # game/scripts/days/day 4.rpy:207
 translate Paloslios day4_morningcont_702c0163:
@@ -29791,8 +29791,8 @@ translate Paloslios day4_morningcont_bbea184d:
 # game/scripts/days/day 4.rpy:212
 translate Paloslios day4_morningcont_6cee9b0c:
 
-    # tcall "Well [damn], Doll. You sound like you just woke up. Not planning on sleeping in, are you?"
-    tcall "Bueno [damn], Muñeca. Suenas como si acabaras de despertar. No planeas dormir hasta tarde, ¿verdad?"
+    # tcall "Well [damn!t], Doll. You sound like you just woke up. Not planning on sleeping in, are you?"
+    tcall "Bueno [damn!t], Muñeca. Suenas como si acabaras de despertar. No planeas dormir hasta tarde, ¿verdad?"
 
 # game/scripts/days/day 4.rpy:215
 translate Paloslios day4_morningcont_b58d18d4:
@@ -29839,8 +29839,8 @@ translate Paloslios day4_morningcont_54b72315:
 # game/scripts/days/day 4.rpy:222
 translate Paloslios day4_morningcont_79d9ec7a:
 
-    # tcall "[damn!c], still speechless? Don't tell me you fell asleep after all."
-    tcall "[damn!c], ¿todavía sin palabras? No me digas que te quedaste dormido después de todo."
+    # tcall "[damn!c!t], still speechless? Don't tell me you fell asleep after all."
+    tcall "[damn!c!t], ¿todavía sin palabras? No me digas que te quedaste dormido después de todo."
 
 # game/scripts/days/day 4.rpy:225
 translate Paloslios day4_morningcont_08468f42:
@@ -29857,8 +29857,8 @@ translate Paloslios day4_morningcont_405d43ee:
 # game/scripts/days/day 4.rpy:227
 translate Paloslios day4_morningcont_fa9960ff:
 
-    # tcall "Your neighbourhood looks like [shit], by the way. Smells like it, too."
-    tcall "Por cierto, tu barrio se parece a [shit]. También huele así."
+    # tcall "Your neighbourhood looks like [shit!t], by the way. Smells like it, too."
+    tcall "Por cierto, tu barrio se parece a [shit!t]. También huele así."
 
 # game/scripts/days/day 4.rpy:228
 translate Paloslios day4_morningcont_285dd11b:
@@ -29875,8 +29875,8 @@ translate Paloslios day4_morningcont_038c06d1:
 # game/scripts/days/day 4.rpy:230
 translate Paloslios day4_morningcont_406755e5:
 
-    # extend " Ah, [dammit]."
-    extend " Ah, [dammit]."
+    # extend " Ah, [dammit!t]."
+    extend " Ah, [dammit!t]."
 
 # game/scripts/days/day 4.rpy:231
 translate Paloslios day4_morningcont_cefce974:
@@ -31393,8 +31393,8 @@ translate Paloslios day4_aquariumscene_a3fc8974:
 # game/scripts/days/day 4.rpy:750
 translate Paloslios day4_aquariumscene_3c9501b3:
 
-    # y "Though to be honest, I don't really know any pink-coloured fish… [dammit!c]."
-    y "Aunque, para ser sincero, no conozco ningún pez de color rosa... [dammit!c]."
+    # y "Though to be honest, I don't really know any pink-coloured fish… [dammit!c!t]."
+    y "Aunque, para ser sincero, no conozco ningún pez de color rosa... [dammit!c!t]."
 
 # game/scripts/days/day 4.rpy:752
 translate Paloslios day4_aquariumscene_bfdb9a48:
@@ -31711,8 +31711,8 @@ translate Paloslios day4_aquariumscene_8806cbc9:
 # game/scripts/days/day 4.rpy:839
 translate Paloslios day4_aquariumscene_a74feea0:
 
-    # n "[damn!c]. Why was I so fixated on holding his hand all of a sudden?"
-    n "[damn!c]. ¿Por qué de repente estaba tan obsesionado con tomar su mano?"
+    # n "[damn!c!t]. Why was I so fixated on holding his hand all of a sudden?"
+    n "[damn!c!t]. ¿Por qué de repente estaba tan obsesionado con tomar su mano?"
 
 # game/scripts/days/day 4.rpy:840
 translate Paloslios day4_aquariumscene_f8942d73:
@@ -31783,8 +31783,8 @@ translate Paloslios day4_fillerscene_c76f4d90:
 # game/scripts/days/day 4.rpy:875
 translate Paloslios day4_fillerscene_f8942651:
 
-    # t "And [damn], if it isn't Buttercup."
-    t "Y [damn], si no es Buttercup."
+    # t "And [damn!t], if it isn't Buttercup."
+    t "Y [damn!t], si no es Buttercup."
 
 # game/scripts/days/day 4.rpy:877
 translate Paloslios day4_fillerscene_fb2b1349:
@@ -32149,8 +32149,8 @@ translate Paloslios day4_fillerscene_2f93abde:
 # game/scripts/days/day 4.rpy:1011
 translate Paloslios day4_fillerscene_d476940a:
 
-    # t "Relax, Buttercup. You'll get [them] back in one piece."
-    t "Relájate, Bellota. Recuperarás [them] de una sola pieza."
+    # t "Relax, Buttercup. You'll get [them!t] back in one piece."
+    t "Relájate, Bellota. Recuperarás [them!t] de una sola pieza."
 
 # game/scripts/days/day 4.rpy:1012
 translate Paloslios day4_fillerscene_037263c5:
@@ -32239,8 +32239,8 @@ translate Paloslios day4_teocloset_955c739b:
 # game/scripts/days/day 4.rpy:1047
 translate Paloslios day4_teocloset_648bf38f:
 
-    # t "[damn!c], could you be a little less loud about it? And as a matter of fact; {i}yes{/i}, I do."
-    t "[damn!c], ¿podrías ser un poco menos ruidoso al respecto? Y de hecho; {i}sí{/i}, lo hago."
+    # t "[damn!c!t], could you be a little less loud about it? And as a matter of fact; {i}yes{/i}, I do."
+    t "[damn!c!t], ¿podrías ser un poco menos ruidoso al respecto? Y de hecho; {i}sí{/i}, lo hago."
 
 # game/scripts/days/day 4.rpy:1048
 translate Paloslios day4_teocloset_2475a8e4:
@@ -32275,8 +32275,8 @@ translate Paloslios day4_teocloset_1e96db53:
 # game/scripts/days/day 4.rpy:1056
 translate Paloslios day4_teocloset_d3afb7fd:
 
-    # t "She's getting a bit too clingy for my taste. And it might even get Buttercup to ease up on all that juvenile, puppy love [shit]."
-    t "Se está volviendo demasiado pegajosa para mi gusto. E incluso podría lograr que Buttercup se relaje con todo ese amor juvenil y de cachorro [shit]."
+    # t "She's getting a bit too clingy for my taste. And it might even get Buttercup to ease up on all that juvenile, puppy love [shit!t]."
+    t "Se está volviendo demasiado pegajosa para mi gusto. E incluso podría lograr que Buttercup se relaje con todo ese amor juvenil y de cachorro [shit!t]."
 
 # game/scripts/days/day 4.rpy:1058
 translate Paloslios day4_teocloset_8143ecd3:
@@ -32323,8 +32323,8 @@ translate Paloslios day4_teocloset_54ca32c5:
 # game/scripts/days/day 4.rpy:1070
 translate Paloslios day4_teocloset_ce788a9d:
 
-    # t "And I know you. You always hated getting in trouble with the law. Why would I bring you along and get you involved in that [shit]?"
-    t "Y te conozco. Siempre odiaste tener problemas con la ley. ¿Por qué te traería y te involucraría en ese [shit]?"
+    # t "And I know you. You always hated getting in trouble with the law. Why would I bring you along and get you involved in that [shit!t]?"
+    t "Y te conozco. Siempre odiaste tener problemas con la ley. ¿Por qué te traería y te involucraría en ese [shit!t]?"
 
 # game/scripts/days/day 4.rpy:1072
 translate Paloslios day4_teocloset_dc6744b8:
@@ -32401,8 +32401,8 @@ translate Paloslios day4_teocloset_22759ad7:
 # game/scripts/days/day 4.rpy:1092
 translate Paloslios day4_teocloset_d1fde599:
 
-    # t "For what it's worth, I'm sorry for giving you the wrong impression. But you knew from the [damn] start that I wouldn't be down for {i}those{/i} kinds of relationships."
-    t "Por si sirve de algo, lamento haberte dado una impresión equivocada. Pero sabías desde el principio [damn] que no estaría dispuesto a {i}ese{/i} tipo de relaciones."
+    # t "For what it's worth, I'm sorry for giving you the wrong impression. But you knew from the [damn!t] start that I wouldn't be down for {i}those{/i} kinds of relationships."
+    t "Por si sirve de algo, lamento haberte dado una impresión equivocada. Pero sabías desde el principio [damn!t] que no estaría dispuesto a {i}ese{/i} tipo de relaciones."
 
 # game/scripts/days/day 4.rpy:1094
 translate Paloslios day4_teocloset_f2066151:
@@ -32419,8 +32419,8 @@ translate Paloslios day4_teocloset_e5afaf62:
 # game/scripts/days/day 4.rpy:1098
 translate Paloslios day4_teocloset_694e2f3e:
 
-    # t "And now the same [damn] thing is happening all over again with that blonde friend of yours."
-    t "Y ahora vuelve a pasar lo mismo [damn] con esa amiga rubia tuya."
+    # t "And now the same [damn!t] thing is happening all over again with that blonde friend of yours."
+    t "Y ahora vuelve a pasar lo mismo [damn!t] con esa amiga rubia tuya."
 
 # game/scripts/days/day 4.rpy:1100
 translate Paloslios day4_teocloset_597ed9d8:
@@ -32437,8 +32437,8 @@ translate Paloslios day4_teocloset_c9154000:
 # game/scripts/days/day 4.rpy:1105
 translate Paloslios day4_teocloset_9fce0292:
 
-    # t "Little Miss Princess over there is treating me like I'm a [damn] child who needs to be supervised all the time, and I can't even tell if she's interested in me or not."
-    t "La pequeña señorita Princess me trata como si fuera una niña [damn] que necesita ser supervisada todo el tiempo, y ni siquiera puedo decir si está interesada en mí o no."
+    # t "Little Miss Princess over there is treating me like I'm a [damn!t] child who needs to be supervised all the time, and I can't even tell if she's interested in me or not."
+    t "La pequeña señorita Princess me trata como si fuera una niña [damn!t] que necesita ser supervisada todo el tiempo, y ni siquiera puedo decir si está interesada en mí o no."
 
 # game/scripts/days/day 4.rpy:1107
 translate Paloslios day4_teocloset_ddb8d40b:
@@ -32485,8 +32485,8 @@ translate Paloslios day4_teocloset_f040927d:
 # game/scripts/days/day 4.rpy:1118
 translate Paloslios day4_teocloset_8549cfe2:
 
-    # t "[shit!c], you really {i}are{/i} into me, aren't ya? Can't say I'm flattered, Doll."
-    t "[shit!c], realmente {i}estás{/i} interesado en mí, ¿no? No puedo decir que me sienta halagada, Doll."
+    # t "[shit!c!t], you really {i}are{/i} into me, aren't ya? Can't say I'm flattered, Doll."
+    t "[shit!c!t], realmente {i}estás{/i} interesado en mí, ¿no? No puedo decir que me sienta halagada, Doll."
 
 # game/scripts/days/day 4.rpy:1119
 translate Paloslios day4_teocloset_33deafa8:
@@ -32707,8 +32707,8 @@ translate Paloslios day4_storeroomscene_4e5dad1a:
 # game/scripts/days/day 4.rpy:1217
 translate Paloslios day4_storeroomscene_90d29054:
 
-    # n "[shit!c], I hope I wasn't standing in anything."
-    n "[shit!c], espero no haberme parado en nada."
+    # n "[shit!c!t], I hope I wasn't standing in anything."
+    n "[shit!c!t], espero no haberme parado en nada."
 
 # game/scripts/days/day 4.rpy:1220
 translate Paloslios day4_storeroomscene_cf5d232a:
@@ -32731,8 +32731,8 @@ translate Paloslios day4_storeroomscene_106f9a6f:
 # game/scripts/days/day 4.rpy:1245
 translate Paloslios day4_storeroomscene_6a0b8652:
 
-    # r "Couldn't you talk to [them] outside?"
-    r "¿No podrías hablar con [them] afuera?"
+    # r "Couldn't you talk to [them!t] outside?"
+    r "¿No podrías hablar con [them!t] afuera?"
 
 # game/scripts/days/day 4.rpy:1246
 translate Paloslios day4_storeroomscene_3f71d12e:
@@ -32869,8 +32869,8 @@ translate Paloslios day4_storeroomscene_1365493c:
 # game/scripts/days/day 4.rpy:1309
 translate Paloslios day4_storeroomscene_57e2a4cd:
 
-    # r "[fuck!c]. What does he have that I don't?"
-    r "[fuck!c]. ¿Qué tiene él que yo no?"
+    # r "[fuck!c!t]. What does he have that I don't?"
+    r "[fuck!c!t]. ¿Qué tiene él que yo no?"
 
 # game/scripts/days/day 4.rpy:1315
 translate Paloslios day4_storeroomscene_ef2cc166:
@@ -32893,8 +32893,8 @@ translate Paloslios day4_storeroomscene_1365493c_1:
 # game/scripts/days/day 4.rpy:1320
 translate Paloslios day4_storeroomscene_8d05d9e9:
 
-    # r "[fuck!c]. What does she have that I don't?"
-    r "[fuck!c]. ¿Qué tiene ella que yo no tenga?"
+    # r "[fuck!c!t]. What does she have that I don't?"
+    r "[fuck!c!t]. ¿Qué tiene ella que yo no tenga?"
 
 # game/scripts/days/day 4.rpy:1325
 translate Paloslios day4_storeroomscene_b732cf8a:
@@ -32923,8 +32923,8 @@ translate Paloslios day4_storeroomscene_6941689b:
 # game/scripts/days/day 4.rpy:1331
 translate Paloslios day4_storeroomscene_c38c9178:
 
-    # r "H-Haaah… [fuck!c]. Sorry, I need a second."
-    r "H-Haaah… [fuck!c]. Lo siento, necesito un segundo."
+    # r "H-Haaah… [fuck!c!t]. Sorry, I need a second."
+    r "H-Haaah… [fuck!c!t]. Lo siento, necesito un segundo."
 
 # game/scripts/days/day 4.rpy:1337
 translate Paloslios day4_storeroomscene_16e3ee36:
@@ -32947,8 +32947,8 @@ translate Paloslios day4_storeroomscene_8725039a:
 # game/scripts/days/day 4.rpy:1342
 translate Paloslios day4_storeroomscene_ef6f9033:
 
-    # r "[fuck!c]. The thought of you and [ch_teo] together? I— S-Sorry, I need a second."
-    r "[fuck!c]. ¿El pensamiento de ti y [ch_teo] juntos? Yo... L-Lo siento, necesito un segundo."
+    # r "[fuck!c!t]. The thought of you and [ch_teo] together? I— S-Sorry, I need a second."
+    r "[fuck!c!t]. ¿El pensamiento de ti y [ch_teo] juntos? Yo... L-Lo siento, necesito un segundo."
 
 # game/scripts/days/day 4.rpy:1346
 translate Paloslios day4_storeroomscene_9b62f72a:
@@ -34465,8 +34465,8 @@ translate Paloslios day4_visitren_07cfe1e3:
 # game/scripts/days/day 4.rpy:1844
 translate Paloslios day4_visitren_0ea71be3:
 
-    # n "[damn!c]. Did [ch_ren] really live here?"
-    n "[damn!c]. ¿[ch_ren] realmente vivía aquí?"
+    # n "[damn!c!t]. Did [ch_ren] really live here?"
+    n "[damn!c!t]. ¿[ch_ren] realmente vivía aquí?"
 
 # game/scripts/days/day 4.rpy:1847
 translate Paloslios day4_visitren_aae10abb:
@@ -34651,8 +34651,8 @@ translate Paloslios day4_snooping_8100a7cf:
 # game/scripts/days/day 4.rpy:1905
 translate Paloslios day4_snooping_99783820:
 
-    # n "Yes. {b}Foyer{/b}. He had a whole [damn] foyer in his apartment."
-    n "Sí. {b}Vestíbulo{/b}. Tenía todo un [damn] vestíbulo en su apartamento."
+    # n "Yes. {b}Foyer{/b}. He had a whole [damn!t] foyer in his apartment."
+    n "Sí. {b}Vestíbulo{/b}. Tenía todo un [damn!t] vestíbulo en su apartamento."
 
 # game/scripts/days/day 4.rpy:1906
 translate Paloslios day4_snooping_f8900f6f:
@@ -35083,8 +35083,8 @@ translate Paloslios day4_snooping_2848b12f:
 # game/scripts/days/day 4.rpy:2013
 translate Paloslios day4_snooping_fd39afe1:
 
-    # n "[fuck!c], I shouldn't have been looking through [ch_ren]'s personal messages without his permission. What kind of creep does that, anyway?"
-    n "[fuck!c], no debería haber estado revisando los mensajes personales de [ch_ren] sin su permiso. ¿Qué clase de idiota hace eso?"
+    # n "[fuck!c!t], I shouldn't have been looking through [ch_ren]'s personal messages without his permission. What kind of creep does that, anyway?"
+    n "[fuck!c!t], no debería haber estado revisando los mensajes personales de [ch_ren] sin su permiso. ¿Qué clase de idiota hace eso?"
 
 # game/scripts/days/day 4.rpy:2014
 translate Paloslios day4_snooping_a68a8f2d:
@@ -35131,8 +35131,8 @@ translate Paloslios day4_snooping_1912f5eb_1:
 # game/scripts/days/day 4.rpy:2029
 translate Paloslios day4_snooping_a069b9b4:
 
-    # y "Ah! [shit!c]!"
-    y "¡Ah! [shit!c]!"
+    # y "Ah! [shit!c!t]!"
+    y "¡Ah! [shit!c!t]!"
 
 # game/scripts/days/day 4.rpy:2031
 translate Paloslios day4_snooping_57d50b2d:
@@ -35521,8 +35521,8 @@ translate Paloslios day4_televisionscene_45443741:
 # game/scripts/days/day 4.rpy:2150
 translate Paloslios day4_televisionscene_1a2dffe8:
 
-    # n "Though… It made sense considering how I'd been all but encompassed by it while living in the city. Everywhere I went, I was surrounded by petty crimes, selfish [asshole]s who called themselves my friends, and even the stench of death."
-    n "Aunque… Tenía sentido considerando cómo había estado casi abarcado por eso mientras vivía en la ciudad. Dondequiera que iba, estaba rodeado de delitos menores, [asshole] egoístas que se hacían llamar mis amigos e incluso el hedor a muerte."
+    # n "Though… It made sense considering how I'd been all but encompassed by it while living in the city. Everywhere I went, I was surrounded by petty crimes, selfish [asshole!t]s who called themselves my friends, and even the stench of death."
+    n "Aunque… Tenía sentido considerando cómo había estado casi abarcado por eso mientras vivía en la ciudad. Dondequiera que iba, estaba rodeado de delitos menores, [asshole!t] egoístas que se hacían llamar mis amigos e incluso el hedor a muerte."
 
 # game/scripts/days/day 4.rpy:2151
 translate Paloslios day4_televisionscene_715fed62:
@@ -35539,8 +35539,8 @@ translate Paloslios day4_televisionscene_f96ba23c:
 # game/scripts/days/day 4.rpy:2158
 translate Paloslios day4_televisionscene_99c3cfca:
 
-    # n "In fact, it was one of the reasons why I left the city in the first place. Prior to moving to Corland Bay, I had always been surrounded by petty crimes, selfish [asshole]s who called themselves my friends, and even the stench of death."
-    n "De hecho, fue una de las razones por las que dejé la ciudad en primer lugar. Antes de mudarme a Corland Bay, siempre había estado rodeado de delitos menores, [asshole] egoístas que se hacían llamar mis amigos e incluso el hedor a muerte."
+    # n "In fact, it was one of the reasons why I left the city in the first place. Prior to moving to Corland Bay, I had always been surrounded by petty crimes, selfish [asshole!t]s who called themselves my friends, and even the stench of death."
+    n "De hecho, fue una de las razones por las que dejé la ciudad en primer lugar. Antes de mudarme a Corland Bay, siempre había estado rodeado de delitos menores, [asshole!t] egoístas que se hacían llamar mis amigos e incluso el hedor a muerte."
 
 # game/scripts/days/day 4.rpy:2159
 translate Paloslios day4_televisionscene_6c17f4f2:
@@ -35738,7 +35738,7 @@ translate Paloslios day4_renreturns_a1a25ce1:
 translate Paloslios day4_renreturns_1faf36b3:
 
     # r "Y-You do?"
-    r "¿Y-tú sí?"
+    r "¿T-tu realmente?"
 
 # game/scripts/days/day 4.rpy:2232
 translate Paloslios day4_renreturns_133a7f57:
@@ -35881,8 +35881,8 @@ translate Paloslios day4_renreturns_646dc17a:
 # game/scripts/days/day 4.rpy:2278
 translate Paloslios day4_renreturns_b663fa36:
 
-    # n "Oh, [shit]. I almost forgot about the ink I hastily threw away in the trash! In retrospect, I probably should've flushed it down the toilet or something instead."
-    n "Ah, [shit]. ¡Casi me olvido de la tinta que tiré apresuradamente a la basura! En retrospectiva, probablemente debería haberlo tirado al inodoro o algo así."
+    # n "Oh, [shit!t]. I almost forgot about the ink I hastily threw away in the trash! In retrospect, I probably should've flushed it down the toilet or something instead."
+    n "Ah, [shit!t]. ¡Casi me olvido de la tinta que tiré apresuradamente a la basura! En retrospectiva, probablemente debería haberlo tirado al inodoro o algo así."
 
 # game/scripts/days/day 4.rpy:2279
 translate Paloslios day4_renreturns_290ea3ec:
@@ -36049,8 +36049,8 @@ translate Paloslios day4_renreturns_4be65adc:
 # game/scripts/days/day 4.rpy:2338
 translate Paloslios day4_renreturns_27905d24:
 
-    # n "[shit!c]."
-    n "[shit!c]."
+    # n "[shit!c!t]."
+    n "[shit!c!t]."
 
 # game/scripts/days/day 4.rpy:2339
 translate Paloslios day4_renreturns_ef01fd61_1:
@@ -37459,8 +37459,8 @@ translate Paloslios day4_acceptoffer_4dd5b59f:
 # game/scripts/days/day 4.rpy:2806
 translate Paloslios day4_acceptoffer_8fd04feb:
 
-    # n "[damn!c], I hadn't realised we'd been at this for so long."
-    n "[damn!c], no me había dado cuenta de que llevábamos tanto tiempo en esto."
+    # n "[damn!c!t], I hadn't realised we'd been at this for so long."
+    n "[damn!c!t], no me había dado cuenta de que llevábamos tanto tiempo en esto."
 
 # game/scripts/days/day 4.rpy:2808
 translate Paloslios day4_acceptoffer_8c08d9fd:
@@ -38203,8 +38203,8 @@ translate Paloslios day4_closetbranch_261a4c61:
 # game/scripts/days/day 4.rpy:3033
 translate Paloslios day4_closetbranch_612c7961:
 
-    # extend " who was still within earshot. [shit!c]."
-    extend " que todavía estaba al alcance del oído. [shit!c]."
+    # extend " who was still within earshot. [shit!c!t]."
+    extend " que todavía estaba al alcance del oído. [shit!c!t]."
 
 # game/scripts/days/day 4.rpy:3035
 translate Paloslios day4_closetbranch_f7ead517:
@@ -39133,8 +39133,8 @@ translate Paloslios day4_closetbranch_eda13d45:
 # game/scripts/days/day 4.rpy:3319
 translate Paloslios day4_closetbranch_5ceb925d:
 
-    # l "As fun as today has been, we should probably head back before it starts [pissing] down buckets, yeah? Here, I'll walk ya home."
-    l "Por muy divertido que haya sido hoy, probablemente deberíamos regresar antes de que empiece [pissing] a desplomarse, ¿no? Toma, te acompañaré a casa."
+    # l "As fun as today has been, we should probably head back before it starts [pissing!t] down buckets, yeah? Here, I'll walk ya home."
+    l "Por muy divertido que haya sido hoy, probablemente deberíamos regresar antes de que empiece [pissing!t] a desplomarse, ¿no? Toma, te acompañaré a casa."
 
 # game/scripts/days/day 4.rpy:3321
 translate Paloslios day4_closetbranch_5ffe5343:
@@ -39661,8 +39661,8 @@ translate Paloslios day5_alonemorning_6c58b49c:
 # game/scripts/days/day 5.rpy:105
 translate Paloslios day5_alonemorning_59b5fe02:
 
-    # m "…[damn!c], that {i}does{/i} sound like me. Whoops!"
-    m "…[damn!c], ese {i}sí{/i} suena como yo. ¡Vaya!"
+    # m "…[damn!c!t], that {i}does{/i} sound like me. Whoops!"
+    m "…[damn!c!t], ese {i}sí{/i} suena como yo. ¡Vaya!"
 
 # game/scripts/days/day 5.rpy:107
 translate Paloslios day5_alonemorning_ba817fe7:
@@ -39703,8 +39703,8 @@ translate Paloslios day5_alonemorning_1f8071ca:
 # game/scripts/days/day 5.rpy:115
 translate Paloslios day5_alonemorning_e837285c:
 
-    # m "…I did? Weird. Maybe I'm remembering things differently again… [damn!c]."
-    m "…¿Hice? Extraño. Tal vez estoy recordando las cosas de manera diferente otra vez... [damn!c]."
+    # m "…I did? Weird. Maybe I'm remembering things differently again… [damn!c!t]."
+    m "…¿Hice? Extraño. Tal vez estoy recordando las cosas de manera diferente otra vez... [damn!c!t]."
 
 # game/scripts/days/day 5.rpy:117
 translate Paloslios day5_alonemorning_a50910a3:
@@ -40267,8 +40267,8 @@ translate Paloslios day5_renmorning_de5f12d8:
 # game/scripts/days/day 5.rpy:290
 translate Paloslios day5_renmorning_868bca12:
 
-    # n "…[shit!c], seriously?! Was I {b}really{/b} sleep-talking about something that happened when I was a child?!"
-    n "…[shit!c], ¡¿en serio?! ¿Estaba {b}realmente{/b} hablando dormido sobre algo que sucedió cuando era niño?"
+    # n "…[shit!c!t], seriously?! Was I {b}really{/b} sleep-talking about something that happened when I was a child?!"
+    n "…[shit!c!t], ¡¿en serio?! ¿Estaba {b}realmente{/b} hablando dormido sobre algo que sucedió cuando era niño?"
 
 # game/scripts/days/day 5.rpy:292
 translate Paloslios day5_renmorning_9500e128:
@@ -40513,8 +40513,8 @@ translate Paloslios day5_renmorning_6f59461e:
 # game/scripts/days/day 5.rpy:370
 translate Paloslios day5_renmorning_99b5bf8f:
 
-    # m "[damn!c], [player_fl]! Let me see! Who is it? Whoooo?"
-    m "[damn!c], [player_fl]! ¡Déjeme ver! ¿Quién es? ¿Quien?"
+    # m "[damn!c!t], [player_fl]! Let me see! Who is it? Whoooo?"
+    m "[damn!c!t], [player_fl]! ¡Déjeme ver! ¿Quién es? ¿Quien?"
 
 # game/scripts/days/day 5.rpy:372
 translate Paloslios day5_renmorning_221e2c36:
@@ -40687,8 +40687,8 @@ translate Paloslios day5_renmorning_8700dcf7:
 # game/scripts/days/day 5.rpy:444
 translate Paloslios day5_renmorning_2e03e6ce:
 
-    # m "No, no! Ask [them]! I'm having way too much fun with this. Hey, tell me… Does [ch_angel] make you wear Haruko's outfit too?"
-    m "¡No, no! ¡Pregúntale a [them]! Me estoy divirtiendo demasiado con esto. Oye, dime… ¿[ch_angel] te obliga a usar el traje de Haruko también?"
+    # m "No, no! Ask [them!t]! I'm having way too much fun with this. Hey, tell me… Does [ch_angel] make you wear Haruko's outfit too?"
+    m "¡No, no! ¡Pregúntale a [them!t]! Me estoy divirtiendo demasiado con esto. Oye, dime… ¿[ch_angel] te obliga a usar el traje de Haruko también?"
 
 # game/scripts/days/day 5.rpy:446
 translate Paloslios day5_renmorning_c1397815:
@@ -40705,8 +40705,8 @@ translate Paloslios day5_renmorning_2b36c02e:
 # game/scripts/days/day 5.rpy:450
 translate Paloslios day5_renmorning_1171f5f5:
 
-    # r "N-N-No! I just—Well, if [they] asked, I'm sure I wouldn't say no, and—"
-    r "¡N-N-No! Yo solo... Bueno, si [they] me preguntara, estoy seguro de que no diría que no, y..."
+    # r "N-N-No! I just—Well, if [they!t] asked, I'm sure I wouldn't say no, and—"
+    r "¡N-N-No! Yo solo... Bueno, si [they!t] me preguntara, estoy seguro de que no diría que no, y..."
 
 # game/scripts/days/day 5.rpy:451
 translate Paloslios day5_renmorning_bb6e97da:
@@ -40735,8 +40735,8 @@ translate Paloslios day5_renmorning_398badb3:
 # game/scripts/days/day 5.rpy:458
 translate Paloslios day5_renmorning_59b5fe02:
 
-    # m "…[damn!c], that {i}does{/i} sound like me. Whoops!"
-    m "…[damn!c], ese {i}sí{/i} suena como yo. ¡Vaya!"
+    # m "…[damn!c!t], that {i}does{/i} sound like me. Whoops!"
+    m "…[damn!c!t], ese {i}sí{/i} suena como yo. ¡Vaya!"
 
 # game/scripts/days/day 5.rpy:460
 translate Paloslios day5_renmorning_ba817fe7:
@@ -40771,8 +40771,8 @@ translate Paloslios day5_renmorning_3b71df25:
 # game/scripts/days/day 5.rpy:468
 translate Paloslios day5_renmorning_e837285c:
 
-    # m "…I did? Weird. Maybe I'm remembering things differently again… [damn!c]."
-    m "…¿Hice? Extraño. Tal vez estoy recordando las cosas de manera diferente otra vez... [damn!c]."
+    # m "…I did? Weird. Maybe I'm remembering things differently again… [damn!c!t]."
+    m "…¿Hice? Extraño. Tal vez estoy recordando las cosas de manera diferente otra vez... [damn!c!t]."
 
 # game/scripts/days/day 5.rpy:470
 translate Paloslios day5_renmorning_a50910a3:
@@ -41155,8 +41155,8 @@ translate Paloslios day5_ferryscene_6ae5f036:
 # game/scripts/days/day 5.rpy:617
 translate Paloslios day5_ferryscene_e97b5ad1:
 
-    # m "Do I need to? Everything I need is riiiiight here in front of me, and—[shit!c]. Did I say that out loud?"
-    m "¿Necesito hacerlo? Todo lo que necesito está justo aquí frente a mí, y—[shit!c]. ¿Dije eso en voz alta?"
+    # m "Do I need to? Everything I need is riiiiight here in front of me, and—[shit!c!t]. Did I say that out loud?"
+    m "¿Necesito hacerlo? Todo lo que necesito está justo aquí frente a mí, y—[shit!c!t]. ¿Dije eso en voz alta?"
 
 # game/scripts/days/day 5.rpy:619
 translate Paloslios day5_ferryscene_213e46bd:
@@ -41179,8 +41179,8 @@ translate Paloslios day5_ferryscene_29af1ff8:
 # game/scripts/days/day 5.rpy:625
 translate Paloslios day5_ferryscene_a8e7045b:
 
-    # m "[shit!c]. Did I say that out loud?"
-    m "[shit!c]. ¿Dije eso en voz alta?"
+    # m "[shit!c!t]. Did I say that out loud?"
+    m "[shit!c!t]. ¿Dije eso en voz alta?"
 
 # game/scripts/days/day 5.rpy:627
 translate Paloslios day5_ferryscene_3eea8c8e:
@@ -41293,8 +41293,8 @@ translate Paloslios day5_ferryscene_679214f2:
 # game/scripts/days/day 5.rpy:658
 translate Paloslios day5_ferryscene_19573ddf:
 
-    # m "Oh? [shit!c], sorry, [player_fl]! My bad. But hey, if you've got the time, why don't we all watch it together later?"
-    m "¿Oh? [shit!c], lo siento, [player_fl]! Culpa mía. Pero bueno, si tienes tiempo, ¿por qué no lo vemos todos juntos más tarde?"
+    # m "Oh? [shit!c!t], sorry, [player_fl]! My bad. But hey, if you've got the time, why don't we all watch it together later?"
+    m "¿Oh? [shit!c!t], lo siento, [player_fl]! Culpa mía. Pero bueno, si tienes tiempo, ¿por qué no lo vemos todos juntos más tarde?"
 
 # game/scripts/days/day 5.rpy:660
 translate Paloslios day5_ferryscene_0a324d81:
@@ -41503,8 +41503,8 @@ translate Paloslios day5_teoalive_12b88065:
 # game/scripts/days/day 5.rpy:733
 translate Paloslios day5_teoalive_0a9ca0a0:
 
-    # m "Oh! It's… Um… Nice? N-Not too shabby! But [damn], it's really close to the beach, huh? I bet you'd get a good view of the ocean from up there."
-    m "¡Oh! Es... Um... ¿Agradable? N-¡No está nada mal! Pero [damn], está muy cerca de la playa, ¿eh? Apuesto a que desde ahí arriba tendrías una buena vista del océano."
+    # m "Oh! It's… Um… Nice? N-Not too shabby! But [damn!t], it's really close to the beach, huh? I bet you'd get a good view of the ocean from up there."
+    m "¡Oh! Es... Um... ¿Agradable? N-¡No está nada mal! Pero [damn!t], está muy cerca de la playa, ¿eh? Apuesto a que desde ahí arriba tendrías una buena vista del océano."
 
 # game/scripts/days/day 5.rpy:734
 translate Paloslios day5_teoalive_273166dc:
@@ -41533,8 +41533,8 @@ translate Paloslios day5_teoalive_46c72024:
 # game/scripts/days/day 5.rpy:745
 translate Paloslios day5_teoalive_0afed985:
 
-    # j "Aw, [shit], sorry! So it's [ch_ren], huh?"
-    j "¡Ay, [shit], lo siento! Entonces es [ch_ren], ¿eh?"
+    # j "Aw, [shit!t], sorry! So it's [ch_ren], huh?"
+    j "¡Ay, [shit!t], lo siento! Entonces es [ch_ren], ¿eh?"
 
 # game/scripts/days/day 5.rpy:747
 translate Paloslios day5_teoalive_4e924351:
@@ -42517,8 +42517,8 @@ translate Paloslios day5_covescene_4167cf7a:
 # game/scripts/days/day 5.rpy:1139
 translate Paloslios day5_covescene_a039bac1:
 
-    # n "[shit!c], what exactly are you doing right now, [ch_angel]? I shouldn't be reading through someone else's private notifications like this. And yet…"
-    n "[shit!c], ¿qué estás haciendo exactamente ahora mismo, [ch_angel]? No debería leer las notificaciones privadas de otra persona de esta manera. Y sin embargo…"
+    # n "[shit!c!t], what exactly are you doing right now, [ch_angel]? I shouldn't be reading through someone else's private notifications like this. And yet…"
+    n "[shit!c!t], ¿qué estás haciendo exactamente ahora mismo, [ch_angel]? No debería leer las notificaciones privadas de otra persona de esta manera. Y sin embargo…"
 
 # game/scripts/days/day 5.rpy:1140
 translate Paloslios day5_covescene_981a8d8c:
@@ -42787,8 +42787,8 @@ translate Paloslios day5_streetscene_5972c726:
 # game/scripts/days/day 5.rpy:1288
 translate Paloslios day5_streetscene_c0385edc:
 
-    # m "I mean, c'moooon. How hard is it to look where you're going? That dude's a grade A [asshole]! {i}No{/i}… They're the S tier of [asshole]s!"
-    m "Quiero decir, vamos. ¿Qué tan difícil es mirar hacia dónde vas? ¡Ese tipo es de grado A [asshole]! {i}No{/i}… ¡Son el nivel S de [asshole]s!"
+    # m "I mean, c'moooon. How hard is it to look where you're going? That dude's a grade A [asshole!t]! {i}No{/i}… They're the S tier of [asshole!t]s!"
+    m "Quiero decir, vamos. ¿Qué tan difícil es mirar hacia dónde vas? ¡Ese tipo es de grado A [asshole!t]! {i}No{/i}… ¡Son el nivel S de [asshole!t]s!"
 
 # game/scripts/days/day 5.rpy:1289
 translate Paloslios day5_streetscene_5f6cdb32:
@@ -42865,8 +42865,8 @@ translate Paloslios day5_streetscene_cae7bf6f:
 # game/scripts/days/day 5.rpy:1325
 translate Paloslios day5_streetscene_1729a27b:
 
-    # n "What the? This [asshole] {b}really{/b} tried to push me into oncoming traffic and walked off as if nothing had happened?! Wait…"
-    n "¿Qué? ¡¿Este [asshole]{b}realmente{/b} intentó empujarme hacia el tráfico que venía en sentido contrario y se alejó como si nada hubiera pasado? Espera..."
+    # n "What the? This [asshole!t] {b}really{/b} tried to push me into oncoming traffic and walked off as if nothing had happened?! Wait…"
+    n "¿Qué? ¡¿Este [asshole!t]{b}realmente{/b} intentó empujarme hacia el tráfico que venía en sentido contrario y se alejó como si nada hubiera pasado? Espera..."
 
 # game/scripts/days/day 5.rpy:1326
 translate Paloslios day5_streetscene_49a7f352:
@@ -43069,8 +43069,8 @@ translate Paloslios day5_streetscene_d4fe95ea:
 # game/scripts/days/day 5.rpy:1394
 translate Paloslios day5_streetscene_50a4fd27:
 
-    # n "Purely on the happenstance of that [asshole] being my stalker, I'm sure they wouldn't have the guts to try anything while I still had company over."
-    n "Simplemente por la casualidad de que ese [asshole] sea mi acosador, estoy seguro de que no tendrían las agallas para intentar nada mientras yo todavía tuviera compañía."
+    # n "Purely on the happenstance of that [asshole!t] being my stalker, I'm sure they wouldn't have the guts to try anything while I still had company over."
+    n "Simplemente por la casualidad de que ese [asshole!t] sea mi acosador, estoy seguro de que no tendrían las agallas para intentar nada mientras yo todavía tuviera compañía."
 
 # game/scripts/days/day 5.rpy:1395
 translate Paloslios day5_streetscene_5cf2836c:
@@ -43585,8 +43585,8 @@ translate Paloslios day5_streetscenealt_12ff2017:
 # game/scripts/days/day 5.rpy:1604
 translate Paloslios day5_streetscenealt_740869f0:
 
-    # y "[shit!c]—! Are they… dead? This can't be real…"
-    y "[shit!c]—! ¿Están… muertos? Esto no puede ser real..."
+    # y "[shit!c!t]—! Are they… dead? This can't be real…"
+    y "[shit!c!t]—! ¿Están… muertos? Esto no puede ser real..."
 
 # game/scripts/days/day 5.rpy:1605
 translate Paloslios day5_streetscenealt_ae81b672:
@@ -43999,8 +43999,8 @@ translate Paloslios day5_angelapartmentbranch_e1da9e59:
 # game/scripts/days/day 5.rpy:1756
 translate Paloslios day5_angelapartmentbranch_e94fb9ee:
 
-    # m "That's a load of bull[shit] to get you to spend more! Here, let me see."
-    m "¡Eso es un montón de tonterías[shit] para que gastes más! Aquí, déjame ver."
+    # m "That's a load of bull[shit!t] to get you to spend more! Here, let me see."
+    m "¡Eso es un montón de tonterías[shit!t] para que gastes más! Aquí, déjame ver."
 
 # game/scripts/days/day 5.rpy:1757
 translate Paloslios day5_angelapartmentbranch_e5ccfb3c:
@@ -44035,8 +44035,8 @@ translate Paloslios day5_angelapartmentbranch_d70b60f7:
 # game/scripts/days/day 5.rpy:1773
 translate Paloslios day5_angelapartmentbranch_5ca6a12f:
 
-    # m "{size=-6}Now that [player_fl] is gone, did [they] ever ask you to wear Haruko's cooking outfit?{/size}"
-    m "{size=-6}Ahora que [player_fl] se ha ido, ¿[they] alguna vez te pidió que usaras el traje de cocina de Haruko?{/size}"
+    # m "{size=-6}Now that [player_fl] is gone, did [they!t] ever ask you to wear Haruko's cooking outfit?{/size}"
+    m "{size=-6}Ahora que [player_fl] se ha ido, ¿[they!t] alguna vez te pidió que usaras el traje de cocina de Haruko?{/size}"
 
 # game/scripts/days/day 5.rpy:1774
 translate Paloslios day5_angelapartmentbranch_19682e35:
@@ -44053,8 +44053,8 @@ translate Paloslios day5_angelapartmentbranch_6117309d:
 # game/scripts/days/day 5.rpy:1780
 translate Paloslios day5_angelapartmentbranch_5590afab:
 
-    # r "S-See? You shouldn't have made [them] choose. It's okay, we can just… we'll continue without any sugar."
-    r "¿Ves? No deberías haber hecho que [them] eligiera. Está bien, podemos simplemente… continuaremos sin azúcar."
+    # r "S-See? You shouldn't have made [them!t] choose. It's okay, we can just… we'll continue without any sugar."
+    r "¿Ves? No deberías haber hecho que [them!t] eligiera. Está bien, podemos simplemente… continuaremos sin azúcar."
 
 # game/scripts/days/day 5.rpy:1782
 translate Paloslios day5_angelapartmentbranch_34fcf2d1:
@@ -44227,8 +44227,8 @@ translate Paloslios day5_angelcooking_da922473:
 # game/scripts/days/day 5.rpy:1857
 translate Paloslios day5_angelcooking_22055986:
 
-    # r "Huh? Ah—[shit!c]! I didn't notice."
-    r "¿Eh? ¡Ah—[shit!c]! No me di cuenta."
+    # r "Huh? Ah—[shit!c!t]! I didn't notice."
+    r "¿Eh? ¡Ah—[shit!c!t]! No me di cuenta."
 
 # game/scripts/days/day 5.rpy:1858
 translate Paloslios day5_angelcooking_d171259f:
@@ -45535,8 +45535,8 @@ translate Paloslios day5_branchingdeadend_369d54c1:
 # game/scripts/days/day 5.rpy:2354
 translate Paloslios day5_branchingdeadend_ea4d500b:
 
-    # n "[shit!c]. What {b}was{/b} that?"
-    n "[shit!c]. ¿Qué {b}fue{/b} eso?"
+    # n "[shit!c!t]. What {b}was{/b} that?"
+    n "[shit!c!t]. ¿Qué {b}fue{/b} eso?"
 
 # game/scripts/days/day 5.rpy:2355
 translate Paloslios day5_branchingdeadend_cff694b5:
@@ -45553,8 +45553,8 @@ translate Paloslios day5_branchingdeadend_a42bfc81:
 # game/scripts/days/day 5.rpy:2358
 translate Paloslios day5_branchingdeadend_106bed0a:
 
-    # n "[shit!c]. What the fuck. What the actual fuck."
-    n "[shit!c]. Que carajo. Qué carajo."
+    # n "[shit!c!t]. What the fuck. What the actual fuck."
+    n "[shit!c!t]. Que carajo. Qué carajo."
 
 # game/scripts/days/day 5.rpy:2363
 translate Paloslios day5_branchingdeadend_a5ce7539:
@@ -45571,8 +45571,8 @@ translate Paloslios day5_branchingdeadend_f20321ec:
 # game/scripts/days/day 5.rpy:2365
 translate Paloslios day5_branchingdeadend_bb7c01df:
 
-    # y "[shit!c]. [shit!c], [shit], [shit]!"
-    y "[shit!c]. [shit!c], [shit], [shit]!"
+    # y "[shit!c!t]. [shit!c!t], [shit!t], [shit!t]!"
+    y "[shit!c!t]. [shit!c!t], [shit!t], [shit!t]!"
 
 # game/scripts/days/day 5.rpy:2366
 translate Paloslios day5_branchingdeadend_9eba21d0:
@@ -45601,8 +45601,8 @@ translate Paloslios day5_branchingdeadend_768fcfdc:
 # game/scripts/days/day 5.rpy:2370
 translate Paloslios day5_branchingdeadend_0d966c4f:
 
-    # n "My body betrays me as it stays rooted in place, and all I can do is lay as still as a statue and hope that this is all some kind of [fucked] up nightmare."
-    n "Mi cuerpo me traiciona mientras permanece arraigado en su lugar, y todo lo que puedo hacer es quedarme quieto como una estatua y esperar que todo esto sea una especie de [fucked] pesadilla."
+    # n "My body betrays me as it stays rooted in place, and all I can do is lay as still as a statue and hope that this is all some kind of [fucked!t] up nightmare."
+    n "Mi cuerpo me traiciona mientras permanece arraigado en su lugar, y todo lo que puedo hacer es quedarme quieto como una estatua y esperar que todo esto sea una especie de [fucked!t] pesadilla."
 
 # game/scripts/days/day 5.rpy:2371
 translate Paloslios day5_branchingdeadend_5f87332f:
@@ -45613,8 +45613,8 @@ translate Paloslios day5_branchingdeadend_5f87332f:
 # game/scripts/days/day 5.rpy:2372
 translate Paloslios day5_branchingdeadend_9f477fdc:
 
-    # n "[shit!c]! If only I'd asked him to stay…"
-    n "[shit!c]! Si tan solo le hubiera pedido que se quedara..."
+    # n "[shit!c!t]! If only I'd asked him to stay…"
+    n "[shit!c!t]! Si tan solo le hubiera pedido que se quedara..."
 
 # game/scripts/days/day 5.rpy:2373
 translate Paloslios day5_branchingdeadend_59b203a3:
@@ -45691,8 +45691,8 @@ translate Paloslios day5_branchingdeadend_a9312b74:
 # game/scripts/days/day 5.rpy:2415
 translate Paloslios day5_branchingdeadend_62399003:
 
-    # y "[shit!c]!" with vpunch
-    y "[shit!c]!" with vpunch
+    # y "[shit!c!t]!" with vpunch
+    y "[shit!c!t]!" with vpunch
 
 # game/scripts/days/day 5.rpy:2416
 translate Paloslios day5_branchingdeadend_d05bb7f6:
@@ -45973,8 +45973,8 @@ translate Paloslios day5_renapartmentbranch_44a8dbdb:
 # game/scripts/days/day 5.rpy:2526
 translate Paloslios day5_renapartmentbranch_ebc90b7d:
 
-    # m "[shit!c], sorry. I probably shouldn't be so loud, huh."
-    m "[shit!c], lo siento. Probablemente no debería ser tan ruidoso, ¿eh?"
+    # m "[shit!c!t], sorry. I probably shouldn't be so loud, huh."
+    m "[shit!c!t], lo siento. Probablemente no debería ser tan ruidoso, ¿eh?"
 
 # game/scripts/days/day 5.rpy:2528
 translate Paloslios day5_renapartmentbranch_fd94e6cf:
@@ -46657,8 +46657,8 @@ translate Paloslios day5_rencouch_ee3b534c:
 # game/scripts/days/day 5.rpy:2749
 translate Paloslios day5_rencouch_dc7f0313:
 
-    # m "{size=-6}Oh my god! Look! There's that massive rock arch we saw! [damn!c], they really did take a whole lot of inspiration from Corland Bay.{/size}"
-    m "{size=-6}¡Dios mío! ¡Mirar! ¡Ahí está ese enorme arco de roca que vimos! [damn!c], realmente se inspiraron mucho en Corland Bay.{/size}"
+    # m "{size=-6}Oh my god! Look! There's that massive rock arch we saw! [damn!c!t], they really did take a whole lot of inspiration from Corland Bay.{/size}"
+    m "{size=-6}¡Dios mío! ¡Mirar! ¡Ahí está ese enorme arco de roca que vimos! [damn!c!t], realmente se inspiraron mucho en Corland Bay.{/size}"
 
 # game/scripts/days/day 5.rpy:2750
 translate Paloslios day5_rencouch_287fe019:
@@ -46975,8 +46975,8 @@ translate Paloslios day5_renevening_ad23c1c1:
 # game/scripts/days/day 5.rpy:2852
 translate Paloslios day5_renevening_597baa60:
 
-    # y "[dammit!c]."
-    y "[dammit!c]."
+    # y "[dammit!c!t]."
+    y "[dammit!c!t]."
 
 # game/scripts/days/day 5.rpy:2859
 translate Paloslios day5_renevening_235c9b47:
@@ -47065,8 +47065,8 @@ translate Paloslios day5_renevening_9a4a912b:
 # game/scripts/days/day 5.rpy:2881
 translate Paloslios day5_renevening_27a74119:
 
-    # m "Oh? [damn!c]. Locked."
-    m "¿Oh? [damn!c]. Bloqueado."
+    # m "Oh? [damn!c!t]. Locked."
+    m "¿Oh? [damn!c!t]. Bloqueado."
 
 # game/scripts/days/day 5.rpy:2882
 translate Paloslios day5_renevening_f5f164bd:
@@ -47215,8 +47215,8 @@ translate Paloslios day5_renevening_6412b367:
 # game/scripts/days/day 5.rpy:2929
 translate Paloslios day5_renevening_a7bd010d:
 
-    # n "All of a sudden, [ch_ren] appears from behind one of the dark hallways and scares the living [shit] out of us."
-    n "De repente, [ch_ren] aparece detrás de uno de los pasillos oscuros y nos asusta a los vivos [shit]."
+    # n "All of a sudden, [ch_ren] appears from behind one of the dark hallways and scares the living [shit!t] out of us."
+    n "De repente, [ch_ren] aparece detrás de uno de los pasillos oscuros y nos asusta a los vivos [shit!t]."
 
 # game/scripts/days/day 5.rpy:2931
 translate Paloslios day5_renevening_01eae68b:
@@ -47923,8 +47923,8 @@ translate Paloslios unlockables_b7ddfc1f:
 # game/scripts/misc/unlockables.rpy:93
 translate Paloslios unlockables_20f8d878:
 
-    # centered "{sc=2}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}thank you for watching [player]'s videos\nand taking such good care of [them].{/color}{/size}{/font}{/sc}{fast}{p=3}" with dissolve
-    centered "{sc=2}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}gracias por ver los videos de [player]\ny cuidar tan bien de [them].{/color}{/size}{/font}{/sc}{fast}{p=3}" with dissolve
+    # centered "{sc=2}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}thank you for watching [player]'s videos\nand taking such good care of [them!t].{/color}{/size}{/font}{/sc}{fast}{p=3}" with dissolve
+    centered "{sc=2}{font=fonts/VT323-Regular.ttf}{size=+30}{color=#FF66CB}gracias por ver los videos de [player]\ny cuidar tan bien de [them!t].{/color}{/size}{/font}{/sc}{fast}{p=3}" with dissolve
 
 # game/scripts/misc/unlockables.rpy:94
 translate Paloslios unlockables_d0997318:
